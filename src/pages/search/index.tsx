@@ -4,16 +4,19 @@ import { useSpring, animated } from '@react-spring/web';
 import SearchInput from "../../components/SearchInput/SearchInput";
 import { Typography } from "@mui/material";
 import ProgramList from "./components/ProgramList";
+import { useSelector } from "react-redux";
+import { RootState } from "../../services/store";
 
 
 
 
 const IndexPage: React.FC<PageProps> = ({ location }) => {
-
+    const user = useSelector((state: RootState) => state.userReducer)
 
     React.useEffect(() => {
         const params = new URLSearchParams(location.search);
         console.log("!!!", params.get("asd"));
+        console.log("redux", user.value);
     });
 
     const fadeAndSlide = useSpring({

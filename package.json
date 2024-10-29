@@ -23,6 +23,7 @@
     "@mui/material": "^6.1.5",
     "@mui/styled-engine-sc": "^6.1.5",
     "@react-spring/web": "^9.7.5",
+    "@reduxjs/toolkit": "^2.3.0",
     "autoprefixer": "^10.4.20",
     "gatsby": "^5.13.7",
     "gatsby-plugin-google-gtag": "^5.13.1",
@@ -37,6 +38,7 @@
     "postcss": "^8.4.47",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-redux": "^9.1.2",
     "styled-components": "^6.1.13",
     "tailwindcss": "^3.4.14"
   },
