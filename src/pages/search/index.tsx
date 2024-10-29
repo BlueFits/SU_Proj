@@ -1,8 +1,9 @@
 import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
 import { useSpring, animated } from '@react-spring/web';
-import SearchInput from "../components/SearchInput/SearchInput";
+import SearchInput from "../../components/SearchInput/SearchInput";
 import { Typography } from "@mui/material";
+import ProgramList from "./components/ProgramList";
 
 
 
@@ -21,15 +22,17 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
     });
 
     return (
-        <div className="flex items-center py-10 flex-col">
-            <SearchInput />
-
-            <div>
-                <Typography>With an average of</Typography>
-                <Typography>80%</Typography>
+        <div className="flex items-center flex-col px-10 py-10">
+            <div className="w-full flex justify-center">
+                <SearchInput />
             </div>
 
-            <div>
+            <div className="w-full my-10">
+                <Typography variant="body1">With an average of</Typography>
+                <Typography variant="h4">80%</Typography>
+            </div>
+
+            {/* <div>
                 <Typography>Popular</Typography>
 
                 <ul>
@@ -43,22 +46,12 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                         </div>
                     </li>
                 </ul>
-            </div>
+            </div> */}
 
-            <div>
-                <Typography>Programs For You</Typography>
-
+            <div className="w-full">
+                <Typography className="mb-5" variant="h5">Programs For You</Typography>
                 <ul>
-                    <li>
-                        <div>
-                            <Typography>Geophysics (BSc with Specialization)</Typography>
-                            <Typography>University of Alberta</Typography>
-                        </div>
-
-                        <div>
-                            <Typography>80 - 82</Typography>
-                        </div>
-                    </li>
+                    <ProgramList />
                 </ul>
             </div>
         </div>

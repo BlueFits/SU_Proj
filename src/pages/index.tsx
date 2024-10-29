@@ -7,7 +7,9 @@ import SearchInput from "../components/SearchInput/SearchInput";
 const IndexPage: React.FC<PageProps> = () => {
   return (
     <div className="flex justify-center items-center h-screen">
-      <SearchInput />
+      <div className="w-4/5">
+        <SearchInput />
+      </div>
     </div>
   )
 }

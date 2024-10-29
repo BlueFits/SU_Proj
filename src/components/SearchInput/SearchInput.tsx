@@ -24,7 +24,7 @@ const SearchInput = () => {
     }
     
     return (
-        <animated.div style={props} className='p-[10px] rounded-[15px] bg-[#F8F8F8] flex justify-start items-center border-[none] w-4/5'>
+        <animated.div style={props} className='p-[10px] rounded-[15px] bg-[#F8F8F8] flex justify-start items-center border-[none] w-full'>
             <IconButton>
                 <SearchRoundedIcon />
             </IconButton>
