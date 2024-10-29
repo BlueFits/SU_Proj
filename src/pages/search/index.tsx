@@ -16,34 +16,37 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
     const params = new URLSearchParams(location.search);
     const userInputAvg = params.get("avg");
 
+    const fade = useSpring({
+        from: { opacity: 0 },
+        to: { opacity: 1 }
+    });
+
     // React.useEffect(() => {
     //     // console.log("!!!", userInputAvg);
     //     // console.log("!!!", programs.list.map((val) => val));
     // });
 
-    const fadeAndSlide = useSpring({
-        from: { opacity: 0, transform: 'translateY(50px)' }, // Start hidden & below the viewport
-        to: { opacity: 1, transform: 'translateY(0)' }     // Slide into view
-    });
-
     return (
         <div className="flex items-center flex-col px-10 py-10">
-            <div className="w-full flex justify-center">
-                <SearchInput />
-            </div>
+            <animated.div style={fade} className="w-full">
+                <div className="w-full flex justify-center">
+                    <SearchInput disableAnim />
+                </div>
 
-            <div className="w-full my-10">
-                { !userInputAvg ? 
-                    <span>
-                        <Typography variant="body1">Here are some programs for you to explore</Typography>
-                    </span>
-                 :
-                    <span>
-                        <Typography variant="body1">With an average of</Typography>
-                        <Typography variant="h4">{userInputAvg}%</Typography>
-                    </span>
-                }
-            </div>
+                <div className="w-full my-10">
+                    { !userInputAvg ? 
+                        <span>
+                            <Typography variant="body1">Here are some programs for you to explore</Typography>
+                        </span>
+                    :
+                        <span>
+                            <Typography variant="body1">With an average of</Typography>
+                            <Typography variant="h4">{userInputAvg}%</Typography>
+                        </span>
+                    }
+                </div>
+            </animated.div>
+
 
             {/* <div>
                 <Typography>Popular</Typography>
@@ -62,11 +65,13 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
             </div> */}
 
             <div className="w-full">
-                <Typography sx={{ marginBottom: "1.25rem" }} variant="h5">Programs For You</Typography>
+                <animated.span style={fade}>
+                    <Typography sx={{ marginBottom: "1.25rem" }} variant="h5">Programs For You</Typography>
+                </animated.span>
                 <ul>
-                    {programs && programs.list.map((program) => {
+                    {programs && programs.list.map((program, i) => {
                         const grade = Number(program.entranceGrade[0] + program.entranceGrade[1]);
-                        if (grade <= Number(userInputAvg)) return <ProgramList program={program} />
+                        if (grade <= Number(userInputAvg)) return <ProgramList key={`tempIDForList:${i}`} program={program} />
                     })}
                 </ul>
             </div>
