@@ -49,7 +49,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
             </div> */}
 
             <div className="w-full">
-                <Typography className="mb-5" variant="h5">Programs For You</Typography>
+                <Typography sx={{ marginBottom: "1.25rem" }} variant="h5">Programs For You</Typography>
                 <ul>
                     <ProgramList />
                 </ul>
