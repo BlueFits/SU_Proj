@@ -1,4 +1,4 @@
-[
+export default [
   {
     "schoolName": "Huron University College",
     "programName": "Combined Program/Honours Business Administration (Ivey)",

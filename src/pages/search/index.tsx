@@ -11,14 +11,15 @@ import { RootState } from "../../services/store";
 
 
 const IndexPage: React.FC<PageProps> = ({ location }) => {
-    const user = useSelector((state: RootState) => state.userReducer)
+    // const user = useSelector((state: RootState) => state.userReducer)
     const programs = useSelector((state: RootState) => state.programsReducer)
+    const params = new URLSearchParams(location.search);
+    const userInputAvg = params.get("avg");
 
-    React.useEffect(() => {
-        const params = new URLSearchParams(location.search);
-        console.log("!!!", params.get("asd"));
-        console.log("redux",programs.list[0].entranceGrade);
-    });
+    // React.useEffect(() => {
+    //     // console.log("!!!", userInputAvg);
+    //     // console.log("!!!", programs.list.map((val) => val));
+    // });
 
     const fadeAndSlide = useSpring({
         from: { opacity: 0, transform: 'translateY(50px)' }, // Start hidden & below the viewport
@@ -32,8 +33,16 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
             </div>
 
             <div className="w-full my-10">
-                <Typography variant="body1">With an average of</Typography>
-                <Typography variant="h4">80%</Typography>
+                { !userInputAvg ? 
+                    <span>
+                        <Typography variant="body1">Here are some programs for you to explore</Typography>
+                    </span>
+                 :
+                    <span>
+                        <Typography variant="body1">With an average of</Typography>
+                        <Typography variant="h4">{userInputAvg}%</Typography>
+                    </span>
+                }
             </div>
 
             {/* <div>
@@ -55,7 +64,10 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
             <div className="w-full">
                 <Typography sx={{ marginBottom: "1.25rem" }} variant="h5">Programs For You</Typography>
                 <ul>
-                    <ProgramList />
+                    {programs && programs.list.map((program) => {
+                        const grade = Number(program.entranceGrade[0] + program.entranceGrade[1]);
+                        if (grade <= Number(userInputAvg)) return <ProgramList program={program} />
+                    })}
                 </ul>
             </div>
         </div>
