@@ -12,11 +12,12 @@ import { RootState } from "../../services/store";
 
 const IndexPage: React.FC<PageProps> = ({ location }) => {
     const user = useSelector((state: RootState) => state.userReducer)
+    const programs = useSelector((state: RootState) => state.programsReducer)
 
     React.useEffect(() => {
         const params = new URLSearchParams(location.search);
         console.log("!!!", params.get("asd"));
-        console.log("redux", user.value);
+        console.log("redux",programs.list[0].entranceGrade);
     });
 
     const fadeAndSlide = useSpring({
