@@ -11,7 +11,6 @@ import { RootState } from "../../services/store";
 
 
 const IndexPage: React.FC<PageProps> = ({ location }) => {
-    // const user = useSelector((state: RootState) => state.userReducer)
     const programs = useSelector((state: RootState) => state.programsReducer)
     const params = new URLSearchParams(location.search);
     const userInputAvg = params.get("avg");
@@ -20,11 +19,6 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
         from: { opacity: 0 },
         to: { opacity: 1 }
     });
-
-    // React.useEffect(() => {
-    //     // console.log("!!!", userInputAvg);
-    //     // console.log("!!!", programs.list.map((val) => val));
-    // });
 
     return (
         <div className="flex items-center flex-col px-10 py-10">
