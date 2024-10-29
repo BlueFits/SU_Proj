@@ -4,7 +4,7 @@ import { program } from "../../../services/modules/programs/programs.slice";
 import {useSpring, animated} from "@react-spring/web";
 
 interface IProgramList {
-    program: program
+    program: program | null;
 }
 
 const ProgramList: React.FC<IProgramList> = ({ program }) => {
@@ -14,7 +14,7 @@ const ProgramList: React.FC<IProgramList> = ({ program }) => {
         to: { opacity: 1, transform: 'translateY(0)' }     // Slide into view
     });
 
-    return (
+    return program ? (
         <animated.li style={fadeAndSlide} className="last:mb-0 mb-4 border-[1px] border-[solid] border-[#E7E7E7] rounded-[15px] p-5 flex justify-center items-center">
             <div className="flex-[3]">
                 <Typography className="mb-1" variant="body1">{program.programName}</Typography>
@@ -25,7 +25,7 @@ const ProgramList: React.FC<IProgramList> = ({ program }) => {
                 <Typography className="text-[#0D47A1]" variant="body1">{program.entranceGrade}</Typography>
             </div>
         </animated.li>
-    );
+    ) : <></>;
 }
 
 export default ProgramList;
