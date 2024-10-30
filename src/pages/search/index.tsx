@@ -6,25 +6,18 @@ import { Typography } from "@mui/material";
 import ProgramList from "./components/ProgramList";
 import { useSelector } from "react-redux";
 import { RootState } from "../../services/store";
+import { fade, fadeAndSlide } from "../../anims/CustomAnims";
 
 const IndexPage: React.FC<PageProps> = ({ location }) => {
     const programs = useSelector((state: RootState) => state.programsReducer)
+    const fadeSpring = useSpring(fade);
+    const fadeAndSlideSpring = useSpring(fadeAndSlide);
     const params = new URLSearchParams(location.search);
     const userInputAvg = params.get("avg");
 
-    const fade = useSpring({
-        from: { opacity: 0 },
-        to: { opacity: 1 }
-    });
-
-    const fadeAndSlide = useSpring({
-        from: { opacity: 0, transform: 'translateY(100px)' }, // Start hidden & below the viewport
-        to: { opacity: 1, transform: 'translateY(0)' }     // Slide into view
-    });
-
     return (
         <div className="flex items-center flex-col px-10 py-10">
-            <animated.div style={fade} className="w-full">
+            <animated.div style={fadeSpring} className="w-full">
                 <div className="w-full flex justify-center">
                     <SearchInput disableAnim />
                 </div>
@@ -61,10 +54,10 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
             </div> */}
 
             <div className="w-full">
-                <animated.span style={fade}>
+                <animated.span style={fadeSpring}>
                     <Typography sx={{ marginBottom: "1.25rem" }} variant="h5">Programs For You</Typography>
                 </animated.span>
-                <animated.ul style={fadeAndSlide}>
+                <animated.ul style={fadeAndSlideSpring}>
                     {programs && programs.list.map((program, i) => {
                         const grade = Number(program.entranceGrade[0] + program.entranceGrade[1]);
                         if (grade <= Number(userInputAvg)) return <ProgramList key={`tempIDForList:${i}`} program={program} />

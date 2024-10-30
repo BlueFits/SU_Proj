@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
 import SearchRoundedIcon from '@mui/icons-material/SearchRounded';
-import FormControl from '@mui/material/FormControl';
 import IconButton from '@mui/material/IconButton';
 import { animated, useSpring } from '@react-spring/web'
 import { navigate } from "gatsby"
@@ -20,12 +19,12 @@ const SearchInput: React.FC<ISearchInput> = ({
     const nagivationRef = useRef<string | null>(null);
 
     const [props, api] = useSpring(() => ({
-        from: { 
-            opacity: 1,
-        },
-        onRest: () => handleNavigation(),
-    }),
-)
+            from: { 
+                opacity: 1,
+            },
+            onRest: () => handleNavigation(),
+        }),
+    )
 
     useEffect(() => {
         nagivationRef.current = search;
@@ -48,9 +47,6 @@ const SearchInput: React.FC<ISearchInput> = ({
     
     return (
         <animated.div style={props} className='p-[10px] rounded-[15px] bg-[#F8F8F8] flex justify-start items-center border-[none] w-full'>
-            {/* <IconButton onClick={submit}>
-                <SearchRoundedIcon />
-            </IconButton> */}
             <form 
                 action='/search'
                 method='get'
@@ -61,12 +57,9 @@ const SearchInput: React.FC<ISearchInput> = ({
                     submit();
                 }}
             >
-                {/* <IconButton type='submit'> */}
-                <div className='m-2'>
+                <IconButton sx={{ marginRight: 1 }} type='submit'>
                     <SearchRoundedIcon />
-                </div>
-
-                {/* </IconButton> */}
+                </IconButton>
                 <input 
                     onChange={(e) => setSearch(e.target.value)}
                     value={search}
