@@ -14,7 +14,7 @@ const config: GatsbyConfig = {
     /*"gatsby-plugin-google-gtag",*/ 
     "gatsby-plugin-image", 
     "gatsby-plugin-sitemap", 
-    // "gatsby-plugin-layout", 
+    "gatsby-plugin-layout", 
     {
     resolve: 'gatsby-plugin-manifest',
     options: {
