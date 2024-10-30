@@ -23,7 +23,7 @@ const SearchInput: React.FC<ISearchInput> = ({
         from: { 
             opacity: 1,
         },
-        // onRest: () => handleNavigation(),
+        onRest: () => handleNavigation(),
     }),
 )
 
@@ -44,7 +44,7 @@ const SearchInput: React.FC<ISearchInput> = ({
         }
     }
 
-    const handleNavigation = () => navigate(`/search?avgTest=${nagivationRef.current}`);
+    const handleNavigation = () => navigate(`/search?avg=${nagivationRef.current}`);
     
     return (
         <animated.div style={props} className='p-[10px] rounded-[15px] bg-[#F8F8F8] flex justify-start items-center border-[none] w-full'>
@@ -55,18 +55,10 @@ const SearchInput: React.FC<ISearchInput> = ({
                 action='/search'
                 method='get'
                 className='w-full flex justify-center items-center'
-                onSubmit={(e) => {
-                    // e.preventDefault();
+                onSubmit={async (e) => {
+                    e.preventDefault();
                     console.log("submitting");
-                    if (!disableAnim) {
-                        api.start({
-                            to: {
-                              opacity: 0,
-                            },
-                          })
-                    }
-                    return true;
-                    // submit();
+                    submit();
                 }}
             >
                 {/* <IconButton type='submit'> */}
