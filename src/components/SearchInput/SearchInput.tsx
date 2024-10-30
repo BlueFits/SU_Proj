@@ -9,7 +9,13 @@ interface ISearchInput {
     disableAnim?: boolean;
 }
 
-const SearchInput: React.FC<ISearchInput> = ({ disableAnim } = { disableAnim: false }) => {
+const defaultPropVal: ISearchInput = {
+    disableAnim: false,
+};
+
+const SearchInput: React.FC<ISearchInput> = ({ 
+    disableAnim 
+} = defaultPropVal) => {
     const [search, setSearch] = useState<string>("");
     const nagivationRef = useRef<string | null>(null);
 
@@ -45,18 +51,21 @@ const SearchInput: React.FC<ISearchInput> = ({ disableAnim } = { disableAnim: fa
             {/* <IconButton onClick={submit}>
                 <SearchRoundedIcon />
             </IconButton> */}
-            <form onSubmit={(e) => {
-                e.preventDefault();
-                submit();
-            }}>
-            <IconButton type='submit'>
-                <SearchRoundedIcon />
-            </IconButton>
+            <form 
+                className='w-full flex justify-center items-center'
+                onSubmit={(e) => {
+                    e.preventDefault();
+                    submit();
+                }}
+            >
+                <IconButton type='submit'>
+                    <SearchRoundedIcon />
+                </IconButton>
                 <input 
                     onChange={(e) => setSearch(e.target.value)}
                     value={search}
-                    className='bg-[#F8F8F8] outline-none border-[none]' 
-                    type="text" 
+                    className='bg-[#F8F8F8] outline-none border-none w-full' 
+                    type="search" 
                     placeholder='Enter your average' 
                 />
             </form>

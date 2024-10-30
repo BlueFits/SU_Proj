@@ -7,9 +7,6 @@ import ProgramList from "./components/ProgramList";
 import { useSelector } from "react-redux";
 import { RootState } from "../../services/store";
 
-
-
-
 const IndexPage: React.FC<PageProps> = ({ location }) => {
     const programs = useSelector((state: RootState) => state.programsReducer)
     const params = new URLSearchParams(location.search);
