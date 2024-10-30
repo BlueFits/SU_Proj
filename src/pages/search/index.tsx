@@ -17,6 +17,11 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
         to: { opacity: 1 }
     });
 
+    const fadeAndSlide = useSpring({
+        from: { opacity: 0, transform: 'translateY(100px)' }, // Start hidden & below the viewport
+        to: { opacity: 1, transform: 'translateY(0)' }     // Slide into view
+    });
+
     return (
         <div className="flex items-center flex-col px-10 py-10">
             <animated.div style={fade} className="w-full">
@@ -59,12 +64,12 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                 <animated.span style={fade}>
                     <Typography sx={{ marginBottom: "1.25rem" }} variant="h5">Programs For You</Typography>
                 </animated.span>
-                <ul>
+                <animated.ul style={fadeAndSlide}>
                     {programs && programs.list.map((program, i) => {
                         const grade = Number(program.entranceGrade[0] + program.entranceGrade[1]);
                         if (grade <= Number(userInputAvg)) return <ProgramList key={`tempIDForList:${i}`} program={program} />
                     })}
-                </ul>
+                </animated.ul>
             </div>
         </div>
     )

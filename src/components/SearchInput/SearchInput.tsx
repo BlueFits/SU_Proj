@@ -23,7 +23,7 @@ const SearchInput: React.FC<ISearchInput> = ({
         from: { 
             opacity: 1,
         },
-        onRest: () => handleNavigation(),
+        // onRest: () => handleNavigation(),
     }),
 )
 
@@ -44,7 +44,7 @@ const SearchInput: React.FC<ISearchInput> = ({
         }
     }
 
-    const handleNavigation = () => navigate(`/search?avg=${nagivationRef.current}`);
+    const handleNavigation = () => navigate(`/search?avgTest=${nagivationRef.current}`);
     
     return (
         <animated.div style={props} className='p-[10px] rounded-[15px] bg-[#F8F8F8] flex justify-start items-center border-[none] w-full'>
@@ -52,20 +52,35 @@ const SearchInput: React.FC<ISearchInput> = ({
                 <SearchRoundedIcon />
             </IconButton> */}
             <form 
+                action='/search'
+                method='get'
                 className='w-full flex justify-center items-center'
                 onSubmit={(e) => {
-                    e.preventDefault();
-                    submit();
+                    // e.preventDefault();
+                    console.log("submitting");
+                    if (!disableAnim) {
+                        api.start({
+                            to: {
+                              opacity: 0,
+                            },
+                          })
+                    }
+                    return true;
+                    // submit();
                 }}
             >
-                <IconButton type='submit'>
+                {/* <IconButton type='submit'> */}
+                <div className='m-2'>
                     <SearchRoundedIcon />
-                </IconButton>
+                </div>
+
+                {/* </IconButton> */}
                 <input 
                     onChange={(e) => setSearch(e.target.value)}
                     value={search}
+                    name='avg'
                     className='bg-[#F8F8F8] outline-none border-none w-full' 
-                    type="search" 
+                    type="text" 
                     placeholder='Enter your average' 
                 />
             </form>

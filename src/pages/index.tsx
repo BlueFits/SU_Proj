@@ -11,7 +11,7 @@ const IndexPage: React.FC<PageProps> = () => {
       <div className="w-4/5">
         <SearchInput />
       </div>
-      <Typography className="mt-5 text-[gray]" variant="caption">SU v1.0.0</Typography>
+      <Typography marginTop={2} color="textDisabled" variant="caption">SU v1.0.0</Typography>
     </div>
   )
 }
