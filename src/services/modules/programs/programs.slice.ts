@@ -1,6 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit'
 import type { PayloadAction } from '@reduxjs/toolkit'
-import data from "../../../data/result-OLD";
+import data from "../../../data/result";
 
 export type program = {
     schoolName: string;
