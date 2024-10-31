@@ -1,22 +1,22 @@
 import { createSlice } from '@reduxjs/toolkit'
 import type { PayloadAction } from '@reduxjs/toolkit'
-import data from "../../../data/result";
+import data from "../../../data/index";
 
 export type program = {
-    schoolName: string;
-    programName: string,
-    programLink: string,
-    entranceGrade: string,
-    tutionValue: string,
-    length: string,
+  schoolName: string;
+  programName: string,
+  programLink: string,
+  entranceGrade: string,
+  tutionValue: string,
+  length: string,
 };
 
 export interface CounterState {
-    list: Array<program>;
+  list: Array<program>;
 }
 
 const initialState: CounterState = {
-    list: data,
+  list: data,
 }
 
 export const programsSlice = createSlice({
@@ -24,7 +24,7 @@ export const programsSlice = createSlice({
   initialState,
   reducers: {
     increment: (state) => {
-    //   state.programs
+      //   state.programs
     },
   },
 })
