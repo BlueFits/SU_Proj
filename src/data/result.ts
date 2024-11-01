@@ -9291,7 +9291,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Microbiology",
-    "programLink": "/Programs/13502/University-of-Manitoba-Faculty-of-Graduate-Studies/Microbiology",
+    "programLink": "https://www.studyincanada.com/Programs/13502/University-of-Manitoba-Faculty-of-Graduate-Studies/Microbiology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -9300,7 +9300,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Microbiology",
-    "programLink": "/Programs/13498/University-of-Manitoba/Microbiology",
+    "programLink": "https://www.studyincanada.com/Programs/13498/University-of-Manitoba/Microbiology",
     "entranceGrade": "85 - 85",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -9309,7 +9309,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/4293/McMaster-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/4293/McMaster-University/Biochemistry",
     "entranceGrade": "80 - 86",
     "tutionValue": "$48,996",
     "length": "4 Year(s)"
@@ -9318,7 +9318,7 @@ export default [
     "schoolName": "MacEwan University",
     "location": "Canada, Alberta",
     "programName": "Biological Sciences",
-    "programLink": "/Programs/109497/MacEwan-University/Biological-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/109497/MacEwan-University/Biological-Sciences",
     "entranceGrade": "67 - 76",
     "tutionValue": "$24,378",
     "length": "4 Year(s)"
@@ -9327,7 +9327,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Biology (B.Sc.) - Biodiversity and Ecology",
-    "programLink": "/Programs/70745/Bishop-s-University/Biology-(B.Sc.)-Biodiversity-and-Ecology",
+    "programLink": "https://www.studyincanada.com/Programs/70745/Bishop-s-University/Biology-(B.Sc.)-Biodiversity-and-Ecology",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -9345,7 +9345,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/77534/The-University-of-British-Columbia-Vancouver/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/77534/The-University-of-British-Columbia-Vancouver/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -9354,7 +9354,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Biology",
-    "programLink": "/Programs/33472/Saint-Mary-s-University/Biology",
+    "programLink": "https://www.studyincanada.com/Programs/33472/Saint-Mary-s-University/Biology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$22,060",
     "length": "4 Year(s)"
@@ -9363,7 +9363,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Biology",
-    "programLink": "/Programs/2485/Lakehead-University-Thunder-Bay/Biology",
+    "programLink": "https://www.studyincanada.com/Programs/2485/Lakehead-University-Thunder-Bay/Biology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -9507,7 +9507,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Molecular Biology - Specialization in Health Sc...",
-    "programLink": "/Programs/105836/Trent-University/Biochemistry-and-Molecular-Biology-Specialization-in-Health-Sc...",
+    "programLink": "https://www.studyincanada.com/Programs/105836/Trent-University/Biochemistry-and-Molecular-Biology-Specialization-in-Health-Sc...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -9516,7 +9516,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/78460/University-of-Northern-British-Columbia/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/78460/University-of-Northern-British-Columbia/Chemistry",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -9525,7 +9525,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry and Molecular Biology",
-    "programLink": "/Programs/29898/The-University-of-British-Columbia-Okanagan/Biochemistry-and-Molecular-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/29898/The-University-of-British-Columbia-Okanagan/Biochemistry-and-Molecular-Biology",
     "entranceGrade": "67",
     "tutionValue": "$42,396",
     "length": "4 Year(s)"
@@ -9534,7 +9534,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Biochemistry/Physics (BSc)",
-    "programLink": "/Programs/81219/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/81219/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Physics-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -9543,7 +9543,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Biochemistry/Behavioural Neuroscience (BSc)",
-    "programLink": "/Programs/106435/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Behavioural-Neuroscience-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/106435/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Behavioural-Neuroscience-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -9552,7 +9552,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/12326/University-of-Victoria/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/12326/University-of-Victoria/Biochemistry",
     "entranceGrade": "80 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -9561,7 +9561,7 @@ export default [
     "schoolName": "Seneca Polytechnic",
     "location": "Canada, Ontario",
     "programName": "Chemical Laboratory Technician",
-    "programLink": "/Programs/4914/Seneca-Polytechnic/Chemical-Laboratory-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/4914/Seneca-Polytechnic/Chemical-Laboratory-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$16,738",
     "length": "2 Year(s)"
@@ -9570,7 +9570,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry (Three-Year)",
-    "programLink": "/Programs/27077/The-University-of-Winnipeg/Biochemistry-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/27077/The-University-of-Winnipeg/Biochemistry-(Three-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "3 Year(s)"
@@ -9579,7 +9579,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/77532/The-University-of-British-Columbia-Vancouver/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/77532/The-University-of-British-Columbia-Vancouver/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -9588,7 +9588,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Liberal Program in Biochemistry",
-    "programLink": "/Programs/65657/McGill-University/Liberal-Program-in-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/65657/McGill-University/Liberal-Program-in-Biochemistry",
     "entranceGrade": "95",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -9597,7 +9597,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Biology (B.Sc. Double Honours) with Biochemistry",
-    "programLink": "/Programs/69474/University-of-Saskatchewan/Biology-(B.Sc.-Double-Honours)-with-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/69474/University-of-Saskatchewan/Biology-(B.Sc.-Double-Honours)-with-Biochemistry",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -9606,7 +9606,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (Biotechnology) and Chemical Engineering (Biotechno...",
-    "programLink": "/Programs/96557/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-(Biotechnology)-and-Chemical-Engineering-(Biotechno...",
+    "programLink": "https://www.studyincanada.com/Programs/96557/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-(Biotechnology)-and-Chemical-Engineering-(Biotechno...",
     "entranceGrade": "80 - 82",
     "tutionValue": "$52,707",
     "length": "6 Year(s)"
@@ -9615,7 +9615,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry and Molecular Biology",
-    "programLink": "/Programs/78459/University-of-Northern-British-Columbia/Biochemistry-and-Molecular-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/78459/University-of-Northern-British-Columbia/Biochemistry-and-Molecular-Biology",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -9624,7 +9624,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/77534/The-University-of-British-Columbia-Vancouver/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/77534/The-University-of-British-Columbia-Vancouver/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -9642,7 +9642,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry",
-    "programLink": "/Programs/59938/University-of-Manitoba/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/59938/University-of-Manitoba/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$19,800",
     "length": "5 Year(s)"
@@ -9651,7 +9651,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (Biomedical Research Specialization)",
-    "programLink": "/Programs/81641/McMaster-University/Biochemistry-(Biomedical-Research-Specialization)",
+    "programLink": "https://www.studyincanada.com/Programs/81641/McMaster-University/Biochemistry-(Biomedical-Research-Specialization)",
     "entranceGrade": "80 - 86",
     "tutionValue": "$48,996",
     "length": "5 Year(s)"
@@ -9660,7 +9660,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (HBSc)",
-    "programLink": "/Programs/4788/Laurentian-University/Universite-Laurentienne/Biochemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/4788/Laurentian-University/Universite-Laurentienne/Biochemistry-(HBSc)",
     "entranceGrade": "70",
     "tutionValue": "$25,745",
     "length": "4 Year(s)"
@@ -9669,7 +9669,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry",
-    "programLink": "/Programs/37367/University-of-Manitoba/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/37367/University-of-Manitoba/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -9678,7 +9678,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (BSc)",
-    "programLink": "/Programs/100105/Laurentian-University/Universite-Laurentienne/Biochemistry-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/100105/Laurentian-University/Universite-Laurentienne/Biochemistry-(BSc)",
     "entranceGrade": "70",
     "tutionValue": "$25,745",
     "length": "4 Year(s)"
@@ -9687,7 +9687,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry and Medical Genetics (PhD)",
-    "programLink": "/Programs/111601/University-of-Manitoba-Faculty-of-Graduate-Studies/Biochemistry-and-Medical-Genetics-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/111601/University-of-Manitoba-Faculty-of-Graduate-Studies/Biochemistry-and-Medical-Genetics-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -9696,7 +9696,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (Biomedical Research Specialization)",
-    "programLink": "/Programs/81640/McMaster-University/Biochemistry-(Biomedical-Research-Specialization)",
+    "programLink": "https://www.studyincanada.com/Programs/81640/McMaster-University/Biochemistry-(Biomedical-Research-Specialization)",
     "entranceGrade": "80 - 86",
     "tutionValue": "$48,996",
     "length": "4 Year(s)"
@@ -9705,7 +9705,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry and Medical Genetics (MSc)",
-    "programLink": "/Programs/111600/University-of-Manitoba-Faculty-of-Graduate-Studies/Biochemistry-and-Medical-Genetics-(MSc)",
+    "programLink": "https://www.studyincanada.com/Programs/111600/University-of-Manitoba-Faculty-of-Graduate-Studies/Biochemistry-and-Medical-Genetics-(MSc)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -9714,7 +9714,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Biochemistry",
-    "programLink": "/Programs/6998/University-of-Regina/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/6998/University-of-Regina/Biochemistry",
     "entranceGrade": "70 - 100",
     "tutionValue": "$12,049",
     "length": "4 Year(s)"
@@ -9723,7 +9723,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Biochemistry/Chemistry (BSc)",
-    "programLink": "/Programs/81181/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Chemistry-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/81181/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Chemistry-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -9732,7 +9732,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa - Faculty of Medicine",
     "location": "Canada, Ontario",
     "programName": "MD / PhD - Medicine and Philosophy",
-    "programLink": "/Programs/28880/University-of-Ottawa/Universit%c3%a9-d-Ottawa-Faculty-of-Medicine/MD-/-PhD-Medicine-and-Philosophy",
+    "programLink": "https://www.studyincanada.com/Programs/28880/University-of-Ottawa/Universit%c3%a9-d-Ottawa-Faculty-of-Medicine/MD-/-PhD-Medicine-and-Philosophy",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "7 Year(s)"
@@ -9741,7 +9741,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Bioinformatics (B.Sc. Four-year)",
-    "programLink": "/Programs/27128/University-of-Saskatchewan/Bioinformatics-(B.Sc.-Four-year)",
+    "programLink": "https://www.studyincanada.com/Programs/27128/University-of-Saskatchewan/Bioinformatics-(B.Sc.-Four-year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -9750,7 +9750,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Biochemistry",
-    "programLink": "/Programs/55655/Bishop-s-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/55655/Bishop-s-University/Biochemistry",
     "entranceGrade": "75",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -9759,7 +9759,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Biochemistry, Microbiology and Immunology [B.Sc. (BMSC) Four-yea...",
-    "programLink": "/Programs/106125/University-of-Saskatchewan/Biochemistry,-Microbiology-and-Immunology-[B.Sc.-(BMSC)-Four-yea...",
+    "programLink": "https://www.studyincanada.com/Programs/106125/University-of-Saskatchewan/Biochemistry,-Microbiology-and-Immunology-[B.Sc.-(BMSC)-Four-yea...",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -9777,7 +9777,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Molecular Biology - Specialization in Conservat...",
-    "programLink": "/Programs/105838/Trent-University/Biochemistry-and-Molecular-Biology-Specialization-in-Conservat...",
+    "programLink": "https://www.studyincanada.com/Programs/105838/Trent-University/Biochemistry-and-Molecular-Biology-Specialization-in-Conservat...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -9786,7 +9786,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/4293/McMaster-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/4293/McMaster-University/Biochemistry",
     "entranceGrade": "80 - 86",
     "tutionValue": "$48,996",
     "length": "4 Year(s)"
@@ -9795,7 +9795,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Molecular Biology (B.Sc.)",
-    "programLink": "/Programs/103/Trent-University/Biochemistry-and-Molecular-Biology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/103/Trent-University/Biochemistry-and-Molecular-Biology-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -9804,7 +9804,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (Biotechnology) and Chemical Engineering (Biotechno...",
-    "programLink": "/Programs/59181/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-(Biotechnology)-and-Chemical-Engineering-(Biotechno...",
+    "programLink": "https://www.studyincanada.com/Programs/59181/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-(Biotechnology)-and-Chemical-Engineering-(Biotechno...",
     "entranceGrade": "80 - 82",
     "tutionValue": "$52,707",
     "length": "5 Year(s)"
@@ -9813,7 +9813,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Biological Chemistry (HBSc)",
-    "programLink": "/Programs/101912/University-of-Toronto-Scarborough/Biological-Chemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/101912/University-of-Toronto-Scarborough/Biological-Chemistry-(HBSc)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -9822,7 +9822,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry with Option in Chemical Biology",
-    "programLink": "/Programs/87301/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Chemical-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/87301/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Chemical-Biology",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -9831,7 +9831,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Genetics and Biochemistry",
-    "programLink": "/Programs/32028/Western-University/Genetics-and-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/32028/Western-University/Genetics-and-Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -9840,7 +9840,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Biochemistry",
-    "programLink": "/Programs/99373/University-of-Calgary/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/99373/University-of-Calgary/Biochemistry",
     "entranceGrade": "90",
     "tutionValue": "$25,530",
     "length": "4 Year(s)"
@@ -9849,7 +9849,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Pathology of Human Disease",
-    "programLink": "/Programs/85086/Western-University/Biochemistry-and-Pathology-of-Human-Disease",
+    "programLink": "https://www.studyincanada.com/Programs/85086/Western-University/Biochemistry-and-Pathology-of-Human-Disease",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -9858,7 +9858,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Biochemistry",
-    "programLink": "/Programs/7351/McGill-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/7351/McGill-University/Biochemistry",
     "entranceGrade": "95",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -9867,7 +9867,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Nutrition - Health and Disease",
-    "programLink": "/Programs/78140/McGill-University/Nutrition-Health-and-Disease",
+    "programLink": "https://www.studyincanada.com/Programs/78140/McGill-University/Nutrition-Health-and-Disease",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -9876,7 +9876,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/89405/Redeemer-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/89405/Redeemer-University/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "4 Year(s)"
@@ -9885,7 +9885,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry with Option in Microbiology and Immunology",
-    "programLink": "/Programs/66386/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Microbiology-and-Immunology",
+    "programLink": "https://www.studyincanada.com/Programs/66386/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Microbiology-and-Immunology",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -9894,7 +9894,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/10860/Selkirk-College/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/10860/Selkirk-College/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$13,409",
     "length": "2 Year(s)"
@@ -9903,7 +9903,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Biochemistry & Molecular Biology",
-    "programLink": "/Programs/2721/Dalhousie-University/Biochemistry-&-Molecular-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/2721/Dalhousie-University/Biochemistry-&-Molecular-Biology",
     "entranceGrade": "75",
     "tutionValue": "$23,891",
     "length": "4 Year(s)"
@@ -9921,7 +9921,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/27156/University-of-Victoria/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/27156/University-of-Victoria/Biochemistry",
     "entranceGrade": "80",
     "tutionValue": "$27,949",
     "length": "5 Year(s)"
@@ -9930,7 +9930,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Integrated Science (Biochemistry Concentration)",
-    "programLink": "/Programs/81669/McMaster-University/Integrated-Science-(Biochemistry-Concentration)",
+    "programLink": "https://www.studyincanada.com/Programs/81669/McMaster-University/Integrated-Science-(Biochemistry-Concentration)",
     "entranceGrade": "87 - 89",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -9939,7 +9939,7 @@ export default [
     "schoolName": "Faculty of Medicine at the University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Biochemistry and Molecular Biology",
-    "programLink": "/Programs/15874/Faculty-of-Medicine-at-the-University-of-Calgary/Biochemistry-and-Molecular-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/15874/Faculty-of-Medicine-at-the-University-of-Calgary/Biochemistry-and-Molecular-Biology",
     "entranceGrade": "N/S",
     "tutionValue": "$16,389",
     "length": "4 Year(s)"
@@ -9948,7 +9948,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (HBSc)",
-    "programLink": "/Programs/8220/University-of-Toronto-St.-George/Biochemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8220/University-of-Toronto-St.-George/Biochemistry-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -9957,7 +9957,7 @@ export default [
     "schoolName": "Faculty of Medicine at the University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Biochemistry and Molecular Biology",
-    "programLink": "/Programs/15852/Faculty-of-Medicine-at-the-University-of-Calgary/Biochemistry-and-Molecular-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/15852/Faculty-of-Medicine-at-the-University-of-Calgary/Biochemistry-and-Molecular-Biology",
     "entranceGrade": "N/S",
     "tutionValue": "$16,389",
     "length": "2 Year(s)"
@@ -9966,7 +9966,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Science | Biochemistry",
-    "programLink": "/Programs/2944/University-of-Lethbridge/Bachelor-of-Science-|-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/2944/University-of-Lethbridge/Bachelor-of-Science-|-Biochemistry",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -9975,7 +9975,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/1759/The-University-of-British-Columbia-Vancouver/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/1759/The-University-of-British-Columbia-Vancouver/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -9984,7 +9984,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/77533/The-University-of-British-Columbia-Vancouver/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/77533/The-University-of-British-Columbia-Vancouver/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -9993,7 +9993,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/49597/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/49597/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -10002,7 +10002,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/5834/Queen-s-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/5834/Queen-s-University/Biochemistry",
     "entranceGrade": "85 - 100",
     "tutionValue": "$55,567",
     "length": "5 Year(s)"
@@ -10011,7 +10011,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Physics (B.Sc. Double Honours) with Biochemistry",
-    "programLink": "/Programs/69564/University-of-Saskatchewan/Physics-(B.Sc.-Double-Honours)-with-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/69564/University-of-Saskatchewan/Physics-(B.Sc.-Double-Honours)-with-Biochemistry",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -10020,7 +10020,7 @@ export default [
     "schoolName": "Queen's School of Medicine",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Cell Biology (PhD)",
-    "programLink": "/Programs/105333/Queen-s-School-of-Medicine/Biochemistry-and-Cell-Biology-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/105333/Queen-s-School-of-Medicine/Biochemistry-and-Cell-Biology-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -10029,7 +10029,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry and Molecular Biology",
-    "programLink": "/Programs/81545/The-University-of-British-Columbia-Okanagan/Biochemistry-and-Molecular-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/81545/The-University-of-British-Columbia-Okanagan/Biochemistry-and-Molecular-Biology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$42,396",
     "length": "4 Year(s)"
@@ -10038,7 +10038,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Chemistry & Biochemistry",
-    "programLink": "/Programs/19133/University-of-Windsor-Faculty-of-Graduate-Studies/Chemistry-&-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/19133/University-of-Windsor-Faculty-of-Graduate-Studies/Chemistry-&-Biochemistry",
     "entranceGrade": "70 - 100",
     "tutionValue": "$8,863",
     "length": "2 Year(s)"
@@ -10047,7 +10047,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Chemistry & Biochemistry",
-    "programLink": "/Programs/19137/University-of-Windsor-Faculty-of-Graduate-Studies/Chemistry-&-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/19137/University-of-Windsor-Faculty-of-Graduate-Studies/Chemistry-&-Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -10056,7 +10056,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (HBSc)",
-    "programLink": "/Programs/44618/University-of-Toronto-Scarborough/Biochemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/44618/University-of-Toronto-Scarborough/Biochemistry-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -10065,7 +10065,7 @@ export default [
     "schoolName": "Queen's School of Medicine",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Cell Biology (MSc)",
-    "programLink": "/Programs/105332/Queen-s-School-of-Medicine/Biochemistry-and-Cell-Biology-(MSc)",
+    "programLink": "https://www.studyincanada.com/Programs/105332/Queen-s-School-of-Medicine/Biochemistry-and-Cell-Biology-(MSc)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -10074,7 +10074,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Cancer Biology",
-    "programLink": "/Programs/91950/Western-University/Biochemistry-and-Cancer-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/91950/Western-University/Biochemistry-and-Cancer-Biology",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -10083,7 +10083,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Biochemistry",
-    "programLink": "/Programs/7486/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/7486/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -10092,7 +10092,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Nutrition - Nutritional Biochemistry",
-    "programLink": "/Programs/65595/McGill-University/Nutrition-Nutritional-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/65595/McGill-University/Nutrition-Nutritional-Biochemistry",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -10101,7 +10101,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "HBA/ Biochemistry",
-    "programLink": "/Programs/107691/Western-University/HBA/-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/107691/Western-University/HBA/-Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -10110,7 +10110,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry and Molecular Biology",
-    "programLink": "/Programs/3195/University-of-Northern-British-Columbia/Biochemistry-and-Molecular-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/3195/University-of-Northern-British-Columbia/Biochemistry-and-Molecular-Biology",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -10119,7 +10119,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry with Option in Synthetic Biology",
-    "programLink": "/Programs/87304/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Synthetic-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/87304/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Synthetic-Biology",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -10128,7 +10128,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/3640/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/3640/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -10137,7 +10137,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Science",
     "location": "Canada, Alberta",
     "programName": "Biochemistry",
-    "programLink": "/Programs/113868/University-of-Calgary-Faculty-of-Science/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/113868/University-of-Calgary-Faculty-of-Science/Biochemistry",
     "entranceGrade": "93",
     "tutionValue": "$28,257",
     "length": "4 Year(s)"
@@ -10146,7 +10146,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry with Option in Chemical Biology",
-    "programLink": "/Programs/87302/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Chemical-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/87302/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Chemical-Biology",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -10155,7 +10155,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Biochemistry",
-    "programLink": "/Programs/9648/Mount-Allison-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/9648/Mount-Allison-University/Biochemistry",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -10164,7 +10164,7 @@ export default [
     "schoolName": "Cambrian College",
     "location": "Canada, Ontario",
     "programName": "Medical Laboratory Technology",
-    "programLink": "/Programs/27214/Cambrian-College/Medical-Laboratory-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/27214/Cambrian-College/Medical-Laboratory-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -10173,7 +10173,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry",
-    "programLink": "/Programs/37416/University-of-Manitoba/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/37416/University-of-Manitoba/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -10182,7 +10182,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Molecular Biology (B.Sc.)",
-    "programLink": "/Programs/102/Trent-University/Biochemistry-and-Molecular-Biology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/102/Trent-University/Biochemistry-and-Molecular-Biology-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -10191,7 +10191,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry and Chemistry",
-    "programLink": "/Programs/107527/University-of-Victoria/Biochemistry-and-Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/107527/University-of-Victoria/Biochemistry-and-Chemistry",
     "entranceGrade": "80",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -10200,7 +10200,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Physics and Biochemistry",
-    "programLink": "/Programs/90543/University-of-Manitoba/Physics-and-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/90543/University-of-Manitoba/Physics-and-Biochemistry",
     "entranceGrade": "85 - 85",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -10209,7 +10209,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/3042/Western-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/3042/Western-University/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -10218,7 +10218,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry (Four-Year)",
-    "programLink": "/Programs/41105/The-University-of-Winnipeg/Biochemistry-(Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/41105/The-University-of-Winnipeg/Biochemistry-(Four-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -10227,7 +10227,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry",
-    "programLink": "/Programs/16887/The-University-of-Winnipeg/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/16887/The-University-of-Winnipeg/Biochemistry",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -10236,7 +10236,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Biochemistry",
-    "programLink": "/Programs/65673/McGill-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/65673/McGill-University/Biochemistry",
     "entranceGrade": "95",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -10245,7 +10245,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Biochemistry/Cell Biology (BSc)",
-    "programLink": "/Programs/95871/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Cell-Biology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/95871/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Cell-Biology-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -10254,7 +10254,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/49595/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/49595/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -10263,7 +10263,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Biochemistry, Microbiology and Immunology [B.Sc. (BMSC) Honours]...",
-    "programLink": "/Programs/106131/University-of-Saskatchewan/Biochemistry,-Microbiology-and-Immunology-[B.Sc.-(BMSC)-Honours]...",
+    "programLink": "https://www.studyincanada.com/Programs/106131/University-of-Saskatchewan/Biochemistry,-Microbiology-and-Immunology-[B.Sc.-(BMSC)-Honours]...",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -10272,7 +10272,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Chemistry (Biological)",
-    "programLink": "/Programs/106418/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Chemistry-(Biological)",
+    "programLink": "https://www.studyincanada.com/Programs/106418/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Chemistry-(Biological)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -10281,7 +10281,7 @@ export default [
     "schoolName": "McMaster University - Faculty of Health Sciences",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/88031/McMaster-University-Faculty-of-Health-Sciences/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/88031/McMaster-University-Faculty-of-Health-Sciences/Biochemistry",
     "entranceGrade": "77",
     "tutionValue": "$17,096",
     "length": "2 Year(s)"
@@ -10290,7 +10290,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Biochemistry",
-    "programLink": "/Programs/2945/University-of-Lethbridge-School-of-Graduate-Studies/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/2945/University-of-Lethbridge-School-of-Graduate-Studies/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -10299,7 +10299,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Biochemistry",
-    "programLink": "/Programs/55661/Bishop-s-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/55661/Bishop-s-University/Biochemistry",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -10308,7 +10308,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry of Infection and Immunity",
-    "programLink": "/Programs/56368/Western-University/Biochemistry-of-Infection-and-Immunity",
+    "programLink": "https://www.studyincanada.com/Programs/56368/Western-University/Biochemistry-of-Infection-and-Immunity",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -10317,7 +10317,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/12212/University-of-Victoria/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/12212/University-of-Victoria/Biochemistry",
     "entranceGrade": "80 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -10326,7 +10326,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (HBSc)",
-    "programLink": "/Programs/101910/University-of-Toronto-Scarborough/Biochemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/101910/University-of-Toronto-Scarborough/Biochemistry-(HBSc)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -10335,7 +10335,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Bioinformatics",
-    "programLink": "/Programs/32215/Western-University/Bioinformatics",
+    "programLink": "https://www.studyincanada.com/Programs/32215/Western-University/Bioinformatics",
     "entranceGrade": "N/S",
     "tutionValue": "$54,700",
     "length": "4 Year(s)"
@@ -10344,7 +10344,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/3222/University-of-Northern-British-Columbia/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/3222/University-of-Northern-British-Columbia/Chemistry",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -10353,7 +10353,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Biochimie (BSc)",
-    "programLink": "/Programs/78348/Laurentian-University/Universite-Laurentienne/Biochimie-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/78348/Laurentian-University/Universite-Laurentienne/Biochimie-(BSc)",
     "entranceGrade": "70",
     "tutionValue": "$25,745",
     "length": "4 Year(s)"
@@ -10362,7 +10362,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Bioinformatics",
-    "programLink": "/Programs/58938/University-of-Saskatchewan/Bioinformatics",
+    "programLink": "https://www.studyincanada.com/Programs/58938/University-of-Saskatchewan/Bioinformatics",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -10371,7 +10371,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry",
-    "programLink": "/Programs/37414/University-of-Manitoba/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/37414/University-of-Manitoba/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$19,800",
     "length": "5 Year(s)"
@@ -10380,7 +10380,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Chemistry",
-    "programLink": "/Programs/56375/Western-University/Biochemistry-and-Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/56375/Western-University/Biochemistry-and-Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -10389,7 +10389,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/36607/Queen-s-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/36607/Queen-s-University/Biochemistry",
     "entranceGrade": "85 - 100",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -10398,7 +10398,7 @@ export default [
     "schoolName": "McMaster University - Faculty of Health Sciences",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/88037/McMaster-University-Faculty-of-Health-Sciences/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/88037/McMaster-University-Faculty-of-Health-Sciences/Biochemistry",
     "entranceGrade": "77",
     "tutionValue": "$6,307",
     "length": "4 Year(s)"
@@ -10407,7 +10407,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Biochemistry",
-    "programLink": "/Programs/81226/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/81226/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -10416,7 +10416,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Medical Biophysics and Biochemistry",
-    "programLink": "/Programs/85083/Western-University/Medical-Biophysics-and-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/85083/Western-University/Medical-Biophysics-and-Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -10425,7 +10425,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/104963/Queen-s-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/104963/Queen-s-University/Biochemistry",
     "entranceGrade": "80 - 100",
     "tutionValue": "$55,567",
     "length": "3 Year(s)"
@@ -10434,7 +10434,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Biological Chemistry (HBSc)",
-    "programLink": "/Programs/44619/University-of-Toronto-Scarborough/Biological-Chemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/44619/University-of-Toronto-Scarborough/Biological-Chemistry-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -10443,7 +10443,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry and Chemistry",
-    "programLink": "/Programs/107528/University-of-Victoria/Biochemistry-and-Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/107528/University-of-Victoria/Biochemistry-and-Chemistry",
     "entranceGrade": "80",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -10452,7 +10452,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Cell Biology",
-    "programLink": "/Programs/56357/Western-University/Biochemistry-and-Cell-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/56357/Western-University/Biochemistry-and-Cell-Biology",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -10461,7 +10461,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/64916/University-of-Windsor/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/64916/University-of-Windsor/Biochemistry",
     "entranceGrade": "70 - 100",
     "tutionValue": "$37,497",
     "length": "4 Year(s)"
@@ -10470,7 +10470,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Chemistry",
-    "programLink": "/Programs/2504/Lakehead-University-Thunder-Bay/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/2504/Lakehead-University-Thunder-Bay/Chemistry",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -10479,7 +10479,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry with Option in Synthetic Biology",
-    "programLink": "/Programs/87303/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Synthetic-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/87303/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Synthetic-Biology",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -10488,7 +10488,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Biochemistry",
-    "programLink": "/Programs/112476/University-of-Lethbridge-School-of-Graduate-Studies/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/112476/University-of-Lethbridge-School-of-Graduate-Studies/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -10497,7 +10497,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Computational Biochemistry",
-    "programLink": "/Programs/85085/Western-University/Computational-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/85085/Western-University/Computational-Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -10650,7 +10650,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Nursing",
-    "programLink": "/Programs/15523/University-of-New-Brunswick-Saint-John/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/15523/University-of-New-Brunswick-Saint-John/Nursing",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -10704,7 +10704,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Pre-Nursing Certificate",
-    "programLink": "/Programs/107501/University-of-Regina/Pre-Nursing-Certificate",
+    "programLink": "https://www.studyincanada.com/Programs/107501/University-of-Regina/Pre-Nursing-Certificate",
     "entranceGrade": "N/S",
     "tutionValue": "$24,508",
     "length": "2 Year(s)"
@@ -10713,7 +10713,7 @@ export default [
     "schoolName": "Assiniboine Community College",
     "location": "Canada, Manitoba",
     "programName": "Practical Nursing Bridging",
-    "programLink": "/Programs/95715/Assiniboine-Community-College/Practical-Nursing-Bridging",
+    "programLink": "https://www.studyincanada.com/Programs/95715/Assiniboine-Community-College/Practical-Nursing-Bridging",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -10722,7 +10722,7 @@ export default [
     "schoolName": "Durham College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/5051/Durham-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/5051/Durham-College/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$17,587",
     "length": "2 Year(s)"
@@ -10731,7 +10731,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Nursing (MSc)",
-    "programLink": "/Programs/112520/University-of-Lethbridge-School-of-Graduate-Studies/Nursing-(MSc)",
+    "programLink": "https://www.studyincanada.com/Programs/112520/University-of-Lethbridge-School-of-Graduate-Studies/Nursing-(MSc)",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -10740,7 +10740,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Nursing",
     "location": "Canada, Alberta",
     "programName": "MN - Nurse Practitioner",
-    "programLink": "/Programs/77764/University-of-Calgary-Faculty-of-Nursing/MN-Nurse-Practitioner",
+    "programLink": "https://www.studyincanada.com/Programs/77764/University-of-Calgary-Faculty-of-Nursing/MN-Nurse-Practitioner",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -10749,7 +10749,7 @@ export default [
     "schoolName": "George Brown College",
     "location": "Canada, Ontario",
     "programName": "Bachelor of Science in Nursing (B.Sc.N.)",
-    "programLink": "/Programs/1397/George-Brown-College/Bachelor-of-Science-in-Nursing-(B.Sc.N.)",
+    "programLink": "https://www.studyincanada.com/Programs/1397/George-Brown-College/Bachelor-of-Science-in-Nursing-(B.Sc.N.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$18,190",
     "length": "4 Year(s)"
@@ -10758,7 +10758,7 @@ export default [
     "schoolName": "Athabasca University",
     "location": "Canada, Alberta",
     "programName": "Nursing (Post L.P.N.)",
-    "programLink": "/Programs/29689/Athabasca-University/Nursing-(Post-L.P.N.)",
+    "programLink": "https://www.studyincanada.com/Programs/29689/Athabasca-University/Nursing-(Post-L.P.N.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -10767,7 +10767,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Nursing (Collaborative)",
-    "programLink": "/Programs/7588/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Nursing-(Collaborative)",
+    "programLink": "https://www.studyincanada.com/Programs/7588/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Nursing-(Collaborative)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -10776,7 +10776,7 @@ export default [
     "schoolName": "Canadian Mennonite University",
     "location": "Canada, Manitoba",
     "programName": "Nursing (U Manitoba) (Pre-Professional)",
-    "programLink": "/Programs/9406/Canadian-Mennonite-University/Nursing-(U-Manitoba)-(Pre-Professional)",
+    "programLink": "https://www.studyincanada.com/Programs/9406/Canadian-Mennonite-University/Nursing-(U-Manitoba)-(Pre-Professional)",
     "entranceGrade": "N/S",
     "tutionValue": "$10,208",
     "length": "N/S"
@@ -10785,7 +10785,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Nursing",
-    "programLink": "/Programs/50756/Langara-College/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/50756/Langara-College/Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -10794,7 +10794,7 @@ export default [
     "schoolName": "Red Deer Polytechnic",
     "location": "Canada, Alberta",
     "programName": "Nursing - Collaboration with University of Alberta",
-    "programLink": "/Programs/65960/Red-Deer-Polytechnic/Nursing-Collaboration-with-University-of-Alberta",
+    "programLink": "https://www.studyincanada.com/Programs/65960/Red-Deer-Polytechnic/Nursing-Collaboration-with-University-of-Alberta",
     "entranceGrade": "65 - 100",
     "tutionValue": "$27,711",
     "length": "4 Year(s)"
@@ -10803,7 +10803,7 @@ export default [
     "schoolName": "Cambrian College",
     "location": "Canada, Ontario",
     "programName": "Honours Bachelor of Science in Nursing",
-    "programLink": "/Programs/37551/Cambrian-College/Honours-Bachelor-of-Science-in-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/37551/Cambrian-College/Honours-Bachelor-of-Science-in-Nursing",
     "entranceGrade": "75",
     "tutionValue": "$26,215",
     "length": "4 Year(s)"
@@ -10812,7 +10812,7 @@ export default [
     "schoolName": "Columbia College (Closed)",
     "location": "Canada, Alberta",
     "programName": "Practical Nurse",
-    "programLink": "/Programs/34459/Columbia-College-(Closed)/Practical-Nurse",
+    "programLink": "https://www.studyincanada.com/Programs/34459/Columbia-College-(Closed)/Practical-Nurse",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "65 Week(s)"
@@ -10821,7 +10821,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Nursing (BScN)",
-    "programLink": "/Programs/4868/Laurentian-University/Universite-Laurentienne/Nursing-(BScN)",
+    "programLink": "https://www.studyincanada.com/Programs/4868/Laurentian-University/Universite-Laurentienne/Nursing-(BScN)",
     "entranceGrade": "75",
     "tutionValue": "$23,747",
     "length": "4 Year(s)"
@@ -10830,7 +10830,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Nursing (MN)",
-    "programLink": "/Programs/79432/University-of-Manitoba-Faculty-of-Graduate-Studies/Nursing-(MN)",
+    "programLink": "https://www.studyincanada.com/Programs/79432/University-of-Manitoba-Faculty-of-Graduate-Studies/Nursing-(MN)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -10839,7 +10839,7 @@ export default [
     "schoolName": "Trinity Western University",
     "location": "Canada, British Columbia",
     "programName": "Nursing",
-    "programLink": "/Programs/2239/Trinity-Western-University/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/2239/Trinity-Western-University/Nursing",
     "entranceGrade": "67 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -10848,7 +10848,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Nursing",
-    "programLink": "/Programs/3544/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/3544/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Nursing",
     "entranceGrade": "87 - 89",
     "tutionValue": "$42,941",
     "length": "4 Year(s)"
@@ -10857,7 +10857,7 @@ export default [
     "schoolName": "Canadore College",
     "location": "Canada, Ontario",
     "programName": "Honours Bachelor of Nursing",
-    "programLink": "/Programs/107795/Canadore-College/Honours-Bachelor-of-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/107795/Canadore-College/Honours-Bachelor-of-Nursing",
     "entranceGrade": "70",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -10866,7 +10866,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Bachelor of Science in Nursing (BScN) - Kingston",
-    "programLink": "/Programs/19876/St.-Lawrence-College/Bachelor-of-Science-in-Nursing-(BScN)-Kingston",
+    "programLink": "https://www.studyincanada.com/Programs/19876/St.-Lawrence-College/Bachelor-of-Science-in-Nursing-(BScN)-Kingston",
     "entranceGrade": "83",
     "tutionValue": "$22,849",
     "length": "4 Year(s)"
@@ -10875,7 +10875,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Nursing",
     "location": "Canada, Alberta",
     "programName": "MN/MBA",
-    "programLink": "/Programs/100584/University-of-Calgary-Faculty-of-Nursing/MN/MBA",
+    "programLink": "https://www.studyincanada.com/Programs/100584/University-of-Calgary-Faculty-of-Nursing/MN/MBA",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -10884,7 +10884,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Nursing",
-    "programLink": "/Programs/68545/University-of-Regina/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/68545/University-of-Regina/Nursing",
     "entranceGrade": "70 - 70",
     "tutionValue": "$12,049",
     "length": "4 Year(s)"
@@ -10893,7 +10893,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Emergency Nursing Specialty (Combined Emergency/Critical Care Op...",
-    "programLink": "/Programs/28229/British-Columbia-Institute-of-Technology/Emergency-Nursing-Specialty-(Combined-Emergency/Critical-Care-Op...",
+    "programLink": "https://www.studyincanada.com/Programs/28229/British-Columbia-Institute-of-Technology/Emergency-Nursing-Specialty-(Combined-Emergency/Critical-Care-Op...",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "12 Week(s)"
@@ -10902,7 +10902,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Nursing (MScN)",
-    "programLink": "/Programs/4713/University-of-Windsor-Faculty-of-Graduate-Studies/Nursing-(MScN)",
+    "programLink": "https://www.studyincanada.com/Programs/4713/University-of-Windsor-Faculty-of-Graduate-Studies/Nursing-(MScN)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$8,878",
     "length": "3 Year(s)"
@@ -10911,7 +10911,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Nursing (BScN)",
-    "programLink": "/Programs/45525/Kwantlen-Polytechnic-University/Nursing-(BScN)",
+    "programLink": "https://www.studyincanada.com/Programs/45525/Kwantlen-Polytechnic-University/Nursing-(BScN)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -10920,7 +10920,7 @@ export default [
     "schoolName": "Canadian Mennonite University",
     "location": "Canada, Manitoba",
     "programName": "Nursing (Red River College) (Pre-Professional)",
-    "programLink": "/Programs/97487/Canadian-Mennonite-University/Nursing-(Red-River-College)-(Pre-Professional)",
+    "programLink": "https://www.studyincanada.com/Programs/97487/Canadian-Mennonite-University/Nursing-(Red-River-College)-(Pre-Professional)",
     "entranceGrade": "N/S",
     "tutionValue": "$10,208",
     "length": "1 Year(s)"
@@ -10929,7 +10929,7 @@ export default [
     "schoolName": "College of New Caledonia",
     "location": "Canada, British Columbia",
     "programName": "Practical Nurse Diploma",
-    "programLink": "/Programs/15741/College-of-New-Caledonia/Practical-Nurse-Diploma",
+    "programLink": "https://www.studyincanada.com/Programs/15741/College-of-New-Caledonia/Practical-Nurse-Diploma",
     "entranceGrade": "N/S",
     "tutionValue": "$29,000",
     "length": "2 Year(s)"
@@ -10938,7 +10938,7 @@ export default [
     "schoolName": "MacEwan University",
     "location": "Canada, Alberta",
     "programName": "Psychiatric Nursing",
-    "programLink": "/Programs/6274/MacEwan-University/Psychiatric-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/6274/MacEwan-University/Psychiatric-Nursing",
     "entranceGrade": "75 - 80",
     "tutionValue": "$32,437",
     "length": "28 Month(s)"
@@ -10947,7 +10947,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Nursing",
-    "programLink": "/Programs/65672/McGill-University/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/65672/McGill-University/Nursing",
     "entranceGrade": "82",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -10956,7 +10956,7 @@ export default [
     "schoolName": "Queen's School of Medicine",
     "location": "Canada, Ontario",
     "programName": "Nursing (MNSc Course)",
-    "programLink": "/Programs/109790/Queen-s-School-of-Medicine/Nursing-(MNSc-Course)",
+    "programLink": "https://www.studyincanada.com/Programs/109790/Queen-s-School-of-Medicine/Nursing-(MNSc-Course)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -10965,7 +10965,7 @@ export default [
     "schoolName": "Lethbridge College",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Nursing",
-    "programLink": "/Programs/8176/Lethbridge-College/Bachelor-of-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/8176/Lethbridge-College/Bachelor-of-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$16,355",
     "length": "4 Year(s)"
@@ -10974,7 +10974,7 @@ export default [
     "schoolName": "Seneca Polytechnic",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/17337/Seneca-Polytechnic/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/17337/Seneca-Polytechnic/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -10983,7 +10983,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Honours Bachelor of Science – Nursing",
-    "programLink": "/Programs/18705/Georgian-College/Honours-Bachelor-of-Science-%e2%80%93-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/18705/Georgian-College/Honours-Bachelor-of-Science-%e2%80%93-Nursing",
     "entranceGrade": "75",
     "tutionValue": "$16,408",
     "length": "4 Year(s)"
@@ -10992,7 +10992,7 @@ export default [
     "schoolName": "Sheridan College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/22854/Sheridan-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/22854/Sheridan-College/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$24,274",
     "length": "2 Year(s)"
@@ -11001,7 +11001,7 @@ export default [
     "schoolName": "Mohawk College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/12096/Mohawk-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/12096/Mohawk-College/Practical-Nursing",
     "entranceGrade": "85",
     "tutionValue": "$27,700",
     "length": "16 Month(s)"
@@ -11010,7 +11010,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Nursing (Compressed) (B.Sc.N.)",
-    "programLink": "/Programs/91067/Trent-University/Nursing-(Compressed)-(B.Sc.N.)",
+    "programLink": "https://www.studyincanada.com/Programs/91067/Trent-University/Nursing-(Compressed)-(B.Sc.N.)",
     "entranceGrade": "75 - 100",
     "tutionValue": "$28,285",
     "length": "28 Month(s)"
@@ -11019,7 +11019,7 @@ export default [
     "schoolName": "George Brown College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/1415/George-Brown-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/1415/George-Brown-College/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$15,190",
     "length": "2 Year(s)"
@@ -11028,7 +11028,7 @@ export default [
     "schoolName": "Cape Breton University",
     "location": "Canada, Nova Scotia",
     "programName": "Bachelor of Science in Nursing",
-    "programLink": "/Programs/105147/Cape-Breton-University/Bachelor-of-Science-in-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/105147/Cape-Breton-University/Bachelor-of-Science-in-Nursing",
     "entranceGrade": "65",
     "tutionValue": "$20,714",
     "length": "3 Year(s)"
@@ -11037,7 +11037,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Nursing (B.N.)",
-    "programLink": "/Programs/32676/Brandon-University/Nursing-(B.N.)",
+    "programLink": "https://www.studyincanada.com/Programs/32676/Brandon-University/Nursing-(B.N.)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,912",
     "length": "4 Year(s)"
@@ -11046,7 +11046,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Nursing",
-    "programLink": "/Programs/7631/The-University-of-British-Columbia-Vancouver/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/7631/The-University-of-British-Columbia-Vancouver/Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$42,884",
     "length": "20 Month(s)"
@@ -11055,7 +11055,7 @@ export default [
     "schoolName": "North Island College (Comox Valley Campus)",
     "location": "Canada, British Columbia",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/21465/North-Island-College-(Comox-Valley-Campus)/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/21465/North-Island-College-(Comox-Valley-Campus)/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11064,7 +11064,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Nursing - RPN to BScN (E) Stream",
-    "programLink": "/Programs/91576/McMaster-University/Nursing-RPN-to-BScN-(E)-Stream",
+    "programLink": "https://www.studyincanada.com/Programs/91576/McMaster-University/Nursing-RPN-to-BScN-(E)-Stream",
     "entranceGrade": "N/S",
     "tutionValue": "$46,044",
     "length": "3 Year(s)"
@@ -11073,7 +11073,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Critical Care Nursing Specialty (Combined Critical Care/Emergenc...",
-    "programLink": "/Programs/28186/British-Columbia-Institute-of-Technology/Critical-Care-Nursing-Specialty-(Combined-Critical-Care/Emergenc...",
+    "programLink": "https://www.studyincanada.com/Programs/28186/British-Columbia-Institute-of-Technology/Critical-Care-Nursing-Specialty-(Combined-Critical-Care/Emergenc...",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11082,7 +11082,7 @@ export default [
     "schoolName": "University of Windsor - Continuing Education",
     "location": "Canada, Ontario",
     "programName": "Competency-Bridging Program of Study for Internationally Educate...",
-    "programLink": "/Programs/115513/University-of-Windsor-Continuing-Education/Competency-Bridging-Program-of-Study-for-Internationally-Educate...",
+    "programLink": "https://www.studyincanada.com/Programs/115513/University-of-Windsor-Continuing-Education/Competency-Bridging-Program-of-Study-for-Internationally-Educate...",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -11091,7 +11091,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Nursing (BSN Four-year)",
-    "programLink": "/Programs/11533/University-of-Saskatchewan/Nursing-(BSN-Four-year)",
+    "programLink": "https://www.studyincanada.com/Programs/11533/University-of-Saskatchewan/Nursing-(BSN-Four-year)",
     "entranceGrade": "75",
     "tutionValue": "$22,954",
     "length": "4 Year(s)"
@@ -11100,7 +11100,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/69507/Vancouver-Island-University/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/69507/Vancouver-Island-University/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11109,7 +11109,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Nursing - Nurse Practitioner Stream (MN)",
-    "programLink": "/Programs/111577/University-of-Manitoba-Faculty-of-Graduate-Studies/Nursing-Nurse-Practitioner-Stream-(MN)",
+    "programLink": "https://www.studyincanada.com/Programs/111577/University-of-Manitoba-Faculty-of-Graduate-Studies/Nursing-Nurse-Practitioner-Stream-(MN)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11118,7 +11118,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Specialty Nursing (Pediatric - Standard Option)",
-    "programLink": "/Programs/28297/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Pediatric-Standard-Option)",
+    "programLink": "https://www.studyincanada.com/Programs/28297/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Pediatric-Standard-Option)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11127,7 +11127,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Nursing (BScN) (Advanced Standing Entry)",
-    "programLink": "/Programs/96628/Dalhousie-University/Nursing-(BScN)-(Advanced-Standing-Entry)",
+    "programLink": "https://www.studyincanada.com/Programs/96628/Dalhousie-University/Nursing-(BScN)-(Advanced-Standing-Entry)",
     "entranceGrade": "N/S",
     "tutionValue": "$43,442",
     "length": "2 Year(s)"
@@ -11136,7 +11136,7 @@ export default [
     "schoolName": "Fanshawe College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/3942/Fanshawe-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/3942/Fanshawe-College/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$20,305",
     "length": "2 Year(s)"
@@ -11145,7 +11145,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Nursing",
-    "programLink": "/Programs/13105/Nipissing-University/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/13105/Nipissing-University/Nursing",
     "entranceGrade": "70 - 85",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -11154,7 +11154,7 @@ export default [
     "schoolName": "University of Toronto - English Language Program",
     "location": "Canada, Ontario",
     "programName": "Part-time: ENGLISH FOR HEALTH PROFESSIONALS",
-    "programLink": "/Programs/49765/University-of-Toronto-English-Language-Program/Part-time-ENGLISH-FOR-HEALTH-PROFESSIONALS",
+    "programLink": "https://www.studyincanada.com/Programs/49765/University-of-Toronto-English-Language-Program/Part-time-ENGLISH-FOR-HEALTH-PROFESSIONALS",
     "entranceGrade": "N/S",
     "tutionValue": "$570",
     "length": "6 Week(s)"
@@ -11163,7 +11163,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing - Kingston",
-    "programLink": "/Programs/8863/St.-Lawrence-College/Practical-Nursing-Kingston",
+    "programLink": "https://www.studyincanada.com/Programs/8863/St.-Lawrence-College/Practical-Nursing-Kingston",
     "entranceGrade": "75",
     "tutionValue": "$17,692",
     "length": "2 Year(s)"
@@ -11172,7 +11172,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Nursing (Collaborative) (B.Sc.N.)",
-    "programLink": "/Programs/22202/Trent-University/Nursing-(Collaborative)-(B.Sc.N.)",
+    "programLink": "https://www.studyincanada.com/Programs/22202/Trent-University/Nursing-(Collaborative)-(B.Sc.N.)",
     "entranceGrade": "75 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -11181,7 +11181,7 @@ export default [
     "schoolName": "NorQuest College",
     "location": "Canada, Alberta",
     "programName": "Practical Nurse",
-    "programLink": "/Programs/335/NorQuest-College/Practical-Nurse",
+    "programLink": "https://www.studyincanada.com/Programs/335/NorQuest-College/Practical-Nurse",
     "entranceGrade": "N/S",
     "tutionValue": "$38,098",
     "length": "2 Year(s)"
@@ -11190,7 +11190,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Specialty Nursing (Neonatal)",
-    "programLink": "/Programs/28223/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Neonatal)",
+    "programLink": "https://www.studyincanada.com/Programs/28223/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Neonatal)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11199,7 +11199,7 @@ export default [
     "schoolName": "Bow Valley College",
     "location": "Canada, Alberta",
     "programName": "Practical Nurse Diploma - 5 Term Program",
-    "programLink": "/Programs/46089/Bow-Valley-College/Practical-Nurse-Diploma-5-Term-Program",
+    "programLink": "https://www.studyincanada.com/Programs/46089/Bow-Valley-College/Practical-Nurse-Diploma-5-Term-Program",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "20 Month(s)"
@@ -11208,7 +11208,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Nursing",
-    "programLink": "/Programs/11339/Selkirk-College/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/11339/Selkirk-College/Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -11217,7 +11217,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Bachelor of Science in Nursing",
-    "programLink": "/Programs/10380/University-of-Prince-Edward-Island/Bachelor-of-Science-in-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/10380/University-of-Prince-Edward-Island/Bachelor-of-Science-in-Nursing",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -11226,7 +11226,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Nursing (Licensed Practical Nurse (LPN) Bridging option)",
-    "programLink": "/Programs/81178/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Nursing-(Licensed-Practical-Nurse-(LPN)-Bridging-option)",
+    "programLink": "https://www.studyincanada.com/Programs/81178/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Nursing-(Licensed-Practical-Nurse-(LPN)-Bridging-option)",
     "entranceGrade": "N/S",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -11235,7 +11235,7 @@ export default [
     "schoolName": "Northern College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/14750/Northern-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/14750/Northern-College/Practical-Nursing",
     "entranceGrade": "60",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11244,7 +11244,7 @@ export default [
     "schoolName": "Centennial College - Graduate Programs",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing Bridging Program for Internationally-Educated ...",
-    "programLink": "/Programs/82159/Centennial-College-Graduate-Programs/Practical-Nursing-Bridging-Program-for-Internationally-Educated-...",
+    "programLink": "https://www.studyincanada.com/Programs/82159/Centennial-College-Graduate-Programs/Practical-Nursing-Bridging-Program-for-Internationally-Educated-...",
     "entranceGrade": "N/S",
     "tutionValue": "$17,080",
     "length": "1 Year(s)"
@@ -11253,7 +11253,7 @@ export default [
     "schoolName": "Canadore College",
     "location": "Canada, Ontario",
     "programName": "PN to BScN Bridging Honours Bachelor of Science – Nursing",
-    "programLink": "/Programs/115588/Canadore-College/PN-to-BScN-Bridging-Honours-Bachelor-of-Science-%e2%80%93-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/115588/Canadore-College/PN-to-BScN-Bridging-Honours-Bachelor-of-Science-%e2%80%93-Nursing",
     "entranceGrade": "73",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -11262,7 +11262,7 @@ export default [
     "schoolName": "Canadore College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/7931/Canadore-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/7931/Canadore-College/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$21,538",
     "length": "2 Year(s)"
@@ -11271,7 +11271,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Nursing",
-    "programLink": "/Programs/92297/University-of-Windsor-Faculty-of-Graduate-Studies/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/92297/University-of-Windsor-Faculty-of-Graduate-Studies/Nursing",
     "entranceGrade": "77 - 100",
     "tutionValue": "$8,878",
     "length": "4 Year(s)"
@@ -11280,7 +11280,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Practical Nursing Diploma",
-    "programLink": "/Programs/99948/Thompson-Rivers-University/Practical-Nursing-Diploma",
+    "programLink": "https://www.studyincanada.com/Programs/99948/Thompson-Rivers-University/Practical-Nursing-Diploma",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "2 Year(s)"
@@ -11289,7 +11289,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Nursing (MN)",
-    "programLink": "/Programs/28579/University-of-Lethbridge-School-of-Graduate-Studies/Nursing-(MN)",
+    "programLink": "https://www.studyincanada.com/Programs/28579/University-of-Lethbridge-School-of-Graduate-Studies/Nursing-(MN)",
     "entranceGrade": "N/S",
     "tutionValue": "$23,621",
     "length": "24 Month(s)"
@@ -11298,7 +11298,7 @@ export default [
     "schoolName": "Grenfell Campus, Memorial University",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Nursing (BN)",
-    "programLink": "/Programs/13693/Grenfell-Campus,-Memorial-University/Nursing-(BN)",
+    "programLink": "https://www.studyincanada.com/Programs/13693/Grenfell-Campus,-Memorial-University/Nursing-(BN)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$11,460",
     "length": "4 Year(s)"
@@ -11307,7 +11307,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Nursing (Collaborative)",
-    "programLink": "/Programs/19388/Lakehead-University-Thunder-Bay/Nursing-(Collaborative)",
+    "programLink": "https://www.studyincanada.com/Programs/19388/Lakehead-University-Thunder-Bay/Nursing-(Collaborative)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,616",
     "length": "4 Year(s)"
@@ -11316,7 +11316,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/1592/Humber-College-Institute-of-Technology-&-Advanced-Learning/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/1592/Humber-College-Institute-of-Technology-&-Advanced-Learning/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$16,394",
     "length": "2 Year(s)"
@@ -11325,7 +11325,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Pediatric Nursing Specialty (Standard Option)",
-    "programLink": "/Programs/28216/British-Columbia-Institute-of-Technology/Pediatric-Nursing-Specialty-(Standard-Option)",
+    "programLink": "https://www.studyincanada.com/Programs/28216/British-Columbia-Institute-of-Technology/Pediatric-Nursing-Specialty-(Standard-Option)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11334,7 +11334,7 @@ export default [
     "schoolName": "New Brunswick Community College",
     "location": "Canada, New Brunswick",
     "programName": "Practical Nurse",
-    "programLink": "/Programs/14105/New-Brunswick-Community-College/Practical-Nurse",
+    "programLink": "https://www.studyincanada.com/Programs/14105/New-Brunswick-Community-College/Practical-Nurse",
     "entranceGrade": "N/S",
     "tutionValue": "$9,468",
     "length": "2 Year(s)"
@@ -11343,7 +11343,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Perioperative Nursing Specialty",
-    "programLink": "/Programs/33676/British-Columbia-Institute-of-Technology/Perioperative-Nursing-Specialty",
+    "programLink": "https://www.studyincanada.com/Programs/33676/British-Columbia-Institute-of-Technology/Perioperative-Nursing-Specialty",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11352,7 +11352,7 @@ export default [
     "schoolName": "Queen's School of Medicine",
     "location": "Canada, Ontario",
     "programName": "Nursing (MNSc Thesis)",
-    "programLink": "/Programs/23166/Queen-s-School-of-Medicine/Nursing-(MNSc-Thesis)",
+    "programLink": "https://www.studyincanada.com/Programs/23166/Queen-s-School-of-Medicine/Nursing-(MNSc-Thesis)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11361,7 +11361,7 @@ export default [
     "schoolName": "Confederation College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/251/Confederation-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/251/Confederation-College/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11370,7 +11370,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Nursing Preparation Program",
-    "programLink": "/Programs/112552/University-of-Lethbridge/Nursing-Preparation-Program",
+    "programLink": "https://www.studyincanada.com/Programs/112552/University-of-Lethbridge/Nursing-Preparation-Program",
     "entranceGrade": "N/S",
     "tutionValue": "$20,784",
     "length": "1 Year(s)"
@@ -11379,7 +11379,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Specialty Nursing (Occupational Health)",
-    "programLink": "/Programs/28226/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Occupational-Health)",
+    "programLink": "https://www.studyincanada.com/Programs/28226/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Occupational-Health)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11388,7 +11388,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Nursing - Registered Practical Nurse Bridge (Algonquin College -...",
-    "programLink": "/Programs/96559/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Nursing-Registered-Practical-Nurse-Bridge-(Algonquin-College-...",
+    "programLink": "https://www.studyincanada.com/Programs/96559/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Nursing-Registered-Practical-Nurse-Bridge-(Algonquin-College-...",
     "entranceGrade": "80 - 86",
     "tutionValue": "$42,941",
     "length": "4 Year(s)"
@@ -11397,7 +11397,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Nursing | After Degree",
-    "programLink": "/Programs/91090/University-of-Lethbridge/Bachelor-of-Nursing-|-After-Degree",
+    "programLink": "https://www.studyincanada.com/Programs/91090/University-of-Lethbridge/Bachelor-of-Nursing-|-After-Degree",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "2 Year(s)"
@@ -11406,7 +11406,7 @@ export default [
     "schoolName": "Durham College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing - Flex Program (weekend delivery)",
-    "programLink": "/Programs/85161/Durham-College/Practical-Nursing-Flex-Program-(weekend-delivery)",
+    "programLink": "https://www.studyincanada.com/Programs/85161/Durham-College/Practical-Nursing-Flex-Program-(weekend-delivery)",
     "entranceGrade": "N/S",
     "tutionValue": "$17,587",
     "length": "2 Year(s)"
@@ -11415,7 +11415,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Perinatal Nursing Specialty (Perinatal - Perioperative Option)",
-    "programLink": "/Programs/28205/British-Columbia-Institute-of-Technology/Perinatal-Nursing-Specialty-(Perinatal-Perioperative-Option)",
+    "programLink": "https://www.studyincanada.com/Programs/28205/British-Columbia-Institute-of-Technology/Perinatal-Nursing-Specialty-(Perinatal-Perioperative-Option)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11424,7 +11424,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Emergency Nursing Specialty (Standard Option)",
-    "programLink": "/Programs/28189/British-Columbia-Institute-of-Technology/Emergency-Nursing-Specialty-(Standard-Option)",
+    "programLink": "https://www.studyincanada.com/Programs/28189/British-Columbia-Institute-of-Technology/Emergency-Nursing-Specialty-(Standard-Option)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "12 Week(s)"
@@ -11433,7 +11433,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Nursing",
-    "programLink": "/Programs/29925/The-University-of-British-Columbia-Okanagan/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/29925/The-University-of-British-Columbia-Okanagan/Nursing",
     "entranceGrade": "67",
     "tutionValue": "$49,462",
     "length": "4 Year(s)"
@@ -11442,7 +11442,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Specialty Nursing (Nephrology)",
-    "programLink": "/Programs/28225/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Nephrology)",
+    "programLink": "https://www.studyincanada.com/Programs/28225/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Nephrology)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11451,7 +11451,7 @@ export default [
     "schoolName": "College of the Rockies",
     "location": "Canada, British Columbia",
     "programName": "Bachelor of Science Nursing",
-    "programLink": "/Programs/15895/College-of-the-Rockies/Bachelor-of-Science-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/15895/College-of-the-Rockies/Bachelor-of-Science-Nursing",
     "entranceGrade": "70",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -11460,7 +11460,7 @@ export default [
     "schoolName": "University of Windsor - Continuing Education",
     "location": "Canada, Ontario",
     "programName": "Introduction to Critical Care",
-    "programLink": "/Programs/115507/University-of-Windsor-Continuing-Education/Introduction-to-Critical-Care",
+    "programLink": "https://www.studyincanada.com/Programs/115507/University-of-Windsor-Continuing-Education/Introduction-to-Critical-Care",
     "entranceGrade": "N/S",
     "tutionValue": "$899",
     "length": "3 Month(s)"
@@ -11469,7 +11469,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Nursing",
-    "programLink": "/Programs/2576/Dalhousie-University/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/2576/Dalhousie-University/Nursing",
     "entranceGrade": "75",
     "tutionValue": "$43,442",
     "length": "3 Year(s)"
@@ -11478,7 +11478,7 @@ export default [
     "schoolName": "Cambrian College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/4728/Cambrian-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/4728/Cambrian-College/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$21,292",
     "length": "2 Year(s)"
@@ -11487,7 +11487,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Nursing Practice in Canada",
-    "programLink": "/Programs/85333/Langara-College/Nursing-Practice-in-Canada",
+    "programLink": "https://www.studyincanada.com/Programs/85333/Langara-College/Nursing-Practice-in-Canada",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11496,7 +11496,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Nursing",
-    "programLink": "/Programs/10335/University-of-Lethbridge/Bachelor-of-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/10335/University-of-Lethbridge/Bachelor-of-Nursing",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -11505,7 +11505,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing - Cornwall",
-    "programLink": "/Programs/108894/St.-Lawrence-College/Practical-Nursing-Cornwall",
+    "programLink": "https://www.studyincanada.com/Programs/108894/St.-Lawrence-College/Practical-Nursing-Cornwall",
     "entranceGrade": "75",
     "tutionValue": "$17,056",
     "length": "2 Year(s)"
@@ -11514,7 +11514,7 @@ export default [
     "schoolName": "Durham College",
     "location": "Canada, Ontario",
     "programName": "Nursing - Collaborative Bachelor of Science in Nursing (BScN) (H...",
-    "programLink": "/Programs/5041/Durham-College/Nursing-Collaborative-Bachelor-of-Science-in-Nursing-(BScN)-(H...",
+    "programLink": "https://www.studyincanada.com/Programs/5041/Durham-College/Nursing-Collaborative-Bachelor-of-Science-in-Nursing-(BScN)-(H...",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -11523,7 +11523,7 @@ export default [
     "schoolName": "Cambrian College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing to Registered Nursing Bridge",
-    "programLink": "/Programs/115553/Cambrian-College/Practical-Nursing-to-Registered-Nursing-Bridge",
+    "programLink": "https://www.studyincanada.com/Programs/115553/Cambrian-College/Practical-Nursing-to-Registered-Nursing-Bridge",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Month(s)"
@@ -11532,7 +11532,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Specialty Nursing (Critical Care - Combined Critical Care/Emerge...",
-    "programLink": "/Programs/28218/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Critical-Care-Combined-Critical-Care/Emerge...",
+    "programLink": "https://www.studyincanada.com/Programs/28218/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Critical-Care-Combined-Critical-Care/Emerge...",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11541,7 +11541,7 @@ export default [
     "schoolName": "St. Clair College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing (Chatham)",
-    "programLink": "/Programs/85186/St.-Clair-College/Practical-Nursing-(Chatham)",
+    "programLink": "https://www.studyincanada.com/Programs/85186/St.-Clair-College/Practical-Nursing-(Chatham)",
     "entranceGrade": "N/S",
     "tutionValue": "$17,219",
     "length": "2 Year(s)"
@@ -11550,7 +11550,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Nursing",
-    "programLink": "/Programs/79429/University-of-Manitoba-Faculty-of-Graduate-Studies/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/79429/University-of-Manitoba-Faculty-of-Graduate-Studies/Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -11559,7 +11559,7 @@ export default [
     "schoolName": "Red River College Polytechnic",
     "location": "Canada, Manitoba",
     "programName": "Bridging Program for Internationally Educated Nurses",
-    "programLink": "/Programs/90381/Red-River-College-Polytechnic/Bridging-Program-for-Internationally-Educated-Nurses",
+    "programLink": "https://www.studyincanada.com/Programs/90381/Red-River-College-Polytechnic/Bridging-Program-for-Internationally-Educated-Nurses",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11568,7 +11568,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Nursing",
-    "programLink": "/Programs/15423/University-of-New-Brunswick-Fredericton/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/15423/University-of-New-Brunswick-Fredericton/Nursing",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -11577,7 +11577,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Nursing (Collaborative Fast-track)",
-    "programLink": "/Programs/58450/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Nursing-(Collaborative-Fast-track)",
+    "programLink": "https://www.studyincanada.com/Programs/58450/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Nursing-(Collaborative-Fast-track)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "3 Year(s)"
@@ -11586,7 +11586,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Nursing: Bachelor of Science in Nursing Degree",
-    "programLink": "/Programs/95437/Thompson-Rivers-University/Nursing-Bachelor-of-Science-in-Nursing-Degree",
+    "programLink": "https://www.studyincanada.com/Programs/95437/Thompson-Rivers-University/Nursing-Bachelor-of-Science-in-Nursing-Degree",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "4 Year(s)"
@@ -11595,7 +11595,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Psychiatric Nursing",
-    "programLink": "/Programs/62887/The-University-of-Winnipeg/Psychiatric-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/62887/The-University-of-Winnipeg/Psychiatric-Nursing",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -11604,7 +11604,7 @@ export default [
     "schoolName": "Medicine Hat College",
     "location": "Canada, Alberta",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/16689/Medicine-Hat-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/16689/Medicine-Hat-College/Practical-Nursing",
     "entranceGrade": "60 - 70",
     "tutionValue": "$20,955",
     "length": "2 Year(s)"
@@ -11613,7 +11613,7 @@ export default [
     "schoolName": "Durham College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing (PSW-PN bridge)",
-    "programLink": "/Programs/115904/Durham-College/Practical-Nursing-(PSW-PN-bridge)",
+    "programLink": "https://www.studyincanada.com/Programs/115904/Durham-College/Practical-Nursing-(PSW-PN-bridge)",
     "entranceGrade": "N/S",
     "tutionValue": "$16,146",
     "length": "2 Year(s)"
@@ -11622,7 +11622,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Sciences infirmiéres (BScInf)",
-    "programLink": "/Programs/78376/Laurentian-University/Universite-Laurentienne/Sciences-infirmi%c3%a9res-(BScInf)",
+    "programLink": "https://www.studyincanada.com/Programs/78376/Laurentian-University/Universite-Laurentienne/Sciences-infirmi%c3%a9res-(BScInf)",
     "entranceGrade": "75",
     "tutionValue": "$23,747",
     "length": "4 Year(s)"
@@ -11631,7 +11631,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Nursing (Accelerated)",
-    "programLink": "/Programs/91564/McMaster-University/Nursing-(Accelerated)",
+    "programLink": "https://www.studyincanada.com/Programs/91564/McMaster-University/Nursing-(Accelerated)",
     "entranceGrade": "N/S",
     "tutionValue": "$46,044",
     "length": "20 Month(s)"
@@ -11640,7 +11640,7 @@ export default [
     "schoolName": "Lambton College",
     "location": "Canada, Ontario",
     "programName": "Bachelor of Science - Nursing",
-    "programLink": "/Programs/46750/Lambton-College/Bachelor-of-Science-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/46750/Lambton-College/Bachelor-of-Science-Nursing",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -11649,7 +11649,7 @@ export default [
     "schoolName": "MacEwan University",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Psychiatric Nursing",
-    "programLink": "/Programs/81376/MacEwan-University/Bachelor-of-Psychiatric-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/81376/MacEwan-University/Bachelor-of-Psychiatric-Nursing",
     "entranceGrade": "65 - 100",
     "tutionValue": "$24,472",
     "length": "2 Year(s)"
@@ -11658,7 +11658,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Nursing, Advanced Entry (BScN)",
-    "programLink": "/Programs/71957/Kwantlen-Polytechnic-University/Nursing,-Advanced-Entry-(BScN)",
+    "programLink": "https://www.studyincanada.com/Programs/71957/Kwantlen-Polytechnic-University/Nursing,-Advanced-Entry-(BScN)",
     "entranceGrade": "68 - 71",
     "tutionValue": "N/S",
     "length": "21 Month(s)"
@@ -11667,7 +11667,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Nursing",
-    "programLink": "/Programs/28199/British-Columbia-Institute-of-Technology/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/28199/British-Columbia-Institute-of-Technology/Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -11676,7 +11676,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Nephrology Nursing Specialty",
-    "programLink": "/Programs/28196/British-Columbia-Institute-of-Technology/Nephrology-Nursing-Specialty",
+    "programLink": "https://www.studyincanada.com/Programs/28196/British-Columbia-Institute-of-Technology/Nephrology-Nursing-Specialty",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "12 Week(s)"
@@ -11685,7 +11685,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Northern Collaborative Baccalaureate Nursing Program",
-    "programLink": "/Programs/3313/University-of-Northern-British-Columbia/Northern-Collaborative-Baccalaureate-Nursing-Program",
+    "programLink": "https://www.studyincanada.com/Programs/3313/University-of-Northern-British-Columbia/Northern-Collaborative-Baccalaureate-Nursing-Program",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -11694,7 +11694,7 @@ export default [
     "schoolName": "McMaster University - Faculty of Health Sciences",
     "location": "Canada, Ontario",
     "programName": "Nursing (Thesis-based)",
-    "programLink": "/Programs/27787/McMaster-University-Faculty-of-Health-Sciences/Nursing-(Thesis-based)",
+    "programLink": "https://www.studyincanada.com/Programs/27787/McMaster-University-Faculty-of-Health-Sciences/Nursing-(Thesis-based)",
     "entranceGrade": "77",
     "tutionValue": "$17,096",
     "length": "2 Year(s)"
@@ -11703,7 +11703,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Nursing",
-    "programLink": "/Programs/13508/University-of-Manitoba/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/13508/University-of-Manitoba/Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$19,600",
     "length": "4 Year(s)"
@@ -11721,7 +11721,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Nursing (MSc)",
-    "programLink": "/Programs/112519/University-of-Lethbridge-School-of-Graduate-Studies/Nursing-(MSc)",
+    "programLink": "https://www.studyincanada.com/Programs/112519/University-of-Lethbridge-School-of-Graduate-Studies/Nursing-(MSc)",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -11730,7 +11730,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Bachelor of Science in Nursing (BScN) - Brockville",
-    "programLink": "/Programs/108901/St.-Lawrence-College/Bachelor-of-Science-in-Nursing-(BScN)-Brockville",
+    "programLink": "https://www.studyincanada.com/Programs/108901/St.-Lawrence-College/Bachelor-of-Science-in-Nursing-(BScN)-Brockville",
     "entranceGrade": "83",
     "tutionValue": "$22,487",
     "length": "4 Year(s)"
@@ -11739,7 +11739,7 @@ export default [
     "schoolName": "Okanagan College",
     "location": "Canada, British Columbia",
     "programName": "Bachelor of Science in Nursing (Years 1 and 2)",
-    "programLink": "/Programs/81075/Okanagan-College/Bachelor-of-Science-in-Nursing-(Years-1-and-2)",
+    "programLink": "https://www.studyincanada.com/Programs/81075/Okanagan-College/Bachelor-of-Science-in-Nursing-(Years-1-and-2)",
     "entranceGrade": "50 - 70",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11748,7 +11748,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Nursing",
     "location": "Canada, Alberta",
     "programName": "Nursing - Degree Holders",
-    "programLink": "/Programs/100583/University-of-Calgary-Faculty-of-Nursing/Nursing-Degree-Holders",
+    "programLink": "https://www.studyincanada.com/Programs/100583/University-of-Calgary-Faculty-of-Nursing/Nursing-Degree-Holders",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "24 Month(s)"
@@ -11757,7 +11757,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Nursing - Transfer",
-    "programLink": "/Programs/99450/University-of-Calgary/Nursing-Transfer",
+    "programLink": "https://www.studyincanada.com/Programs/99450/University-of-Calgary/Nursing-Transfer",
     "entranceGrade": "86 - 89",
     "tutionValue": "$20,172",
     "length": "4 Year(s)"
@@ -11766,7 +11766,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Neonatal Nursing Specialty",
-    "programLink": "/Programs/28194/British-Columbia-Institute-of-Technology/Neonatal-Nursing-Specialty",
+    "programLink": "https://www.studyincanada.com/Programs/28194/British-Columbia-Institute-of-Technology/Neonatal-Nursing-Specialty",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "12 Week(s)"
@@ -11775,7 +11775,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Nursing",
     "location": "Canada, Alberta",
     "programName": "Nursing - Four Year",
-    "programLink": "/Programs/71889/University-of-Calgary-Faculty-of-Nursing/Nursing-Four-Year",
+    "programLink": "https://www.studyincanada.com/Programs/71889/University-of-Calgary-Faculty-of-Nursing/Nursing-Four-Year",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -11784,7 +11784,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Specialty Nursing (Perinatal - Standard Option)",
-    "programLink": "/Programs/28232/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Perinatal-Standard-Option)",
+    "programLink": "https://www.studyincanada.com/Programs/28232/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Perinatal-Standard-Option)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11793,7 +11793,7 @@ export default [
     "schoolName": "Fanshawe College",
     "location": "Canada, Ontario",
     "programName": "Collaborative Nursing (B.Sc.N.)",
-    "programLink": "/Programs/3912/Fanshawe-College/Collaborative-Nursing-(B.Sc.N.)",
+    "programLink": "https://www.studyincanada.com/Programs/3912/Fanshawe-College/Collaborative-Nursing-(B.Sc.N.)",
     "entranceGrade": "86 - 89",
     "tutionValue": "$20,367",
     "length": "4 Year(s)"
@@ -11802,7 +11802,7 @@ export default [
     "schoolName": "Lambton College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/12581/Lambton-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/12581/Lambton-College/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11811,7 +11811,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Pediatric Nursing Specialty (Critical Care Option)",
-    "programLink": "/Programs/28215/British-Columbia-Institute-of-Technology/Pediatric-Nursing-Specialty-(Critical-Care-Option)",
+    "programLink": "https://www.studyincanada.com/Programs/28215/British-Columbia-Institute-of-Technology/Pediatric-Nursing-Specialty-(Critical-Care-Option)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11820,7 +11820,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Public Health: Nursing Specialization (M.P.H.)",
-    "programLink": "/Programs/71275/Lakehead-University-Faculty-of-Graduate-Studies/Public-Health-Nursing-Specialization-(M.P.H.)",
+    "programLink": "https://www.studyincanada.com/Programs/71275/Lakehead-University-Faculty-of-Graduate-Studies/Public-Health-Nursing-Specialization-(M.P.H.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11829,7 +11829,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Gerontological Nursing",
-    "programLink": "/Programs/81398/Selkirk-College/Gerontological-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/81398/Selkirk-College/Gerontological-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$17,609",
     "length": "2 Year(s)"
@@ -11838,7 +11838,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Practical Nursing",
-    "programLink": "/Programs/3521/Georgian-College/Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/3521/Georgian-College/Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$14,359",
     "length": "2 Year(s)"
@@ -11847,7 +11847,7 @@ export default [
     "schoolName": "Lambton College",
     "location": "Canada, Ontario",
     "programName": "Pre-Health Sciences Pathway to Advanced Diplomas & Degrees",
-    "programLink": "/Programs/28953/Lambton-College/Pre-Health-Sciences-Pathway-to-Advanced-Diplomas-&-Degrees",
+    "programLink": "https://www.studyincanada.com/Programs/28953/Lambton-College/Pre-Health-Sciences-Pathway-to-Advanced-Diplomas-&-Degrees",
     "entranceGrade": "55 - 55",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -11856,7 +11856,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Access to Practical Nursing",
-    "programLink": "/Programs/56432/Selkirk-College/Access-to-Practical-Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/56432/Selkirk-College/Access-to-Practical-Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "9 Month(s)"
@@ -11874,7 +11874,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Bachelor of Science in Nursing (BScN) - Cornwall",
-    "programLink": "/Programs/108902/St.-Lawrence-College/Bachelor-of-Science-in-Nursing-(BScN)-Cornwall",
+    "programLink": "https://www.studyincanada.com/Programs/108902/St.-Lawrence-College/Bachelor-of-Science-in-Nursing-(BScN)-Cornwall",
     "entranceGrade": "83",
     "tutionValue": "$22,412",
     "length": "4 Year(s)"
@@ -11883,7 +11883,7 @@ export default [
     "schoolName": "Saskatchewan Polytechnic",
     "location": "Canada, Saskatchewan",
     "programName": "Nursing (Saskatchewan Collaborative Bachelor of Science in Nursi...",
-    "programLink": "/Programs/65967/Saskatchewan-Polytechnic/Nursing-(Saskatchewan-Collaborative-Bachelor-of-Science-in-Nursi...",
+    "programLink": "https://www.studyincanada.com/Programs/65967/Saskatchewan-Polytechnic/Nursing-(Saskatchewan-Collaborative-Bachelor-of-Science-in-Nursi...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$11,939",
     "length": "4 Year(s)"
@@ -11892,7 +11892,7 @@ export default [
     "schoolName": "Lethbridge College",
     "location": "Canada, Alberta",
     "programName": "Practical Nurse",
-    "programLink": "/Programs/13077/Lethbridge-College/Practical-Nurse",
+    "programLink": "https://www.studyincanada.com/Programs/13077/Lethbridge-College/Practical-Nurse",
     "entranceGrade": "N/S",
     "tutionValue": "$16,480",
     "length": "2 Year(s)"
@@ -11901,7 +11901,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Nursing (Integrated)",
-    "programLink": "/Programs/65662/McGill-University/Nursing-(Integrated)",
+    "programLink": "https://www.studyincanada.com/Programs/65662/McGill-University/Nursing-(Integrated)",
     "entranceGrade": "N/S",
     "tutionValue": "$21,786",
     "length": "5 Year(s)"
@@ -11910,7 +11910,7 @@ export default [
     "schoolName": "College of the Rockies",
     "location": "Canada, British Columbia",
     "programName": "Practical Nurse",
-    "programLink": "/Programs/15896/College-of-the-Rockies/Practical-Nurse",
+    "programLink": "https://www.studyincanada.com/Programs/15896/College-of-the-Rockies/Practical-Nurse",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -11919,7 +11919,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Nursing Science",
-    "programLink": "/Programs/23112/Queen-s-University/Nursing-Science",
+    "programLink": "https://www.studyincanada.com/Programs/23112/Queen-s-University/Nursing-Science",
     "entranceGrade": "85 - 100",
     "tutionValue": "$55,591",
     "length": "4 Year(s)"
@@ -11928,7 +11928,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Nursing",
-    "programLink": "/Programs/91573/McMaster-University/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/91573/McMaster-University/Nursing",
     "entranceGrade": "85",
     "tutionValue": "$46,044",
     "length": "4 Year(s)"
@@ -11937,7 +11937,7 @@ export default [
     "schoolName": "McMaster University - Faculty of Health Sciences",
     "location": "Canada, Ontario",
     "programName": "Nursing",
-    "programLink": "/Programs/27780/McMaster-University-Faculty-of-Health-Sciences/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/27780/McMaster-University-Faculty-of-Health-Sciences/Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$6,307",
     "length": "4 Year(s)"
@@ -11946,7 +11946,7 @@ export default [
     "schoolName": "Loyalist College",
     "location": "Canada, Ontario",
     "programName": "Nursing",
-    "programLink": "/Programs/7876/Loyalist-College/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/7876/Loyalist-College/Nursing",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -11955,7 +11955,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Health & Behaviour (B.Sc.)",
-    "programLink": "/Programs/107796/Trent-University/Health-&-Behaviour-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/107796/Trent-University/Health-&-Behaviour-(B.Sc.)",
     "entranceGrade": "75",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -11964,7 +11964,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Nursing",
     "location": "Canada, Alberta",
     "programName": "Nursing",
-    "programLink": "/Programs/71884/University-of-Calgary-Faculty-of-Nursing/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/71884/University-of-Calgary-Faculty-of-Nursing/Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -11973,7 +11973,7 @@ export default [
     "schoolName": "Red Deer Polytechnic",
     "location": "Canada, Alberta",
     "programName": "Practical Nurse",
-    "programLink": "/Programs/8808/Red-Deer-Polytechnic/Practical-Nurse",
+    "programLink": "https://www.studyincanada.com/Programs/8808/Red-Deer-Polytechnic/Practical-Nurse",
     "entranceGrade": "60 - 100",
     "tutionValue": "$13,311",
     "length": "2 Year(s)"
@@ -11982,7 +11982,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Specialty Nursing (Pediatric - Critical Care Option)",
-    "programLink": "/Programs/28280/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Pediatric-Critical-Care-Option)",
+    "programLink": "https://www.studyincanada.com/Programs/28280/British-Columbia-Institute-of-Technology/Specialty-Nursing-(Pediatric-Critical-Care-Option)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -11991,7 +11991,7 @@ export default [
     "schoolName": "St. Clair College",
     "location": "Canada, Ontario",
     "programName": "Nursing - BSCN (Chatham)",
-    "programLink": "/Programs/85184/St.-Clair-College/Nursing-BSCN-(Chatham)",
+    "programLink": "https://www.studyincanada.com/Programs/85184/St.-Clair-College/Nursing-BSCN-(Chatham)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -12000,7 +12000,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Nursing",
-    "programLink": "/Programs/12307/University-of-Victoria/Nursing",
+    "programLink": "https://www.studyincanada.com/Programs/12307/University-of-Victoria/Nursing",
     "entranceGrade": "N/S",
     "tutionValue": "$27,949",
     "length": "2 Year(s)"
@@ -12009,7 +12009,7 @@ export default [
     "schoolName": "Confederation College",
     "location": "Canada, Ontario",
     "programName": "Collaborative Bachelor of Science in Nursing (BScN)",
-    "programLink": "/Programs/245/Confederation-College/Collaborative-Bachelor-of-Science-in-Nursing-(BScN)",
+    "programLink": "https://www.studyincanada.com/Programs/245/Confederation-College/Collaborative-Bachelor-of-Science-in-Nursing-(BScN)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -12099,7 +12099,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Health Sciences - Community and Population Health - Aboriginal a...",
-    "programLink": "/Programs/40252/University-of-Northern-British-Columbia/Health-Sciences-Community-and-Population-Health-Aboriginal-a...",
+    "programLink": "https://www.studyincanada.com/Programs/40252/University-of-Northern-British-Columbia/Health-Sciences-Community-and-Population-Health-Aboriginal-a...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -12108,7 +12108,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Health Sciences | Aboriginal Health",
-    "programLink": "/Programs/82276/University-of-Lethbridge/Bachelor-of-Health-Sciences-|-Aboriginal-Health",
+    "programLink": "https://www.studyincanada.com/Programs/82276/University-of-Lethbridge/Bachelor-of-Health-Sciences-|-Aboriginal-Health",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -12117,7 +12117,7 @@ export default [
     "schoolName": "Tyndale University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences Pre-Medicine with a Minor in Chemistry",
-    "programLink": "/Programs/115972/Tyndale-University/Health-Sciences-Pre-Medicine-with-a-Minor-in-Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/115972/Tyndale-University/Health-Sciences-Pre-Medicine-with-a-Minor-in-Chemistry",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -12126,7 +12126,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences (Biomedical Sciences Specialization)",
-    "programLink": "/Programs/91553/McMaster-University/Health-Sciences-(Biomedical-Sciences-Specialization)",
+    "programLink": "https://www.studyincanada.com/Programs/91553/McMaster-University/Health-Sciences-(Biomedical-Sciences-Specialization)",
     "entranceGrade": "90",
     "tutionValue": "$48,996",
     "length": "4 Year(s)"
@@ -12135,7 +12135,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Interdisciplinary Health Sciences",
-    "programLink": "/Programs/114226/University-of-Windsor/Interdisciplinary-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/114226/University-of-Windsor/Interdisciplinary-Health-Sciences",
     "entranceGrade": "70 - 100",
     "tutionValue": "$37,497",
     "length": "4 Year(s)"
@@ -12144,7 +12144,7 @@ export default [
     "schoolName": "Red Deer Polytechnic",
     "location": "Canada, Alberta",
     "programName": "Pre-Health Sciences",
-    "programLink": "/Programs/96162/Red-Deer-Polytechnic/Pre-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/96162/Red-Deer-Polytechnic/Pre-Health-Sciences",
     "entranceGrade": "50",
     "tutionValue": "$21,527",
     "length": "1 Year(s)"
@@ -12153,7 +12153,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Bachelor of Health Sciences – Workplace Health and Wellness",
-    "programLink": "/Programs/90728/Humber-College-Institute-of-Technology-&-Advanced-Learning/Bachelor-of-Health-Sciences-%e2%80%93-Workplace-Health-and-Wellness",
+    "programLink": "https://www.studyincanada.com/Programs/90728/Humber-College-Institute-of-Technology-&-Advanced-Learning/Bachelor-of-Health-Sciences-%e2%80%93-Workplace-Health-and-Wellness",
     "entranceGrade": "65",
     "tutionValue": "$19,615",
     "length": "4 Year(s)"
@@ -12162,7 +12162,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences - Health and Aging",
-    "programLink": "/Programs/107565/Western-University/Health-Sciences-Health-and-Aging",
+    "programLink": "https://www.studyincanada.com/Programs/107565/Western-University/Health-Sciences-Health-and-Aging",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "N/S"
@@ -12171,7 +12171,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Health Sciences - Diagnostic Medical Ultrasound (BHSc)",
-    "programLink": "/Programs/14843/Dalhousie-University/Health-Sciences-Diagnostic-Medical-Ultrasound-(BHSc)",
+    "programLink": "https://www.studyincanada.com/Programs/14843/Dalhousie-University/Health-Sciences-Diagnostic-Medical-Ultrasound-(BHSc)",
     "entranceGrade": "75",
     "tutionValue": "$30,970",
     "length": "4 Year(s)"
@@ -12180,7 +12180,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences (Child Health Specialization)",
-    "programLink": "/Programs/91508/McMaster-University/Health-Sciences-(Child-Health-Specialization)",
+    "programLink": "https://www.studyincanada.com/Programs/91508/McMaster-University/Health-Sciences-(Child-Health-Specialization)",
     "entranceGrade": "90",
     "tutionValue": "$48,996",
     "length": "4 Year(s)"
@@ -12189,7 +12189,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Pre-Professional Health Sciences",
-    "programLink": "/Programs/45650/Thompson-Rivers-University/Pre-Professional-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/45650/Thompson-Rivers-University/Pre-Professional-Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -12198,7 +12198,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Health Sciences (Arts)",
-    "programLink": "/Programs/66017/Langara-College/Health-Sciences-(Arts)",
+    "programLink": "https://www.studyincanada.com/Programs/66017/Langara-College/Health-Sciences-(Arts)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12207,7 +12207,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Health Sciences (M.H.Sc.)",
-    "programLink": "/Programs/71276/Lakehead-University-Faculty-of-Graduate-Studies/Health-Sciences-(M.H.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/71276/Lakehead-University-Faculty-of-Graduate-Studies/Health-Sciences-(M.H.Sc.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12216,7 +12216,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences",
-    "programLink": "/Programs/84629/Redeemer-University/Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/84629/Redeemer-University/Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "4 Year(s)"
@@ -12225,7 +12225,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Molecular Biology - Specialization in Health Sc...",
-    "programLink": "/Programs/105836/Trent-University/Biochemistry-and-Molecular-Biology-Specialization-in-Health-Sc...",
+    "programLink": "https://www.studyincanada.com/Programs/105836/Trent-University/Biochemistry-and-Molecular-Biology-Specialization-in-Health-Sc...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -12234,7 +12234,7 @@ export default [
     "schoolName": "Canadore College",
     "location": "Canada, Ontario",
     "programName": "Pre-Health Sciences Pathway to Certificates and Diplomas",
-    "programLink": "/Programs/31312/Canadore-College/Pre-Health-Sciences-Pathway-to-Certificates-and-Diplomas",
+    "programLink": "https://www.studyincanada.com/Programs/31312/Canadore-College/Pre-Health-Sciences-Pathway-to-Certificates-and-Diplomas",
     "entranceGrade": "N/S",
     "tutionValue": "$17,490",
     "length": "1 Year(s)"
@@ -12243,7 +12243,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Community Health Sciences",
-    "programLink": "/Programs/79435/University-of-Manitoba-Faculty-of-Graduate-Studies/Community-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/79435/University-of-Manitoba-Faculty-of-Graduate-Studies/Community-Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -12252,7 +12252,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Community Health Sciences",
-    "programLink": "/Programs/79433/University-of-Manitoba-Faculty-of-Graduate-Studies/Community-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/79433/University-of-Manitoba-Faculty-of-Graduate-Studies/Community-Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12261,7 +12261,7 @@ export default [
     "schoolName": "Faculty of Medicine at the University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Community Health Sciences",
-    "programLink": "/Programs/15877/Faculty-of-Medicine-at-the-University-of-Calgary/Community-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/15877/Faculty-of-Medicine-at-the-University-of-Calgary/Community-Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$16,389",
     "length": "4 Year(s)"
@@ -12270,7 +12270,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Health Sciences",
-    "programLink": "/Programs/16632/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/16632/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Health-Sciences",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -12279,7 +12279,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences- Health Promotion",
-    "programLink": "/Programs/65504/Western-University/Health-Sciences-Health-Promotion",
+    "programLink": "https://www.studyincanada.com/Programs/65504/Western-University/Health-Sciences-Health-Promotion",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -12288,7 +12288,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Health Sciences",
-    "programLink": "/Programs/60026/University-of-Manitoba/Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/60026/University-of-Manitoba/Health-Sciences",
     "entranceGrade": "85 - 85",
     "tutionValue": "$18,500",
     "length": "4 Year(s)"
@@ -12297,7 +12297,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Health Sciences (Science)",
-    "programLink": "/Programs/67668/Langara-College/Health-Sciences-(Science)",
+    "programLink": "https://www.studyincanada.com/Programs/67668/Langara-College/Health-Sciences-(Science)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12306,7 +12306,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences",
-    "programLink": "/Programs/3921/Western-University/Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/3921/Western-University/Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "N/S"
@@ -12315,7 +12315,7 @@ export default [
     "schoolName": "Durham College",
     "location": "Canada, Ontario",
     "programName": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees",
-    "programLink": "/Programs/112988/Durham-College/Pre-Health-Sciences-Pathway-to-Advanced-Diplomas-and-Degrees",
+    "programLink": "https://www.studyincanada.com/Programs/112988/Durham-College/Pre-Health-Sciences-Pathway-to-Advanced-Diplomas-and-Degrees",
     "entranceGrade": "N/S",
     "tutionValue": "$14,884",
     "length": "1 Year(s)"
@@ -12324,7 +12324,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Pre-Health Sciences Pathway to Certificates and Diplomas",
-    "programLink": "/Programs/106062/St.-Lawrence-College/Pre-Health-Sciences-Pathway-to-Certificates-and-Diplomas",
+    "programLink": "https://www.studyincanada.com/Programs/106062/St.-Lawrence-College/Pre-Health-Sciences-Pathway-to-Certificates-and-Diplomas",
     "entranceGrade": "N/S",
     "tutionValue": "$14,600",
     "length": "1 Year(s)"
@@ -12333,7 +12333,7 @@ export default [
     "schoolName": "Tyndale University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences Professional with a Minor in Psychology",
-    "programLink": "/Programs/81840/Tyndale-University/Health-Sciences-Professional-with-a-Minor-in-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/81840/Tyndale-University/Health-Sciences-Professional-with-a-Minor-in-Psychology",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -12342,7 +12342,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Health Sciences - Biomedical Studies",
-    "programLink": "/Programs/76020/University-of-Northern-British-Columbia/Health-Sciences-Biomedical-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/76020/University-of-Northern-British-Columbia/Health-Sciences-Biomedical-Studies",
     "entranceGrade": "70 - 100",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -12351,7 +12351,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Health Sciences - Community and Population Health - Environmenta...",
-    "programLink": "/Programs/76022/University-of-Northern-British-Columbia/Health-Sciences-Community-and-Population-Health-Environmenta...",
+    "programLink": "https://www.studyincanada.com/Programs/76022/University-of-Northern-British-Columbia/Health-Sciences-Community-and-Population-Health-Environmenta...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -12360,7 +12360,7 @@ export default [
     "schoolName": "Lambton College",
     "location": "Canada, Ontario",
     "programName": "Pre-Health Sciences Pathway to Advanced Diplomas & Degrees",
-    "programLink": "/Programs/28953/Lambton-College/Pre-Health-Sciences-Pathway-to-Advanced-Diplomas-&-Degrees",
+    "programLink": "https://www.studyincanada.com/Programs/28953/Lambton-College/Pre-Health-Sciences-Pathway-to-Advanced-Diplomas-&-Degrees",
     "entranceGrade": "55 - 55",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -12369,7 +12369,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "HBA/ Health Sciences",
-    "programLink": "/Programs/107598/Western-University/HBA/-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/107598/Western-University/HBA/-Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "5 Year(s)"
@@ -12378,7 +12378,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Health Sciences",
-    "programLink": "/Programs/106446/Lakehead-University-Faculty-of-Graduate-Studies/Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/106446/Lakehead-University-Faculty-of-Graduate-Studies/Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -12387,7 +12387,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Health Sciences | Public Health",
-    "programLink": "/Programs/85808/University-of-Lethbridge/Bachelor-of-Health-Sciences-|-Public-Health",
+    "programLink": "https://www.studyincanada.com/Programs/85808/University-of-Lethbridge/Bachelor-of-Health-Sciences-|-Public-Health",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -12396,7 +12396,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences (Core)",
-    "programLink": "/Programs/4504/McMaster-University/Health-Sciences-(Core)",
+    "programLink": "https://www.studyincanada.com/Programs/4504/McMaster-University/Health-Sciences-(Core)",
     "entranceGrade": "90",
     "tutionValue": "$48,996",
     "length": "4 Year(s)"
@@ -12405,7 +12405,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Health Sciences - Integrative Health Biosciences",
-    "programLink": "/Programs/104954/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Health-Sciences-Integrative-Health-Biosciences",
+    "programLink": "https://www.studyincanada.com/Programs/104954/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Health-Sciences-Integrative-Health-Biosciences",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -12414,7 +12414,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Kinesiology and Health Sciences",
-    "programLink": "/Programs/10408/Graduate-Studies-at-University-of-Waterloo/Kinesiology-and-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/10408/Graduate-Studies-at-University-of-Waterloo/Kinesiology-and-Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -12423,7 +12423,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences",
-    "programLink": "/Programs/109468/Queen-s-University/Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/109468/Queen-s-University/Health-Sciences",
     "entranceGrade": "90 - 100",
     "tutionValue": "$35,846",
     "length": "4 Year(s)"
@@ -12432,7 +12432,7 @@ export default [
     "schoolName": "Cambrian College",
     "location": "Canada, Ontario",
     "programName": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees",
-    "programLink": "/Programs/12868/Cambrian-College/Pre-Health-Sciences-Pathway-to-Advanced-Diplomas-and-Degrees",
+    "programLink": "https://www.studyincanada.com/Programs/12868/Cambrian-College/Pre-Health-Sciences-Pathway-to-Advanced-Diplomas-and-Degrees",
     "entranceGrade": "N/S",
     "tutionValue": "$17,411",
     "length": "1 Year(s)"
@@ -12441,7 +12441,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences - Professional",
-    "programLink": "/Programs/88523/Redeemer-University/Health-Sciences-Professional",
+    "programLink": "https://www.studyincanada.com/Programs/88523/Redeemer-University/Health-Sciences-Professional",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "4 Year(s)"
@@ -12450,7 +12450,7 @@ export default [
     "schoolName": "Faculty of Medicine at the University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Community Health Sciences",
-    "programLink": "/Programs/15876/Faculty-of-Medicine-at-the-University-of-Calgary/Community-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/15876/Faculty-of-Medicine-at-the-University-of-Calgary/Community-Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$16,389",
     "length": "2 Year(s)"
@@ -12459,7 +12459,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Community Health Sciences (MPH)",
-    "programLink": "/Programs/111605/University-of-Manitoba-Faculty-of-Graduate-Studies/Community-Health-Sciences-(MPH)",
+    "programLink": "https://www.studyincanada.com/Programs/111605/University-of-Manitoba-Faculty-of-Graduate-Studies/Community-Health-Sciences-(MPH)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12468,7 +12468,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Biology - Specialization in Health Sciences (B.Sc.)",
-    "programLink": "/Programs/78477/Trent-University/Biology-Specialization-in-Health-Sciences-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/78477/Trent-University/Biology-Specialization-in-Health-Sciences-(B.Sc.)",
     "entranceGrade": "70",
     "tutionValue": "$28,285",
     "length": "3 Year(s)"
@@ -12477,7 +12477,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Health Sciences - Biomedical Studies",
-    "programLink": "/Programs/40248/University-of-Northern-British-Columbia/Health-Sciences-Biomedical-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/40248/University-of-Northern-British-Columbia/Health-Sciences-Biomedical-Studies",
     "entranceGrade": "70 - 100",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -12486,7 +12486,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Health Sciences | Addictions Counselling",
-    "programLink": "/Programs/12516/University-of-Lethbridge/Bachelor-of-Health-Sciences-|-Addictions-Counselling",
+    "programLink": "https://www.studyincanada.com/Programs/12516/University-of-Lethbridge/Bachelor-of-Health-Sciences-|-Addictions-Counselling",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -12495,7 +12495,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Translational Health Sciences",
-    "programLink": "/Programs/113799/University-of-Windsor-Faculty-of-Graduate-Studies/Translational-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/113799/University-of-Windsor-Faculty-of-Graduate-Studies/Translational-Health-Sciences",
     "entranceGrade": "70 - 100",
     "tutionValue": "$9,360",
     "length": "1 Year(s)"
@@ -12504,7 +12504,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Health Sciences (Arts)",
-    "programLink": "/Programs/66021/Langara-College/Health-Sciences-(Arts)",
+    "programLink": "https://www.studyincanada.com/Programs/66021/Langara-College/Health-Sciences-(Arts)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12513,7 +12513,7 @@ export default [
     "schoolName": "Durham College",
     "location": "Canada, Ontario",
     "programName": "Pre-Health Sciences Pathway to Certificates and Diplomas",
-    "programLink": "/Programs/112989/Durham-College/Pre-Health-Sciences-Pathway-to-Certificates-and-Diplomas",
+    "programLink": "https://www.studyincanada.com/Programs/112989/Durham-College/Pre-Health-Sciences-Pathway-to-Certificates-and-Diplomas",
     "entranceGrade": "N/S",
     "tutionValue": "$16,089",
     "length": "1 Year(s)"
@@ -12522,7 +12522,7 @@ export default [
     "schoolName": "Canadian Mennonite University",
     "location": "Canada, Manitoba",
     "programName": "Health Sciences (Pre-Professional)",
-    "programLink": "/Programs/97485/Canadian-Mennonite-University/Health-Sciences-(Pre-Professional)",
+    "programLink": "https://www.studyincanada.com/Programs/97485/Canadian-Mennonite-University/Health-Sciences-(Pre-Professional)",
     "entranceGrade": "N/S",
     "tutionValue": "$10,208",
     "length": "1 Year(s)"
@@ -12531,7 +12531,7 @@ export default [
     "schoolName": "Sheridan College",
     "location": "Canada, Ontario",
     "programName": "Applied Health Sciences -- Athletic Therapy",
-    "programLink": "/Programs/115862/Sheridan-College/Applied-Health-Sciences-Athletic-Therapy",
+    "programLink": "https://www.studyincanada.com/Programs/115862/Sheridan-College/Applied-Health-Sciences-Athletic-Therapy",
     "entranceGrade": "65",
     "tutionValue": "$27,415",
     "length": "4 Year(s)"
@@ -12540,7 +12540,7 @@ export default [
     "schoolName": "Sheridan College",
     "location": "Canada, Ontario",
     "programName": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees",
-    "programLink": "/Programs/115883/Sheridan-College/Pre-Health-Sciences-Pathway-to-Advanced-Diplomas-and-Degrees",
+    "programLink": "https://www.studyincanada.com/Programs/115883/Sheridan-College/Pre-Health-Sciences-Pathway-to-Advanced-Diplomas-and-Degrees",
     "entranceGrade": "N/S",
     "tutionValue": "$18,566",
     "length": "1 Year(s)"
@@ -12549,7 +12549,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Health Sciences - Population and Public Health",
-    "programLink": "/Programs/104952/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Health-Sciences-Population-and-Public-Health",
+    "programLink": "https://www.studyincanada.com/Programs/104952/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Health-Sciences-Population-and-Public-Health",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -12558,7 +12558,7 @@ export default [
     "schoolName": "Cape Breton University",
     "location": "Canada, Nova Scotia",
     "programName": "Bachelor of Health Sciences (Public Health)",
-    "programLink": "/Programs/105170/Cape-Breton-University/Bachelor-of-Health-Sciences-(Public-Health)",
+    "programLink": "https://www.studyincanada.com/Programs/105170/Cape-Breton-University/Bachelor-of-Health-Sciences-(Public-Health)",
     "entranceGrade": "65",
     "tutionValue": "$19,579",
     "length": "4 Year(s)"
@@ -12567,7 +12567,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Health Sciences - Community and Population Health - Environmenta...",
-    "programLink": "/Programs/40253/University-of-Northern-British-Columbia/Health-Sciences-Community-and-Population-Health-Environmenta...",
+    "programLink": "https://www.studyincanada.com/Programs/40253/University-of-Northern-British-Columbia/Health-Sciences-Community-and-Population-Health-Environmenta...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -12576,7 +12576,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Forensic Health Sciences",
-    "programLink": "/Programs/28099/British-Columbia-Institute-of-Technology/Forensic-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/28099/British-Columbia-Institute-of-Technology/Forensic-Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -12585,7 +12585,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Health Sciences - Technologies and Innovation in Healthcare",
-    "programLink": "/Programs/104953/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Health-Sciences-Technologies-and-Innovation-in-Healthcare",
+    "programLink": "https://www.studyincanada.com/Programs/104953/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Health-Sciences-Technologies-and-Innovation-in-Healthcare",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -12594,7 +12594,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences",
-    "programLink": "/Programs/104981/Queen-s-University/Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/104981/Queen-s-University/Health-Sciences",
     "entranceGrade": "90 - 100",
     "tutionValue": "$26,626",
     "length": "4 Year(s)"
@@ -12603,7 +12603,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences with Biology",
-    "programLink": "/Programs/65505/Western-University/Health-Sciences-with-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/65505/Western-University/Health-Sciences-with-Biology",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -12612,7 +12612,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Health Sciences - Community and Population Health - Aboriginal a...",
-    "programLink": "/Programs/76021/University-of-Northern-British-Columbia/Health-Sciences-Community-and-Population-Health-Aboriginal-a...",
+    "programLink": "https://www.studyincanada.com/Programs/76021/University-of-Northern-British-Columbia/Health-Sciences-Community-and-Population-Health-Aboriginal-a...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -12621,7 +12621,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Health Sciences (Science)",
-    "programLink": "/Programs/67666/Langara-College/Health-Sciences-(Science)",
+    "programLink": "https://www.studyincanada.com/Programs/67666/Langara-College/Health-Sciences-(Science)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12630,7 +12630,7 @@ export default [
     "schoolName": "Sheridan College",
     "location": "Canada, Ontario",
     "programName": "Health Sciences - Kinesiology and Health Promotion",
-    "programLink": "/Programs/56533/Sheridan-College/Health-Sciences-Kinesiology-and-Health-Promotion",
+    "programLink": "https://www.studyincanada.com/Programs/56533/Sheridan-College/Health-Sciences-Kinesiology-and-Health-Promotion",
     "entranceGrade": "65 - 65",
     "tutionValue": "$27,121",
     "length": "4 Year(s)"
@@ -12639,7 +12639,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Biology - Internship in Health Sciences (B.Sc.)",
-    "programLink": "/Programs/91070/Trent-University/Biology-Internship-in-Health-Sciences-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/91070/Trent-University/Biology-Internship-in-Health-Sciences-(B.Sc.)",
     "entranceGrade": "N/S",
     "tutionValue": "$28,285",
     "length": "N/S"
@@ -12711,7 +12711,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Public Health and Health Systems (Aging, Health, and Well-Being)...",
-    "programLink": "/Programs/33322/Graduate-Studies-at-University-of-Waterloo/Public-Health-and-Health-Systems-(Aging,-Health,-and-Well-Being)...",
+    "programLink": "https://www.studyincanada.com/Programs/33322/Graduate-Studies-at-University-of-Waterloo/Public-Health-and-Health-Systems-(Aging,-Health,-and-Well-Being)...",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -12720,7 +12720,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Public Health and Health Systems",
-    "programLink": "/Programs/615/Graduate-Studies-at-University-of-Waterloo/Public-Health-and-Health-Systems",
+    "programLink": "https://www.studyincanada.com/Programs/615/Graduate-Studies-at-University-of-Waterloo/Public-Health-and-Health-Systems",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -12729,7 +12729,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Public Health: Nursing Specialization (M.P.H.)",
-    "programLink": "/Programs/71275/Lakehead-University-Faculty-of-Graduate-Studies/Public-Health-Nursing-Specialization-(M.P.H.)",
+    "programLink": "https://www.studyincanada.com/Programs/71275/Lakehead-University-Faculty-of-Graduate-Studies/Public-Health-Nursing-Specialization-(M.P.H.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12738,7 +12738,7 @@ export default [
     "schoolName": "McMaster University - Faculty of Health Sciences",
     "location": "Canada, Ontario",
     "programName": "Public Health (Thesis-based)",
-    "programLink": "/Programs/88044/McMaster-University-Faculty-of-Health-Sciences/Public-Health-(Thesis-based)",
+    "programLink": "https://www.studyincanada.com/Programs/88044/McMaster-University-Faculty-of-Health-Sciences/Public-Health-(Thesis-based)",
     "entranceGrade": "77",
     "tutionValue": "$51,047",
     "length": "2 Year(s)"
@@ -12747,7 +12747,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa - Faculty of Medicine",
     "location": "Canada, Ontario",
     "programName": "Public Health",
-    "programLink": "/Programs/109654/University-of-Ottawa/Universit%c3%a9-d-Ottawa-Faculty-of-Medicine/Public-Health",
+    "programLink": "https://www.studyincanada.com/Programs/109654/University-of-Ottawa/Universit%c3%a9-d-Ottawa-Faculty-of-Medicine/Public-Health",
     "entranceGrade": "75 - 75",
     "tutionValue": "$30,000",
     "length": "16 Month(s)"
@@ -12756,7 +12756,7 @@ export default [
     "schoolName": "Cape Breton University",
     "location": "Canada, Nova Scotia",
     "programName": "Bachelor of Health Sciences (Public Health)",
-    "programLink": "/Programs/105170/Cape-Breton-University/Bachelor-of-Health-Sciences-(Public-Health)",
+    "programLink": "https://www.studyincanada.com/Programs/105170/Cape-Breton-University/Bachelor-of-Health-Sciences-(Public-Health)",
     "entranceGrade": "65",
     "tutionValue": "$19,579",
     "length": "4 Year(s)"
@@ -12765,7 +12765,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Health Sciences - Population and Public Health",
-    "programLink": "/Programs/104952/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Health-Sciences-Population-and-Public-Health",
+    "programLink": "https://www.studyincanada.com/Programs/104952/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Health-Sciences-Population-and-Public-Health",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -12774,7 +12774,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Public Health and Preventive Medicine Residency",
-    "programLink": "/Programs/111582/University-of-Manitoba-Faculty-of-Graduate-Studies/Public-Health-and-Preventive-Medicine-Residency",
+    "programLink": "https://www.studyincanada.com/Programs/111582/University-of-Manitoba-Faculty-of-Graduate-Studies/Public-Health-and-Preventive-Medicine-Residency",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -12783,7 +12783,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Health Sciences | Public Health",
-    "programLink": "/Programs/85808/University-of-Lethbridge/Bachelor-of-Health-Sciences-|-Public-Health",
+    "programLink": "https://www.studyincanada.com/Programs/85808/University-of-Lethbridge/Bachelor-of-Health-Sciences-|-Public-Health",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -12792,7 +12792,7 @@ export default [
     "schoolName": "McMaster University - Faculty of Health Sciences",
     "location": "Canada, Ontario",
     "programName": "Public Health (Practicum)",
-    "programLink": "/Programs/88051/McMaster-University-Faculty-of-Health-Sciences/Public-Health-(Practicum)",
+    "programLink": "https://www.studyincanada.com/Programs/88051/McMaster-University-Faculty-of-Health-Sciences/Public-Health-(Practicum)",
     "entranceGrade": "77",
     "tutionValue": "$51,047",
     "length": "16 Month(s)"
@@ -12801,7 +12801,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Public Health",
-    "programLink": "/Programs/33334/Graduate-Studies-at-University-of-Waterloo/Public-Health",
+    "programLink": "https://www.studyincanada.com/Programs/33334/Graduate-Studies-at-University-of-Waterloo/Public-Health",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -12810,7 +12810,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Environmental Health (Public Health Inspection)",
-    "programLink": "/Programs/28150/British-Columbia-Institute-of-Technology/Environmental-Health-(Public-Health-Inspection)",
+    "programLink": "https://www.studyincanada.com/Programs/28150/British-Columbia-Institute-of-Technology/Environmental-Health-(Public-Health-Inspection)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12819,7 +12819,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Post-Diploma | Public Health in Health Leadership",
-    "programLink": "/Programs/91087/University-of-Lethbridge/Post-Diploma-|-Public-Health-in-Health-Leadership",
+    "programLink": "https://www.studyincanada.com/Programs/91087/University-of-Lethbridge/Post-Diploma-|-Public-Health-in-Health-Leadership",
     "entranceGrade": "65",
     "tutionValue": "$20,784",
     "length": "2 Year(s)"
@@ -12828,7 +12828,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Public Health (M.P.H.)",
-    "programLink": "/Programs/19422/Lakehead-University-Faculty-of-Graduate-Studies/Public-Health-(M.P.H.)",
+    "programLink": "https://www.studyincanada.com/Programs/19422/Lakehead-University-Faculty-of-Graduate-Studies/Public-Health-(M.P.H.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12873,7 +12873,7 @@ export default [
     "schoolName": "Dalhousie Medical School",
     "location": "Canada, Nova Scotia",
     "programName": "Pharmacy Residency Program",
-    "programLink": "/Programs/2580/Dalhousie-Medical-School/Pharmacy-Residency-Program",
+    "programLink": "https://www.studyincanada.com/Programs/2580/Dalhousie-Medical-School/Pharmacy-Residency-Program",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "12 Month(s)"
@@ -12882,7 +12882,7 @@ export default [
     "schoolName": "Sheridan College",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Technician",
-    "programLink": "/Programs/30150/Sheridan-College/Pharmacy-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/30150/Sheridan-College/Pharmacy-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$18,732",
     "length": "2 Year(s)"
@@ -12891,7 +12891,7 @@ export default [
     "schoolName": "Bow Valley College",
     "location": "Canada, Alberta",
     "programName": "Pharmacy Technician Diploma",
-    "programLink": "/Programs/50584/Bow-Valley-College/Pharmacy-Technician-Diploma",
+    "programLink": "https://www.studyincanada.com/Programs/50584/Bow-Valley-College/Pharmacy-Technician-Diploma",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "16 Month(s)"
@@ -12900,7 +12900,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Pharmacology",
-    "programLink": "/Programs/65664/McGill-University/Pharmacology",
+    "programLink": "https://www.studyincanada.com/Programs/65664/McGill-University/Pharmacology",
     "entranceGrade": "95",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -12909,7 +12909,7 @@ export default [
     "schoolName": "St. Clair College",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Technician",
-    "programLink": "/Programs/6608/St.-Clair-College/Pharmacy-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/6608/St.-Clair-College/Pharmacy-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$15,685",
     "length": "2 Year(s)"
@@ -12918,7 +12918,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Pre-Pharmacy",
-    "programLink": "/Programs/71834/University-of-Regina/Pre-Pharmacy",
+    "programLink": "https://www.studyincanada.com/Programs/71834/University-of-Regina/Pre-Pharmacy",
     "entranceGrade": "65 - 70",
     "tutionValue": "$12,049",
     "length": "N/S"
@@ -12927,7 +12927,7 @@ export default [
     "schoolName": "CDI College (Scarborough Campus)",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/71669/CDI-College-(Scarborough-Campus)/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/71669/CDI-College-(Scarborough-Campus)/Pharmacy-Assistant",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "45 Week(s)"
@@ -12936,7 +12936,7 @@ export default [
     "schoolName": "Bay River College",
     "location": "Canada, Alberta",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/106868/Bay-River-College/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/106868/Bay-River-College/Pharmacy-Assistant",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "34 Week(s)"
@@ -12954,7 +12954,7 @@ export default [
     "schoolName": "triOS College (London Campus)",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/26314/triOS-College-(London-Campus)/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/26314/triOS-College-(London-Campus)/Pharmacy-Assistant",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "32 Week(s)"
@@ -12963,7 +12963,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Pharmacology",
-    "programLink": "/Programs/77492/The-University-of-British-Columbia-Vancouver/Pharmacology",
+    "programLink": "https://www.studyincanada.com/Programs/77492/The-University-of-British-Columbia-Vancouver/Pharmacology",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -12972,7 +12972,7 @@ export default [
     "schoolName": "Lambton College",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Technician",
-    "programLink": "/Programs/28955/Lambton-College/Pharmacy-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/28955/Lambton-College/Pharmacy-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -12981,7 +12981,7 @@ export default [
     "schoolName": "triOS College (Kitchener Campus)",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/26320/triOS-College-(Kitchener-Campus)/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/26320/triOS-College-(Kitchener-Campus)/Pharmacy-Assistant",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "32 Week(s)"
@@ -12990,7 +12990,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Pharmacy (PhD)",
-    "programLink": "/Programs/111615/University-of-Manitoba-Faculty-of-Graduate-Studies/Pharmacy-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/111615/University-of-Manitoba-Faculty-of-Graduate-Studies/Pharmacy-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -12999,7 +12999,7 @@ export default [
     "schoolName": "triOS College (Mississauga Campus)",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/26348/triOS-College-(Mississauga-Campus)/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/26348/triOS-College-(Mississauga-Campus)/Pharmacy-Assistant",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "32 Week(s)"
@@ -13008,7 +13008,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Pharmacology",
-    "programLink": "/Programs/65658/McGill-University/Pharmacology",
+    "programLink": "https://www.studyincanada.com/Programs/65658/McGill-University/Pharmacology",
     "entranceGrade": "95",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -13017,7 +13017,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Pharmaceutical Sciences",
-    "programLink": "/Programs/104478/The-University-of-British-Columbia-Vancouver/Pharmaceutical-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/104478/The-University-of-British-Columbia-Vancouver/Pharmaceutical-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -13026,7 +13026,7 @@ export default [
     "schoolName": "Mohawk College",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Technician",
-    "programLink": "/Programs/23261/Mohawk-College/Pharmacy-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/23261/Mohawk-College/Pharmacy-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$18,473",
     "length": "2 Year(s)"
@@ -13035,7 +13035,7 @@ export default [
     "schoolName": "CDI College (Mississauga Campus)",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/71635/CDI-College-(Mississauga-Campus)/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/71635/CDI-College-(Mississauga-Campus)/Pharmacy-Assistant",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "45 Week(s)"
@@ -13044,7 +13044,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Technician",
-    "programLink": "/Programs/69801/Georgian-College/Pharmacy-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/69801/Georgian-College/Pharmacy-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$14,329",
     "length": "2 Year(s)"
@@ -13053,7 +13053,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Pharmacology",
-    "programLink": "/Programs/77619/The-University-of-British-Columbia-Vancouver/Pharmacology",
+    "programLink": "https://www.studyincanada.com/Programs/77619/The-University-of-British-Columbia-Vancouver/Pharmacology",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -13062,7 +13062,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Pharmacy (Entry-to-Practice)",
-    "programLink": "/Programs/7636/The-University-of-British-Columbia-Vancouver/Pharmacy-(Entry-to-Practice)",
+    "programLink": "https://www.studyincanada.com/Programs/7636/The-University-of-British-Columbia-Vancouver/Pharmacy-(Entry-to-Practice)",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -13071,7 +13071,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Technician",
-    "programLink": "/Programs/1587/Humber-College-Institute-of-Technology-&-Advanced-Learning/Pharmacy-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/1587/Humber-College-Institute-of-Technology-&-Advanced-Learning/Pharmacy-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$16,394",
     "length": "2 Year(s)"
@@ -13080,7 +13080,7 @@ export default [
     "schoolName": "Red Deer Polytechnic",
     "location": "Canada, Alberta",
     "programName": "Pharmacy Technician",
-    "programLink": "/Programs/8807/Red-Deer-Polytechnic/Pharmacy-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/8807/Red-Deer-Polytechnic/Pharmacy-Technician",
     "entranceGrade": "60 - 100",
     "tutionValue": "$22,109",
     "length": "2 Year(s)"
@@ -13089,7 +13089,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Pharmacy",
-    "programLink": "/Programs/11544/University-of-Saskatchewan/Pharmacy",
+    "programLink": "https://www.studyincanada.com/Programs/11544/University-of-Saskatchewan/Pharmacy",
     "entranceGrade": "70",
     "tutionValue": "$17,687",
     "length": "4 Year(s)"
@@ -13098,7 +13098,7 @@ export default [
     "schoolName": "Saskatchewan Polytechnic",
     "location": "Canada, Saskatchewan",
     "programName": "Pharmacy Technician",
-    "programLink": "/Programs/100091/Saskatchewan-Polytechnic/Pharmacy-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/100091/Saskatchewan-Polytechnic/Pharmacy-Technician",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "73 Week(s)"
@@ -13107,7 +13107,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Pharmacology",
-    "programLink": "/Programs/77493/The-University-of-British-Columbia-Vancouver/Pharmacology",
+    "programLink": "https://www.studyincanada.com/Programs/77493/The-University-of-British-Columbia-Vancouver/Pharmacology",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -13116,7 +13116,7 @@ export default [
     "schoolName": "SAIT",
     "location": "Canada, Alberta",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/16644/SAIT/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/16644/SAIT/Pharmacy-Assistant",
     "entranceGrade": "60 - 60",
     "tutionValue": "N/S",
     "length": "5 Month(s)"
@@ -13125,7 +13125,7 @@ export default [
     "schoolName": "triOS College (Windsor Campus)",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/26335/triOS-College-(Windsor-Campus)/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/26335/triOS-College-(Windsor-Campus)/Pharmacy-Assistant",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "32 Week(s)"
@@ -13134,7 +13134,7 @@ export default [
     "schoolName": "Herzing College - Ottawa",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Assistance",
-    "programLink": "/Programs/17962/Herzing-College-Ottawa/Pharmacy-Assistance",
+    "programLink": "https://www.studyincanada.com/Programs/17962/Herzing-College-Ottawa/Pharmacy-Assistance",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1400 Hour(s)"
@@ -13143,7 +13143,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Pharmacy",
-    "programLink": "/Programs/13516/University-of-Manitoba/Pharmacy",
+    "programLink": "https://www.studyincanada.com/Programs/13516/University-of-Manitoba/Pharmacy",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -13152,7 +13152,7 @@ export default [
     "schoolName": "triOS College",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/26341/triOS-College/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/26341/triOS-College/Pharmacy-Assistant",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "32 Week(s)"
@@ -13161,7 +13161,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Entry to Pharmacy",
-    "programLink": "/Programs/81368/Selkirk-College/Entry-to-Pharmacy",
+    "programLink": "https://www.studyincanada.com/Programs/81368/Selkirk-College/Entry-to-Pharmacy",
     "entranceGrade": "N/S",
     "tutionValue": "$13,409",
     "length": "2 Year(s)"
@@ -13170,7 +13170,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Pharmacy Technician Bridging National Education Program",
-    "programLink": "/Programs/81395/Selkirk-College/Pharmacy-Technician-Bridging-National-Education-Program",
+    "programLink": "https://www.studyincanada.com/Programs/81395/Selkirk-College/Pharmacy-Technician-Bridging-National-Education-Program",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -13179,7 +13179,7 @@ export default [
     "schoolName": "Medix School - Brampton",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/95314/Medix-School-Brampton/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/95314/Medix-School-Brampton/Pharmacy-Assistant",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -13188,7 +13188,7 @@ export default [
     "schoolName": "Fanshawe College",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Technician",
-    "programLink": "/Programs/4170/Fanshawe-College/Pharmacy-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/4170/Fanshawe-College/Pharmacy-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$15,629",
     "length": "2 Year(s)"
@@ -13197,7 +13197,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Pharmacology",
-    "programLink": "/Programs/53050/The-University-of-British-Columbia-Vancouver/Pharmacology",
+    "programLink": "https://www.studyincanada.com/Programs/53050/The-University-of-British-Columbia-Vancouver/Pharmacology",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -13206,7 +13206,7 @@ export default [
     "schoolName": "New Brunswick Community College",
     "location": "Canada, New Brunswick",
     "programName": "Pharmacy Technician",
-    "programLink": "/Programs/14109/New-Brunswick-Community-College/Pharmacy-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/14109/New-Brunswick-Community-College/Pharmacy-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$9,468",
     "length": "2 Year(s)"
@@ -13215,7 +13215,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Pharmacy (MSc)",
-    "programLink": "/Programs/111614/University-of-Manitoba-Faculty-of-Graduate-Studies/Pharmacy-(MSc)",
+    "programLink": "https://www.studyincanada.com/Programs/111614/University-of-Manitoba-Faculty-of-Graduate-Studies/Pharmacy-(MSc)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -13224,7 +13224,7 @@ export default [
     "schoolName": "triOS College (Hamilton Campus)",
     "location": "Canada, Ontario",
     "programName": "Pharmacy Assistant",
-    "programLink": "/Programs/26326/triOS-College-(Hamilton-Campus)/Pharmacy-Assistant",
+    "programLink": "https://www.studyincanada.com/Programs/26326/triOS-College-(Hamilton-Campus)/Pharmacy-Assistant",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "32 Week(s)"
@@ -13233,7 +13233,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Pre-Pharmacy",
-    "programLink": "/Programs/68598/The-University-of-Winnipeg/Pre-Pharmacy",
+    "programLink": "https://www.studyincanada.com/Programs/68598/The-University-of-Winnipeg/Pre-Pharmacy",
     "entranceGrade": "N/S",
     "tutionValue": "$15,810",
     "length": "1 Year(s)"
@@ -13242,7 +13242,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Pre-Physical Therapy",
-    "programLink": "/Programs/105187/The-University-of-Winnipeg/Pre-Physical-Therapy",
+    "programLink": "https://www.studyincanada.com/Programs/105187/The-University-of-Winnipeg/Pre-Physical-Therapy",
     "entranceGrade": "N/S",
     "tutionValue": "$15,810",
     "length": "3 Year(s)"
@@ -13251,7 +13251,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Physical Therapy",
-    "programLink": "/Programs/81039/McGill-University/Physical-Therapy",
+    "programLink": "https://www.studyincanada.com/Programs/81039/McGill-University/Physical-Therapy",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -13260,7 +13260,7 @@ export default [
     "schoolName": "Canadian Mennonite University",
     "location": "Canada, Manitoba",
     "programName": "Physical Therapy (Pre-Professional)",
-    "programLink": "/Programs/97489/Canadian-Mennonite-University/Physical-Therapy-(Pre-Professional)",
+    "programLink": "https://www.studyincanada.com/Programs/97489/Canadian-Mennonite-University/Physical-Therapy-(Pre-Professional)",
     "entranceGrade": "N/S",
     "tutionValue": "$10,208",
     "length": "4 Year(s)"
@@ -13269,7 +13269,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Pre-Physical Therapy",
-    "programLink": "/Programs/71829/University-of-Regina/Pre-Physical-Therapy",
+    "programLink": "https://www.studyincanada.com/Programs/71829/University-of-Regina/Pre-Physical-Therapy",
     "entranceGrade": "65 - 70",
     "tutionValue": "$12,049",
     "length": "N/S"
@@ -13278,7 +13278,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Physical Therapy (MPT)",
-    "programLink": "/Programs/111616/University-of-Manitoba-Faculty-of-Graduate-Studies/Physical-Therapy-(MPT)",
+    "programLink": "https://www.studyincanada.com/Programs/111616/University-of-Manitoba-Faculty-of-Graduate-Studies/Physical-Therapy-(MPT)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -13305,7 +13305,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Medical Laboratory Science",
-    "programLink": "/Programs/28255/British-Columbia-Institute-of-Technology/Medical-Laboratory-Science",
+    "programLink": "https://www.studyincanada.com/Programs/28255/British-Columbia-Institute-of-Technology/Medical-Laboratory-Science",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "30 Month(s)"
@@ -13314,7 +13314,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Medical Laboratory Science",
-    "programLink": "/Programs/1732/The-University-of-British-Columbia-Vancouver/Medical-Laboratory-Science",
+    "programLink": "https://www.studyincanada.com/Programs/1732/The-University-of-British-Columbia-Vancouver/Medical-Laboratory-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$55,849",
     "length": "2 Year(s)"
@@ -13323,7 +13323,7 @@ export default [
     "schoolName": "St. Clair College",
     "location": "Canada, Ontario",
     "programName": "Medical Laboratory Science",
-    "programLink": "/Programs/6598/St.-Clair-College/Medical-Laboratory-Science",
+    "programLink": "https://www.studyincanada.com/Programs/6598/St.-Clair-College/Medical-Laboratory-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$15,685",
     "length": "3 Year(s)"
@@ -13332,7 +13332,7 @@ export default [
     "schoolName": "Red River College Polytechnic",
     "location": "Canada, Manitoba",
     "programName": "Medical Laboratory Sciences",
-    "programLink": "/Programs/11714/Red-River-College-Polytechnic/Medical-Laboratory-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/11714/Red-River-College-Polytechnic/Medical-Laboratory-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "22 Month(s)"
@@ -13341,7 +13341,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Medical Laboratory Science",
-    "programLink": "/Programs/8859/St.-Lawrence-College/Medical-Laboratory-Science",
+    "programLink": "https://www.studyincanada.com/Programs/8859/St.-Lawrence-College/Medical-Laboratory-Science",
     "entranceGrade": "85",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -13620,7 +13620,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Biology-Psychology",
-    "programLink": "/Programs/15525/University-of-New-Brunswick-Saint-John/Biology-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/15525/University-of-New-Brunswick-Saint-John/Biology-Psychology",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -13629,7 +13629,7 @@ export default [
     "schoolName": "Alexander College",
     "location": "Canada, British Columbia",
     "programName": "Associate of Arts (Business and Psychology)",
-    "programLink": "/Programs/112955/Alexander-College/Associate-of-Arts-(Business-and-Psychology)",
+    "programLink": "https://www.studyincanada.com/Programs/112955/Alexander-College/Associate-of-Arts-(Business-and-Psychology)",
     "entranceGrade": "N/S",
     "tutionValue": "$18,300",
     "length": "2 Year(s)"
@@ -13638,7 +13638,7 @@ export default [
     "schoolName": "Alexander College",
     "location": "Canada, British Columbia",
     "programName": "Associate of Arts (Psychology)",
-    "programLink": "/Programs/85659/Alexander-College/Associate-of-Arts-(Psychology)",
+    "programLink": "https://www.studyincanada.com/Programs/85659/Alexander-College/Associate-of-Arts-(Psychology)",
     "entranceGrade": "N/S",
     "tutionValue": "$18,300",
     "length": "2 Year(s)"
@@ -13647,7 +13647,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Biology-Psychology",
-    "programLink": "/Programs/22945/University-of-New-Brunswick-Saint-John/Biology-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/22945/University-of-New-Brunswick-Saint-John/Biology-Psychology",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -13656,7 +13656,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/22915/University-of-New-Brunswick-Saint-John/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/22915/University-of-New-Brunswick-Saint-John/Psychology-(B.A.)",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -13728,7 +13728,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Psychology (BSc)",
-    "programLink": "/Programs/108678/Lakehead-University-Orillia/Psychology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/108678/Lakehead-University-Orillia/Psychology-(BSc)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -13737,7 +13737,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Psychology (HBSc)",
-    "programLink": "/Programs/8509/University-of-Toronto-St.-George/Psychology-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8509/University-of-Toronto-St.-George/Psychology-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -13746,7 +13746,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Psychology and School Psychology (PhD)",
-    "programLink": "/Programs/13528/University-of-Manitoba-Faculty-of-Graduate-Studies/Psychology-and-School-Psychology-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/13528/University-of-Manitoba-Faculty-of-Graduate-Studies/Psychology-and-School-Psychology-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -13755,7 +13755,7 @@ export default [
     "schoolName": "Trinity Western University",
     "location": "Canada, British Columbia",
     "programName": "Psychology",
-    "programLink": "/Programs/2248/Trinity-Western-University/Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/2248/Trinity-Western-University/Psychology",
     "entranceGrade": "67 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -13764,7 +13764,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Psychology",
-    "programLink": "/Programs/4727/University-of-Windsor/Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/4727/University-of-Windsor/Psychology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$34,641",
     "length": "4 Year(s)"
@@ -13773,7 +13773,7 @@ export default [
     "schoolName": "Red Deer Polytechnic",
     "location": "Canada, Alberta",
     "programName": "Psychology (B.Sc.)",
-    "programLink": "/Programs/46182/Red-Deer-Polytechnic/Psychology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/46182/Red-Deer-Polytechnic/Psychology-(B.Sc.)",
     "entranceGrade": "60 - 60",
     "tutionValue": "$29,962",
     "length": "4 Year(s)"
@@ -13782,7 +13782,7 @@ export default [
     "schoolName": "Adler University (Vancouver Campus)",
     "location": "Canada, British Columbia",
     "programName": "Counselling Psychology (M.A.C.)",
-    "programLink": "/Programs/28899/Adler-University-(Vancouver-Campus)/Counselling-Psychology-(M.A.C.)",
+    "programLink": "https://www.studyincanada.com/Programs/28899/Adler-University-(Vancouver-Campus)/Counselling-Psychology-(M.A.C.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -13791,7 +13791,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Psychology (BA or BSc)",
-    "programLink": "/Programs/25136/Acadia-University/Psychology-(BA-or-BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/25136/Acadia-University/Psychology-(BA-or-BSc)",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "4 Year(s)"
@@ -13800,7 +13800,7 @@ export default [
     "schoolName": "York University - Glendon Campus",
     "location": "Canada, Ontario",
     "programName": "Psychology (iBSc)",
-    "programLink": "/Programs/109391/York-University-Glendon-Campus/Psychology-(iBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/109391/York-University-Glendon-Campus/Psychology-(iBSc)",
     "entranceGrade": "75 - 79",
     "tutionValue": "$32,502",
     "length": "4 Year(s)"
@@ -13809,7 +13809,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Psychology: Clinical",
-    "programLink": "/Programs/2714/Lakehead-University-Faculty-of-Graduate-Studies/Psychology-Clinical",
+    "programLink": "https://www.studyincanada.com/Programs/2714/Lakehead-University-Faculty-of-Graduate-Studies/Psychology-Clinical",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -13818,7 +13818,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Psychology (BAA)",
-    "programLink": "/Programs/64418/Kwantlen-Polytechnic-University/Psychology-(BAA)",
+    "programLink": "https://www.studyincanada.com/Programs/64418/Kwantlen-Polytechnic-University/Psychology-(BAA)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -13827,7 +13827,7 @@ export default [
     "schoolName": "University of Toronto: Ontario Institute for Studies in Education",
     "location": "Canada, Ontario",
     "programName": "School and Clinical Child Psychology (MA)",
-    "programLink": "/Programs/59885/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/School-and-Clinical-Child-Psychology-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/59885/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/School-and-Clinical-Child-Psychology-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "$27,520",
     "length": "3 Year(s)"
@@ -13836,7 +13836,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Psychology (B.A)",
-    "programLink": "/Programs/9825/Saint-Mary-s-University/Psychology-(B.A)",
+    "programLink": "https://www.studyincanada.com/Programs/9825/Saint-Mary-s-University/Psychology-(B.A)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "5 Year(s)"
@@ -13845,7 +13845,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Psychologie du sport",
-    "programLink": "/Programs/78362/Laurentian-University/Universite-Laurentienne/Psychologie-du-sport",
+    "programLink": "https://www.studyincanada.com/Programs/78362/Laurentian-University/Universite-Laurentienne/Psychologie-du-sport",
     "entranceGrade": "75",
     "tutionValue": "$23,747",
     "length": "4 Year(s)"
@@ -13854,7 +13854,7 @@ export default [
     "schoolName": "Tyndale University",
     "location": "Canada, Ontario",
     "programName": "Psychology",
-    "programLink": "/Programs/21027/Tyndale-University/Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/21027/Tyndale-University/Psychology",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -13863,7 +13863,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/96445/Kwantlen-Polytechnic-University/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/96445/Kwantlen-Polytechnic-University/Psychology-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -13881,7 +13881,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Psychology (B.Sc.)",
-    "programLink": "/Programs/107432/Brandon-University/Psychology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/107432/Brandon-University/Psychology-(B.Sc.)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -13890,7 +13890,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Psychology (B.Sc.)",
-    "programLink": "/Programs/102025/St.-Francis-Xavier-University/Psychology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/102025/St.-Francis-Xavier-University/Psychology-(B.Sc.)",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -13899,7 +13899,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Public Health and Preventive Medicine Residency",
-    "programLink": "/Programs/111582/University-of-Manitoba-Faculty-of-Graduate-Studies/Public-Health-and-Preventive-Medicine-Residency",
+    "programLink": "https://www.studyincanada.com/Programs/111582/University-of-Manitoba-Faculty-of-Graduate-Studies/Public-Health-and-Preventive-Medicine-Residency",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -13908,7 +13908,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/7585/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/7585/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Psychology-(BA)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -13917,7 +13917,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Psychology (HBSc)",
-    "programLink": "/Programs/58309/University-of-Toronto-Scarborough/Psychology-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/58309/University-of-Toronto-Scarborough/Psychology-(HBSc)",
     "entranceGrade": "84 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -13926,7 +13926,7 @@ export default [
     "schoolName": "Grenfell Campus, Memorial University",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/96677/Grenfell-Campus,-Memorial-University/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/96677/Grenfell-Campus,-Memorial-University/Psychology-(BA)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$11,460",
     "length": "4 Year(s)"
@@ -13935,7 +13935,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Applied Social Psychology",
-    "programLink": "/Programs/4729/University-of-Windsor-Faculty-of-Graduate-Studies/Applied-Social-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/4729/University-of-Windsor-Faculty-of-Graduate-Studies/Applied-Social-Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "$8,863",
     "length": "1 Year(s)"
@@ -13944,7 +13944,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Psychology (BSc)",
-    "programLink": "/Programs/29929/The-University-of-British-Columbia-Okanagan/Psychology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/29929/The-University-of-British-Columbia-Okanagan/Psychology-(BSc)",
     "entranceGrade": "76",
     "tutionValue": "$42,396",
     "length": "4 Year(s)"
@@ -13953,7 +13953,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/12299/University-of-Victoria/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/12299/University-of-Victoria/Psychology-(BA)",
     "entranceGrade": "78 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -13962,7 +13962,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Psychology (B.A.) - Applied",
-    "programLink": "/Programs/70755/Bishop-s-University/Psychology-(B.A.)-Applied",
+    "programLink": "https://www.studyincanada.com/Programs/70755/Bishop-s-University/Psychology-(B.A.)-Applied",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -13971,7 +13971,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/107425/Brandon-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/107425/Brandon-University/Psychology-(B.A.)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -13980,7 +13980,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Honours Bachelor of Counselling Psychology",
-    "programLink": "/Programs/104959/Georgian-College/Honours-Bachelor-of-Counselling-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/104959/Georgian-College/Honours-Bachelor-of-Counselling-Psychology",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -13989,7 +13989,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Psychology and Computer Science",
-    "programLink": "/Programs/30677/University-of-Victoria/Psychology-and-Computer-Science",
+    "programLink": "https://www.studyincanada.com/Programs/30677/University-of-Victoria/Psychology-and-Computer-Science",
     "entranceGrade": "75 - 100",
     "tutionValue": "$27,965",
     "length": "4 Year(s)"
@@ -13998,7 +13998,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Psychology (M.A.)",
-    "programLink": "/Programs/10322/University-of-Lethbridge-School-of-Graduate-Studies/Psychology-(M.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/10322/University-of-Lethbridge-School-of-Graduate-Studies/Psychology-(M.A.)",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -14007,7 +14007,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Psychology (BA)/Concurrent Education (BEd)/Early Childhood Educa...",
-    "programLink": "/Programs/114213/University-of-Windsor/Psychology-(BA)/Concurrent-Education-(BEd)/Early-Childhood-Educa...",
+    "programLink": "https://www.studyincanada.com/Programs/114213/University-of-Windsor/Psychology-(BA)/Concurrent-Education-(BEd)/Early-Childhood-Educa...",
     "entranceGrade": "75 - 100",
     "tutionValue": "$34,617",
     "length": "5 Year(s)"
@@ -14016,7 +14016,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/107433/Brandon-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/107433/Brandon-University/Psychology-(B.A.)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -14025,7 +14025,7 @@ export default [
     "schoolName": "Concordia University of Edmonton",
     "location": "Canada, Alberta",
     "programName": "Psychology (B.A. 4-year)",
-    "programLink": "/Programs/85861/Concordia-University-of-Edmonton/Psychology-(B.A.-4-year)",
+    "programLink": "https://www.studyincanada.com/Programs/85861/Concordia-University-of-Edmonton/Psychology-(B.A.-4-year)",
     "entranceGrade": "60",
     "tutionValue": "$25,414",
     "length": "4 Year(s)"
@@ -14034,7 +14034,7 @@ export default [
     "schoolName": "College of the Rockies",
     "location": "Canada, British Columbia",
     "programName": "Applied Psychology",
-    "programLink": "/Programs/15892/College-of-the-Rockies/Applied-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/15892/College-of-the-Rockies/Applied-Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -14043,7 +14043,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "HBA/ Psychology",
-    "programLink": "/Programs/107570/Western-University/HBA/-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/107570/Western-University/HBA/-Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "5 Year(s)"
@@ -14052,7 +14052,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/46238/Vancouver-Island-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/46238/Vancouver-Island-University/Psychology-(B.A.)",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -14061,7 +14061,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Psychology (B.Sc.)",
-    "programLink": "/Programs/27398/Brandon-University/Psychology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/27398/Brandon-University/Psychology-(B.Sc.)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -14070,7 +14070,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/109471/Queen-s-University/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/109471/Queen-s-University/Psychology-(BA)",
     "entranceGrade": "85",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -14079,7 +14079,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/65655/McGill-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/65655/McGill-University/Psychology-(B.A.)",
     "entranceGrade": "87",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -14088,7 +14088,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/161/Trent-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/161/Trent-University/Psychology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -14097,7 +14097,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/85407/Mount-Allison-University/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/85407/Mount-Allison-University/Psychology-(BA)",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -14106,7 +14106,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Psychology",
-    "programLink": "/Programs/87554/Lakehead-University-Thunder-Bay/Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/87554/Lakehead-University-Thunder-Bay/Psychology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -14115,7 +14115,7 @@ export default [
     "schoolName": "Camosun College",
     "location": "Canada, British Columbia",
     "programName": "Psychology (Arts)",
-    "programLink": "/Programs/11784/Camosun-College/Psychology-(Arts)",
+    "programLink": "https://www.studyincanada.com/Programs/11784/Camosun-College/Psychology-(Arts)",
     "entranceGrade": "N/S",
     "tutionValue": "$14,000",
     "length": "2 Year(s)"
@@ -14124,7 +14124,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/96736/Vancouver-Island-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/96736/Vancouver-Island-University/Psychology-(B.A.)",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -14133,7 +14133,7 @@ export default [
     "schoolName": "Canadore College",
     "location": "Canada, Ontario",
     "programName": "Mental Health and Addiction Worker",
-    "programLink": "/Programs/27263/Canadore-College/Mental-Health-and-Addiction-Worker",
+    "programLink": "https://www.studyincanada.com/Programs/27263/Canadore-College/Mental-Health-and-Addiction-Worker",
     "entranceGrade": "N/S",
     "tutionValue": "$17,528",
     "length": "2 Year(s)"
@@ -14142,7 +14142,7 @@ export default [
     "schoolName": "Grenfell Campus, Memorial University",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Psychology (BSc)",
-    "programLink": "/Programs/96679/Grenfell-Campus,-Memorial-University/Psychology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/96679/Grenfell-Campus,-Memorial-University/Psychology-(BSc)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$11,460",
     "length": "4 Year(s)"
@@ -14151,7 +14151,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Human Kinetics - Sport Psychology (HBA)",
-    "programLink": "/Programs/9509/Laurentian-University/Universite-Laurentienne/Human-Kinetics-Sport-Psychology-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/9509/Laurentian-University/Universite-Laurentienne/Human-Kinetics-Sport-Psychology-(HBA)",
     "entranceGrade": "75",
     "tutionValue": "$23,747",
     "length": "4 Year(s)"
@@ -14160,7 +14160,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Psychology (BSc)",
-    "programLink": "/Programs/51280/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Psychology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/51280/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Psychology-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -14169,7 +14169,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Biology and Psychology",
-    "programLink": "/Programs/85195/Queen-s-University/Biology-and-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/85195/Queen-s-University/Biology-and-Psychology",
     "entranceGrade": "80 - 100",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -14178,7 +14178,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan - College of Graduate Studies",
     "location": "Canada, British Columbia",
     "programName": "Psychology - Psychological Science",
-    "programLink": "/Programs/102723/The-University-of-British-Columbia-Okanagan-College-of-Graduate-Studies/Psychology-Psychological-Science",
+    "programLink": "https://www.studyincanada.com/Programs/102723/The-University-of-British-Columbia-Okanagan-College-of-Graduate-Studies/Psychology-Psychological-Science",
     "entranceGrade": "76",
     "tutionValue": "$9,314",
     "length": "4 Year(s)"
@@ -14187,7 +14187,7 @@ export default [
     "schoolName": "Concordia University of Edmonton",
     "location": "Canada, Alberta",
     "programName": "Psychology (B.A. 3-year)",
-    "programLink": "/Programs/56874/Concordia-University-of-Edmonton/Psychology-(B.A.-3-year)",
+    "programLink": "https://www.studyincanada.com/Programs/56874/Concordia-University-of-Edmonton/Psychology-(B.A.-3-year)",
     "entranceGrade": "60",
     "tutionValue": "$25,414",
     "length": "3 Year(s)"
@@ -14196,7 +14196,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Behavioural Neuroscience",
-    "programLink": "/Programs/81197/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Behavioural-Neuroscience",
+    "programLink": "https://www.studyincanada.com/Programs/81197/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Behavioural-Neuroscience",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -14205,7 +14205,7 @@ export default [
     "schoolName": "Fanshawe College",
     "location": "Canada, Ontario",
     "programName": "Behavioural Psychology",
-    "programLink": "/Programs/113301/Fanshawe-College/Behavioural-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/113301/Fanshawe-College/Behavioural-Psychology",
     "entranceGrade": "65 - 65",
     "tutionValue": "$18,585",
     "length": "4 Year(s)"
@@ -14214,7 +14214,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Psychology (BSc or BA)",
-    "programLink": "/Programs/14874/Dalhousie-University/Psychology-(BSc-or-BA)",
+    "programLink": "https://www.studyincanada.com/Programs/14874/Dalhousie-University/Psychology-(BSc-or-BA)",
     "entranceGrade": "75",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -14223,7 +14223,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Clinical Psychology",
-    "programLink": "/Programs/4731/University-of-Windsor-Faculty-of-Graduate-Studies/Clinical-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/4731/University-of-Windsor-Faculty-of-Graduate-Studies/Clinical-Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "$8,863",
     "length": "6 Year(s)"
@@ -14232,7 +14232,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/109461/Mount-Allison-University/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/109461/Mount-Allison-University/Psychology-(BA)",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -14241,7 +14241,7 @@ export default [
     "schoolName": "Capilano University",
     "location": "Canada, British Columbia",
     "programName": "Bachelor of Arts with a Major in Psychology",
-    "programLink": "/Programs/107792/Capilano-University/Bachelor-of-Arts-with-a-Major-in-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/107792/Capilano-University/Bachelor-of-Arts-with-a-Major-in-Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "$21,499",
     "length": "4 Year(s)"
@@ -14250,7 +14250,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "MA Clinical Psychology: Gender and Women's Studies Specializatio...",
-    "programLink": "/Programs/2712/Lakehead-University-Faculty-of-Graduate-Studies/MA-Clinical-Psychology-Gender-and-Women-s-Studies-Specializatio...",
+    "programLink": "https://www.studyincanada.com/Programs/2712/Lakehead-University-Faculty-of-Graduate-Studies/MA-Clinical-Psychology-Gender-and-Women-s-Studies-Specializatio...",
     "entranceGrade": "70",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -14259,7 +14259,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Forensic Health Sciences",
-    "programLink": "/Programs/28099/British-Columbia-Institute-of-Technology/Forensic-Health-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/28099/British-Columbia-Institute-of-Technology/Forensic-Health-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -14268,7 +14268,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Psychology",
-    "programLink": "/Programs/77404/The-University-of-British-Columbia-Vancouver/Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/77404/The-University-of-British-Columbia-Vancouver/Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -14277,7 +14277,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Psychology (B.Sc.)",
-    "programLink": "/Programs/65670/McGill-University/Psychology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/65670/McGill-University/Psychology-(B.Sc.)",
     "entranceGrade": "95",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -14286,7 +14286,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/56226/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/56226/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Psychology-(BA)",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -14295,7 +14295,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Health & Behaviour (B.Sc.)",
-    "programLink": "/Programs/107796/Trent-University/Health-&-Behaviour-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/107796/Trent-University/Health-&-Behaviour-(B.Sc.)",
     "entranceGrade": "75",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -14304,7 +14304,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Psychology, Neuroscience and Behaviour (BSc)",
-    "programLink": "/Programs/5486/McMaster-University/Psychology,-Neuroscience-and-Behaviour-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/5486/McMaster-University/Psychology,-Neuroscience-and-Behaviour-(BSc)",
     "entranceGrade": "87 - 92",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -14313,7 +14313,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Psychology (B.Sc)",
-    "programLink": "/Programs/45719/University-of-Prince-Edward-Island/Psychology-(B.Sc)",
+    "programLink": "https://www.studyincanada.com/Programs/45719/University-of-Prince-Edward-Island/Psychology-(B.Sc)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -14331,7 +14331,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Applied Social Psychology",
-    "programLink": "/Programs/92296/University-of-Windsor-Faculty-of-Graduate-Studies/Applied-Social-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/92296/University-of-Windsor-Faculty-of-Graduate-Studies/Applied-Social-Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "$8,863",
     "length": "3 Year(s)"
@@ -14340,7 +14340,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Psychology (B.Sc.)",
-    "programLink": "/Programs/64228/Trent-University/Psychology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/64228/Trent-University/Psychology-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "3 Year(s)"
@@ -14349,7 +14349,7 @@ export default [
     "schoolName": "University of Alberta - Augustana Campus",
     "location": "Canada, Alberta",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/21927/University-of-Alberta-Augustana-Campus/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/21927/University-of-Alberta-Augustana-Campus/Psychology-(B.A.)",
     "entranceGrade": "70 - 70",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -14358,7 +14358,7 @@ export default [
     "schoolName": "MacEwan University",
     "location": "Canada, Alberta",
     "programName": "Psychology (BSc)",
-    "programLink": "/Programs/109506/MacEwan-University/Psychology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/109506/MacEwan-University/Psychology-(BSc)",
     "entranceGrade": "67 - 76",
     "tutionValue": "$24,378",
     "length": "4 Year(s)"
@@ -14367,7 +14367,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/22994/University-of-New-Brunswick-Fredericton/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/22994/University-of-New-Brunswick-Fredericton/Psychology-(B.A.)",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -14376,7 +14376,7 @@ export default [
     "schoolName": "Capilano University",
     "location": "Canada, British Columbia",
     "programName": "Psychology - Associate",
-    "programLink": "/Programs/30733/Capilano-University/Psychology-Associate",
+    "programLink": "https://www.studyincanada.com/Programs/30733/Capilano-University/Psychology-Associate",
     "entranceGrade": "N/S",
     "tutionValue": "$21,499",
     "length": "2 Year(s)"
@@ -14385,7 +14385,7 @@ export default [
     "schoolName": "University of Toronto: Ontario Institute for Studies in Education",
     "location": "Canada, Ontario",
     "programName": "Developmental Psychology and Education (PhD)",
-    "programLink": "/Programs/59884/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Developmental-Psychology-and-Education-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/59884/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Developmental-Psychology-and-Education-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "$6,210",
     "length": "4 Year(s)"
@@ -14394,7 +14394,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/4402/Bishop-s-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/4402/Bishop-s-University/Psychology-(B.A.)",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -14403,7 +14403,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Applied Forensic Psychology (B.Sc.)",
-    "programLink": "/Programs/106976/St.-Francis-Xavier-University/Applied-Forensic-Psychology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/106976/St.-Francis-Xavier-University/Applied-Forensic-Psychology-(B.Sc.)",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -14412,7 +14412,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Psychology (BSc)",
-    "programLink": "/Programs/12300/University-of-Victoria/Psychology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/12300/University-of-Victoria/Psychology-(BSc)",
     "entranceGrade": "78 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -14421,7 +14421,7 @@ export default [
     "schoolName": "University of Toronto: Ontario Institute for Studies in Education",
     "location": "Canada, Ontario",
     "programName": "Developmental Psychology and Education (MEd)",
-    "programLink": "/Programs/20980/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Developmental-Psychology-and-Education-(MEd)",
+    "programLink": "https://www.studyincanada.com/Programs/20980/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Developmental-Psychology-and-Education-(MEd)",
     "entranceGrade": "73",
     "tutionValue": "$41,600",
     "length": "2 Year(s)"
@@ -14430,7 +14430,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Psychology (B.Sc.)",
-    "programLink": "/Programs/96269/Saint-Mary-s-University/Psychology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/96269/Saint-Mary-s-University/Psychology-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$22,060",
     "length": "5 Year(s)"
@@ -14439,7 +14439,7 @@ export default [
     "schoolName": "Adler University (Vancouver Campus)",
     "location": "Canada, British Columbia",
     "programName": "Counselling Psychology (M.C.P. non-thesis)",
-    "programLink": "/Programs/69042/Adler-University-(Vancouver-Campus)/Counselling-Psychology-(M.C.P.-non-thesis)",
+    "programLink": "https://www.studyincanada.com/Programs/69042/Adler-University-(Vancouver-Campus)/Counselling-Psychology-(M.C.P.-non-thesis)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -14448,7 +14448,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/68422/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/68422/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Psychology-(BA)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -14457,7 +14457,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "General Arts & Science - Behavioural Psychology Stream",
-    "programLink": "/Programs/83057/St.-Lawrence-College/General-Arts-&-Science-Behavioural-Psychology-Stream",
+    "programLink": "https://www.studyincanada.com/Programs/83057/St.-Lawrence-College/General-Arts-&-Science-Behavioural-Psychology-Stream",
     "entranceGrade": "N/S",
     "tutionValue": "$14,600",
     "length": "1 Year(s)"
@@ -14466,7 +14466,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Psychology (B.Sc.)",
-    "programLink": "/Programs/39828/McGill-University/Psychology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/39828/McGill-University/Psychology-(B.Sc.)",
     "entranceGrade": "95",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -14475,7 +14475,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/7385/McGill-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/7385/McGill-University/Psychology-(B.A.)",
     "entranceGrade": "87",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -14484,7 +14484,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Psychology (B.A.) - concentration in Forensic Psychology",
-    "programLink": "/Programs/106993/St.-Francis-Xavier-University/Psychology-(B.A.)-concentration-in-Forensic-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/106993/St.-Francis-Xavier-University/Psychology-(B.A.)-concentration-in-Forensic-Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -14493,7 +14493,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Biology and Psychology, Neuroscience & Behaviour",
-    "programLink": "/Programs/100320/McMaster-University/Biology-and-Psychology,-Neuroscience-&-Behaviour",
+    "programLink": "https://www.studyincanada.com/Programs/100320/McMaster-University/Biology-and-Psychology,-Neuroscience-&-Behaviour",
     "entranceGrade": "87 - 92",
     "tutionValue": "$48,996",
     "length": "4 Year(s)"
@@ -14502,7 +14502,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/31203/Nipissing-University/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/31203/Nipissing-University/Psychology-(BA)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -14511,7 +14511,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Psychology - Specialization in Health & Well-Being (B.Sc.)",
-    "programLink": "/Programs/109895/Trent-University/Psychology-Specialization-in-Health-&-Well-Being-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/109895/Trent-University/Psychology-Specialization-in-Health-&-Well-Being-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -14520,7 +14520,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "General Arts: Bachelor of Arts Degree - Major",
-    "programLink": "/Programs/107882/Thompson-Rivers-University/General-Arts-Bachelor-of-Arts-Degree-Major",
+    "programLink": "https://www.studyincanada.com/Programs/107882/Thompson-Rivers-University/General-Arts-Bachelor-of-Arts-Degree-Major",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "N/S"
@@ -14529,7 +14529,7 @@ export default [
     "schoolName": "University of Toronto: Ontario Institute for Studies in Education",
     "location": "Canada, Ontario",
     "programName": "Counselling Psychology (MEd)",
-    "programLink": "/Programs/114383/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Counselling-Psychology-(MEd)",
+    "programLink": "https://www.studyincanada.com/Programs/114383/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Counselling-Psychology-(MEd)",
     "entranceGrade": "N/S",
     "tutionValue": "$41,600",
     "length": "2 Year(s)"
@@ -14538,7 +14538,7 @@ export default [
     "schoolName": "Camosun College",
     "location": "Canada, British Columbia",
     "programName": "Psychology (Arts) (Internship Designation)",
-    "programLink": "/Programs/90824/Camosun-College/Psychology-(Arts)-(Internship-Designation)",
+    "programLink": "https://www.studyincanada.com/Programs/90824/Camosun-College/Psychology-(Arts)-(Internship-Designation)",
     "entranceGrade": "N/S",
     "tutionValue": "$14,000",
     "length": "2 Year(s)"
@@ -14547,7 +14547,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Psychology (B.A. Advanced Major)",
-    "programLink": "/Programs/59960/University-of-Manitoba/Psychology-(B.A.-Advanced-Major)",
+    "programLink": "https://www.studyincanada.com/Programs/59960/University-of-Manitoba/Psychology-(B.A.-Advanced-Major)",
     "entranceGrade": "85 - 85",
     "tutionValue": "$16,600",
     "length": "4 Year(s)"
@@ -14556,7 +14556,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/10361/University-of-Prince-Edward-Island/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/10361/University-of-Prince-Edward-Island/Psychology-(BA)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -14565,7 +14565,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Psychology (B.A)",
-    "programLink": "/Programs/9824/Saint-Mary-s-University/Psychology-(B.A)",
+    "programLink": "https://www.studyincanada.com/Programs/9824/Saint-Mary-s-University/Psychology-(B.A)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "4 Year(s)"
@@ -14574,7 +14574,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/160/Trent-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/160/Trent-University/Psychology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "3 Year(s)"
@@ -14583,7 +14583,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/96270/Saint-Mary-s-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/96270/Saint-Mary-s-University/Psychology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "5 Year(s)"
@@ -14592,7 +14592,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Forensic Investigation (Crime and Intelligence Analysis Option)",
-    "programLink": "/Programs/33673/British-Columbia-Institute-of-Technology/Forensic-Investigation-(Crime-and-Intelligence-Analysis-Option)",
+    "programLink": "https://www.studyincanada.com/Programs/33673/British-Columbia-Institute-of-Technology/Forensic-Investigation-(Crime-and-Intelligence-Analysis-Option)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -14601,7 +14601,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Biology/Psychology (BSc)",
-    "programLink": "/Programs/68447/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biology/Psychology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/68447/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biology/Psychology-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -14610,7 +14610,7 @@ export default [
     "schoolName": "MacEwan University",
     "location": "Canada, Alberta",
     "programName": "Psychology (BSc)",
-    "programLink": "/Programs/109505/MacEwan-University/Psychology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/109505/MacEwan-University/Psychology-(BSc)",
     "entranceGrade": "67 - 76",
     "tutionValue": "$24,378",
     "length": "4 Year(s)"
@@ -14619,7 +14619,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Neuroscience (B.Sc.)",
-    "programLink": "/Programs/55683/Bishop-s-University/Neuroscience-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/55683/Bishop-s-University/Neuroscience-(B.Sc.)",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -14628,7 +14628,7 @@ export default [
     "schoolName": "Brock University",
     "location": "Canada, Ontario",
     "programName": "Psychology (BSc)",
-    "programLink": "/Programs/111412/Brock-University/Psychology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/111412/Brock-University/Psychology-(BSc)",
     "entranceGrade": "N/S",
     "tutionValue": "$31,622",
     "length": "4 Year(s)"
@@ -14637,7 +14637,7 @@ export default [
     "schoolName": "Tyndale University",
     "location": "Canada, Ontario",
     "programName": "Health Sciences Professional with a Minor in Psychology",
-    "programLink": "/Programs/81840/Tyndale-University/Health-Sciences-Professional-with-a-Minor-in-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/81840/Tyndale-University/Health-Sciences-Professional-with-a-Minor-in-Psychology",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -14646,7 +14646,7 @@ export default [
     "schoolName": "Seneca Polytechnic",
     "location": "Canada, Ontario",
     "programName": "Behavioural Sciences",
-    "programLink": "/Programs/73168/Seneca-Polytechnic/Behavioural-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/73168/Seneca-Polytechnic/Behavioural-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$16,043",
     "length": "2 Year(s)"
@@ -14655,7 +14655,7 @@ export default [
     "schoolName": "Seneca Polytechnic",
     "location": "Canada, Ontario",
     "programName": "Honours Bachelor of Behavioural Psychology",
-    "programLink": "/Programs/90780/Seneca-Polytechnic/Honours-Bachelor-of-Behavioural-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/90780/Seneca-Polytechnic/Honours-Bachelor-of-Behavioural-Psychology",
     "entranceGrade": "65",
     "tutionValue": "$19,487",
     "length": "4 Year(s)"
@@ -14664,7 +14664,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Psychology (BSc)",
-    "programLink": "/Programs/108677/Lakehead-University-Orillia/Psychology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/108677/Lakehead-University-Orillia/Psychology-(BSc)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -14673,7 +14673,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/37387/University-of-Manitoba/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/37387/University-of-Manitoba/Psychology-(B.A.)",
     "entranceGrade": "85 - 85",
     "tutionValue": "$16,600",
     "length": "4 Year(s)"
@@ -14682,7 +14682,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/90592/Brandon-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/90592/Brandon-University/Psychology-(B.A.)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -14691,7 +14691,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Psychology (HBA)",
-    "programLink": "/Programs/86523/Laurentian-University/Universite-Laurentienne/Psychology-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/86523/Laurentian-University/Universite-Laurentienne/Psychology-(HBA)",
     "entranceGrade": "N/S",
     "tutionValue": "$23,747",
     "length": "4 Year(s)"
@@ -14700,7 +14700,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Psychology",
-    "programLink": "/Programs/48498/Douglas-College/Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/48498/Douglas-College/Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -14709,7 +14709,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Psychology (BA)",
-    "programLink": "/Programs/45718/University-of-Prince-Edward-Island/Psychology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/45718/University-of-Prince-Edward-Island/Psychology-(BA)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -14718,7 +14718,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Psychology",
-    "programLink": "/Programs/45530/Kwantlen-Polytechnic-University/Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/45530/Kwantlen-Polytechnic-University/Psychology",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "2 Year(s)"
@@ -14727,7 +14727,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Psychology (BA or BSc)",
-    "programLink": "/Programs/1354/Acadia-University/Psychology-(BA-or-BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/1354/Acadia-University/Psychology-(BA-or-BSc)",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "4 Year(s)"
@@ -14736,7 +14736,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Psychology (B.A.)",
-    "programLink": "/Programs/32679/Brandon-University/Psychology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/32679/Brandon-University/Psychology-(B.A.)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -14745,7 +14745,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Psychology (B.Sc. Double Honours)",
-    "programLink": "/Programs/73056/University-of-Saskatchewan/Psychology-(B.Sc.-Double-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/73056/University-of-Saskatchewan/Psychology-(B.Sc.-Double-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -14754,7 +14754,7 @@ export default [
     "schoolName": "Athabasca University",
     "location": "Canada, Alberta",
     "programName": "Psychology (Three Year)",
-    "programLink": "/Programs/9071/Athabasca-University/Psychology-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/9071/Athabasca-University/Psychology-(Three-Year)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -14763,7 +14763,7 @@ export default [
     "schoolName": "University of Toronto: Ontario Institute for Studies in Education",
     "location": "Canada, Ontario",
     "programName": "Counselling Psychology (EdD)",
-    "programLink": "/Programs/114382/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Counselling-Psychology-(EdD)",
+    "programLink": "https://www.studyincanada.com/Programs/114382/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Counselling-Psychology-(EdD)",
     "entranceGrade": "N/S",
     "tutionValue": "$40,260",
     "length": "4 Year(s)"
@@ -14772,7 +14772,7 @@ export default [
     "schoolName": "The King's University",
     "location": "Canada, Alberta",
     "programName": "Social Sciences",
-    "programLink": "/Programs/6182/The-King-s-University/Social-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/6182/The-King-s-University/Social-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$11,778",
     "length": "3 Year(s)"
@@ -14781,7 +14781,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Psychology",
-    "programLink": "/Programs/55604/University-of-Northern-British-Columbia/Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/55604/University-of-Northern-British-Columbia/Psychology",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -14790,7 +14790,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "Psychology",
-    "programLink": "/Programs/739/Redeemer-University/Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/739/Redeemer-University/Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "4 Year(s)"
@@ -14799,7 +14799,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Psychology",
-    "programLink": "/Programs/77403/The-University-of-British-Columbia-Vancouver/Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/77403/The-University-of-British-Columbia-Vancouver/Psychology",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -14808,7 +14808,7 @@ export default [
     "schoolName": "Concordia University of Edmonton",
     "location": "Canada, Alberta",
     "programName": "Psychology - Applied Emphasis (B.A. 4-year)",
-    "programLink": "/Programs/62954/Concordia-University-of-Edmonton/Psychology-Applied-Emphasis-(B.A.-4-year)",
+    "programLink": "https://www.studyincanada.com/Programs/62954/Concordia-University-of-Edmonton/Psychology-Applied-Emphasis-(B.A.-4-year)",
     "entranceGrade": "60",
     "tutionValue": "$25,414",
     "length": "4 Year(s)"
@@ -14817,7 +14817,7 @@ export default [
     "schoolName": "Yorkville University - Graduate School",
     "location": "Canada, New Brunswick",
     "programName": "Master of Arts in Counselling Psychology (MACP)",
-    "programLink": "/Programs/110296/Yorkville-University-Graduate-School/Master-of-Arts-in-Counselling-Psychology-(MACP)",
+    "programLink": "https://www.studyincanada.com/Programs/110296/Yorkville-University-Graduate-School/Master-of-Arts-in-Counselling-Psychology-(MACP)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -14826,7 +14826,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Arts | Psychology",
-    "programLink": "/Programs/109244/University-of-Lethbridge/Bachelor-of-Arts-|-Psychology",
+    "programLink": "https://www.studyincanada.com/Programs/109244/University-of-Lethbridge/Bachelor-of-Arts-|-Psychology",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -14835,7 +14835,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Psychological Science: Gender and Women's Studies Specialization...",
-    "programLink": "/Programs/22031/Lakehead-University-Faculty-of-Graduate-Studies/Psychological-Science-Gender-and-Women-s-Studies-Specialization...",
+    "programLink": "https://www.studyincanada.com/Programs/22031/Lakehead-University-Faculty-of-Graduate-Studies/Psychological-Science-Gender-and-Women-s-Studies-Specialization...",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -14844,7 +14844,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Psychology (B.A. Double Honours)",
-    "programLink": "/Programs/69559/University-of-Saskatchewan/Psychology-(B.A.-Double-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/69559/University-of-Saskatchewan/Psychology-(B.A.-Double-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -15060,7 +15060,7 @@ export default [
     "schoolName": "Alexander College",
     "location": "Canada, British Columbia",
     "programName": "Associate of Arts (Sociology)",
-    "programLink": "/Programs/104197/Alexander-College/Associate-of-Arts-(Sociology)",
+    "programLink": "https://www.studyincanada.com/Programs/104197/Alexander-College/Associate-of-Arts-(Sociology)",
     "entranceGrade": "N/S",
     "tutionValue": "$18,300",
     "length": "2 Year(s)"
@@ -15069,7 +15069,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Sociology",
-    "programLink": "/Programs/22916/University-of-New-Brunswick-Saint-John/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/22916/University-of-New-Brunswick-Saint-John/Sociology",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -15078,7 +15078,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Sociology",
-    "programLink": "/Programs/22926/University-of-New-Brunswick-Saint-John/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/22926/University-of-New-Brunswick-Saint-John/Sociology",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -15087,7 +15087,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/1695/The-University-of-British-Columbia-Vancouver/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/1695/The-University-of-British-Columbia-Vancouver/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -15096,7 +15096,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Sociology",
-    "programLink": "/Programs/23008/University-of-New-Brunswick-Fredericton/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/23008/University-of-New-Brunswick-Fredericton/Sociology",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -15105,7 +15105,7 @@ export default [
     "schoolName": "Athabasca University",
     "location": "Canada, Alberta",
     "programName": "Sociology (Four Year)",
-    "programLink": "/Programs/45581/Athabasca-University/Sociology-(Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/45581/Athabasca-University/Sociology-(Four-Year)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -15114,7 +15114,7 @@ export default [
     "schoolName": "St. Thomas University",
     "location": "Canada, New Brunswick",
     "programName": "Sociology",
-    "programLink": "/Programs/13277/St.-Thomas-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/13277/St.-Thomas-University/Sociology",
     "entranceGrade": "70",
     "tutionValue": "$17,208",
     "length": "4 Year(s)"
@@ -15123,7 +15123,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Sociologie (BA)",
-    "programLink": "/Programs/78384/Laurentian-University/Universite-Laurentienne/Sociologie-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/78384/Laurentian-University/Universite-Laurentienne/Sociologie-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$23,747",
     "length": "4 Year(s)"
@@ -15132,7 +15132,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/7154/Nipissing-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/7154/Nipissing-University/Sociology",
     "entranceGrade": "70 - 70",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -15141,7 +15141,7 @@ export default [
     "schoolName": "Grenfell Campus, Memorial University",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Social Cultural Studies (BA)",
-    "programLink": "/Programs/13695/Grenfell-Campus,-Memorial-University/Social-Cultural-Studies-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/13695/Grenfell-Campus,-Memorial-University/Social-Cultural-Studies-(BA)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$11,460",
     "length": "4 Year(s)"
@@ -15150,7 +15150,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Sociology (B.A.)",
-    "programLink": "/Programs/164/Trent-University/Sociology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/164/Trent-University/Sociology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -15159,7 +15159,7 @@ export default [
     "schoolName": "Algoma University",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/12411/Algoma-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/12411/Algoma-University/Sociology",
     "entranceGrade": "65 - 65",
     "tutionValue": "$20,438",
     "length": "4 Year(s)"
@@ -15168,7 +15168,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Sociology: Gender and Women's Studies Specialization (M.A.)",
-    "programLink": "/Programs/2742/Lakehead-University-Faculty-of-Graduate-Studies/Sociology-Gender-and-Women-s-Studies-Specialization-(M.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/2742/Lakehead-University-Faculty-of-Graduate-Studies/Sociology-Gender-and-Women-s-Studies-Specialization-(M.A.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -15177,7 +15177,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology - Indigenous Justice and Criminology (IJC)",
-    "programLink": "/Programs/56596/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)",
+    "programLink": "https://www.studyincanada.com/Programs/56596/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -15186,7 +15186,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Sociology",
-    "programLink": "/Programs/33410/Acadia-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/33410/Acadia-University/Sociology",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "5 Year(s)"
@@ -15195,7 +15195,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Feminist and Gender Studies and Sociology",
-    "programLink": "/Programs/49730/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Feminist-and-Gender-Studies-and-Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/49730/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Feminist-and-Gender-Studies-and-Sociology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -15204,7 +15204,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Industrial and Labour Relations",
-    "programLink": "/Programs/16159/McGill-University/Industrial-and-Labour-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/16159/McGill-University/Industrial-and-Labour-Relations",
     "entranceGrade": "87",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -15213,7 +15213,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Cultural and Social Explorations Certificate",
-    "programLink": "/Programs/45651/Thompson-Rivers-University/Cultural-and-Social-Explorations-Certificate",
+    "programLink": "https://www.studyincanada.com/Programs/45651/Thompson-Rivers-University/Cultural-and-Social-Explorations-Certificate",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "1 Year(s)"
@@ -15222,7 +15222,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology (B.A. Four-Year)",
-    "programLink": "/Programs/11585/University-of-Saskatchewan/Sociology-(B.A.-Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/11585/University-of-Saskatchewan/Sociology-(B.A.-Four-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -15231,7 +15231,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology",
-    "programLink": "/Programs/11586/University-of-Saskatchewan/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/11586/University-of-Saskatchewan/Sociology",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -15240,7 +15240,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Sociology",
-    "programLink": "/Programs/81169/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/81169/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Sociology",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -15249,7 +15249,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/4218/Western-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/4218/Western-University/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -15258,7 +15258,7 @@ export default [
     "schoolName": "Cape Breton University",
     "location": "Canada, Nova Scotia",
     "programName": "Sociology",
-    "programLink": "/Programs/12629/Cape-Breton-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/12629/Cape-Breton-University/Sociology",
     "entranceGrade": "65",
     "tutionValue": "$19,579",
     "length": "4 Year(s)"
@@ -15267,7 +15267,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Sociology",
-    "programLink": "/Programs/15388/University-of-New-Brunswick-Fredericton/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/15388/University-of-New-Brunswick-Fredericton/Sociology",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -15276,7 +15276,7 @@ export default [
     "schoolName": "Trent University - Durham Greater Toronto Area",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/95559/Trent-University-Durham-Greater-Toronto-Area/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/95559/Trent-University-Durham-Greater-Toronto-Area/Sociology",
     "entranceGrade": "70",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -15285,7 +15285,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/5499/McMaster-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/5499/McMaster-University/Sociology",
     "entranceGrade": "78 - 82",
     "tutionValue": "$40,960",
     "length": "4 Year(s)"
@@ -15294,7 +15294,7 @@ export default [
     "schoolName": "NorQuest College",
     "location": "Canada, Alberta",
     "programName": "Social Work",
-    "programLink": "/Programs/366/NorQuest-College/Social-Work",
+    "programLink": "https://www.studyincanada.com/Programs/366/NorQuest-College/Social-Work",
     "entranceGrade": "N/S",
     "tutionValue": "$36,270",
     "length": "2 Year(s)"
@@ -15303,7 +15303,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology - Indigenous Justice and Criminology (IJC) (B.A. Four-...",
-    "programLink": "/Programs/37215/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)-(B.A.-Four-...",
+    "programLink": "https://www.studyincanada.com/Programs/37215/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)-(B.A.-Four-...",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -15312,7 +15312,7 @@ export default [
     "schoolName": "York University - Glendon Campus",
     "location": "Canada, Ontario",
     "programName": "Canadian Studies (iBA)",
-    "programLink": "/Programs/68564/York-University-Glendon-Campus/Canadian-Studies-(iBA)",
+    "programLink": "https://www.studyincanada.com/Programs/68564/York-University-Glendon-Campus/Canadian-Studies-(iBA)",
     "entranceGrade": "75 - 79",
     "tutionValue": "$32,502",
     "length": "4 Year(s)"
@@ -15321,7 +15321,7 @@ export default [
     "schoolName": "Carleton University - Faculty of Graduate Studies and Research",
     "location": "Canada, Ontario",
     "programName": "Sociology (MA)",
-    "programLink": "/Programs/6676/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Sociology-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/6676/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Sociology-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -15330,7 +15330,7 @@ export default [
     "schoolName": "Carleton University - Faculty of Graduate Studies and Research",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/13176/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/13176/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -15339,7 +15339,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Sociology - Specialization in Social Justice & Equity Studies (B...",
-    "programLink": "/Programs/109898/Trent-University/Sociology-Specialization-in-Social-Justice-&-Equity-Studies-(B...",
+    "programLink": "https://www.studyincanada.com/Programs/109898/Trent-University/Sociology-Specialization-in-Social-Justice-&-Equity-Studies-(B...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -15348,7 +15348,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/78389/Lakehead-University-Orillia/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/78389/Lakehead-University-Orillia/Sociology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -15357,7 +15357,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/748/Redeemer-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/748/Redeemer-University/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "4 Year(s)"
@@ -15366,7 +15366,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Sociology",
-    "programLink": "/Programs/9849/St.-Francis-Xavier-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/9849/St.-Francis-Xavier-University/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -15375,7 +15375,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Criminology and Socio-Legal Studies (HBSc)",
-    "programLink": "/Programs/8344/University-of-Toronto-St.-George/Criminology-and-Socio-Legal-Studies-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8344/University-of-Toronto-St.-George/Criminology-and-Socio-Legal-Studies-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -15384,7 +15384,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Sociology",
-    "programLink": "/Programs/27395/Brandon-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/27395/Brandon-University/Sociology",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -15393,7 +15393,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Sociology",
-    "programLink": "/Programs/39945/McGill-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/39945/McGill-University/Sociology",
     "entranceGrade": "87",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -15402,7 +15402,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Law, Justice and Society (BA)",
-    "programLink": "/Programs/96605/Dalhousie-University/Law,-Justice-and-Society-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/96605/Dalhousie-University/Law,-Justice-and-Society-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -15411,7 +15411,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/81405/Selkirk-College/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/81405/Selkirk-College/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$13,409",
     "length": "2 Year(s)"
@@ -15420,7 +15420,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Sociology (MA)",
-    "programLink": "/Programs/39686/Concordia-University-School-of-Graduate-Studies/Sociology-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/39686/Concordia-University-School-of-Graduate-Studies/Sociology-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -15429,7 +15429,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Sociology",
-    "programLink": "/Programs/51096/Brandon-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/51096/Brandon-University/Sociology",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -15438,7 +15438,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Sociology/Anthropology",
-    "programLink": "/Programs/10364/University-of-Prince-Edward-Island/Sociology/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/10364/University-of-Prince-Edward-Island/Sociology/Anthropology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -15447,7 +15447,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Sociology",
-    "programLink": "/Programs/112515/University-of-Lethbridge-School-of-Graduate-Studies/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/112515/University-of-Lethbridge-School-of-Graduate-Studies/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "2 Year(s)"
@@ -15456,7 +15456,7 @@ export default [
     "schoolName": "Crandall University",
     "location": "Canada, New Brunswick",
     "programName": "Sociology",
-    "programLink": "/Programs/37810/Crandall-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/37810/Crandall-University/Sociology",
     "entranceGrade": "70",
     "tutionValue": "$17,900",
     "length": "4 Year(s)"
@@ -15465,7 +15465,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Social Work (Pre-Social Work)",
-    "programLink": "/Programs/84636/University-of-Regina/Social-Work-(Pre-Social-Work)",
+    "programLink": "https://www.studyincanada.com/Programs/84636/University-of-Regina/Social-Work-(Pre-Social-Work)",
     "entranceGrade": "65 - 65",
     "tutionValue": "$11,712",
     "length": "4 Year(s)"
@@ -15474,7 +15474,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Sociology (HBA)",
-    "programLink": "/Programs/44543/University-of-Toronto-Scarborough/Sociology-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/44543/University-of-Toronto-Scarborough/Sociology-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -15483,7 +15483,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Sociology: Bachelor of Arts Degree - Major",
-    "programLink": "/Programs/107871/Thompson-Rivers-University/Sociology-Bachelor-of-Arts-Degree-Major",
+    "programLink": "https://www.studyincanada.com/Programs/107871/Thompson-Rivers-University/Sociology-Bachelor-of-Arts-Degree-Major",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "4 Year(s)"
@@ -15492,7 +15492,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/32295/University-of-Windsor/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/32295/University-of-Windsor/Sociology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$34,641",
     "length": "4 Year(s)"
@@ -15501,7 +15501,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Sociology",
-    "programLink": "/Programs/1372/Acadia-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/1372/Acadia-University/Sociology",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "5 Year(s)"
@@ -15510,7 +15510,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Disability Studies",
-    "programLink": "/Programs/64154/The-University-of-Winnipeg/Disability-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/64154/The-University-of-Winnipeg/Disability-Studies",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -15519,7 +15519,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Sociology (HBA)",
-    "programLink": "/Programs/78365/Laurentian-University/Universite-Laurentienne/Sociology-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/78365/Laurentian-University/Universite-Laurentienne/Sociology-(HBA)",
     "entranceGrade": "70",
     "tutionValue": "$23,747",
     "length": "4 Year(s)"
@@ -15528,7 +15528,7 @@ export default [
     "schoolName": "York University - Glendon Campus",
     "location": "Canada, Ontario",
     "programName": "Canadian Studies (BA)",
-    "programLink": "/Programs/15031/York-University-Glendon-Campus/Canadian-Studies-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/15031/York-University-Glendon-Campus/Canadian-Studies-(BA)",
     "entranceGrade": "75 - 79",
     "tutionValue": "$32,502",
     "length": "4 Year(s)"
@@ -15537,7 +15537,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Sociology",
-    "programLink": "/Programs/10367/University-of-Prince-Edward-Island/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/10367/University-of-Prince-Edward-Island/Sociology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -15546,7 +15546,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Sociology",
-    "programLink": "/Programs/19813/Mount-Allison-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/19813/Mount-Allison-University/Sociology",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -15555,7 +15555,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Urban and Regional Studies",
-    "programLink": "/Programs/112495/University-of-Lethbridge-School-of-Graduate-Studies/Urban-and-Regional-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/112495/University-of-Lethbridge-School-of-Graduate-Studies/Urban-and-Regional-Studies",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -15564,7 +15564,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "General Arts: Bachelor of Arts Degree - Major",
-    "programLink": "/Programs/83624/Thompson-Rivers-University/General-Arts-Bachelor-of-Arts-Degree-Major",
+    "programLink": "https://www.studyincanada.com/Programs/83624/Thompson-Rivers-University/General-Arts-Bachelor-of-Arts-Degree-Major",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "4 Year(s)"
@@ -15573,7 +15573,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Sociology",
-    "programLink": "/Programs/9850/St.-Francis-Xavier-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/9850/St.-Francis-Xavier-University/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -15582,7 +15582,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/23162/Queen-s-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/23162/Queen-s-University/Sociology",
     "entranceGrade": "80 - 100",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -15591,7 +15591,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Communication and Sociology",
-    "programLink": "/Programs/49630/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Communication-and-Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/49630/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Communication-and-Sociology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -15600,7 +15600,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Sociology",
-    "programLink": "/Programs/107420/Brandon-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/107420/Brandon-University/Sociology",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -15609,7 +15609,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "General Arts: Bachelor of Arts Degree - Major",
-    "programLink": "/Programs/107882/Thompson-Rivers-University/General-Arts-Bachelor-of-Arts-Degree-Major",
+    "programLink": "https://www.studyincanada.com/Programs/107882/Thompson-Rivers-University/General-Arts-Bachelor-of-Arts-Degree-Major",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "N/S"
@@ -15618,7 +15618,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/1871/Graduate-Studies-at-University-of-Waterloo/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/1871/Graduate-Studies-at-University-of-Waterloo/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -15627,7 +15627,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Sociology (B.A.)",
-    "programLink": "/Programs/163/Trent-University/Sociology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/163/Trent-University/Sociology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "3 Year(s)"
@@ -15636,7 +15636,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Sociology (General Major)",
-    "programLink": "/Programs/37370/University-of-Manitoba/Sociology-(General-Major)",
+    "programLink": "https://www.studyincanada.com/Programs/37370/University-of-Manitoba/Sociology-(General-Major)",
     "entranceGrade": "85 - 85",
     "tutionValue": "$16,600",
     "length": "3 Year(s)"
@@ -15645,7 +15645,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Sociology - Crime and Community (3 Year)",
-    "programLink": "/Programs/107437/Brandon-University/Sociology-Crime-and-Community-(3-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/107437/Brandon-University/Sociology-Crime-and-Community-(3-Year)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "3 Year(s)"
@@ -15654,7 +15654,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/1868/Graduate-Studies-at-University-of-Waterloo/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/1868/Graduate-Studies-at-University-of-Waterloo/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -15663,7 +15663,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/4746/University-of-Windsor-Faculty-of-Graduate-Studies/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/4746/University-of-Windsor-Faculty-of-Graduate-Studies/Sociology",
     "entranceGrade": "77 - 100",
     "tutionValue": "$8,863",
     "length": "1 Year(s)"
@@ -15672,7 +15672,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Disability Studies (Four-Year)",
-    "programLink": "/Programs/65685/The-University-of-Winnipeg/Disability-Studies-(Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/65685/The-University-of-Winnipeg/Disability-Studies-(Four-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -15681,7 +15681,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Sociology",
-    "programLink": "/Programs/1375/Acadia-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/1375/Acadia-University/Sociology",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "4 Year(s)"
@@ -15690,7 +15690,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Sociology (BA)",
-    "programLink": "/Programs/71976/Kwantlen-Polytechnic-University/Sociology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/71976/Kwantlen-Polytechnic-University/Sociology-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -15699,7 +15699,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/96737/Vancouver-Island-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/96737/Vancouver-Island-University/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -15708,7 +15708,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/29922/The-University-of-British-Columbia-Okanagan/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/29922/The-University-of-British-Columbia-Okanagan/Sociology",
     "entranceGrade": "67",
     "tutionValue": "$41,156",
     "length": "4 Year(s)"
@@ -15717,7 +15717,7 @@ export default [
     "schoolName": "University of Alberta - Augustana Campus",
     "location": "Canada, Alberta",
     "programName": "Sociology (B.A.)",
-    "programLink": "/Programs/21935/University-of-Alberta-Augustana-Campus/Sociology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/21935/University-of-Alberta-Augustana-Campus/Sociology-(B.A.)",
     "entranceGrade": "70 - 70",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -15726,7 +15726,7 @@ export default [
     "schoolName": "Trent University - Durham Greater Toronto Area",
     "location": "Canada, Ontario",
     "programName": "Social Justice and Equity Studies (Specialization)",
-    "programLink": "/Programs/105225/Trent-University-Durham-Greater-Toronto-Area/Social-Justice-and-Equity-Studies-(Specialization)",
+    "programLink": "https://www.studyincanada.com/Programs/105225/Trent-University-Durham-Greater-Toronto-Area/Social-Justice-and-Equity-Studies-(Specialization)",
     "entranceGrade": "N/S",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -15735,7 +15735,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Sociology (Four-Year)",
-    "programLink": "/Programs/62870/The-University-of-Winnipeg/Sociology-(Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/62870/The-University-of-Winnipeg/Sociology-(Four-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -15744,7 +15744,7 @@ export default [
     "schoolName": "Tyndale University",
     "location": "Canada, Ontario",
     "programName": "Sociology (Minor)",
-    "programLink": "/Programs/115981/Tyndale-University/Sociology-(Minor)",
+    "programLink": "https://www.studyincanada.com/Programs/115981/Tyndale-University/Sociology-(Minor)",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -15753,7 +15753,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/5810/Queen-s-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/5810/Queen-s-University/Sociology",
     "entranceGrade": "80 - 100",
     "tutionValue": "$55,567",
     "length": "3 Year(s)"
@@ -15762,7 +15762,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Sociology",
-    "programLink": "/Programs/7206/McGill-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/7206/McGill-University/Sociology",
     "entranceGrade": "87",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -15771,7 +15771,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/48500/Douglas-College/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/48500/Douglas-College/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -15780,7 +15780,7 @@ export default [
     "schoolName": "The King's University",
     "location": "Canada, Alberta",
     "programName": "Social Sciences",
-    "programLink": "/Programs/6182/The-King-s-University/Social-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/6182/The-King-s-University/Social-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$11,778",
     "length": "3 Year(s)"
@@ -15789,7 +15789,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Sociology & Criminology",
-    "programLink": "/Programs/114219/University-of-Windsor/Sociology-&-Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/114219/University-of-Windsor/Sociology-&-Criminology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$34,641",
     "length": "4 Year(s)"
@@ -15798,7 +15798,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/11281/Kwantlen-Polytechnic-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/11281/Kwantlen-Polytechnic-University/Sociology",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "2 Year(s)"
@@ -15807,7 +15807,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Sociology",
-    "programLink": "/Programs/9756/Saint-Mary-s-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/9756/Saint-Mary-s-University/Sociology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "3 Year(s)"
@@ -15816,7 +15816,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/27193/University-of-Victoria/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/27193/University-of-Victoria/Sociology",
     "entranceGrade": "78",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -15825,7 +15825,7 @@ export default [
     "schoolName": "York University - Glendon Campus",
     "location": "Canada, Ontario",
     "programName": "Sociology (BA)",
-    "programLink": "/Programs/31231/York-University-Glendon-Campus/Sociology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/31231/York-University-Glendon-Campus/Sociology-(BA)",
     "entranceGrade": "75 - 79",
     "tutionValue": "$32,502",
     "length": "4 Year(s)"
@@ -15834,7 +15834,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Sociology and Social Anthropology (BA)",
-    "programLink": "/Programs/85343/Dalhousie-University/Sociology-and-Social-Anthropology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/85343/Dalhousie-University/Sociology-and-Social-Anthropology-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -15843,7 +15843,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology - Indigenous Justice and Criminology (IJC) (B.A. Three...",
-    "programLink": "/Programs/106231/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)-(B.A.-Three...",
+    "programLink": "https://www.studyincanada.com/Programs/106231/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)-(B.A.-Three...",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -15852,7 +15852,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Social and Cultural Analysis (PhD)",
-    "programLink": "/Programs/68874/Concordia-University-School-of-Graduate-Studies/Social-and-Cultural-Analysis-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/68874/Concordia-University-School-of-Graduate-Studies/Social-and-Cultural-Analysis-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -15861,7 +15861,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Sociology",
-    "programLink": "/Programs/4782/University-of-Lethbridge-School-of-Graduate-Studies/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/4782/University-of-Lethbridge-School-of-Graduate-Studies/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "2 Year(s)"
@@ -15870,7 +15870,7 @@ export default [
     "schoolName": "Okanagan College",
     "location": "Canada, British Columbia",
     "programName": "Diploma in Criminal and Social Justice",
-    "programLink": "/Programs/46746/Okanagan-College/Diploma-in-Criminal-and-Social-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/46746/Okanagan-College/Diploma-in-Criminal-and-Social-Justice",
     "entranceGrade": "60",
     "tutionValue": "$13,750",
     "length": "2 Year(s)"
@@ -15879,7 +15879,7 @@ export default [
     "schoolName": "The King's University",
     "location": "Canada, Alberta",
     "programName": "Sociology",
-    "programLink": "/Programs/6183/The-King-s-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/6183/The-King-s-University/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$11,778",
     "length": "4 Year(s)"
@@ -15888,7 +15888,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/77454/The-University-of-British-Columbia-Vancouver/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/77454/The-University-of-British-Columbia-Vancouver/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -15897,7 +15897,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/77453/The-University-of-British-Columbia-Vancouver/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/77453/The-University-of-British-Columbia-Vancouver/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -15906,7 +15906,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Anthropology and Sociology",
-    "programLink": "/Programs/49593/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology-and-Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/49593/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology-and-Sociology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -15915,7 +15915,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Sociology",
-    "programLink": "/Programs/7428/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/7428/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Sociology",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -15924,7 +15924,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology (Double Honours)",
-    "programLink": "/Programs/73057/University-of-Saskatchewan/Sociology-(Double-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/73057/University-of-Saskatchewan/Sociology-(Double-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -15933,7 +15933,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Communication and Sociology",
-    "programLink": "/Programs/49634/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Communication-and-Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/49634/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Communication-and-Sociology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -15942,7 +15942,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Sociology",
-    "programLink": "/Programs/8016/The-University-of-Winnipeg/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/8016/The-University-of-Winnipeg/Sociology",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -15951,7 +15951,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Sociology: Social Justice Studies Specialization (M.A.)",
-    "programLink": "/Programs/111559/Lakehead-University-Faculty-of-Graduate-Studies/Sociology-Social-Justice-Studies-Specialization-(M.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/111559/Lakehead-University-Faculty-of-Graduate-Studies/Sociology-Social-Justice-Studies-Specialization-(M.A.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -15960,7 +15960,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Criminology",
-    "programLink": "/Programs/56571/Western-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/56571/Western-University/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "N/S"
@@ -15969,7 +15969,7 @@ export default [
     "schoolName": "University of Toronto: Ontario Institute for Studies in Education",
     "location": "Canada, Ontario",
     "programName": "Social Justice Education (PhD)",
-    "programLink": "/Programs/59886/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Social-Justice-Education-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/59886/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Social-Justice-Education-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "$6,210",
     "length": "4 Year(s)"
@@ -15978,7 +15978,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Sociology and Another Subject (BA) (Combined Honours)",
-    "programLink": "/Programs/91544/McMaster-University/Sociology-and-Another-Subject-(BA)-(Combined-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/91544/McMaster-University/Sociology-and-Another-Subject-(BA)-(Combined-Honours)",
     "entranceGrade": "78 - 82",
     "tutionValue": "$40,960",
     "length": "4 Year(s)"
@@ -15987,7 +15987,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Sociology",
-    "programLink": "/Programs/13563/University-of-Manitoba-Faculty-of-Graduate-Studies/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/13563/University-of-Manitoba-Faculty-of-Graduate-Studies/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -15996,7 +15996,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Women's & Gender Studies (B.A. Three-Year)",
-    "programLink": "/Programs/106229/University-of-Saskatchewan/Women-s-&-Gender-Studies-(B.A.-Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/106229/University-of-Saskatchewan/Women-s-&-Gender-Studies-(B.A.-Three-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -16005,7 +16005,7 @@ export default [
     "schoolName": "Concordia University of Edmonton",
     "location": "Canada, Alberta",
     "programName": "Sociology (B.A. 4-year)",
-    "programLink": "/Programs/78284/Concordia-University-of-Edmonton/Sociology-(B.A.-4-year)",
+    "programLink": "https://www.studyincanada.com/Programs/78284/Concordia-University-of-Edmonton/Sociology-(B.A.-4-year)",
     "entranceGrade": "60",
     "tutionValue": "$25,414",
     "length": "4 Year(s)"
@@ -16014,7 +16014,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Sociology (HBA)",
-    "programLink": "/Programs/8517/University-of-Toronto-St.-George/Sociology-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/8517/University-of-Toronto-St.-George/Sociology-(HBA)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -16032,7 +16032,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Sociology",
-    "programLink": "/Programs/37674/University-of-Manitoba-Faculty-of-Graduate-Studies/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/37674/University-of-Manitoba-Faculty-of-Graduate-Studies/Sociology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -16041,7 +16041,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Sociology - Crime and Community",
-    "programLink": "/Programs/107436/Brandon-University/Sociology-Crime-and-Community",
+    "programLink": "https://www.studyincanada.com/Programs/107436/Brandon-University/Sociology-Crime-and-Community",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -16050,7 +16050,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/12311/University-of-Victoria/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/12311/University-of-Victoria/Sociology",
     "entranceGrade": "78 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -16059,7 +16059,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Sociology (Three-Year)",
-    "programLink": "/Programs/27066/The-University-of-Winnipeg/Sociology-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/27066/The-University-of-Winnipeg/Sociology-(Three-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "3 Year(s)"
@@ -16068,7 +16068,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Arts | Sociology",
-    "programLink": "/Programs/109235/University-of-Lethbridge/Bachelor-of-Arts-|-Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/109235/University-of-Lethbridge/Bachelor-of-Arts-|-Sociology",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -16077,7 +16077,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Arts | Urban and Regional Studies",
-    "programLink": "/Programs/109215/University-of-Lethbridge/Bachelor-of-Arts-|-Urban-and-Regional-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/109215/University-of-Lethbridge/Bachelor-of-Arts-|-Urban-and-Regional-Studies",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -16086,7 +16086,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Sociology (B.A.)",
-    "programLink": "/Programs/109896/Trent-University/Sociology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/109896/Trent-University/Sociology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -16095,7 +16095,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology (B.A. Three-Year)",
-    "programLink": "/Programs/106230/University-of-Saskatchewan/Sociology-(B.A.-Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/106230/University-of-Saskatchewan/Sociology-(B.A.-Three-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -16104,7 +16104,7 @@ export default [
     "schoolName": "University of Toronto: Ontario Institute for Studies in Education",
     "location": "Canada, Ontario",
     "programName": "Social Justice Education (EdD)",
-    "programLink": "/Programs/65491/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Social-Justice-Education-(EdD)",
+    "programLink": "https://www.studyincanada.com/Programs/65491/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Social-Justice-Education-(EdD)",
     "entranceGrade": "N/S",
     "tutionValue": "$40,260",
     "length": "4 Year(s)"
@@ -16113,7 +16113,7 @@ export default [
     "schoolName": "Athabasca University",
     "location": "Canada, Alberta",
     "programName": "Sociology (Three Year)",
-    "programLink": "/Programs/9074/Athabasca-University/Sociology-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/9074/Athabasca-University/Sociology-(Three-Year)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -16122,7 +16122,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/87311/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/87311/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Sociology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -16131,7 +16131,7 @@ export default [
     "schoolName": "York University - Glendon Campus",
     "location": "Canada, Ontario",
     "programName": "Sociology (iBA)",
-    "programLink": "/Programs/64866/York-University-Glendon-Campus/Sociology-(iBA)",
+    "programLink": "https://www.studyincanada.com/Programs/64866/York-University-Glendon-Campus/Sociology-(iBA)",
     "entranceGrade": "75 - 79",
     "tutionValue": "$32,502",
     "length": "4 Year(s)"
@@ -16140,7 +16140,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Sociology (3 Year)",
-    "programLink": "/Programs/107421/Brandon-University/Sociology-(3-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/107421/Brandon-University/Sociology-(3-Year)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "3 Year(s)"
@@ -16149,7 +16149,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Sociology",
-    "programLink": "/Programs/37335/University-of-Manitoba/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/37335/University-of-Manitoba/Sociology",
     "entranceGrade": "85 - 85",
     "tutionValue": "$16,600",
     "length": "4 Year(s)"
@@ -16158,7 +16158,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Sociology - Crime and Community",
-    "programLink": "/Programs/107423/Brandon-University/Sociology-Crime-and-Community",
+    "programLink": "https://www.studyincanada.com/Programs/107423/Brandon-University/Sociology-Crime-and-Community",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -16167,7 +16167,7 @@ export default [
     "schoolName": "Nipissing University - Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/90181/Nipissing-University-Graduate-Studies/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/90181/Nipissing-University-Graduate-Studies/Sociology",
     "entranceGrade": "75 - 75",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -16176,7 +16176,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Sociology",
-    "programLink": "/Programs/55690/Bishop-s-University/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/55690/Bishop-s-University/Sociology",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -16185,7 +16185,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Sociology (B.A.)",
-    "programLink": "/Programs/109897/Trent-University/Sociology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/109897/Trent-University/Sociology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -16194,7 +16194,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Sociology: Gerontology Specialization (M.A.)",
-    "programLink": "/Programs/111558/Lakehead-University-Faculty-of-Graduate-Studies/Sociology-Gerontology-Specialization-(M.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/111558/Lakehead-University-Faculty-of-Graduate-Studies/Sociology-Gerontology-Specialization-(M.A.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -16203,7 +16203,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Sociology",
-    "programLink": "/Programs/88607/The-University-of-British-Columbia-Okanagan/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/88607/The-University-of-British-Columbia-Okanagan/Sociology",
     "entranceGrade": "70",
     "tutionValue": "$41,156",
     "length": "4 Year(s)"
@@ -16212,7 +16212,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Women's & Gender Studies (B.A. Four-Year)",
-    "programLink": "/Programs/11621/University-of-Saskatchewan/Women-s-&-Gender-Studies-(B.A.-Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/11621/University-of-Saskatchewan/Women-s-&-Gender-Studies-(B.A.-Four-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -16221,7 +16221,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Anthropology",
-    "programLink": "/Programs/45504/University-of-Prince-Edward-Island/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/45504/University-of-Prince-Edward-Island/Anthropology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -16230,7 +16230,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Certificate in Arts and Science | Sociology",
-    "programLink": "/Programs/112562/University-of-Lethbridge/Certificate-in-Arts-and-Science-|-Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/112562/University-of-Lethbridge/Certificate-in-Arts-and-Science-|-Sociology",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "1 Year(s)"
@@ -16239,7 +16239,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Women's & Gender Studies (Double Honours)",
-    "programLink": "/Programs/106234/University-of-Saskatchewan/Women-s-&-Gender-Studies-(Double-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/106234/University-of-Saskatchewan/Women-s-&-Gender-Studies-(Double-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -16266,7 +16266,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Anthropology and Sociology",
-    "programLink": "/Programs/49592/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology-and-Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/49592/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology-and-Sociology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -16275,7 +16275,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Sociology (Specialist Option)",
-    "programLink": "/Programs/91537/McMaster-University/Sociology-(Specialist-Option)",
+    "programLink": "https://www.studyincanada.com/Programs/91537/McMaster-University/Sociology-(Specialist-Option)",
     "entranceGrade": "78 - 82",
     "tutionValue": "$38,778",
     "length": "4 Year(s)"
@@ -16284,7 +16284,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Criminology",
-    "programLink": "/Programs/90517/University-of-Manitoba/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/90517/University-of-Manitoba/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "$16,600",
     "length": "4 Year(s)"
@@ -16293,7 +16293,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/49729/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/49729/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Sociology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -16302,7 +16302,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Sociology - Crime and Community",
-    "programLink": "/Programs/51132/Brandon-University/Sociology-Crime-and-Community",
+    "programLink": "https://www.studyincanada.com/Programs/51132/Brandon-University/Sociology-Crime-and-Community",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -16311,7 +16311,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Sociology",
-    "programLink": "/Programs/2740/Lakehead-University-Thunder-Bay/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/2740/Lakehead-University-Thunder-Bay/Sociology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -16320,7 +16320,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Sociology - Specialization in Health Studies (B.A.)",
-    "programLink": "/Programs/95525/Trent-University/Sociology-Specialization-in-Health-Studies-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/95525/Trent-University/Sociology-Specialization-in-Health-Studies-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "3 Year(s)"
@@ -16329,7 +16329,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Urban and Regional Studies",
-    "programLink": "/Programs/4823/University-of-Lethbridge-School-of-Graduate-Studies/Urban-and-Regional-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/4823/University-of-Lethbridge-School-of-Graduate-Studies/Urban-and-Regional-Studies",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -16338,7 +16338,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Sociology (Specialist Option) and Another Subject (BA) (Combined...",
-    "programLink": "/Programs/91543/McMaster-University/Sociology-(Specialist-Option)-and-Another-Subject-(BA)-(Combined...",
+    "programLink": "https://www.studyincanada.com/Programs/91543/McMaster-University/Sociology-(Specialist-Option)-and-Another-Subject-(BA)-(Combined...",
     "entranceGrade": "78 - 82",
     "tutionValue": "$40,960",
     "length": "4 Year(s)"
@@ -16347,7 +16347,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Sociology (Pre-Master's)",
-    "programLink": "/Programs/111597/University-of-Manitoba-Faculty-of-Graduate-Studies/Sociology-(Pre-Master-s)",
+    "programLink": "https://www.studyincanada.com/Programs/111597/University-of-Manitoba-Faculty-of-Graduate-Studies/Sociology-(Pre-Master-s)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -16356,7 +16356,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Recreation (Therapeutic) (BScR-TR)",
-    "programLink": "/Programs/96608/Dalhousie-University/Recreation-(Therapeutic)-(BScR-TR)",
+    "programLink": "https://www.studyincanada.com/Programs/96608/Dalhousie-University/Recreation-(Therapeutic)-(BScR-TR)",
     "entranceGrade": "70",
     "tutionValue": "$30,966",
     "length": "4 Year(s)"
@@ -16365,7 +16365,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Sociology - Crime and Community",
-    "programLink": "/Programs/107424/Brandon-University/Sociology-Crime-and-Community",
+    "programLink": "https://www.studyincanada.com/Programs/107424/Brandon-University/Sociology-Crime-and-Community",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -16527,7 +16527,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Feminist and Gender Studies and in Political Science",
-    "programLink": "/Programs/49722/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Feminist-and-Gender-Studies-and-in-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49722/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Feminist-and-Gender-Studies-and-in-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -16536,7 +16536,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Political Science",
-    "programLink": "/Programs/81231/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/81231/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Political-Science",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -16545,7 +16545,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Political Science",
-    "programLink": "/Programs/9680/Mount-Allison-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/9680/Mount-Allison-University/Political-Science",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -16554,7 +16554,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Political Science",
-    "programLink": "/Programs/109017/Saint-Mary-s-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/109017/Saint-Mary-s-University/Political-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "4 Year(s)"
@@ -16563,7 +16563,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/77565/The-University-of-British-Columbia-Vancouver/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/77565/The-University-of-British-Columbia-Vancouver/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -16572,7 +16572,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Public Administration and Political Science",
-    "programLink": "/Programs/49714/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Public-Administration-and-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49714/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Public-Administration-and-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -16581,7 +16581,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/2700/Lakehead-University-Thunder-Bay/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/2700/Lakehead-University-Thunder-Bay/Political-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -16590,7 +16590,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Political Science (MA)",
-    "programLink": "/Programs/90204/Concordia-University-School-of-Graduate-Studies/Political-Science-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/90204/Concordia-University-School-of-Graduate-Studies/Political-Science-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -16599,7 +16599,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Political Science",
-    "programLink": "/Programs/8013/The-University-of-Winnipeg/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/8013/The-University-of-Winnipeg/Political-Science",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -16608,7 +16608,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Political Science",
-    "programLink": "/Programs/81230/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/81230/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Political-Science",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -16617,7 +16617,7 @@ export default [
     "schoolName": "York University - Glendon Campus",
     "location": "Canada, Ontario",
     "programName": "Political Science (iBA)",
-    "programLink": "/Programs/64863/York-University-Glendon-Campus/Political-Science-(iBA)",
+    "programLink": "https://www.studyincanada.com/Programs/64863/York-University-Glendon-Campus/Political-Science-(iBA)",
     "entranceGrade": "75 - 79",
     "tutionValue": "$32,502",
     "length": "4 Year(s)"
@@ -16626,7 +16626,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Political Science",
-    "programLink": "/Programs/6935/University-of-Regina/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/6935/University-of-Regina/Political-Science",
     "entranceGrade": "65",
     "tutionValue": "$11,397",
     "length": "4 Year(s)"
@@ -16635,7 +16635,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Political Science",
-    "programLink": "/Programs/9877/St.-Francis-Xavier-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/9877/St.-Francis-Xavier-University/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -16644,7 +16644,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Political Science",
-    "programLink": "/Programs/9777/Saint-Mary-s-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/9777/Saint-Mary-s-University/Political-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "4 Year(s)"
@@ -16653,7 +16653,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/88605/The-University-of-British-Columbia-Okanagan/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/88605/The-University-of-British-Columbia-Okanagan/Political-Science",
     "entranceGrade": "70",
     "tutionValue": "$41,156",
     "length": "4 Year(s)"
@@ -16662,7 +16662,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Global and International Studies/Political Science Joint Major",
-    "programLink": "/Programs/13083/University-of-Northern-British-Columbia/Global-and-International-Studies/Political-Science-Joint-Major",
+    "programLink": "https://www.studyincanada.com/Programs/13083/University-of-Northern-British-Columbia/Global-and-International-Studies/Political-Science-Joint-Major",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -16671,7 +16671,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Geography/Political Science Joint Major",
-    "programLink": "/Programs/108398/University-of-Northern-British-Columbia/Geography/Political-Science-Joint-Major",
+    "programLink": "https://www.studyincanada.com/Programs/108398/University-of-Northern-British-Columbia/Geography/Political-Science-Joint-Major",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -16680,7 +16680,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Political Science",
-    "programLink": "/Programs/81232/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/81232/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Political-Science",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -16698,7 +16698,7 @@ export default [
     "schoolName": "The King's University",
     "location": "Canada, Alberta",
     "programName": "Political Science",
-    "programLink": "/Programs/108844/The-King-s-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/108844/The-King-s-University/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$11,778",
     "length": "4 Year(s)"
@@ -16707,7 +16707,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/1683/The-University-of-British-Columbia-Vancouver/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/1683/The-University-of-British-Columbia-Vancouver/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -16716,7 +16716,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Philosophy and Political Science",
-    "programLink": "/Programs/49711/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Philosophy-and-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49711/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Philosophy-and-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -16725,7 +16725,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/4724/University-of-Windsor-Faculty-of-Graduate-Studies/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/4724/University-of-Windsor-Faculty-of-Graduate-Studies/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$8,863",
     "length": "1 Year(s)"
@@ -16734,7 +16734,7 @@ export default [
     "schoolName": "Cape Breton University",
     "location": "Canada, Nova Scotia",
     "programName": "Political Science",
-    "programLink": "/Programs/62393/Cape-Breton-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/62393/Cape-Breton-University/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$19,579",
     "length": "3 Year(s)"
@@ -16743,7 +16743,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Political Science (Specialization in Global Citizenship)",
-    "programLink": "/Programs/100319/McMaster-University/Political-Science-(Specialization-in-Global-Citizenship)",
+    "programLink": "https://www.studyincanada.com/Programs/100319/McMaster-University/Political-Science-(Specialization-in-Global-Citizenship)",
     "entranceGrade": "78 - 82",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -16752,7 +16752,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Political Science (Specialization in Public Law and Judicial Stu...",
-    "programLink": "/Programs/91529/McMaster-University/Political-Science-(Specialization-in-Public-Law-and-Judicial-Stu...",
+    "programLink": "https://www.studyincanada.com/Programs/91529/McMaster-University/Political-Science-(Specialization-in-Public-Law-and-Judicial-Stu...",
     "entranceGrade": "78 - 82",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -16761,7 +16761,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/77563/The-University-of-British-Columbia-Vancouver/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/77563/The-University-of-British-Columbia-Vancouver/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -16770,7 +16770,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/4161/Western-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/4161/Western-University/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -16779,7 +16779,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Political Science (BA)",
-    "programLink": "/Programs/71972/Kwantlen-Polytechnic-University/Political-Science-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/71972/Kwantlen-Polytechnic-University/Political-Science-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -16788,7 +16788,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/77564/The-University-of-British-Columbia-Vancouver/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/77564/The-University-of-British-Columbia-Vancouver/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -16797,7 +16797,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/3844/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/3844/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -16806,7 +16806,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/16905/Kwantlen-Polytechnic-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/16905/Kwantlen-Polytechnic-University/Political-Science",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "2 Year(s)"
@@ -16815,7 +16815,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Economics and Political Science",
-    "programLink": "/Programs/49642/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Economics-and-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49642/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Economics-and-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -16824,7 +16824,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/12296/University-of-Victoria/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/12296/University-of-Victoria/Political-Science",
     "entranceGrade": "75 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -16833,7 +16833,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Political Science",
-    "programLink": "/Programs/107410/Brandon-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/107410/Brandon-University/Political-Science",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -16842,7 +16842,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Political Science (BA)",
-    "programLink": "/Programs/14873/Dalhousie-University/Political-Science-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/14873/Dalhousie-University/Political-Science-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -16860,7 +16860,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/2699/Lakehead-University-Thunder-Bay/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/2699/Lakehead-University-Thunder-Bay/Political-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -16869,7 +16869,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "English/Political Science Joint Major",
-    "programLink": "/Programs/55602/University-of-Northern-British-Columbia/English/Political-Science-Joint-Major",
+    "programLink": "https://www.studyincanada.com/Programs/55602/University-of-Northern-British-Columbia/English/Political-Science-Joint-Major",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -16878,7 +16878,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Political Science",
-    "programLink": "/Programs/112509/University-of-Lethbridge-School-of-Graduate-Studies/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/112509/University-of-Lethbridge-School-of-Graduate-Studies/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "2 Year(s)"
@@ -16887,7 +16887,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/87561/Lakehead-University-Orillia/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/87561/Lakehead-University-Orillia/Political-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -16896,7 +16896,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Political Science",
-    "programLink": "/Programs/23007/University-of-New-Brunswick-Fredericton/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/23007/University-of-New-Brunswick-Fredericton/Political-Science",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -16905,7 +16905,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "History and Political Science",
-    "programLink": "/Programs/49684/University-of-Ottawa/Universit%c3%a9-d-Ottawa/History-and-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49684/University-of-Ottawa/Universit%c3%a9-d-Ottawa/History-and-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -16914,7 +16914,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Business Administration & Political Science",
-    "programLink": "/Programs/114210/University-of-Windsor/Business-Administration-&-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/114210/University-of-Windsor/Business-Administration-&-Political-Science",
     "entranceGrade": "73 - 100",
     "tutionValue": "$38,857",
     "length": "4 Year(s)"
@@ -16923,7 +16923,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/87298/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/87298/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -16932,7 +16932,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Economics/Political Science Joint Major",
-    "programLink": "/Programs/27928/University-of-Northern-British-Columbia/Economics/Political-Science-Joint-Major",
+    "programLink": "https://www.studyincanada.com/Programs/27928/University-of-Northern-British-Columbia/Economics/Political-Science-Joint-Major",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -16941,7 +16941,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Management | Political Science",
-    "programLink": "/Programs/91088/University-of-Lethbridge/Bachelor-of-Management-|-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/91088/University-of-Lethbridge/Bachelor-of-Management-|-Political-Science",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -16950,7 +16950,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/68972/University-of-Windsor/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/68972/University-of-Windsor/Political-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$34,641",
     "length": "4 Year(s)"
@@ -16959,7 +16959,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Political Science",
-    "programLink": "/Programs/39959/McGill-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/39959/McGill-University/Political-Science",
     "entranceGrade": "87",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -16968,7 +16968,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/1849/Graduate-Studies-at-University-of-Waterloo/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/1849/Graduate-Studies-at-University-of-Waterloo/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -16977,7 +16977,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/12297/University-of-Victoria/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/12297/University-of-Victoria/Political-Science",
     "entranceGrade": "75 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -16986,7 +16986,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/1850/Graduate-Studies-at-University-of-Waterloo/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/1850/Graduate-Studies-at-University-of-Waterloo/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -16995,7 +16995,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Political Science (PhD)",
-    "programLink": "/Programs/39684/Concordia-University-School-of-Graduate-Studies/Political-Science-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/39684/Concordia-University-School-of-Graduate-Studies/Political-Science-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -17004,7 +17004,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Political Science (BA)/Concurrent Education (BEd)",
-    "programLink": "/Programs/114224/University-of-Windsor/Political-Science-(BA)/Concurrent-Education-(BEd)",
+    "programLink": "https://www.studyincanada.com/Programs/114224/University-of-Windsor/Political-Science-(BA)/Concurrent-Education-(BEd)",
     "entranceGrade": "75 - 100",
     "tutionValue": "$34,617",
     "length": "5 Year(s)"
@@ -17013,7 +17013,7 @@ export default [
     "schoolName": "Algoma University",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/12407/Algoma-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/12407/Algoma-University/Political-Science",
     "entranceGrade": "65 - 65",
     "tutionValue": "$20,438",
     "length": "4 Year(s)"
@@ -17022,7 +17022,7 @@ export default [
     "schoolName": "Carleton University - Faculty of Graduate Studies and Research",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/12696/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/12696/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -17031,7 +17031,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/29920/The-University-of-British-Columbia-Okanagan/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/29920/The-University-of-British-Columbia-Okanagan/Political-Science",
     "entranceGrade": "67",
     "tutionValue": "$41,156",
     "length": "4 Year(s)"
@@ -17040,7 +17040,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/76797/Langara-College/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/76797/Langara-College/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -17049,7 +17049,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "HBA/ Political Science",
-    "programLink": "/Programs/107560/Western-University/HBA/-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/107560/Western-University/HBA/-Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "5 Year(s)"
@@ -17058,7 +17058,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/5482/McMaster-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/5482/McMaster-University/Political-Science",
     "entranceGrade": "78 - 82",
     "tutionValue": "$40,960",
     "length": "4 Year(s)"
@@ -17067,7 +17067,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Political Science",
-    "programLink": "/Programs/107411/Brandon-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/107411/Brandon-University/Political-Science",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -17076,7 +17076,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Communication and Political Science",
-    "programLink": "/Programs/49625/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Communication-and-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49625/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Communication-and-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -17085,7 +17085,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/3323/University-of-Northern-British-Columbia/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/3323/University-of-Northern-British-Columbia/Political-Science",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -17094,7 +17094,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Political Science",
-    "programLink": "/Programs/7185/McGill-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/7185/McGill-University/Political-Science",
     "entranceGrade": "87",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -17103,7 +17103,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Public Administration and Political Science",
-    "programLink": "/Programs/49715/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Public-Administration-and-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49715/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Public-Administration-and-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -17112,7 +17112,7 @@ export default [
     "schoolName": "St. Thomas University",
     "location": "Canada, New Brunswick",
     "programName": "Political Science",
-    "programLink": "/Programs/13279/St.-Thomas-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/13279/St.-Thomas-University/Political-Science",
     "entranceGrade": "70",
     "tutionValue": "$17,208",
     "length": "3 Year(s)"
@@ -17121,7 +17121,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Political Science",
-    "programLink": "/Programs/9876/St.-Francis-Xavier-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/9876/St.-Francis-Xavier-University/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -17130,7 +17130,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Feminist and Gender Studies and in Political Science",
-    "programLink": "/Programs/105137/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Feminist-and-Gender-Studies-and-in-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/105137/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Feminist-and-Gender-Studies-and-in-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -17139,7 +17139,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Political Science",
-    "programLink": "/Programs/27394/Brandon-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/27394/Brandon-University/Political-Science",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -17148,7 +17148,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Political Science",
-    "programLink": "/Programs/10360/University-of-Prince-Edward-Island/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/10360/University-of-Prince-Edward-Island/Political-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -17157,7 +17157,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Political Science",
-    "programLink": "/Programs/7426/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/7426/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Political-Science",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -17166,7 +17166,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/49723/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49723/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -17175,7 +17175,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Political Science",
-    "programLink": "/Programs/9776/Saint-Mary-s-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/9776/Saint-Mary-s-University/Political-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "4 Year(s)"
@@ -17184,7 +17184,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Environmental and Sustainability Studies/Political Science Joint...",
-    "programLink": "/Programs/100823/University-of-Northern-British-Columbia/Environmental-and-Sustainability-Studies/Political-Science-Joint...",
+    "programLink": "https://www.studyincanada.com/Programs/100823/University-of-Northern-British-Columbia/Environmental-and-Sustainability-Studies/Political-Science-Joint...",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -17193,7 +17193,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Political Science (HBA)",
-    "programLink": "/Programs/44540/University-of-Toronto-Scarborough/Political-Science-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/44540/University-of-Toronto-Scarborough/Political-Science-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -17202,7 +17202,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Political Science",
-    "programLink": "/Programs/51131/Brandon-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/51131/Brandon-University/Political-Science",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -17211,7 +17211,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Economics and Political Science",
-    "programLink": "/Programs/49648/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Economics-and-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49648/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Economics-and-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -17220,7 +17220,7 @@ export default [
     "schoolName": "St. Thomas University",
     "location": "Canada, New Brunswick",
     "programName": "Political Science",
-    "programLink": "/Programs/13281/St.-Thomas-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/13281/St.-Thomas-University/Political-Science",
     "entranceGrade": "70",
     "tutionValue": "$17,208",
     "length": "4 Year(s)"
@@ -17229,7 +17229,7 @@ export default [
     "schoolName": "York University - Glendon Campus",
     "location": "Canada, Ontario",
     "programName": "Political Science (BA)",
-    "programLink": "/Programs/31229/York-University-Glendon-Campus/Political-Science-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/31229/York-University-Glendon-Campus/Political-Science-(BA)",
     "entranceGrade": "75 - 79",
     "tutionValue": "$32,502",
     "length": "4 Year(s)"
@@ -17238,7 +17238,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Political Science",
-    "programLink": "/Programs/27191/University-of-Victoria/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/27191/University-of-Victoria/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -17247,7 +17247,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Political Science (HBA)",
-    "programLink": "/Programs/8502/University-of-Toronto-St.-George/Political-Science-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/8502/University-of-Toronto-St.-George/Political-Science-(HBA)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -17256,7 +17256,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/49713/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49713/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -17265,7 +17265,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Political Science/Women's Studies Joint Major",
-    "programLink": "/Programs/27911/University-of-Northern-British-Columbia/Political-Science/Women-s-Studies-Joint-Major",
+    "programLink": "https://www.studyincanada.com/Programs/27911/University-of-Northern-British-Columbia/Political-Science/Women-s-Studies-Joint-Major",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -17283,7 +17283,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Political Science (3 Year)",
-    "programLink": "/Programs/107414/Brandon-University/Political-Science-(3-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/107414/Brandon-University/Political-Science-(3-Year)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "3 Year(s)"
@@ -17292,7 +17292,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Political Science (Four-Year)",
-    "programLink": "/Programs/62894/The-University-of-Winnipeg/Political-Science-(Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/62894/The-University-of-Winnipeg/Political-Science-(Four-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -17301,7 +17301,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Political Science",
-    "programLink": "/Programs/62813/Nipissing-University/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/62813/Nipissing-University/Political-Science",
     "entranceGrade": "70 - 70",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -17310,7 +17310,7 @@ export default [
     "schoolName": "Carleton University - Faculty of Graduate Studies and Research",
     "location": "Canada, Ontario",
     "programName": "Political Science (MA)",
-    "programLink": "/Programs/6673/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Political-Science-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/6673/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Political-Science-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -17319,7 +17319,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "History and Political Science",
-    "programLink": "/Programs/49689/University-of-Ottawa/Universit%c3%a9-d-Ottawa/History-and-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49689/University-of-Ottawa/Universit%c3%a9-d-Ottawa/History-and-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -17328,7 +17328,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Political Science (Three-Year)",
-    "programLink": "/Programs/27068/The-University-of-Winnipeg/Political-Science-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/27068/The-University-of-Winnipeg/Political-Science-(Three-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "3 Year(s)"
@@ -17337,7 +17337,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Political Science",
-    "programLink": "/Programs/3022/University-of-Lethbridge-School-of-Graduate-Studies/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/3022/University-of-Lethbridge-School-of-Graduate-Studies/Political-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "2 Year(s)"
@@ -17346,7 +17346,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Certificate in Arts and Science | Political Science",
-    "programLink": "/Programs/112561/University-of-Lethbridge/Certificate-in-Arts-and-Science-|-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/112561/University-of-Lethbridge/Certificate-in-Arts-and-Science-|-Political-Science",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "1 Year(s)"
@@ -17355,7 +17355,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Communication and Political Science",
-    "programLink": "/Programs/49624/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Communication-and-Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/49624/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Communication-and-Political-Science",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -17364,7 +17364,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Political Science",
-    "programLink": "/Programs/23001/University-of-New-Brunswick-Fredericton/Political-Science",
+    "programLink": "https://www.studyincanada.com/Programs/23001/University-of-New-Brunswick-Fredericton/Political-Science",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -17373,7 +17373,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "History/Political Science Joint Major",
-    "programLink": "/Programs/27909/University-of-Northern-British-Columbia/History/Political-Science-Joint-Major",
+    "programLink": "https://www.studyincanada.com/Programs/27909/University-of-Northern-British-Columbia/History/Political-Science-Joint-Major",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -17832,7 +17832,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "History",
-    "programLink": "/Programs/22925/University-of-New-Brunswick-Saint-John/History",
+    "programLink": "https://www.studyincanada.com/Programs/22925/University-of-New-Brunswick-Saint-John/History",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -17841,7 +17841,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "History",
-    "programLink": "/Programs/15541/University-of-New-Brunswick-Saint-John/History",
+    "programLink": "https://www.studyincanada.com/Programs/15541/University-of-New-Brunswick-Saint-John/History",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -17886,7 +17886,7 @@ export default [
     "schoolName": "Tyndale University",
     "location": "Canada, Ontario",
     "programName": "History and Global Studies",
-    "programLink": "/Programs/89987/Tyndale-University/History-and-Global-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/89987/Tyndale-University/History-and-Global-Studies",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -17895,7 +17895,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "History",
-    "programLink": "/Programs/37373/University-of-Manitoba/History",
+    "programLink": "https://www.studyincanada.com/Programs/37373/University-of-Manitoba/History",
     "entranceGrade": "85 - 85",
     "tutionValue": "$16,600",
     "length": "4 Year(s)"
@@ -17904,7 +17904,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "History (BA)/Concurrent Education (BEd)",
-    "programLink": "/Programs/114222/University-of-Windsor/History-(BA)/Concurrent-Education-(BEd)",
+    "programLink": "https://www.studyincanada.com/Programs/114222/University-of-Windsor/History-(BA)/Concurrent-Education-(BEd)",
     "entranceGrade": "75 - 100",
     "tutionValue": "$34,617",
     "length": "5 Year(s)"
@@ -17913,7 +17913,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "History (HBA)",
-    "programLink": "/Programs/44529/University-of-Toronto-Scarborough/History-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/44529/University-of-Toronto-Scarborough/History-(HBA)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -17922,7 +17922,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Early Modern Studies",
-    "programLink": "/Programs/14844/Dalhousie-University/Early-Modern-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/14844/Dalhousie-University/Early-Modern-Studies",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -17931,7 +17931,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "History (Advanced Major)",
-    "programLink": "/Programs/59992/University-of-Manitoba/History-(Advanced-Major)",
+    "programLink": "https://www.studyincanada.com/Programs/59992/University-of-Manitoba/History-(Advanced-Major)",
     "entranceGrade": "85 - 85",
     "tutionValue": "$16,600",
     "length": "4 Year(s)"
@@ -17940,7 +17940,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "History",
-    "programLink": "/Programs/27178/University-of-Victoria/History",
+    "programLink": "https://www.studyincanada.com/Programs/27178/University-of-Victoria/History",
     "entranceGrade": "75",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -17949,7 +17949,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "History",
-    "programLink": "/Programs/77541/The-University-of-British-Columbia-Vancouver/History",
+    "programLink": "https://www.studyincanada.com/Programs/77541/The-University-of-British-Columbia-Vancouver/History",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -17958,7 +17958,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Russian Studies (BA)",
-    "programLink": "/Programs/14826/Dalhousie-University/Russian-Studies-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/14826/Dalhousie-University/Russian-Studies-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -17967,7 +17967,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Art History (B.A. Honours)",
-    "programLink": "/Programs/11094/University-of-Saskatchewan/Art-History-(B.A.-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/11094/University-of-Saskatchewan/Art-History-(B.A.-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -17976,7 +17976,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "History",
-    "programLink": "/Programs/10872/Selkirk-College/History",
+    "programLink": "https://www.studyincanada.com/Programs/10872/Selkirk-College/History",
     "entranceGrade": "N/S",
     "tutionValue": "$13,409",
     "length": "2 Year(s)"
@@ -17985,7 +17985,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Classics",
-    "programLink": "/Programs/2240/McGill-University/Classics",
+    "programLink": "https://www.studyincanada.com/Programs/2240/McGill-University/Classics",
     "entranceGrade": "87",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -17994,7 +17994,7 @@ export default [
     "schoolName": "College of New Caledonia",
     "location": "Canada, British Columbia",
     "programName": "History",
-    "programLink": "/Programs/49178/College-of-New-Caledonia/History",
+    "programLink": "https://www.studyincanada.com/Programs/49178/College-of-New-Caledonia/History",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -18003,7 +18003,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "History/Political Science Joint Major",
-    "programLink": "/Programs/27909/University-of-Northern-British-Columbia/History/Political-Science-Joint-Major",
+    "programLink": "https://www.studyincanada.com/Programs/27909/University-of-Northern-British-Columbia/History/Political-Science-Joint-Major",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -18012,7 +18012,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Music (ArtDipMus)",
-    "programLink": "/Programs/96766/University-of-Toronto-St.-George/Music-(ArtDipMus)",
+    "programLink": "https://www.studyincanada.com/Programs/96766/University-of-Toronto-St.-George/Music-(ArtDipMus)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$37,680",
     "length": "3 Year(s)"
@@ -18021,7 +18021,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "History",
-    "programLink": "/Programs/27396/Brandon-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/27396/Brandon-University/History",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -18030,7 +18030,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "History",
-    "programLink": "/Programs/6915/University-of-Regina/History",
+    "programLink": "https://www.studyincanada.com/Programs/6915/University-of-Regina/History",
     "entranceGrade": "65",
     "tutionValue": "$11,397",
     "length": "4 Year(s)"
@@ -18039,7 +18039,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Spanish",
-    "programLink": "/Programs/95848/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Spanish",
+    "programLink": "https://www.studyincanada.com/Programs/95848/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Spanish",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -18048,7 +18048,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Law, Justice and Society (BA)",
-    "programLink": "/Programs/96605/Dalhousie-University/Law,-Justice-and-Society-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/96605/Dalhousie-University/Law,-Justice-and-Society-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -18057,7 +18057,7 @@ export default [
     "schoolName": "The King's University",
     "location": "Canada, Alberta",
     "programName": "Interdisciplinary Science",
-    "programLink": "/Programs/108847/The-King-s-University/Interdisciplinary-Science",
+    "programLink": "https://www.studyincanada.com/Programs/108847/The-King-s-University/Interdisciplinary-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$11,778",
     "length": "4 Year(s)"
@@ -18066,7 +18066,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "History (BA)",
-    "programLink": "/Programs/85355/Dalhousie-University/History-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/85355/Dalhousie-University/History-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -18075,7 +18075,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/2603/Lakehead-University-Thunder-Bay/History",
+    "programLink": "https://www.studyincanada.com/Programs/2603/Lakehead-University-Thunder-Bay/History",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -18084,7 +18084,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "History of Art",
-    "programLink": "/Programs/85119/The-University-of-Winnipeg/History-of-Art",
+    "programLink": "https://www.studyincanada.com/Programs/85119/The-University-of-Winnipeg/History-of-Art",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -18093,7 +18093,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Ancient Greek and Roman Studies - Specialization in Greek & Lati...",
-    "programLink": "/Programs/95524/Trent-University/Ancient-Greek-and-Roman-Studies-Specialization-in-Greek-&-Lati...",
+    "programLink": "https://www.studyincanada.com/Programs/95524/Trent-University/Ancient-Greek-and-Roman-Studies-Specialization-in-Greek-&-Lati...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -18102,7 +18102,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "History (MA)",
-    "programLink": "/Programs/39678/Concordia-University-School-of-Graduate-Studies/History-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/39678/Concordia-University-School-of-Graduate-Studies/History-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -18111,7 +18111,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "History",
-    "programLink": "/Programs/2988/University-of-Lethbridge-School-of-Graduate-Studies/History",
+    "programLink": "https://www.studyincanada.com/Programs/2988/University-of-Lethbridge-School-of-Graduate-Studies/History",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -18120,7 +18120,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/23155/Queen-s-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/23155/Queen-s-University/History",
     "entranceGrade": "80 - 100",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -18129,7 +18129,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/1829/Graduate-Studies-at-University-of-Waterloo/History",
+    "programLink": "https://www.studyincanada.com/Programs/1829/Graduate-Studies-at-University-of-Waterloo/History",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -18138,7 +18138,7 @@ export default [
     "schoolName": "Tyndale University",
     "location": "Canada, Ontario",
     "programName": "History and Global Studies",
-    "programLink": "/Programs/89988/Tyndale-University/History-and-Global-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/89988/Tyndale-University/History-and-Global-Studies",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -18147,7 +18147,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Art History",
-    "programLink": "/Programs/19811/Mount-Allison-University/Art-History",
+    "programLink": "https://www.studyincanada.com/Programs/19811/Mount-Allison-University/Art-History",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -18156,7 +18156,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Art History",
-    "programLink": "/Programs/32209/Western-University/Art-History",
+    "programLink": "https://www.studyincanada.com/Programs/32209/Western-University/Art-History",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "N/S"
@@ -18165,7 +18165,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "History",
-    "programLink": "/Programs/23003/University-of-New-Brunswick-Fredericton/History",
+    "programLink": "https://www.studyincanada.com/Programs/23003/University-of-New-Brunswick-Fredericton/History",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -18174,7 +18174,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "History (HBA)",
-    "programLink": "/Programs/4834/Laurentian-University/Universite-Laurentienne/History-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/4834/Laurentian-University/Universite-Laurentienne/History-(HBA)",
     "entranceGrade": "70",
     "tutionValue": "$23,747",
     "length": "4 Year(s)"
@@ -18183,7 +18183,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Classics and Another Subject (BA) (Combined Honours)",
-    "programLink": "/Programs/91545/McMaster-University/Classics-and-Another-Subject-(BA)-(Combined-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/91545/McMaster-University/Classics-and-Another-Subject-(BA)-(Combined-Honours)",
     "entranceGrade": "77 - 79",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -18192,7 +18192,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "History (B.A. Three-Year)",
-    "programLink": "/Programs/106198/University-of-Saskatchewan/History-(B.A.-Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/106198/University-of-Saskatchewan/History-(B.A.-Three-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -18210,7 +18210,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "History (HBA)",
-    "programLink": "/Programs/101930/University-of-Toronto-Scarborough/History-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/101930/University-of-Toronto-Scarborough/History-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -18219,7 +18219,7 @@ export default [
     "schoolName": "NSCAD University",
     "location": "Canada, Nova Scotia",
     "programName": "Art History",
-    "programLink": "/Programs/8149/NSCAD-University/Art-History",
+    "programLink": "https://www.studyincanada.com/Programs/8149/NSCAD-University/Art-History",
     "entranceGrade": "70",
     "tutionValue": "$22,069",
     "length": "4 Year(s)"
@@ -18228,7 +18228,7 @@ export default [
     "schoolName": "The King's University",
     "location": "Canada, Alberta",
     "programName": "Politics, History, & Economics",
-    "programLink": "/Programs/34382/The-King-s-University/Politics,-History,-&-Economics",
+    "programLink": "https://www.studyincanada.com/Programs/34382/The-King-s-University/Politics,-History,-&-Economics",
     "entranceGrade": "N/S",
     "tutionValue": "$11,778",
     "length": "4 Year(s)"
@@ -18237,7 +18237,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "History",
-    "programLink": "/Programs/2482/McGill-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/2482/McGill-University/History",
     "entranceGrade": "87",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -18246,7 +18246,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "English Literature - Specialization in Literary History (B.A.)",
-    "programLink": "/Programs/105851/Trent-University/English-Literature-Specialization-in-Literary-History-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/105851/Trent-University/English-Literature-Specialization-in-Literary-History-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -18255,7 +18255,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "History",
-    "programLink": "/Programs/4288/Bishop-s-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/4288/Bishop-s-University/History",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -18264,7 +18264,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/3927/Western-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/3927/Western-University/History",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -18273,7 +18273,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Medieval Studies",
-    "programLink": "/Programs/95909/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Medieval-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/95909/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Medieval-Studies",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -18282,7 +18282,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Classics (Greek and Latin) (HBA)",
-    "programLink": "/Programs/8264/University-of-Toronto-St.-George/Classics-(Greek-and-Latin)-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/8264/University-of-Toronto-St.-George/Classics-(Greek-and-Latin)-(HBA)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -18291,7 +18291,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "History",
-    "programLink": "/Programs/112487/University-of-Lethbridge-School-of-Graduate-Studies/History",
+    "programLink": "https://www.studyincanada.com/Programs/112487/University-of-Lethbridge-School-of-Graduate-Studies/History",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -18300,7 +18300,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Contemporary Studies",
-    "programLink": "/Programs/34088/Dalhousie-University/Contemporary-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/34088/Dalhousie-University/Contemporary-Studies",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -18309,7 +18309,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/2600/Lakehead-University-Thunder-Bay/History",
+    "programLink": "https://www.studyincanada.com/Programs/2600/Lakehead-University-Thunder-Bay/History",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -18318,7 +18318,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Drama - Acting (B.F.A. Honours)",
-    "programLink": "/Programs/69498/University-of-Saskatchewan/Drama-Acting-(B.F.A.-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/69498/University-of-Saskatchewan/Drama-Acting-(B.F.A.-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -18327,7 +18327,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Ancient Worlds",
-    "programLink": "/Programs/95861/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Ancient-Worlds",
+    "programLink": "https://www.studyincanada.com/Programs/95861/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Ancient-Worlds",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "2 Year(s)"
@@ -18336,7 +18336,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Arts One - First Nations",
-    "programLink": "/Programs/30824/Vancouver-Island-University/Arts-One-First-Nations",
+    "programLink": "https://www.studyincanada.com/Programs/30824/Vancouver-Island-University/Arts-One-First-Nations",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "1 Year(s)"
@@ -18345,7 +18345,7 @@ export default [
     "schoolName": "Athabasca University",
     "location": "Canada, Alberta",
     "programName": "History (Three Year)",
-    "programLink": "/Programs/9051/Athabasca-University/History-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/9051/Athabasca-University/History-(Three-Year)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -18354,7 +18354,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Women's & Gender Studies (B.A. Three-Year)",
-    "programLink": "/Programs/106229/University-of-Saskatchewan/Women-s-&-Gender-Studies-(B.A.-Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/106229/University-of-Saskatchewan/Women-s-&-Gender-Studies-(B.A.-Three-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -18363,7 +18363,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Art History",
-    "programLink": "/Programs/77406/The-University-of-British-Columbia-Vancouver/Art-History",
+    "programLink": "https://www.studyincanada.com/Programs/77406/The-University-of-British-Columbia-Vancouver/Art-History",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -18372,7 +18372,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Art History",
-    "programLink": "/Programs/99371/University-of-Calgary/Art-History",
+    "programLink": "https://www.studyincanada.com/Programs/99371/University-of-Calgary/Art-History",
     "entranceGrade": "70",
     "tutionValue": "$25,530",
     "length": "4 Year(s)"
@@ -18381,7 +18381,7 @@ export default [
     "schoolName": "University of Alberta - Augustana Campus",
     "location": "Canada, Alberta",
     "programName": "Ethics and Global Studies - Interdisciplinary (B.A)",
-    "programLink": "/Programs/103752/University-of-Alberta-Augustana-Campus/Ethics-and-Global-Studies-Interdisciplinary-(B.A)",
+    "programLink": "https://www.studyincanada.com/Programs/103752/University-of-Alberta-Augustana-Campus/Ethics-and-Global-Studies-Interdisciplinary-(B.A)",
     "entranceGrade": "70 - 70",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -18390,7 +18390,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Spanish",
-    "programLink": "/Programs/7416/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Spanish",
+    "programLink": "https://www.studyincanada.com/Programs/7416/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Spanish",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -18399,7 +18399,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Renaissance Studies (HBA)",
-    "programLink": "/Programs/8451/University-of-Toronto-St.-George/Renaissance-Studies-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/8451/University-of-Toronto-St.-George/Renaissance-Studies-(HBA)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -18408,7 +18408,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Music: Scholarship",
-    "programLink": "/Programs/77626/The-University-of-British-Columbia-Vancouver/Music-Scholarship",
+    "programLink": "https://www.studyincanada.com/Programs/77626/The-University-of-British-Columbia-Vancouver/Music-Scholarship",
     "entranceGrade": "N/S",
     "tutionValue": "$40,517",
     "length": "4 Year(s)"
@@ -18417,7 +18417,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Mediaeval Studies (HBA)",
-    "programLink": "/Programs/8466/University-of-Toronto-St.-George/Mediaeval-Studies-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/8466/University-of-Toronto-St.-George/Mediaeval-Studies-(HBA)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -18426,7 +18426,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/87537/Lakehead-University-Thunder-Bay/History",
+    "programLink": "https://www.studyincanada.com/Programs/87537/Lakehead-University-Thunder-Bay/History",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -18435,7 +18435,7 @@ export default [
     "schoolName": "Cape Breton University",
     "location": "Canada, Nova Scotia",
     "programName": "History",
-    "programLink": "/Programs/12623/Cape-Breton-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/12623/Cape-Breton-University/History",
     "entranceGrade": "65",
     "tutionValue": "$19,579",
     "length": "4 Year(s)"
@@ -18444,7 +18444,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "International Relations (HBA)",
-    "programLink": "/Programs/8434/University-of-Toronto-St.-George/International-Relations-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/8434/University-of-Toronto-St.-George/International-Relations-(HBA)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -18453,7 +18453,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "History",
-    "programLink": "/Programs/96734/Vancouver-Island-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/96734/Vancouver-Island-University/History",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -18462,7 +18462,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Education - Secondary Social Sciences",
-    "programLink": "/Programs/105287/McGill-University/Education-Secondary-Social-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/105287/McGill-University/Education-Secondary-Social-Sciences",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -18471,7 +18471,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Art History (BA)",
-    "programLink": "/Programs/37330/University-of-Manitoba/Art-History-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/37330/University-of-Manitoba/Art-History-(BA)",
     "entranceGrade": "N/S",
     "tutionValue": "$16,600",
     "length": "3 Year(s)"
@@ -18480,7 +18480,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Women's & Gender Studies",
-    "programLink": "/Programs/27101/University-of-Saskatchewan/Women-s-&-Gender-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/27101/University-of-Saskatchewan/Women-s-&-Gender-Studies",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -18489,7 +18489,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "History/Women's Studies Joint Major",
-    "programLink": "/Programs/27910/University-of-Northern-British-Columbia/History/Women-s-Studies-Joint-Major",
+    "programLink": "https://www.studyincanada.com/Programs/27910/University-of-Northern-British-Columbia/History/Women-s-Studies-Joint-Major",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -18498,7 +18498,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Art History",
-    "programLink": "/Programs/77520/The-University-of-British-Columbia-Vancouver/Art-History",
+    "programLink": "https://www.studyincanada.com/Programs/77520/The-University-of-British-Columbia-Vancouver/Art-History",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -18507,7 +18507,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Classics",
-    "programLink": "/Programs/4375/McMaster-University/Classics",
+    "programLink": "https://www.studyincanada.com/Programs/4375/McMaster-University/Classics",
     "entranceGrade": "77 - 79",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -18516,7 +18516,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Art History",
-    "programLink": "/Programs/21210/University-of-Regina/Art-History",
+    "programLink": "https://www.studyincanada.com/Programs/21210/University-of-Regina/Art-History",
     "entranceGrade": "65 - 100",
     "tutionValue": "$12,049",
     "length": "4 Year(s)"
@@ -18525,7 +18525,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "History",
-    "programLink": "/Programs/25128/Acadia-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/25128/Acadia-University/History",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "4 Year(s)"
@@ -18534,7 +18534,7 @@ export default [
     "schoolName": "University of Toronto: Ontario Institute for Studies in Education",
     "location": "Canada, Ontario",
     "programName": "Social Justice Education (MEd)",
-    "programLink": "/Programs/59879/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Social-Justice-Education-(MEd)",
+    "programLink": "https://www.studyincanada.com/Programs/59879/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Social-Justice-Education-(MEd)",
     "entranceGrade": "N/S",
     "tutionValue": "$41,600",
     "length": "3 Year(s)"
@@ -18543,7 +18543,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Drama - Design (B.F.A. Honours)",
-    "programLink": "/Programs/85321/University-of-Saskatchewan/Drama-Design-(B.F.A.-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/85321/University-of-Saskatchewan/Drama-Design-(B.F.A.-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -18552,7 +18552,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "History",
-    "programLink": "/Programs/10356/University-of-Prince-Edward-Island/History",
+    "programLink": "https://www.studyincanada.com/Programs/10356/University-of-Prince-Edward-Island/History",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -18561,7 +18561,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/3234/University-of-Ottawa/Universit%c3%a9-d-Ottawa/History",
+    "programLink": "https://www.studyincanada.com/Programs/3234/University-of-Ottawa/Universit%c3%a9-d-Ottawa/History",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -18570,7 +18570,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "History",
-    "programLink": "/Programs/4292/Bishop-s-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/4292/Bishop-s-University/History",
     "entranceGrade": "70",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -18579,7 +18579,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "History (M.A.)",
-    "programLink": "/Programs/29710/Lakehead-University-Faculty-of-Graduate-Studies/History-(M.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/29710/Lakehead-University-Faculty-of-Graduate-Studies/History-(M.A.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -18588,7 +18588,7 @@ export default [
     "schoolName": "York University - Glendon Campus",
     "location": "Canada, Ontario",
     "programName": "Canadian Studies (BA)",
-    "programLink": "/Programs/15031/York-University-Glendon-Campus/Canadian-Studies-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/15031/York-University-Glendon-Campus/Canadian-Studies-(BA)",
     "entranceGrade": "75 - 79",
     "tutionValue": "$32,502",
     "length": "4 Year(s)"
@@ -18597,7 +18597,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Art History and Visual Culture (HBA)",
-    "programLink": "/Programs/44495/University-of-Toronto-Scarborough/Art-History-and-Visual-Culture-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/44495/University-of-Toronto-Scarborough/Art-History-and-Visual-Culture-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -18606,7 +18606,7 @@ export default [
     "schoolName": "Cape Breton University",
     "location": "Canada, Nova Scotia",
     "programName": "Celtic Culture (Concentration)",
-    "programLink": "/Programs/55776/Cape-Breton-University/Celtic-Culture-(Concentration)",
+    "programLink": "https://www.studyincanada.com/Programs/55776/Cape-Breton-University/Celtic-Culture-(Concentration)",
     "entranceGrade": "65",
     "tutionValue": "$19,579",
     "length": "4 Year(s)"
@@ -18615,7 +18615,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "History",
-    "programLink": "/Programs/88593/The-University-of-British-Columbia-Okanagan/History",
+    "programLink": "https://www.studyincanada.com/Programs/88593/The-University-of-British-Columbia-Okanagan/History",
     "entranceGrade": "70",
     "tutionValue": "$41,156",
     "length": "4 Year(s)"
@@ -18624,7 +18624,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "African Studies (HBA)",
-    "programLink": "/Programs/62652/University-of-Toronto-Scarborough/African-Studies-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/62652/University-of-Toronto-Scarborough/African-Studies-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -18633,7 +18633,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/49705/University-of-Ottawa/Universit%c3%a9-d-Ottawa/History",
+    "programLink": "https://www.studyincanada.com/Programs/49705/University-of-Ottawa/Universit%c3%a9-d-Ottawa/History",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -18642,7 +18642,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "History of Art (Three-Year)",
-    "programLink": "/Programs/7991/The-University-of-Winnipeg/History-of-Art-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/7991/The-University-of-Winnipeg/History-of-Art-(Three-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "3 Year(s)"
@@ -18651,7 +18651,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/91271/Lakehead-University-Orillia/History",
+    "programLink": "https://www.studyincanada.com/Programs/91271/Lakehead-University-Orillia/History",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -18660,7 +18660,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/4674/University-of-Windsor-Faculty-of-Graduate-Studies/History",
+    "programLink": "https://www.studyincanada.com/Programs/4674/University-of-Windsor-Faculty-of-Graduate-Studies/History",
     "entranceGrade": "75 - 100",
     "tutionValue": "$8,863",
     "length": "1 Year(s)"
@@ -18669,7 +18669,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Social Work (Pre-Social Work)",
-    "programLink": "/Programs/84636/University-of-Regina/Social-Work-(Pre-Social-Work)",
+    "programLink": "https://www.studyincanada.com/Programs/84636/University-of-Regina/Social-Work-(Pre-Social-Work)",
     "entranceGrade": "65 - 65",
     "tutionValue": "$11,712",
     "length": "4 Year(s)"
@@ -18678,7 +18678,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "History",
-    "programLink": "/Programs/77542/The-University-of-British-Columbia-Vancouver/History",
+    "programLink": "https://www.studyincanada.com/Programs/77542/The-University-of-British-Columbia-Vancouver/History",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -18687,7 +18687,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Classical Studies",
-    "programLink": "/Programs/1202/Acadia-University/Classical-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/1202/Acadia-University/Classical-Studies",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "3 Year(s)"
@@ -18696,7 +18696,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "History",
-    "programLink": "/Programs/12269/University-of-Victoria/History",
+    "programLink": "https://www.studyincanada.com/Programs/12269/University-of-Victoria/History",
     "entranceGrade": "75 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -18705,7 +18705,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/5779/Queen-s-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/5779/Queen-s-University/History",
     "entranceGrade": "80 - 100",
     "tutionValue": "$55,567",
     "length": "3 Year(s)"
@@ -18723,7 +18723,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Women's & Gender Studies (B.A. Four-Year)",
-    "programLink": "/Programs/11621/University-of-Saskatchewan/Women-s-&-Gender-Studies-(B.A.-Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/11621/University-of-Saskatchewan/Women-s-&-Gender-Studies-(B.A.-Four-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -18732,7 +18732,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Ancient Greek and Roman Studies (B.A.)",
-    "programLink": "/Programs/59752/Trent-University/Ancient-Greek-and-Roman-Studies-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/59752/Trent-University/Ancient-Greek-and-Roman-Studies-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -18741,7 +18741,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Museum and Curatorial Studies",
-    "programLink": "/Programs/85091/Western-University/Museum-and-Curatorial-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/85091/Western-University/Museum-and-Curatorial-Studies",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -18750,7 +18750,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "History",
-    "programLink": "/Programs/14367/Vancouver-Island-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/14367/Vancouver-Island-University/History",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -18759,7 +18759,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "History",
-    "programLink": "/Programs/9772/Saint-Mary-s-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/9772/Saint-Mary-s-University/History",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "4 Year(s)"
@@ -18768,7 +18768,7 @@ export default [
     "schoolName": "Crandall University",
     "location": "Canada, New Brunswick",
     "programName": "History",
-    "programLink": "/Programs/37815/Crandall-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/37815/Crandall-University/History",
     "entranceGrade": "70 - 70",
     "tutionValue": "$17,900",
     "length": "4 Year(s)"
@@ -18777,7 +18777,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/717/Redeemer-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/717/Redeemer-University/History",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "4 Year(s)"
@@ -18786,7 +18786,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Caribbean Studies (HBA)",
-    "programLink": "/Programs/8248/University-of-Toronto-St.-George/Caribbean-Studies-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/8248/University-of-Toronto-St.-George/Caribbean-Studies-(HBA)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -18795,7 +18795,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Indigenous Studies",
-    "programLink": "/Programs/91527/McMaster-University/Indigenous-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/91527/McMaster-University/Indigenous-Studies",
     "entranceGrade": "78 - 82",
     "tutionValue": "$40,960",
     "length": "4 Year(s)"
@@ -18804,7 +18804,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "History (Pre-Masters's)",
-    "programLink": "/Programs/13449/University-of-Manitoba-Faculty-of-Graduate-Studies/History-(Pre-Masters-s)",
+    "programLink": "https://www.studyincanada.com/Programs/13449/University-of-Manitoba-Faculty-of-Graduate-Studies/History-(Pre-Masters-s)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -18813,7 +18813,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Arts | History",
-    "programLink": "/Programs/109170/University-of-Lethbridge/Bachelor-of-Arts-|-History",
+    "programLink": "https://www.studyincanada.com/Programs/109170/University-of-Lethbridge/Bachelor-of-Arts-|-History",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -18822,7 +18822,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "American Cultural Studies",
-    "programLink": "/Programs/65917/Western-University/American-Cultural-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/65917/Western-University/American-Cultural-Studies",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "N/S"
@@ -18831,7 +18831,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "History",
-    "programLink": "/Programs/64612/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/History",
+    "programLink": "https://www.studyincanada.com/Programs/64612/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/History",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -18840,7 +18840,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "History",
-    "programLink": "/Programs/9865/St.-Francis-Xavier-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/9865/St.-Francis-Xavier-University/History",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -18849,7 +18849,7 @@ export default [
     "schoolName": "Algoma University",
     "location": "Canada, Ontario",
     "programName": "History",
-    "programLink": "/Programs/46252/Algoma-University/History",
+    "programLink": "https://www.studyincanada.com/Programs/46252/Algoma-University/History",
     "entranceGrade": "65 - 65",
     "tutionValue": "$20,438",
     "length": "4 Year(s)"
@@ -18858,7 +18858,7 @@ export default [
     "schoolName": "University of Toronto: Ontario Institute for Studies in Education",
     "location": "Canada, Ontario",
     "programName": "Social Justice Education (EdD)",
-    "programLink": "/Programs/65491/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Social-Justice-Education-(EdD)",
+    "programLink": "https://www.studyincanada.com/Programs/65491/University-of-Toronto-Ontario-Institute-for-Studies-in-Education/Social-Justice-Education-(EdD)",
     "entranceGrade": "N/S",
     "tutionValue": "$40,260",
     "length": "4 Year(s)"
@@ -18867,7 +18867,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Art History and Studio Art",
-    "programLink": "/Programs/85078/Western-University/Art-History-and-Studio-Art",
+    "programLink": "https://www.studyincanada.com/Programs/85078/Western-University/Art-History-and-Studio-Art",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -18876,7 +18876,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "History of Science and Technology",
-    "programLink": "/Programs/56683/Dalhousie-University/History-of-Science-and-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/56683/Dalhousie-University/History-of-Science-and-Technology",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -18885,7 +18885,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Art History",
-    "programLink": "/Programs/49286/The-University-of-British-Columbia-Vancouver/Art-History",
+    "programLink": "https://www.studyincanada.com/Programs/49286/The-University-of-British-Columbia-Vancouver/Art-History",
     "entranceGrade": "70",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -19002,7 +19002,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Bioanthropology (Three-Year)",
-    "programLink": "/Programs/30171/The-University-of-Winnipeg/Bioanthropology-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/30171/The-University-of-Winnipeg/Bioanthropology-(Three-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "3 Year(s)"
@@ -19011,7 +19011,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Anthropology (BA)",
-    "programLink": "/Programs/71938/Kwantlen-Polytechnic-University/Anthropology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/71938/Kwantlen-Polytechnic-University/Anthropology-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -19020,7 +19020,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/48469/Douglas-College/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/48469/Douglas-College/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -19029,7 +19029,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Archaeology - Specialization in Mediterranean Archaeology (B.A.)...",
-    "programLink": "/Programs/95529/Trent-University/Archaeology-Specialization-in-Mediterranean-Archaeology-(B.A.)...",
+    "programLink": "https://www.studyincanada.com/Programs/95529/Trent-University/Archaeology-Specialization-in-Mediterranean-Archaeology-(B.A.)...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -19038,7 +19038,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Archaeology - Specialization in Environmental Archaeology (B.A.)...",
-    "programLink": "/Programs/105837/Trent-University/Archaeology-Specialization-in-Environmental-Archaeology-(B.A.)...",
+    "programLink": "https://www.studyincanada.com/Programs/105837/Trent-University/Archaeology-Specialization-in-Environmental-Archaeology-(B.A.)...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -19047,7 +19047,7 @@ export default [
     "schoolName": "Athabasca University",
     "location": "Canada, Alberta",
     "programName": "Anthropology",
-    "programLink": "/Programs/14806/Athabasca-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/14806/Athabasca-University/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -19056,7 +19056,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Anthropology and Sociology",
-    "programLink": "/Programs/49592/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology-and-Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/49592/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology-and-Sociology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -19065,7 +19065,7 @@ export default [
     "schoolName": "Carleton University - Faculty of Graduate Studies and Research",
     "location": "Canada, Ontario",
     "programName": "Anthropology (MA)",
-    "programLink": "/Programs/6648/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Anthropology-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/6648/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Anthropology-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -19074,7 +19074,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Anthropology",
-    "programLink": "/Programs/27406/Brandon-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/27406/Brandon-University/Anthropology",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -19083,7 +19083,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Anthropology",
-    "programLink": "/Programs/47087/St.-Francis-Xavier-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/47087/St.-Francis-Xavier-University/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -19092,7 +19092,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Anthropology (HBSc)",
-    "programLink": "/Programs/55819/University-of-Toronto-Scarborough/Anthropology-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/55819/University-of-Toronto-Scarborough/Anthropology-(HBSc)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -19101,7 +19101,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/77411/The-University-of-British-Columbia-Vancouver/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/77411/The-University-of-British-Columbia-Vancouver/Anthropology",
     "entranceGrade": "70",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -19110,7 +19110,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Anthropology and Sociology",
-    "programLink": "/Programs/49593/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology-and-Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/49593/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology-and-Sociology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -19119,7 +19119,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Anthropology (Three Year)",
-    "programLink": "/Programs/27074/The-University-of-Winnipeg/Anthropology-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/27074/The-University-of-Winnipeg/Anthropology-(Three-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "3 Year(s)"
@@ -19128,7 +19128,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Anthropology",
-    "programLink": "/Programs/65563/McGill-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/65563/McGill-University/Anthropology",
     "entranceGrade": "86",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -19137,7 +19137,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/108710/Vancouver-Island-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/108710/Vancouver-Island-University/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -19146,7 +19146,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Certificate in Arts and Science | Anthropology",
-    "programLink": "/Programs/112557/University-of-Lethbridge/Certificate-in-Arts-and-Science-|-Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/112557/University-of-Lethbridge/Certificate-in-Arts-and-Science-|-Anthropology",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -19155,7 +19155,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Archaeology (B.Sc.)",
-    "programLink": "/Programs/72229/Trent-University/Archaeology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/72229/Trent-University/Archaeology-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -19164,7 +19164,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Archaeology - Specialization in Mediterranean Archaeology (B.Sc....",
-    "programLink": "/Programs/95530/Trent-University/Archaeology-Specialization-in-Mediterranean-Archaeology-(B.Sc....",
+    "programLink": "https://www.studyincanada.com/Programs/95530/Trent-University/Archaeology-Specialization-in-Mediterranean-Archaeology-(B.Sc....",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -19173,7 +19173,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Anthropology",
-    "programLink": "/Programs/87307/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/87307/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -19182,7 +19182,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Archaeology and Anthropology (B.A. Three-year)",
-    "programLink": "/Programs/106133/University-of-Saskatchewan/Archaeology-and-Anthropology-(B.A.-Three-year)",
+    "programLink": "https://www.studyincanada.com/Programs/106133/University-of-Saskatchewan/Archaeology-and-Anthropology-(B.A.-Three-year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -19191,7 +19191,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Arts | Anthropology",
-    "programLink": "/Programs/2920/University-of-Lethbridge/Bachelor-of-Arts-|-Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/2920/University-of-Lethbridge/Bachelor-of-Arts-|-Anthropology",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -19200,7 +19200,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Archaeology",
-    "programLink": "/Programs/77442/The-University-of-British-Columbia-Vancouver/Archaeology",
+    "programLink": "https://www.studyincanada.com/Programs/77442/The-University-of-British-Columbia-Vancouver/Archaeology",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -19209,7 +19209,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Archaeology and Anthropology (B.A. Honours)",
-    "programLink": "/Programs/11086/University-of-Saskatchewan/Archaeology-and-Anthropology-(B.A.-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/11086/University-of-Saskatchewan/Archaeology-and-Anthropology-(B.A.-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -19218,7 +19218,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Anthropology (BA)",
-    "programLink": "/Programs/74741/Lakehead-University-Orillia/Anthropology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/74741/Lakehead-University-Orillia/Anthropology-(BA)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -19227,7 +19227,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Applied Life Sciences",
-    "programLink": "/Programs/91272/Lakehead-University-Orillia/Applied-Life-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/91272/Lakehead-University-Orillia/Applied-Life-Sciences",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -19236,7 +19236,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Archaeology (B.Sc.)",
-    "programLink": "/Programs/85216/Trent-University/Archaeology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/85216/Trent-University/Archaeology-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "3 Year(s)"
@@ -19245,7 +19245,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Anthropology (BA)",
-    "programLink": "/Programs/12223/University-of-Victoria/Anthropology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/12223/University-of-Victoria/Anthropology-(BA)",
     "entranceGrade": "75 - 80",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -19254,7 +19254,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Anthropology",
-    "programLink": "/Programs/45504/University-of-Prince-Edward-Island/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/45504/University-of-Prince-Edward-Island/Anthropology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -19263,7 +19263,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/77425/The-University-of-British-Columbia-Vancouver/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/77425/The-University-of-British-Columbia-Vancouver/Anthropology",
     "entranceGrade": "70",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -19272,7 +19272,7 @@ export default [
     "schoolName": "St. Thomas University",
     "location": "Canada, New Brunswick",
     "programName": "Anthropology",
-    "programLink": "/Programs/8579/St.-Thomas-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/8579/St.-Thomas-University/Anthropology",
     "entranceGrade": "70",
     "tutionValue": "$17,208",
     "length": "3 Year(s)"
@@ -19281,7 +19281,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Anthropology (Advanced Major)",
-    "programLink": "/Programs/59975/University-of-Manitoba/Anthropology-(Advanced-Major)",
+    "programLink": "https://www.studyincanada.com/Programs/59975/University-of-Manitoba/Anthropology-(Advanced-Major)",
     "entranceGrade": "N/S",
     "tutionValue": "$16,600",
     "length": "4 Year(s)"
@@ -19290,7 +19290,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Anthropology",
-    "programLink": "/Programs/81176/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/81176/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Anthropology",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -19299,7 +19299,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Anthropology",
-    "programLink": "/Programs/112473/University-of-Lethbridge-School-of-Graduate-Studies/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/112473/University-of-Lethbridge-School-of-Graduate-Studies/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -19308,7 +19308,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Bioanthropology (Four-Year)",
-    "programLink": "/Programs/41106/The-University-of-Winnipeg/Bioanthropology-(Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/41106/The-University-of-Winnipeg/Bioanthropology-(Four-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -19317,7 +19317,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Anthropology",
-    "programLink": "/Programs/90277/Nipissing-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/90277/Nipissing-University/Anthropology",
     "entranceGrade": "70 - 70",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -19326,7 +19326,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Anthropology (BA)",
-    "programLink": "/Programs/96413/University-of-Victoria/Anthropology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/96413/University-of-Victoria/Anthropology-(BA)",
     "entranceGrade": "75 - 80",
     "tutionValue": "$27,949",
     "length": "5 Year(s)"
@@ -19335,7 +19335,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Anthropology",
-    "programLink": "/Programs/2180/McGill-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/2180/McGill-University/Anthropology",
     "entranceGrade": "86",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -19344,7 +19344,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Anthropology",
-    "programLink": "/Programs/9746/Saint-Mary-s-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/9746/Saint-Mary-s-University/Anthropology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "4 Year(s)"
@@ -19353,7 +19353,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Anthropology",
-    "programLink": "/Programs/2481/Lakehead-University-Thunder-Bay/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/2481/Lakehead-University-Thunder-Bay/Anthropology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -19362,7 +19362,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Arts & Science and Anthropology (Combined Honours)",
-    "programLink": "/Programs/4290/McMaster-University/Arts-&-Science-and-Anthropology-(Combined-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/4290/McMaster-University/Arts-&-Science-and-Anthropology-(Combined-Honours)",
     "entranceGrade": "90",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -19371,7 +19371,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Social and Cultural Anthropology (MA)",
-    "programLink": "/Programs/39659/Concordia-University-School-of-Graduate-Studies/Social-and-Cultural-Anthropology-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/39659/Concordia-University-School-of-Graduate-Studies/Social-and-Cultural-Anthropology-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -19380,7 +19380,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Anthropology (BSc)",
-    "programLink": "/Programs/96399/University-of-Victoria/Anthropology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/96399/University-of-Victoria/Anthropology-(BSc)",
     "entranceGrade": "80 - 85",
     "tutionValue": "$27,949",
     "length": "5 Year(s)"
@@ -19389,7 +19389,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Anthropology",
-    "programLink": "/Programs/8581/University-of-New-Brunswick-Fredericton/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/8581/University-of-New-Brunswick-Fredericton/Anthropology",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -19407,7 +19407,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Anthropology",
-    "programLink": "/Programs/5953/The-University-of-Winnipeg/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/5953/The-University-of-Winnipeg/Anthropology",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -19416,7 +19416,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Anthropology (BSc)",
-    "programLink": "/Programs/96403/University-of-Victoria/Anthropology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/96403/University-of-Victoria/Anthropology-(BSc)",
     "entranceGrade": "80 - 85",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -19425,7 +19425,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Sociocultural Anthropology",
-    "programLink": "/Programs/65906/Western-University/Sociocultural-Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/65906/Western-University/Sociocultural-Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -19434,7 +19434,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Anthropology",
-    "programLink": "/Programs/32098/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/32098/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "5 Year(s)"
@@ -19443,7 +19443,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Anthropology",
-    "programLink": "/Programs/2922/University-of-Lethbridge-School-of-Graduate-Studies/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/2922/University-of-Lethbridge-School-of-Graduate-Studies/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "24 Month(s)"
@@ -19452,7 +19452,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Archaeology and Anthropology (B.A. Four-year)",
-    "programLink": "/Programs/19044/University-of-Saskatchewan/Archaeology-and-Anthropology-(B.A.-Four-year)",
+    "programLink": "https://www.studyincanada.com/Programs/19044/University-of-Saskatchewan/Archaeology-and-Anthropology-(B.A.-Four-year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -19461,7 +19461,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Anthropology",
-    "programLink": "/Programs/49594/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/49594/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -19470,7 +19470,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Archaeology - Specialization in Environmental Archaeology (B.Sc....",
-    "programLink": "/Programs/105835/Trent-University/Archaeology-Specialization-in-Environmental-Archaeology-(B.Sc....",
+    "programLink": "https://www.studyincanada.com/Programs/105835/Trent-University/Archaeology-Specialization-in-Environmental-Archaeology-(B.Sc....",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -19479,7 +19479,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Anthropology (Bachelor of Arts)",
-    "programLink": "/Programs/99369/University-of-Calgary/Anthropology-(Bachelor-of-Arts)",
+    "programLink": "https://www.studyincanada.com/Programs/99369/University-of-Calgary/Anthropology-(Bachelor-of-Arts)",
     "entranceGrade": "70",
     "tutionValue": "$19,563",
     "length": "4 Year(s)"
@@ -19488,7 +19488,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Anthropology (BSc)",
-    "programLink": "/Programs/96398/University-of-Victoria/Anthropology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/96398/University-of-Victoria/Anthropology-(BSc)",
     "entranceGrade": "80 - 85",
     "tutionValue": "$27,949",
     "length": "5 Year(s)"
@@ -19497,7 +19497,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/13324/Vancouver-Island-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/13324/Vancouver-Island-University/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -19515,7 +19515,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/55980/University-of-Northern-British-Columbia/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/55980/University-of-Northern-British-Columbia/Anthropology",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -19524,7 +19524,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Anthropology (BSc)",
-    "programLink": "/Programs/108681/Lakehead-University-Orillia/Anthropology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/108681/Lakehead-University-Orillia/Anthropology-(BSc)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -19533,7 +19533,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Anthropology",
-    "programLink": "/Programs/107616/Saint-Mary-s-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/107616/Saint-Mary-s-University/Anthropology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "4 Year(s)"
@@ -19542,7 +19542,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Anthropology",
-    "programLink": "/Programs/6889/University-of-Regina/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/6889/University-of-Regina/Anthropology",
     "entranceGrade": "65 - 100",
     "tutionValue": "$11,397",
     "length": "4 Year(s)"
@@ -19551,7 +19551,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Anthropology",
-    "programLink": "/Programs/6414/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/6414/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Anthropology",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -19560,7 +19560,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Anthropology",
-    "programLink": "/Programs/3031/Western-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/3031/Western-University/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -19569,7 +19569,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Anthropology",
-    "programLink": "/Programs/90512/University-of-Manitoba/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/90512/University-of-Manitoba/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$16,600",
     "length": "4 Year(s)"
@@ -19578,7 +19578,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Anthropology (BSc)",
-    "programLink": "/Programs/96402/University-of-Victoria/Anthropology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/96402/University-of-Victoria/Anthropology-(BSc)",
     "entranceGrade": "80 - 85",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -19587,7 +19587,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Anthropology (General Major)",
-    "programLink": "/Programs/13358/University-of-Manitoba/Anthropology-(General-Major)",
+    "programLink": "https://www.studyincanada.com/Programs/13358/University-of-Manitoba/Anthropology-(General-Major)",
     "entranceGrade": "N/S",
     "tutionValue": "$16,600",
     "length": "3 Year(s)"
@@ -19596,7 +19596,7 @@ export default [
     "schoolName": "Grenfell Campus, Memorial University",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Social Cultural Studies (BA)",
-    "programLink": "/Programs/13695/Grenfell-Campus,-Memorial-University/Social-Cultural-Studies-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/13695/Grenfell-Campus,-Memorial-University/Social-Cultural-Studies-(BA)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$11,460",
     "length": "4 Year(s)"
@@ -19605,7 +19605,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Geoarchaeology",
-    "programLink": "/Programs/2568/Lakehead-University-Thunder-Bay/Geoarchaeology",
+    "programLink": "https://www.studyincanada.com/Programs/2568/Lakehead-University-Thunder-Bay/Geoarchaeology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -19614,7 +19614,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Anthropology",
-    "programLink": "/Programs/59583/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/59583/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Anthropology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -19623,7 +19623,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Anthropology (3 Year)",
-    "programLink": "/Programs/107315/Brandon-University/Anthropology-(3-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/107315/Brandon-University/Anthropology-(3-Year)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "3 Year(s)"
@@ -19632,7 +19632,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Anthropology",
-    "programLink": "/Programs/47088/St.-Francis-Xavier-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/47088/St.-Francis-Xavier-University/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -19641,7 +19641,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Archaeology (B.A.)",
-    "programLink": "/Programs/85217/Trent-University/Archaeology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/85217/Trent-University/Archaeology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "3 Year(s)"
@@ -19650,7 +19650,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Anthropology/Geography Joint Major",
-    "programLink": "/Programs/40097/University-of-Northern-British-Columbia/Anthropology/Geography-Joint-Major",
+    "programLink": "https://www.studyincanada.com/Programs/40097/University-of-Northern-British-Columbia/Anthropology/Geography-Joint-Major",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -19659,7 +19659,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Sociology/Anthropology",
-    "programLink": "/Programs/10364/University-of-Prince-Edward-Island/Sociology/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/10364/University-of-Prince-Edward-Island/Sociology/Anthropology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -19668,7 +19668,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Linguistic Anthropology",
-    "programLink": "/Programs/65904/Western-University/Linguistic-Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/65904/Western-University/Linguistic-Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "N/S"
@@ -19677,7 +19677,7 @@ export default [
     "schoolName": "Cape Breton University",
     "location": "Canada, Nova Scotia",
     "programName": "Anthropology",
-    "programLink": "/Programs/5364/Cape-Breton-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/5364/Cape-Breton-University/Anthropology",
     "entranceGrade": "65",
     "tutionValue": "$19,579",
     "length": "4 Year(s)"
@@ -19686,7 +19686,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Anthropology",
-    "programLink": "/Programs/4229/McMaster-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/4229/McMaster-University/Anthropology",
     "entranceGrade": "78 - 82",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -19695,7 +19695,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/77417/The-University-of-British-Columbia-Vancouver/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/77417/The-University-of-British-Columbia-Vancouver/Anthropology",
     "entranceGrade": "70",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -19704,7 +19704,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Anthropology (BA)",
-    "programLink": "/Programs/108680/Lakehead-University-Orillia/Anthropology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/108680/Lakehead-University-Orillia/Anthropology-(BA)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -19713,7 +19713,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Anthropology",
-    "programLink": "/Programs/13360/University-of-Manitoba-Faculty-of-Graduate-Studies/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/13360/University-of-Manitoba-Faculty-of-Graduate-Studies/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -19722,7 +19722,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Anthropology",
-    "programLink": "/Programs/23006/University-of-New-Brunswick-Fredericton/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/23006/University-of-New-Brunswick-Fredericton/Anthropology",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -19731,7 +19731,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Anthropology (HBA)",
-    "programLink": "/Programs/44531/University-of-Toronto-Scarborough/Anthropology-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/44531/University-of-Toronto-Scarborough/Anthropology-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -19740,7 +19740,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Anthropology (BSc)",
-    "programLink": "/Programs/108682/Lakehead-University-Orillia/Anthropology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/108682/Lakehead-University-Orillia/Anthropology-(BSc)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -19749,7 +19749,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/51915/The-University-of-British-Columbia-Vancouver/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/51915/The-University-of-British-Columbia-Vancouver/Anthropology",
     "entranceGrade": "70",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -19758,7 +19758,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Anthropology",
-    "programLink": "/Programs/109024/Saint-Mary-s-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/109024/Saint-Mary-s-University/Anthropology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "4 Year(s)"
@@ -19767,7 +19767,7 @@ export default [
     "schoolName": "University of Prince Edward Island",
     "location": "Canada, Prince Edward Island",
     "programName": "Anthropology",
-    "programLink": "/Programs/10366/University-of-Prince-Edward-Island/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/10366/University-of-Prince-Edward-Island/Anthropology",
     "entranceGrade": "70",
     "tutionValue": "$14,274",
     "length": "4 Year(s)"
@@ -19776,7 +19776,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Anthropology (BA)",
-    "programLink": "/Programs/12224/University-of-Victoria/Anthropology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/12224/University-of-Victoria/Anthropology-(BA)",
     "entranceGrade": "75 - 80",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -19785,7 +19785,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Anthropology and Another Subject (BA) (Combined Honours)",
-    "programLink": "/Programs/91524/McMaster-University/Anthropology-and-Another-Subject-(BA)-(Combined-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/91524/McMaster-University/Anthropology-and-Another-Subject-(BA)-(Combined-Honours)",
     "entranceGrade": "78 - 82",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -19794,7 +19794,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Anthropology",
-    "programLink": "/Programs/19390/Lakehead-University-Thunder-Bay/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/19390/Lakehead-University-Thunder-Bay/Anthropology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -19803,7 +19803,7 @@ export default [
     "schoolName": "Trent University - Durham Greater Toronto Area",
     "location": "Canada, Ontario",
     "programName": "Anthropology",
-    "programLink": "/Programs/95573/Trent-University-Durham-Greater-Toronto-Area/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/95573/Trent-University-Durham-Greater-Toronto-Area/Anthropology",
     "entranceGrade": "70",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -19812,7 +19812,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Archaeology and Biological Anthropology",
-    "programLink": "/Programs/65909/Western-University/Archaeology-and-Biological-Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/65909/Western-University/Archaeology-and-Biological-Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "N/S"
@@ -19821,7 +19821,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Anthropology",
-    "programLink": "/Programs/13361/University-of-Manitoba-Faculty-of-Graduate-Studies/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/13361/University-of-Manitoba-Faculty-of-Graduate-Studies/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -19830,7 +19830,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/29897/The-University-of-British-Columbia-Okanagan/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/29897/The-University-of-British-Columbia-Okanagan/Anthropology",
     "entranceGrade": "67 - 100",
     "tutionValue": "$39,574",
     "length": "4 Year(s)"
@@ -19839,7 +19839,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Applied Life Sciences",
-    "programLink": "/Programs/2497/Lakehead-University-Thunder-Bay/Applied-Life-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/2497/Lakehead-University-Thunder-Bay/Applied-Life-Sciences",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -19848,7 +19848,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Geoarchaeology",
-    "programLink": "/Programs/2569/Lakehead-University-Thunder-Bay/Geoarchaeology",
+    "programLink": "https://www.studyincanada.com/Programs/2569/Lakehead-University-Thunder-Bay/Geoarchaeology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -19857,7 +19857,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Sociology and Social Anthropology (BA)",
-    "programLink": "/Programs/85343/Dalhousie-University/Sociology-and-Social-Anthropology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/85343/Dalhousie-University/Sociology-and-Social-Anthropology-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -19866,7 +19866,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Archaeology (B.A.)",
-    "programLink": "/Programs/69847/Trent-University/Archaeology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/69847/Trent-University/Archaeology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -19884,7 +19884,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Social Work (Pre-Social Work)",
-    "programLink": "/Programs/84636/University-of-Regina/Social-Work-(Pre-Social-Work)",
+    "programLink": "https://www.studyincanada.com/Programs/84636/University-of-Regina/Social-Work-(Pre-Social-Work)",
     "entranceGrade": "65 - 65",
     "tutionValue": "$11,712",
     "length": "4 Year(s)"
@@ -19893,7 +19893,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/11270/Kwantlen-Polytechnic-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/11270/Kwantlen-Polytechnic-University/Anthropology",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "2 Year(s)"
@@ -19911,7 +19911,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Law, Justice and Society (BA)",
-    "programLink": "/Programs/96605/Dalhousie-University/Law,-Justice-and-Society-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/96605/Dalhousie-University/Law,-Justice-and-Society-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -19920,7 +19920,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Anthropology (Four Year)",
-    "programLink": "/Programs/85122/The-University-of-Winnipeg/Anthropology-(Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/85122/The-University-of-Winnipeg/Anthropology-(Four-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -19929,7 +19929,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Anthropology",
-    "programLink": "/Programs/81367/Selkirk-College/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/81367/Selkirk-College/Anthropology",
     "entranceGrade": "N/S",
     "tutionValue": "$13,409",
     "length": "2 Year(s)"
@@ -19938,7 +19938,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Social and Cultural Analysis (PhD)",
-    "programLink": "/Programs/68874/Concordia-University-School-of-Graduate-Studies/Social-and-Cultural-Analysis-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/68874/Concordia-University-School-of-Graduate-Studies/Social-and-Cultural-Analysis-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -19947,7 +19947,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Anthropology",
-    "programLink": "/Programs/51101/Brandon-University/Anthropology",
+    "programLink": "https://www.studyincanada.com/Programs/51101/Brandon-University/Anthropology",
     "entranceGrade": "60 - 100",
     "tutionValue": "$17,331",
     "length": "4 Year(s)"
@@ -19974,7 +19974,7 @@ export default [
     "schoolName": "Alexander College",
     "location": "Canada, British Columbia",
     "programName": "Associate of Arts (International Relations)",
-    "programLink": "/Programs/112957/Alexander-College/Associate-of-Arts-(International-Relations)",
+    "programLink": "https://www.studyincanada.com/Programs/112957/Alexander-College/Associate-of-Arts-(International-Relations)",
     "entranceGrade": "N/S",
     "tutionValue": "$18,300",
     "length": "2 Year(s)"
@@ -19983,7 +19983,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "International Relations",
-    "programLink": "/Programs/88598/The-University-of-British-Columbia-Okanagan/International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/88598/The-University-of-British-Columbia-Okanagan/International-Relations",
     "entranceGrade": "70",
     "tutionValue": "$41,156",
     "length": "4 Year(s)"
@@ -19992,7 +19992,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "International Relations",
-    "programLink": "/Programs/32214/Western-University/International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/32214/Western-University/International-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -20001,7 +20001,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "International Relations",
-    "programLink": "/Programs/99426/University-of-Calgary/International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/99426/University-of-Calgary/International-Relations",
     "entranceGrade": "75",
     "tutionValue": "$20,172",
     "length": "4 Year(s)"
@@ -20010,7 +20010,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "International Relations",
-    "programLink": "/Programs/96302/The-University-of-British-Columbia-Vancouver/International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/96302/The-University-of-British-Columbia-Vancouver/International-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -20019,7 +20019,7 @@ export default [
     "schoolName": "St. Thomas University",
     "location": "Canada, New Brunswick",
     "programName": "International Relations",
-    "programLink": "/Programs/84948/St.-Thomas-University/International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/84948/St.-Thomas-University/International-Relations",
     "entranceGrade": "70",
     "tutionValue": "$17,208",
     "length": "3 Year(s)"
@@ -20028,7 +20028,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "International Relations",
-    "programLink": "/Programs/108768/Redeemer-University/International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/108768/Redeemer-University/International-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "4 Year(s)"
@@ -20037,7 +20037,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "International Relations",
-    "programLink": "/Programs/29917/The-University-of-British-Columbia-Okanagan/International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/29917/The-University-of-British-Columbia-Okanagan/International-Relations",
     "entranceGrade": "67",
     "tutionValue": "$41,156",
     "length": "4 Year(s)"
@@ -20046,7 +20046,7 @@ export default [
     "schoolName": "St. Thomas University",
     "location": "Canada, New Brunswick",
     "programName": "International Relations",
-    "programLink": "/Programs/84949/St.-Thomas-University/International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/84949/St.-Thomas-University/International-Relations",
     "entranceGrade": "70",
     "tutionValue": "$17,208",
     "length": "4 Year(s)"
@@ -20055,7 +20055,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "International Relations and Development Studies",
-    "programLink": "/Programs/4684/University-of-Windsor/International-Relations-and-Development-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/4684/University-of-Windsor/International-Relations-and-Development-Studies",
     "entranceGrade": "70 - 100",
     "tutionValue": "$34,641",
     "length": "4 Year(s)"
@@ -20064,7 +20064,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "HBA/ International Relations",
-    "programLink": "/Programs/107578/Western-University/HBA/-International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/107578/Western-University/HBA/-International-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "5 Year(s)"
@@ -20073,7 +20073,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "International Relations",
-    "programLink": "/Programs/9683/Mount-Allison-University/International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/9683/Mount-Allison-University/International-Relations",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -20082,7 +20082,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "International Relations",
-    "programLink": "/Programs/1668/The-University-of-British-Columbia-Vancouver/International-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/1668/The-University-of-British-Columbia-Vancouver/International-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -20091,7 +20091,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "International Relations (HBA)",
-    "programLink": "/Programs/8434/University-of-Toronto-St.-George/International-Relations-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/8434/University-of-Toronto-St.-George/International-Relations-(HBA)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -20280,7 +20280,7 @@ export default [
     "schoolName": "Athabasca University",
     "location": "Canada, Alberta",
     "programName": "Criminal Justice",
-    "programLink": "/Programs/9029/Athabasca-University/Criminal-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/9029/Athabasca-University/Criminal-Justice",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -20289,7 +20289,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Criminology (BA)",
-    "programLink": "/Programs/96450/Kwantlen-Polytechnic-University/Criminology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/96450/Kwantlen-Polytechnic-University/Criminology-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -20298,7 +20298,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Sociology & Criminology",
-    "programLink": "/Programs/114219/University-of-Windsor/Sociology-&-Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/114219/University-of-Windsor/Sociology-&-Criminology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$34,641",
     "length": "4 Year(s)"
@@ -20307,7 +20307,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology (B.A. Four-Year)",
-    "programLink": "/Programs/11585/University-of-Saskatchewan/Sociology-(B.A.-Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/11585/University-of-Saskatchewan/Sociology-(B.A.-Four-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -20316,7 +20316,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Criminology (B.A.)",
-    "programLink": "/Programs/105844/Trent-University/Criminology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/105844/Trent-University/Criminology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -20325,7 +20325,7 @@ export default [
     "schoolName": "Okanagan College",
     "location": "Canada, British Columbia",
     "programName": "Diploma in Criminal and Social Justice",
-    "programLink": "/Programs/46746/Okanagan-College/Diploma-in-Criminal-and-Social-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/46746/Okanagan-College/Diploma-in-Criminal-and-Social-Justice",
     "entranceGrade": "60",
     "tutionValue": "$13,750",
     "length": "2 Year(s)"
@@ -20334,7 +20334,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Criminology",
-    "programLink": "/Programs/59941/University-of-Manitoba/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/59941/University-of-Manitoba/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "$16,600",
     "length": "3 Year(s)"
@@ -20343,7 +20343,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Criminal Justice (Criminal Justice Studies)",
-    "programLink": "/Programs/90352/Nipissing-University/Criminal-Justice-(Criminal-Justice-Studies)",
+    "programLink": "https://www.studyincanada.com/Programs/90352/Nipissing-University/Criminal-Justice-(Criminal-Justice-Studies)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -20352,7 +20352,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology (Double Honours)",
-    "programLink": "/Programs/73057/University-of-Saskatchewan/Sociology-(Double-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/73057/University-of-Saskatchewan/Sociology-(Double-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -20361,7 +20361,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Criminology (B.A.)",
-    "programLink": "/Programs/109911/Trent-University/Criminology-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/109911/Trent-University/Criminology-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -20370,7 +20370,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Criminology",
-    "programLink": "/Programs/3798/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/3798/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Criminology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -20379,7 +20379,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Criminology",
-    "programLink": "/Programs/109053/Langara-College/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/109053/Langara-College/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -20388,7 +20388,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Criminology",
-    "programLink": "/Programs/49656/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/49656/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Criminology",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -20397,7 +20397,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology - Indigenous Justice and Criminology (IJC)",
-    "programLink": "/Programs/56596/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)",
+    "programLink": "https://www.studyincanada.com/Programs/56596/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -20406,7 +20406,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Criminology (BA)",
-    "programLink": "/Programs/71945/Kwantlen-Polytechnic-University/Criminology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/71945/Kwantlen-Polytechnic-University/Criminology-(BA)",
     "entranceGrade": "71",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -20415,7 +20415,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Criminology",
-    "programLink": "/Programs/74742/Lakehead-University-Orillia/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/74742/Lakehead-University-Orillia/Criminology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -20424,7 +20424,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Criminology (BA)",
-    "programLink": "/Programs/11274/Kwantlen-Polytechnic-University/Criminology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/11274/Kwantlen-Polytechnic-University/Criminology-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -20433,7 +20433,7 @@ export default [
     "schoolName": "College of New Caledonia",
     "location": "Canada, British Columbia",
     "programName": "Criminology",
-    "programLink": "/Programs/15713/College-of-New-Caledonia/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/15713/College-of-New-Caledonia/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "$24,680",
     "length": "2 Year(s)"
@@ -20442,7 +20442,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Criminology and Socio-Legal Studies (HBSc)",
-    "programLink": "/Programs/8344/University-of-Toronto-St.-George/Criminology-and-Socio-Legal-Studies-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8344/University-of-Toronto-St.-George/Criminology-and-Socio-Legal-Studies-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -20451,7 +20451,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Criminal Justice (Criminology)",
-    "programLink": "/Programs/62817/Nipissing-University/Criminal-Justice-(Criminology)",
+    "programLink": "https://www.studyincanada.com/Programs/62817/Nipissing-University/Criminal-Justice-(Criminology)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -20460,7 +20460,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Criminology",
-    "programLink": "/Programs/45509/Kwantlen-Polytechnic-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/45509/Kwantlen-Polytechnic-University/Criminology",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "2 Year(s)"
@@ -20469,7 +20469,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Criminology",
-    "programLink": "/Programs/56571/Western-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/56571/Western-University/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "N/S"
@@ -20478,7 +20478,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology - Indigenous Justice and Criminology (IJC) (B.A. Three...",
-    "programLink": "/Programs/106231/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)-(B.A.-Three...",
+    "programLink": "https://www.studyincanada.com/Programs/106231/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)-(B.A.-Three...",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -20487,7 +20487,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Criminology and Feminist and Gender Studies",
-    "programLink": "/Programs/49640/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Criminology-and-Feminist-and-Gender-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/49640/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Criminology-and-Feminist-and-Gender-Studies",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -20496,7 +20496,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology (B.A. Three-Year)",
-    "programLink": "/Programs/106230/University-of-Saskatchewan/Sociology-(B.A.-Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/106230/University-of-Saskatchewan/Sociology-(B.A.-Three-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -20505,7 +20505,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Criminology",
-    "programLink": "/Programs/13317/Vancouver-Island-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/13317/Vancouver-Island-University/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "$24,476",
     "length": "2 Year(s)"
@@ -20514,7 +20514,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Criminology",
-    "programLink": "/Programs/45508/Kwantlen-Polytechnic-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/45508/Kwantlen-Polytechnic-University/Criminology",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "2 Year(s)"
@@ -20523,7 +20523,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Criminology",
-    "programLink": "/Programs/46235/Vancouver-Island-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/46235/Vancouver-Island-University/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -20532,7 +20532,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Criminology",
-    "programLink": "/Programs/17146/Douglas-College/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/17146/Douglas-College/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -20541,7 +20541,7 @@ export default [
     "schoolName": "University of Alberta - Augustana Campus",
     "location": "Canada, Alberta",
     "programName": "Law, Crime and Justice Studies - Interdisciplinary (B.A)",
-    "programLink": "/Programs/103754/University-of-Alberta-Augustana-Campus/Law,-Crime-and-Justice-Studies-Interdisciplinary-(B.A)",
+    "programLink": "https://www.studyincanada.com/Programs/103754/University-of-Alberta-Augustana-Campus/Law,-Crime-and-Justice-Studies-Interdisciplinary-(B.A)",
     "entranceGrade": "70 - 70",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -20550,7 +20550,7 @@ export default [
     "schoolName": "North Island College (Comox Valley Campus)",
     "location": "Canada, British Columbia",
     "programName": "Criminology",
-    "programLink": "/Programs/68996/North-Island-College-(Comox-Valley-Campus)/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/68996/North-Island-College-(Comox-Valley-Campus)/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -20559,7 +20559,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Criminology",
-    "programLink": "/Programs/9759/Saint-Mary-s-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/9759/Saint-Mary-s-University/Criminology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "4 Year(s)"
@@ -20568,7 +20568,7 @@ export default [
     "schoolName": "St. Thomas University",
     "location": "Canada, New Brunswick",
     "programName": "Criminology",
-    "programLink": "/Programs/84947/St.-Thomas-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/84947/St.-Thomas-University/Criminology",
     "entranceGrade": "70",
     "tutionValue": "$17,208",
     "length": "4 Year(s)"
@@ -20577,7 +20577,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Criminology",
-    "programLink": "/Programs/90517/University-of-Manitoba/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/90517/University-of-Manitoba/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "$16,600",
     "length": "4 Year(s)"
@@ -20586,7 +20586,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology - Indigenous Justice and Criminology (IJC) (B.A. Four-...",
-    "programLink": "/Programs/37215/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)-(B.A.-Four-...",
+    "programLink": "https://www.studyincanada.com/Programs/37215/University-of-Saskatchewan/Sociology-Indigenous-Justice-and-Criminology-(IJC)-(B.A.-Four-...",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -20595,7 +20595,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Criminal Justice",
-    "programLink": "/Programs/8611/Langara-College/Criminal-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/8611/Langara-College/Criminal-Justice",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -20604,7 +20604,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Sociology",
-    "programLink": "/Programs/11586/University-of-Saskatchewan/Sociology",
+    "programLink": "https://www.studyincanada.com/Programs/11586/University-of-Saskatchewan/Sociology",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -20613,7 +20613,7 @@ export default [
     "schoolName": "Cambrian College",
     "location": "Canada, Ontario",
     "programName": "Protection, Security and Investigation",
-    "programLink": "/Programs/84942/Cambrian-College/Protection,-Security-and-Investigation",
+    "programLink": "https://www.studyincanada.com/Programs/84942/Cambrian-College/Protection,-Security-and-Investigation",
     "entranceGrade": "N/S",
     "tutionValue": "$17,471",
     "length": "2 Year(s)"
@@ -20622,7 +20622,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Forensic Science",
-    "programLink": "/Programs/105358/Laurentian-University/Universite-Laurentienne/Forensic-Science",
+    "programLink": "https://www.studyincanada.com/Programs/105358/Laurentian-University/Universite-Laurentienne/Forensic-Science",
     "entranceGrade": "80",
     "tutionValue": "$25,745",
     "length": "4 Year(s)"
@@ -20631,7 +20631,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Human Justice",
-    "programLink": "/Programs/6917/University-of-Regina/Human-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/6917/University-of-Regina/Human-Justice",
     "entranceGrade": "65 - 65",
     "tutionValue": "$11,397",
     "length": "4 Year(s)"
@@ -20640,7 +20640,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Criminology (HBA)",
-    "programLink": "/Programs/100094/Laurentian-University/Universite-Laurentienne/Criminology-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/100094/Laurentian-University/Universite-Laurentienne/Criminology-(HBA)",
     "entranceGrade": "70",
     "tutionValue": "$23,747",
     "length": "4 Year(s)"
@@ -20649,7 +20649,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Criminology (BA)",
-    "programLink": "/Programs/109547/Kwantlen-Polytechnic-University/Criminology-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/109547/Kwantlen-Polytechnic-University/Criminology-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -20658,7 +20658,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Criminology",
-    "programLink": "/Programs/87556/Saint-Mary-s-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/87556/Saint-Mary-s-University/Criminology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "3 Year(s)"
@@ -20667,7 +20667,7 @@ export default [
     "schoolName": "Trent University - Durham Greater Toronto Area",
     "location": "Canada, Ontario",
     "programName": "Criminology",
-    "programLink": "/Programs/108521/Trent-University-Durham-Greater-Toronto-Area/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/108521/Trent-University-Durham-Greater-Toronto-Area/Criminology",
     "entranceGrade": "75",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -20676,7 +20676,7 @@ export default [
     "schoolName": "St. Thomas University",
     "location": "Canada, New Brunswick",
     "programName": "Criminology",
-    "programLink": "/Programs/27287/St.-Thomas-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/27287/St.-Thomas-University/Criminology",
     "entranceGrade": "70",
     "tutionValue": "$17,208",
     "length": "3 Year(s)"
@@ -20685,7 +20685,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Criminology",
-    "programLink": "/Programs/48485/Douglas-College/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/48485/Douglas-College/Criminology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -20694,7 +20694,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Criminology",
-    "programLink": "/Programs/9758/Saint-Mary-s-University/Criminology",
+    "programLink": "https://www.studyincanada.com/Programs/9758/Saint-Mary-s-University/Criminology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$20,440",
     "length": "4 Year(s)"
@@ -20703,7 +20703,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Criminal Psychology and Behaviour",
-    "programLink": "/Programs/106036/St.-Lawrence-College/Criminal-Psychology-and-Behaviour",
+    "programLink": "https://www.studyincanada.com/Programs/106036/St.-Lawrence-College/Criminal-Psychology-and-Behaviour",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -21036,7 +21036,7 @@ export default [
     "schoolName": "Alexander College",
     "location": "Canada, British Columbia",
     "programName": "Associate of Science (Mathematics)",
-    "programLink": "/Programs/107472/Alexander-College/Associate-of-Science-(Mathematics)",
+    "programLink": "https://www.studyincanada.com/Programs/107472/Alexander-College/Associate-of-Science-(Mathematics)",
     "entranceGrade": "N/S",
     "tutionValue": "$18,300",
     "length": "2 Year(s)"
@@ -21045,7 +21045,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Chemistry",
-    "programLink": "/Programs/22936/University-of-New-Brunswick-Saint-John/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/22936/University-of-New-Brunswick-Saint-John/Chemistry",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -21054,7 +21054,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Chemistry",
-    "programLink": "/Programs/22937/University-of-New-Brunswick-Saint-John/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/22937/University-of-New-Brunswick-Saint-John/Chemistry",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -21063,7 +21063,7 @@ export default [
     "schoolName": "Alexander College",
     "location": "Canada, British Columbia",
     "programName": "Associate of Science",
-    "programLink": "/Programs/70355/Alexander-College/Associate-of-Science",
+    "programLink": "https://www.studyincanada.com/Programs/70355/Alexander-College/Associate-of-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$18,300",
     "length": "2 Year(s)"
@@ -21072,7 +21072,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Chemistry",
-    "programLink": "/Programs/22921/University-of-New-Brunswick-Saint-John/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/22921/University-of-New-Brunswick-Saint-John/Chemistry",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -21171,7 +21171,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Chemistry",
-    "programLink": "/Programs/27409/Brandon-University/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/27409/Brandon-University/Chemistry",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -21180,7 +21180,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Chemistry - EcoChemistry",
-    "programLink": "/Programs/69128/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Chemistry-EcoChemistry",
+    "programLink": "https://www.studyincanada.com/Programs/69128/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Chemistry-EcoChemistry",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "4 Year(s)"
@@ -21189,7 +21189,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Associate of Science Degree",
-    "programLink": "/Programs/107890/Thompson-Rivers-University/Associate-of-Science-Degree",
+    "programLink": "https://www.studyincanada.com/Programs/107890/Thompson-Rivers-University/Associate-of-Science-Degree",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "2 Year(s)"
@@ -21198,7 +21198,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Materials Chemistry and Engineering",
-    "programLink": "/Programs/113800/University-of-Windsor-Faculty-of-Graduate-Studies/Materials-Chemistry-and-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/113800/University-of-Windsor-Faculty-of-Graduate-Studies/Materials-Chemistry-and-Engineering",
     "entranceGrade": "78 - 100",
     "tutionValue": "$9,573",
     "length": "16 Month(s)"
@@ -21207,7 +21207,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Molecular Biology - Specialization in Conservat...",
-    "programLink": "/Programs/105838/Trent-University/Biochemistry-and-Molecular-Biology-Specialization-in-Conservat...",
+    "programLink": "https://www.studyincanada.com/Programs/105838/Trent-University/Biochemistry-and-Molecular-Biology-Specialization-in-Conservat...",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -21216,7 +21216,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Molecular Biology (B.Sc.)",
-    "programLink": "/Programs/103/Trent-University/Biochemistry-and-Molecular-Biology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/103/Trent-University/Biochemistry-and-Molecular-Biology-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -21225,7 +21225,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Biological Sciences",
-    "programLink": "/Programs/99375/University-of-Calgary/Biological-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/99375/University-of-Calgary/Biological-Sciences",
     "entranceGrade": "90",
     "tutionValue": "$25,530",
     "length": "4 Year(s)"
@@ -21234,7 +21234,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Chemistry",
-    "programLink": "/Programs/37381/University-of-Manitoba/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/37381/University-of-Manitoba/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -21243,7 +21243,7 @@ export default [
     "schoolName": "Trinity Western University",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/45558/Trinity-Western-University/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/45558/Trinity-Western-University/Chemistry",
     "entranceGrade": "67 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -21252,7 +21252,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Chemistry - Pharmaceutical Chemistry (BSc)",
-    "programLink": "/Programs/37504/Laurentian-University/Universite-Laurentienne/Chemistry-Pharmaceutical-Chemistry-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/37504/Laurentian-University/Universite-Laurentienne/Chemistry-Pharmaceutical-Chemistry-(BSc)",
     "entranceGrade": "70",
     "tutionValue": "$25,745",
     "length": "4 Year(s)"
@@ -21261,7 +21261,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Applied Life Sciences",
-    "programLink": "/Programs/2497/Lakehead-University-Thunder-Bay/Applied-Life-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/2497/Lakehead-University-Thunder-Bay/Applied-Life-Sciences",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -21270,7 +21270,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Chemistry",
-    "programLink": "/Programs/23095/University-of-New-Brunswick-Fredericton/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/23095/University-of-New-Brunswick-Fredericton/Chemistry",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -21279,7 +21279,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Chemistry/Earth Sciences (BSc)",
-    "programLink": "/Programs/68444/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Chemistry/Earth-Sciences-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/68444/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Chemistry/Earth-Sciences-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -21288,7 +21288,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Chemical Engineering",
-    "programLink": "/Programs/23090/University-of-New-Brunswick-Fredericton/Chemical-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/23090/University-of-New-Brunswick-Fredericton/Chemical-Engineering",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -21297,7 +21297,7 @@ export default [
     "schoolName": "Grenfell Campus, Memorial University",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "General Science (BSc)",
-    "programLink": "/Programs/21381/Grenfell-Campus,-Memorial-University/General-Science-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/21381/Grenfell-Campus,-Memorial-University/General-Science-(BSc)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$11,460",
     "length": "4 Year(s)"
@@ -21306,7 +21306,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Chemistry",
-    "programLink": "/Programs/96596/Dalhousie-University/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/96596/Dalhousie-University/Chemistry",
     "entranceGrade": "75",
     "tutionValue": "$28,473",
     "length": "4 Year(s)"
@@ -21315,7 +21315,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry of Infection and Immunity",
-    "programLink": "/Programs/56368/Western-University/Biochemistry-of-Infection-and-Immunity",
+    "programLink": "https://www.studyincanada.com/Programs/56368/Western-University/Biochemistry-of-Infection-and-Immunity",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -21324,7 +21324,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/78460/University-of-Northern-British-Columbia/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/78460/University-of-Northern-British-Columbia/Chemistry",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -21333,7 +21333,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Biochemistry",
-    "programLink": "/Programs/6998/University-of-Regina/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/6998/University-of-Regina/Biochemistry",
     "entranceGrade": "70 - 100",
     "tutionValue": "$12,049",
     "length": "4 Year(s)"
@@ -21342,7 +21342,7 @@ export default [
     "schoolName": "Concordia University of Edmonton",
     "location": "Canada, Alberta",
     "programName": "Chemistry (B.Sc. 3-year)",
-    "programLink": "/Programs/56878/Concordia-University-of-Edmonton/Chemistry-(B.Sc.-3-year)",
+    "programLink": "https://www.studyincanada.com/Programs/56878/Concordia-University-of-Edmonton/Chemistry-(B.Sc.-3-year)",
     "entranceGrade": "60",
     "tutionValue": "$25,414",
     "length": "3 Year(s)"
@@ -21351,7 +21351,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Chemistry",
-    "programLink": "/Programs/3603/Western-University/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/3603/Western-University/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -21360,7 +21360,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Biochemistry",
-    "programLink": "/Programs/9648/Mount-Allison-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/9648/Mount-Allison-University/Biochemistry",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -21369,7 +21369,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Molecular Biology (B.Sc.)",
-    "programLink": "/Programs/102/Trent-University/Biochemistry-and-Molecular-Biology-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/102/Trent-University/Biochemistry-and-Molecular-Biology-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -21378,7 +21378,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Chemistry",
-    "programLink": "/Programs/99382/University-of-Calgary/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/99382/University-of-Calgary/Chemistry",
     "entranceGrade": "80",
     "tutionValue": "$25,530",
     "length": "4 Year(s)"
@@ -21387,7 +21387,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Environmental Geochemistry",
-    "programLink": "/Programs/23040/University-of-New-Brunswick-Fredericton/Environmental-Geochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/23040/University-of-New-Brunswick-Fredericton/Environmental-Geochemistry",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -21396,7 +21396,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/104963/Queen-s-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/104963/Queen-s-University/Biochemistry",
     "entranceGrade": "80 - 100",
     "tutionValue": "$55,567",
     "length": "3 Year(s)"
@@ -21405,7 +21405,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Nutrition - Health and Disease",
-    "programLink": "/Programs/78140/McGill-University/Nutrition-Health-and-Disease",
+    "programLink": "https://www.studyincanada.com/Programs/78140/McGill-University/Nutrition-Health-and-Disease",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -21414,7 +21414,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Chemistry",
-    "programLink": "/Programs/15428/University-of-New-Brunswick-Fredericton/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/15428/University-of-New-Brunswick-Fredericton/Chemistry",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -21423,7 +21423,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/77533/The-University-of-British-Columbia-Vancouver/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/77533/The-University-of-British-Columbia-Vancouver/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -21432,7 +21432,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Forensic Chemistry (B.Sc.)",
-    "programLink": "/Programs/109890/Trent-University/Forensic-Chemistry-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/109890/Trent-University/Forensic-Chemistry-(B.Sc.)",
     "entranceGrade": "75 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -21441,7 +21441,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Biology (B.Sc. Double Honours) with Biochemistry",
-    "programLink": "/Programs/69474/University-of-Saskatchewan/Biology-(B.Sc.-Double-Honours)-with-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/69474/University-of-Saskatchewan/Biology-(B.Sc.-Double-Honours)-with-Biochemistry",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -21450,7 +21450,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Chemical Engineering",
-    "programLink": "/Programs/7253/McGill-University/Chemical-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/7253/McGill-University/Chemical-Engineering",
     "entranceGrade": "91",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -21459,7 +21459,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/27156/University-of-Victoria/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/27156/University-of-Victoria/Biochemistry",
     "entranceGrade": "80",
     "tutionValue": "$27,949",
     "length": "5 Year(s)"
@@ -21468,7 +21468,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Chemistry (B.Sc. Four-year)",
-    "programLink": "/Programs/19056/University-of-Saskatchewan/Chemistry-(B.Sc.-Four-year)",
+    "programLink": "https://www.studyincanada.com/Programs/19056/University-of-Saskatchewan/Chemistry-(B.Sc.-Four-year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -21477,7 +21477,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/109095/Douglas-College/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/109095/Douglas-College/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -21486,7 +21486,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry with Option in Microbiology and Immunology",
-    "programLink": "/Programs/66386/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Microbiology-and-Immunology",
+    "programLink": "https://www.studyincanada.com/Programs/66386/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry-with-Option-in-Microbiology-and-Immunology",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -21495,7 +21495,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Chemistry",
-    "programLink": "/Programs/81182/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/81182/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Chemistry",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -21504,7 +21504,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biomedical Science - Medicinal Chemistry (Research Focus)",
-    "programLink": "/Programs/96572/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biomedical-Science-Medicinal-Chemistry-(Research-Focus)",
+    "programLink": "https://www.studyincanada.com/Programs/96572/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biomedical-Science-Medicinal-Chemistry-(Research-Focus)",
     "entranceGrade": "N/S",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -21513,7 +21513,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Chemistry",
-    "programLink": "/Programs/4340/McMaster-University/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/4340/McMaster-University/Chemistry",
     "entranceGrade": "82 - 85",
     "tutionValue": "$43,116",
     "length": "5 Year(s)"
@@ -21522,7 +21522,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Medical Biophysics and Biochemistry",
-    "programLink": "/Programs/85083/Western-University/Medical-Biophysics-and-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/85083/Western-University/Medical-Biophysics-and-Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -21531,7 +21531,7 @@ export default [
     "schoolName": "McMaster University - Faculty of Health Sciences",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/88031/McMaster-University-Faculty-of-Health-Sciences/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/88031/McMaster-University-Faculty-of-Health-Sciences/Biochemistry",
     "entranceGrade": "77",
     "tutionValue": "$17,096",
     "length": "2 Year(s)"
@@ -21540,7 +21540,7 @@ export default [
     "schoolName": "Cambrian College",
     "location": "Canada, Ontario",
     "programName": "Medical Laboratory Technology",
-    "programLink": "/Programs/27214/Cambrian-College/Medical-Laboratory-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/27214/Cambrian-College/Medical-Laboratory-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -21549,7 +21549,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Chemistry",
-    "programLink": "/Programs/3677/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/3677/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Chemistry",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "5 Year(s)"
@@ -21558,7 +21558,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Applied Mathematics/Chemistry (BSc)",
-    "programLink": "/Programs/95915/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Applied-Mathematics/Chemistry-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/95915/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Applied-Mathematics/Chemistry-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -21567,7 +21567,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry",
-    "programLink": "/Programs/37416/University-of-Manitoba/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/37416/University-of-Manitoba/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -21576,7 +21576,7 @@ export default [
     "schoolName": "University of Alberta - Augustana Campus",
     "location": "Canada, Alberta",
     "programName": "Chemistry (B.A.)",
-    "programLink": "/Programs/12011/University-of-Alberta-Augustana-Campus/Chemistry-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/12011/University-of-Alberta-Augustana-Campus/Chemistry-(B.A.)",
     "entranceGrade": "70 - 70",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -21585,7 +21585,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Science",
     "location": "Canada, Alberta",
     "programName": "Chemistry",
-    "programLink": "/Programs/113852/University-of-Calgary-Faculty-of-Science/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/113852/University-of-Calgary-Faculty-of-Science/Chemistry",
     "entranceGrade": "83",
     "tutionValue": "$28,257",
     "length": "4 Year(s)"
@@ -21594,7 +21594,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Chemistry (Three-Year)",
-    "programLink": "/Programs/27078/The-University-of-Winnipeg/Chemistry-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/27078/The-University-of-Winnipeg/Chemistry-(Three-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -21603,7 +21603,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Integrated Science (Chemistry Concentration)",
-    "programLink": "/Programs/91588/McMaster-University/Integrated-Science-(Chemistry-Concentration)",
+    "programLink": "https://www.studyincanada.com/Programs/91588/McMaster-University/Integrated-Science-(Chemistry-Concentration)",
     "entranceGrade": "87 - 89",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -21612,7 +21612,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Biochemistry",
-    "programLink": "/Programs/7351/McGill-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/7351/McGill-University/Biochemistry",
     "entranceGrade": "95",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -21621,7 +21621,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Chemistry (MSc)",
-    "programLink": "/Programs/96174/Concordia-University-School-of-Graduate-Studies/Chemistry-(MSc)",
+    "programLink": "https://www.studyincanada.com/Programs/96174/Concordia-University-School-of-Graduate-Studies/Chemistry-(MSc)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -21630,7 +21630,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/12212/University-of-Victoria/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/12212/University-of-Victoria/Biochemistry",
     "entranceGrade": "80 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -21639,7 +21639,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Engineering - Chemical",
-    "programLink": "/Programs/19366/Lakehead-University-Thunder-Bay/Engineering-Chemical",
+    "programLink": "https://www.studyincanada.com/Programs/19366/Lakehead-University-Thunder-Bay/Engineering-Chemical",
     "entranceGrade": "70 - 100",
     "tutionValue": "$37,395",
     "length": "4 Year(s)"
@@ -21648,7 +21648,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Biochemistry/Behavioural Neuroscience (BSc)",
-    "programLink": "/Programs/106435/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Behavioural-Neuroscience-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/106435/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Behavioural-Neuroscience-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -21657,7 +21657,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Pharmaceutical Chemistry (HBSc)",
-    "programLink": "/Programs/100102/Laurentian-University/Universite-Laurentienne/Pharmaceutical-Chemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/100102/Laurentian-University/Universite-Laurentienne/Pharmaceutical-Chemistry-(HBSc)",
     "entranceGrade": "70",
     "tutionValue": "$25,745",
     "length": "4 Year(s)"
@@ -21666,7 +21666,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Chemistry",
-    "programLink": "/Programs/25138/Acadia-University/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/25138/Acadia-University/Chemistry",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "4 Year(s)"
@@ -21675,7 +21675,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Chemistry",
-    "programLink": "/Programs/1976/Graduate-Studies-at-University-of-Waterloo/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/1976/Graduate-Studies-at-University-of-Waterloo/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -21684,7 +21684,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/89405/Redeemer-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/89405/Redeemer-University/Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "4 Year(s)"
@@ -21693,7 +21693,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Chemistry",
-    "programLink": "/Programs/33448/Saint-Mary-s-University/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/33448/Saint-Mary-s-University/Chemistry",
     "entranceGrade": "70 - 100",
     "tutionValue": "$22,060",
     "length": "4 Year(s)"
@@ -21702,7 +21702,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Chemistry",
-    "programLink": "/Programs/4359/Bishop-s-University/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/4359/Bishop-s-University/Chemistry",
     "entranceGrade": "75",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -21711,7 +21711,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Chemistry",
-    "programLink": "/Programs/104964/Queen-s-University/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/104964/Queen-s-University/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$55,567",
     "length": "3 Year(s)"
@@ -21720,7 +21720,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Chemistry: Bachelor of Science Degree - Major",
-    "programLink": "/Programs/107898/Thompson-Rivers-University/Chemistry-Bachelor-of-Science-Degree-Major",
+    "programLink": "https://www.studyincanada.com/Programs/107898/Thompson-Rivers-University/Chemistry-Bachelor-of-Science-Degree-Major",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "4 Year(s)"
@@ -21729,7 +21729,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (HBSc)",
-    "programLink": "/Programs/4788/Laurentian-University/Universite-Laurentienne/Biochemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/4788/Laurentian-University/Universite-Laurentienne/Biochemistry-(HBSc)",
     "entranceGrade": "70",
     "tutionValue": "$25,745",
     "length": "4 Year(s)"
@@ -21738,7 +21738,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa - Faculty of Medicine",
     "location": "Canada, Ontario",
     "programName": "MD / PhD - Medicine and Philosophy",
-    "programLink": "/Programs/28880/University-of-Ottawa/Universit%c3%a9-d-Ottawa-Faculty-of-Medicine/MD-/-PhD-Medicine-and-Philosophy",
+    "programLink": "https://www.studyincanada.com/Programs/28880/University-of-Ottawa/Universit%c3%a9-d-Ottawa-Faculty-of-Medicine/MD-/-PhD-Medicine-and-Philosophy",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "7 Year(s)"
@@ -21747,7 +21747,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Chemistry",
-    "programLink": "/Programs/1977/Graduate-Studies-at-University-of-Waterloo/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/1977/Graduate-Studies-at-University-of-Waterloo/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -21756,7 +21756,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Biochimie (BSc)",
-    "programLink": "/Programs/78348/Laurentian-University/Universite-Laurentienne/Biochimie-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/78348/Laurentian-University/Universite-Laurentienne/Biochimie-(BSc)",
     "entranceGrade": "70",
     "tutionValue": "$25,745",
     "length": "4 Year(s)"
@@ -21765,7 +21765,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Chemistry (3 Year)",
-    "programLink": "/Programs/107355/Brandon-University/Chemistry-(3-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/107355/Brandon-University/Chemistry-(3-Year)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "3 Year(s)"
@@ -21774,7 +21774,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/81369/Selkirk-College/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/81369/Selkirk-College/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$13,409",
     "length": "2 Year(s)"
@@ -21783,7 +21783,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Chemical Engineering (Grad. Cert.)",
-    "programLink": "/Programs/113176/Concordia-University-School-of-Graduate-Studies/Chemical-Engineering-(Grad.-Cert.)",
+    "programLink": "https://www.studyincanada.com/Programs/113176/Concordia-University-School-of-Graduate-Studies/Chemical-Engineering-(Grad.-Cert.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -21792,7 +21792,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Cancer Biology",
-    "programLink": "/Programs/91950/Western-University/Biochemistry-and-Cancer-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/91950/Western-University/Biochemistry-and-Cancer-Biology",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -21801,7 +21801,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Chemical Engineering",
-    "programLink": "/Programs/15392/University-of-New-Brunswick-Fredericton/Chemical-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/15392/University-of-New-Brunswick-Fredericton/Chemical-Engineering",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -21810,7 +21810,7 @@ export default [
     "schoolName": "Cape Breton University",
     "location": "Canada, Nova Scotia",
     "programName": "Chemical (Advanced)",
-    "programLink": "/Programs/105166/Cape-Breton-University/Chemical-(Advanced)",
+    "programLink": "https://www.studyincanada.com/Programs/105166/Cape-Breton-University/Chemical-(Advanced)",
     "entranceGrade": "65",
     "tutionValue": "$19,579",
     "length": "4 Year(s)"
@@ -21819,7 +21819,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/90734/Langara-College/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/90734/Langara-College/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -21828,7 +21828,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Chemistry",
-    "programLink": "/Programs/37377/University-of-Manitoba/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/37377/University-of-Manitoba/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -21837,7 +21837,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (HBSc)",
-    "programLink": "/Programs/8220/University-of-Toronto-St.-George/Biochemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8220/University-of-Toronto-St.-George/Biochemistry-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -21846,7 +21846,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Biochemistry/Physics (BSc)",
-    "programLink": "/Programs/81219/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/81219/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Biochemistry/Physics-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -21855,7 +21855,7 @@ export default [
     "schoolName": "SAIT",
     "location": "Canada, Alberta",
     "programName": "Chemical Laboratory Technology",
-    "programLink": "/Programs/12980/SAIT/Chemical-Laboratory-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/12980/SAIT/Chemical-Laboratory-Technology",
     "entranceGrade": "50 - 50",
     "tutionValue": "$22,125",
     "length": "2 Year(s)"
@@ -21864,7 +21864,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Chemistry",
-    "programLink": "/Programs/49618/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/49618/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Chemistry",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "4 Year(s)"
@@ -21873,7 +21873,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Microbiology and Chemistry",
-    "programLink": "/Programs/96421/University-of-Victoria/Microbiology-and-Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/96421/University-of-Victoria/Microbiology-and-Chemistry",
     "entranceGrade": "80 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -21882,7 +21882,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/12226/University-of-Victoria/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/12226/University-of-Victoria/Chemistry",
     "entranceGrade": "80 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -21891,7 +21891,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Chemistry",
-    "programLink": "/Programs/56375/Western-University/Biochemistry-and-Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/56375/Western-University/Biochemistry-and-Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -21900,7 +21900,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/81727/The-University-of-British-Columbia-Vancouver/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/81727/The-University-of-British-Columbia-Vancouver/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -21909,7 +21909,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/3222/University-of-Northern-British-Columbia/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/3222/University-of-Northern-British-Columbia/Chemistry",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -21918,7 +21918,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Chemical and Physical Sciences",
-    "programLink": "/Programs/81666/McMaster-University/Chemical-and-Physical-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/81666/McMaster-University/Chemical-and-Physical-Sciences",
     "entranceGrade": "82 - 85",
     "tutionValue": "$43,116",
     "length": "3 Year(s)"
@@ -21927,7 +21927,7 @@ export default [
     "schoolName": "SAIT",
     "location": "Canada, Alberta",
     "programName": "Environmental Technology",
-    "programLink": "/Programs/16668/SAIT/Environmental-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/16668/SAIT/Environmental-Technology",
     "entranceGrade": "50 - 60",
     "tutionValue": "$20,048",
     "length": "2 Year(s)"
@@ -21936,7 +21936,7 @@ export default [
     "schoolName": "Concordia University of Edmonton",
     "location": "Canada, Alberta",
     "programName": "Chemistry (B.Sc. 4-year)",
-    "programLink": "/Programs/56876/Concordia-University-of-Edmonton/Chemistry-(B.Sc.-4-year)",
+    "programLink": "https://www.studyincanada.com/Programs/56876/Concordia-University-of-Edmonton/Chemistry-(B.Sc.-4-year)",
     "entranceGrade": "60",
     "tutionValue": "$25,414",
     "length": "4 Year(s)"
@@ -21945,7 +21945,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Food Science",
-    "programLink": "/Programs/19050/University-of-Saskatchewan/Food-Science",
+    "programLink": "https://www.studyincanada.com/Programs/19050/University-of-Saskatchewan/Food-Science",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -21954,7 +21954,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry and Cell Biology",
-    "programLink": "/Programs/56357/Western-University/Biochemistry-and-Cell-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/56357/Western-University/Biochemistry-and-Cell-Biology",
     "entranceGrade": "N/S",
     "tutionValue": "$47,500",
     "length": "4 Year(s)"
@@ -21963,7 +21963,7 @@ export default [
     "schoolName": "Cambrian College",
     "location": "Canada, Ontario",
     "programName": "Chemical Engineering Technology - Lab and Process Control",
-    "programLink": "/Programs/4625/Cambrian-College/Chemical-Engineering-Technology-Lab-and-Process-Control",
+    "programLink": "https://www.studyincanada.com/Programs/4625/Cambrian-College/Chemical-Engineering-Technology-Lab-and-Process-Control",
     "entranceGrade": "N/S",
     "tutionValue": "$17,411",
     "length": "3 Year(s)"
@@ -21972,7 +21972,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Environmental Chemistry (HBSc)",
-    "programLink": "/Programs/8361/University-of-Toronto-St.-George/Environmental-Chemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8361/University-of-Toronto-St.-George/Environmental-Chemistry-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -21981,7 +21981,7 @@ export default [
     "schoolName": "Faculty of Medicine at the University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Biochemistry and Molecular Biology",
-    "programLink": "/Programs/15874/Faculty-of-Medicine-at-the-University-of-Calgary/Biochemistry-and-Molecular-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/15874/Faculty-of-Medicine-at-the-University-of-Calgary/Biochemistry-and-Molecular-Biology",
     "entranceGrade": "N/S",
     "tutionValue": "$16,389",
     "length": "4 Year(s)"
@@ -21990,7 +21990,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry and Molecular Biology",
-    "programLink": "/Programs/78459/University-of-Northern-British-Columbia/Biochemistry-and-Molecular-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/78459/University-of-Northern-British-Columbia/Biochemistry-and-Molecular-Biology",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -21999,7 +21999,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Biochemistry (Four-Year)",
-    "programLink": "/Programs/41105/The-University-of-Winnipeg/Biochemistry-(Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/41105/The-University-of-Winnipeg/Biochemistry-(Four-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -22008,7 +22008,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Environmental Chemistry (B.Sc.)",
-    "programLink": "/Programs/131/Trent-University/Environmental-Chemistry-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/131/Trent-University/Environmental-Chemistry-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -22026,7 +22026,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Food Science",
-    "programLink": "/Programs/105282/McGill-University/Food-Science",
+    "programLink": "https://www.studyincanada.com/Programs/105282/McGill-University/Food-Science",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -22035,7 +22035,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Biochemistry",
-    "programLink": "/Programs/12326/University-of-Victoria/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/12326/University-of-Victoria/Biochemistry",
     "entranceGrade": "80 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -22044,7 +22044,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/1769/The-University-of-British-Columbia-Vancouver/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/1769/The-University-of-British-Columbia-Vancouver/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -22062,7 +22062,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/29906/The-University-of-British-Columbia-Okanagan/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/29906/The-University-of-British-Columbia-Okanagan/Chemistry",
     "entranceGrade": "67 - 100",
     "tutionValue": "$42,396",
     "length": "4 Year(s)"
@@ -22071,7 +22071,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/64916/University-of-Windsor/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/64916/University-of-Windsor/Biochemistry",
     "entranceGrade": "70 - 100",
     "tutionValue": "$37,497",
     "length": "4 Year(s)"
@@ -22080,7 +22080,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/36607/Queen-s-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/36607/Queen-s-University/Biochemistry",
     "entranceGrade": "85 - 100",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -22089,7 +22089,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Food Science",
-    "programLink": "/Programs/95683/McGill-University/Food-Science",
+    "programLink": "https://www.studyincanada.com/Programs/95683/McGill-University/Food-Science",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -22098,7 +22098,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Biochemistry",
-    "programLink": "/Programs/55655/Bishop-s-University/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/55655/Bishop-s-University/Biochemistry",
     "entranceGrade": "75",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -22107,7 +22107,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Chemistry and Mathematics",
-    "programLink": "/Programs/96415/University-of-Victoria/Chemistry-and-Mathematics",
+    "programLink": "https://www.studyincanada.com/Programs/96415/University-of-Victoria/Chemistry-and-Mathematics",
     "entranceGrade": "80",
     "tutionValue": "$27,949",
     "length": "5 Year(s)"
@@ -22116,7 +22116,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/12227/University-of-Victoria/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/12227/University-of-Victoria/Chemistry",
     "entranceGrade": "80 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -22125,7 +22125,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Chemistry (B.Sc. Three-year)",
-    "programLink": "/Programs/106141/University-of-Saskatchewan/Chemistry-(B.Sc.-Three-year)",
+    "programLink": "https://www.studyincanada.com/Programs/106141/University-of-Saskatchewan/Chemistry-(B.Sc.-Three-year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -22134,7 +22134,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Chemical Physics (B.Sc.)",
-    "programLink": "/Programs/111/Trent-University/Chemical-Physics-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/111/Trent-University/Chemical-Physics-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "3 Year(s)"
@@ -22143,7 +22143,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Biochemistry",
-    "programLink": "/Programs/49595/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/49595/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Biochemistry",
     "entranceGrade": "80 - 82",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -22152,7 +22152,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Biochemistry (HBSc)",
-    "programLink": "/Programs/44618/University-of-Toronto-Scarborough/Biochemistry-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/44618/University-of-Toronto-Scarborough/Biochemistry-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -22161,7 +22161,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Chemistry/Mathematics and Statistics Joint Major",
-    "programLink": "/Programs/3199/University-of-Northern-British-Columbia/Chemistry/Mathematics-and-Statistics-Joint-Major",
+    "programLink": "https://www.studyincanada.com/Programs/3199/University-of-Northern-British-Columbia/Chemistry/Mathematics-and-Statistics-Joint-Major",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -22170,7 +22170,7 @@ export default [
     "schoolName": "College of New Caledonia",
     "location": "Canada, British Columbia",
     "programName": "Chemistry",
-    "programLink": "/Programs/49120/College-of-New-Caledonia/Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/49120/College-of-New-Caledonia/Chemistry",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -22179,7 +22179,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Chemistry (B.Sc. Honours)",
-    "programLink": "/Programs/11114/University-of-Saskatchewan/Chemistry-(B.Sc.-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/11114/University-of-Saskatchewan/Chemistry-(B.Sc.-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -22188,7 +22188,7 @@ export default [
     "schoolName": "Faculty of Medicine at the University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Biochemistry and Molecular Biology",
-    "programLink": "/Programs/15852/Faculty-of-Medicine-at-the-University-of-Calgary/Biochemistry-and-Molecular-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/15852/Faculty-of-Medicine-at-the-University-of-Calgary/Biochemistry-and-Molecular-Biology",
     "entranceGrade": "N/S",
     "tutionValue": "$16,389",
     "length": "2 Year(s)"
@@ -22197,7 +22197,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Chemical Engineering",
-    "programLink": "/Programs/5876/Queen-s-University/Chemical-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/5876/Queen-s-University/Chemical-Engineering",
     "entranceGrade": "85 - 100",
     "tutionValue": "$61,487",
     "length": "4 Year(s)"
@@ -22206,7 +22206,7 @@ export default [
     "schoolName": "Capilano University",
     "location": "Canada, British Columbia",
     "programName": "Science",
-    "programLink": "/Programs/108199/Capilano-University/Science",
+    "programLink": "https://www.studyincanada.com/Programs/108199/Capilano-University/Science",
     "entranceGrade": "N/S",
     "tutionValue": "$21,066",
     "length": "4 Year(s)"
@@ -22215,7 +22215,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Chemistry (B.Sc. Double Honours)",
-    "programLink": "/Programs/69467/University-of-Saskatchewan/Chemistry-(B.Sc.-Double-Honours)",
+    "programLink": "https://www.studyincanada.com/Programs/69467/University-of-Saskatchewan/Chemistry-(B.Sc.-Double-Honours)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -22611,7 +22611,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Physics",
-    "programLink": "/Programs/22943/University-of-New-Brunswick-Saint-John/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/22943/University-of-New-Brunswick-Saint-John/Physics",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -22620,7 +22620,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Physics",
-    "programLink": "/Programs/22944/University-of-New-Brunswick-Saint-John/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/22944/University-of-New-Brunswick-Saint-John/Physics",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -22629,7 +22629,7 @@ export default [
     "schoolName": "Alexander College",
     "location": "Canada, British Columbia",
     "programName": "Associate of Science",
-    "programLink": "/Programs/70355/Alexander-College/Associate-of-Science",
+    "programLink": "https://www.studyincanada.com/Programs/70355/Alexander-College/Associate-of-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$18,300",
     "length": "2 Year(s)"
@@ -22701,7 +22701,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Physics and Astronomy",
-    "programLink": "/Programs/13537/University-of-Manitoba-Faculty-of-Graduate-Studies/Physics-and-Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/13537/University-of-Manitoba-Faculty-of-Graduate-Studies/Physics-and-Astronomy",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -22710,7 +22710,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Meteorology (Diploma)",
-    "programLink": "/Programs/108800/Dalhousie-University/Meteorology-(Diploma)",
+    "programLink": "https://www.studyincanada.com/Programs/108800/Dalhousie-University/Meteorology-(Diploma)",
     "entranceGrade": "75",
     "tutionValue": "$28,473",
     "length": "1 Year(s)"
@@ -22719,7 +22719,7 @@ export default [
     "schoolName": "Grenfell Campus, Memorial University",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "General Science (BSc)",
-    "programLink": "/Programs/21381/Grenfell-Campus,-Memorial-University/General-Science-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/21381/Grenfell-Campus,-Memorial-University/General-Science-(BSc)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$11,460",
     "length": "4 Year(s)"
@@ -22728,7 +22728,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Physics (B.Sc. Three-Year)",
-    "programLink": "/Programs/106208/University-of-Saskatchewan/Physics-(B.Sc.-Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/106208/University-of-Saskatchewan/Physics-(B.Sc.-Three-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -22737,7 +22737,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Medical Biophysics and Biochemistry",
-    "programLink": "/Programs/85083/Western-University/Medical-Biophysics-and-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/85083/Western-University/Medical-Biophysics-and-Biochemistry",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -22746,7 +22746,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Environmental Physics",
-    "programLink": "/Programs/27428/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Environmental-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/27428/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Environmental-Physics",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -22755,7 +22755,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Physics (BSc)",
-    "programLink": "/Programs/109470/Queen-s-University/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/109470/Queen-s-University/Physics-(BSc)",
     "entranceGrade": "80",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -22764,7 +22764,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Physics -  Biological Physics",
-    "programLink": "/Programs/96567/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-Biological-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/96567/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-Biological-Physics",
     "entranceGrade": "80 - 82",
     "tutionValue": "$48,353",
     "length": "4 Year(s)"
@@ -22773,7 +22773,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Associate of Science Degree",
-    "programLink": "/Programs/107890/Thompson-Rivers-University/Associate-of-Science-Degree",
+    "programLink": "https://www.studyincanada.com/Programs/107890/Thompson-Rivers-University/Associate-of-Science-Degree",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "2 Year(s)"
@@ -22782,7 +22782,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Geophysics (HBSc)",
-    "programLink": "/Programs/8392/University-of-Toronto-St.-George/Geophysics-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8392/University-of-Toronto-St.-George/Geophysics-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -22791,7 +22791,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Geophysics",
-    "programLink": "/Programs/77507/The-University-of-British-Columbia-Vancouver/Geophysics",
+    "programLink": "https://www.studyincanada.com/Programs/77507/The-University-of-British-Columbia-Vancouver/Geophysics",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -22809,7 +22809,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Physics: Bachelor of Science Degree - Major",
-    "programLink": "/Programs/107907/Thompson-Rivers-University/Physics-Bachelor-of-Science-Degree-Major",
+    "programLink": "https://www.studyincanada.com/Programs/107907/Thompson-Rivers-University/Physics-Bachelor-of-Science-Degree-Major",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "4 Year(s)"
@@ -22818,7 +22818,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Earth Sciences/Physics (BSc)",
-    "programLink": "/Programs/68446/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Earth-Sciences/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/68446/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Earth-Sciences/Physics-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -22827,7 +22827,7 @@ export default [
     "schoolName": "McMaster University - Faculty of Engineering",
     "location": "Canada, Ontario",
     "programName": "Engineering Physics",
-    "programLink": "/Programs/108537/McMaster-University-Faculty-of-Engineering/Engineering-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/108537/McMaster-University-Faculty-of-Engineering/Engineering-Physics",
     "entranceGrade": "N/S",
     "tutionValue": "$63,397",
     "length": "4 Year(s)"
@@ -22836,7 +22836,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Biophysics",
-    "programLink": "/Programs/77472/The-University-of-British-Columbia-Vancouver/Biophysics",
+    "programLink": "https://www.studyincanada.com/Programs/77472/The-University-of-British-Columbia-Vancouver/Biophysics",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -22845,7 +22845,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Applied Life Sciences",
-    "programLink": "/Programs/91272/Lakehead-University-Orillia/Applied-Life-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/91272/Lakehead-University-Orillia/Applied-Life-Sciences",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -22854,7 +22854,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Geophysics and Physical Oceanography",
-    "programLink": "/Programs/68463/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Geophysics-and-Physical-Oceanography",
+    "programLink": "https://www.studyincanada.com/Programs/68463/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Geophysics-and-Physical-Oceanography",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -22863,7 +22863,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Physics",
-    "programLink": "/Programs/3318/University-of-Northern-British-Columbia/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/3318/University-of-Northern-British-Columbia/Physics",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -22872,7 +22872,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Earth Sciences/Physics (BSc)",
-    "programLink": "/Programs/81185/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Earth-Sciences/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/81185/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Earth-Sciences/Physics-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -22881,7 +22881,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Geophysics",
-    "programLink": "/Programs/77506/The-University-of-British-Columbia-Vancouver/Geophysics",
+    "programLink": "https://www.studyincanada.com/Programs/77506/The-University-of-British-Columbia-Vancouver/Geophysics",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -22899,7 +22899,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Physics",
-    "programLink": "/Programs/29926/The-University-of-British-Columbia-Okanagan/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/29926/The-University-of-British-Columbia-Okanagan/Physics",
     "entranceGrade": "67",
     "tutionValue": "$42,396",
     "length": "4 Year(s)"
@@ -22908,7 +22908,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Physics for Modern Technology (BSc)",
-    "programLink": "/Programs/78325/Kwantlen-Polytechnic-University/Physics-for-Modern-Technology-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/78325/Kwantlen-Polytechnic-University/Physics-for-Modern-Technology-(BSc)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -22917,7 +22917,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Science | Physics",
-    "programLink": "/Programs/109176/University-of-Lethbridge/Bachelor-of-Science-|-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/109176/University-of-Lethbridge/Bachelor-of-Science-|-Physics",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -22926,7 +22926,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Physics",
-    "programLink": "/Programs/9801/Saint-Mary-s-University/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/9801/Saint-Mary-s-University/Physics",
     "entranceGrade": "70 - 100",
     "tutionValue": "$22,060",
     "length": "3 Year(s)"
@@ -22935,7 +22935,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Ocean Physics (BSc)",
-    "programLink": "/Programs/106426/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Ocean-Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/106426/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Ocean-Physics-(BSc)",
     "entranceGrade": "70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -22944,7 +22944,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Physics - Mathematics",
-    "programLink": "/Programs/49720/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-Mathematics",
+    "programLink": "https://www.studyincanada.com/Programs/49720/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-Mathematics",
     "entranceGrade": "80 - 82",
     "tutionValue": "$48,353",
     "length": "5 Year(s)"
@@ -22953,7 +22953,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Physics",
-    "programLink": "/Programs/1992/Graduate-Studies-at-University-of-Waterloo/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/1992/Graduate-Studies-at-University-of-Waterloo/Physics",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -22962,7 +22962,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Engineering Physics",
-    "programLink": "/Programs/96720/University-of-Saskatchewan/Engineering-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/96720/University-of-Saskatchewan/Engineering-Physics",
     "entranceGrade": "75",
     "tutionValue": "$22,023",
     "length": "5 Year(s)"
@@ -22971,7 +22971,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Physics and Atmospheric Sciences (BSc or BA)",
-    "programLink": "/Programs/46119/Dalhousie-University/Physics-and-Atmospheric-Sciences-(BSc-or-BA)",
+    "programLink": "https://www.studyincanada.com/Programs/46119/Dalhousie-University/Physics-and-Atmospheric-Sciences-(BSc-or-BA)",
     "entranceGrade": "75",
     "tutionValue": "$28,473",
     "length": "4 Year(s)"
@@ -22980,7 +22980,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Biophysics",
-    "programLink": "/Programs/1785/The-University-of-British-Columbia-Vancouver/Biophysics",
+    "programLink": "https://www.studyincanada.com/Programs/1785/The-University-of-British-Columbia-Vancouver/Biophysics",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -22989,7 +22989,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Science",
     "location": "Canada, Alberta",
     "programName": "Astrophysics",
-    "programLink": "/Programs/113865/University-of-Calgary-Faculty-of-Science/Astrophysics",
+    "programLink": "https://www.studyincanada.com/Programs/113865/University-of-Calgary-Faculty-of-Science/Astrophysics",
     "entranceGrade": "77",
     "tutionValue": "$28,257",
     "length": "4 Year(s)"
@@ -22998,7 +22998,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Mathematical Physics",
-    "programLink": "/Programs/11515/University-of-Saskatchewan/Mathematical-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/11515/University-of-Saskatchewan/Mathematical-Physics",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -23007,7 +23007,7 @@ export default [
     "schoolName": "Carleton University - Faculty of Graduate Studies and Research",
     "location": "Canada, Ontario",
     "programName": "Physics",
-    "programLink": "/Programs/19123/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/19123/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Physics",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -23025,7 +23025,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Engineering Physics",
-    "programLink": "/Programs/1629/The-University-of-British-Columbia-Vancouver/Engineering-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/1629/The-University-of-British-Columbia-Vancouver/Engineering-Physics",
     "entranceGrade": "N/S",
     "tutionValue": "$54,987",
     "length": "5 Year(s)"
@@ -23034,7 +23034,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Applied Mathematics/Physics (BSc)",
-    "programLink": "/Programs/68441/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Applied-Mathematics/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/68441/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Applied-Mathematics/Physics-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -23043,7 +23043,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Physics and Astronomy",
-    "programLink": "/Programs/13538/University-of-Manitoba-Faculty-of-Graduate-Studies/Physics-and-Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/13538/University-of-Manitoba-Faculty-of-Graduate-Studies/Physics-and-Astronomy",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -23052,7 +23052,7 @@ export default [
     "schoolName": "Coquitlam College",
     "location": "Canada, British Columbia",
     "programName": "Science - Chemistry, Physics or Engineering",
-    "programLink": "/Programs/30549/Coquitlam-College/Science-Chemistry,-Physics-or-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/30549/Coquitlam-College/Science-Chemistry,-Physics-or-Engineering",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -23061,7 +23061,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Physics",
-    "programLink": "/Programs/5479/McMaster-University/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/5479/McMaster-University/Physics",
     "entranceGrade": "82 - 85",
     "tutionValue": "$40,960",
     "length": "5 Year(s)"
@@ -23070,7 +23070,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Mathematical Physics (B.Sc.)",
-    "programLink": "/Programs/55895/Trent-University/Mathematical-Physics-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/55895/Trent-University/Mathematical-Physics-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -23079,7 +23079,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Integrated Science (Biophysics Concentration)",
-    "programLink": "/Programs/81638/McMaster-University/Integrated-Science-(Biophysics-Concentration)",
+    "programLink": "https://www.studyincanada.com/Programs/81638/McMaster-University/Integrated-Science-(Biophysics-Concentration)",
     "entranceGrade": "87 - 89",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -23088,7 +23088,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Physics (M.Sc.)",
-    "programLink": "/Programs/71273/Lakehead-University-Faculty-of-Graduate-Studies/Physics-(M.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/71273/Lakehead-University-Faculty-of-Graduate-Studies/Physics-(M.Sc.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -23097,7 +23097,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Physics",
-    "programLink": "/Programs/29927/The-University-of-British-Columbia-Okanagan/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/29927/The-University-of-British-Columbia-Okanagan/Physics",
     "entranceGrade": "76",
     "tutionValue": "$42,396",
     "length": "4 Year(s)"
@@ -23106,7 +23106,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Environmental Physics",
-    "programLink": "/Programs/81192/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Environmental-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/81192/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Environmental-Physics",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -23115,7 +23115,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Physics (PhD)",
-    "programLink": "/Programs/67148/Concordia-University-School-of-Graduate-Studies/Physics-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/67148/Concordia-University-School-of-Graduate-Studies/Physics-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -23124,7 +23124,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Physics (BSc)",
-    "programLink": "/Programs/1339/Acadia-University/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/1339/Acadia-University/Physics-(BSc)",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "5 Year(s)"
@@ -23133,7 +23133,7 @@ export default [
     "schoolName": "Grenfell Campus, Memorial University",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Physics (BSc)",
-    "programLink": "/Programs/69512/Grenfell-Campus,-Memorial-University/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/69512/Grenfell-Campus,-Memorial-University/Physics-(BSc)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$11,460",
     "length": "4 Year(s)"
@@ -23142,7 +23142,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Chemical Engineering",
-    "programLink": "/Programs/15392/University-of-New-Brunswick-Fredericton/Chemical-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/15392/University-of-New-Brunswick-Fredericton/Chemical-Engineering",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -23160,7 +23160,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Astronomy and Physics (HBSc)",
-    "programLink": "/Programs/8496/University-of-Toronto-St.-George/Astronomy-and-Physics-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8496/University-of-Toronto-St.-George/Astronomy-and-Physics-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -23169,7 +23169,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Ocean Physics (BSc)",
-    "programLink": "/Programs/106431/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Ocean-Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/106431/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Ocean-Physics-(BSc)",
     "entranceGrade": "70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -23178,7 +23178,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Physics (BA)",
-    "programLink": "/Programs/81415/Queen-s-University/Physics-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/81415/Queen-s-University/Physics-(BA)",
     "entranceGrade": "85",
     "tutionValue": "$55,567",
     "length": "3 Year(s)"
@@ -23187,7 +23187,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Physics",
-    "programLink": "/Programs/23005/University-of-New-Brunswick-Fredericton/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/23005/University-of-New-Brunswick-Fredericton/Physics",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -23196,7 +23196,7 @@ export default [
     "schoolName": "McMaster University - Faculty of Engineering",
     "location": "Canada, Ontario",
     "programName": "Bachelor of Engineering Physics & Management",
-    "programLink": "/Programs/108560/McMaster-University-Faculty-of-Engineering/Bachelor-of-Engineering-Physics-&-Management",
+    "programLink": "https://www.studyincanada.com/Programs/108560/McMaster-University-Faculty-of-Engineering/Bachelor-of-Engineering-Physics-&-Management",
     "entranceGrade": "N/S",
     "tutionValue": "$63,397",
     "length": "5 Year(s)"
@@ -23205,7 +23205,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Computer Science/Physics (BSc)",
-    "programLink": "/Programs/81183/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Computer-Science/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/81183/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Computer-Science/Physics-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -23214,7 +23214,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Astronomy & Astrophysics (HBSc)",
-    "programLink": "/Programs/81697/University-of-Toronto-Scarborough/Astronomy-&-Astrophysics-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/81697/University-of-Toronto-Scarborough/Astronomy-&-Astrophysics-(HBSc)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -23223,7 +23223,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Physics and Astronomy",
-    "programLink": "/Programs/90553/University-of-Manitoba/Physics-and-Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/90553/University-of-Manitoba/Physics-and-Astronomy",
     "entranceGrade": "85 - 85",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -23232,7 +23232,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Physics",
-    "programLink": "/Programs/23097/University-of-New-Brunswick-Fredericton/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/23097/University-of-New-Brunswick-Fredericton/Physics",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -23241,7 +23241,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Geophysics - For Professional Registration",
-    "programLink": "/Programs/3882/Western-University/Geophysics-For-Professional-Registration",
+    "programLink": "https://www.studyincanada.com/Programs/3882/Western-University/Geophysics-For-Professional-Registration",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -23250,7 +23250,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Physics and Geophysics",
-    "programLink": "/Programs/39825/McGill-University/Physics-and-Geophysics",
+    "programLink": "https://www.studyincanada.com/Programs/39825/McGill-University/Physics-and-Geophysics",
     "entranceGrade": "92",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -23259,7 +23259,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Physics (Three-Year)",
-    "programLink": "/Programs/27067/The-University-of-Winnipeg/Physics-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/27067/The-University-of-Winnipeg/Physics-(Three-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "3 Year(s)"
@@ -23268,7 +23268,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Physics (B.Sc. Four-Year)",
-    "programLink": "/Programs/11551/University-of-Saskatchewan/Physics-(B.Sc.-Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/11551/University-of-Saskatchewan/Physics-(B.Sc.-Four-Year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -23277,7 +23277,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Engineering Physics",
-    "programLink": "/Programs/58924/University-of-Saskatchewan/Engineering-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/58924/University-of-Saskatchewan/Engineering-Physics",
     "entranceGrade": "75",
     "tutionValue": "$22,023",
     "length": "4 Year(s)"
@@ -23286,7 +23286,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Physics (BSc)",
-    "programLink": "/Programs/1342/Acadia-University/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/1342/Acadia-University/Physics-(BSc)",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "4 Year(s)"
@@ -23295,7 +23295,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Environmental Physics (HBSc)",
-    "programLink": "/Programs/101942/University-of-Toronto-Scarborough/Environmental-Physics-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/101942/University-of-Toronto-Scarborough/Environmental-Physics-(HBSc)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -23304,7 +23304,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Physics",
-    "programLink": "/Programs/51130/Brandon-University/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/51130/Brandon-University/Physics",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -23313,7 +23313,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Physics",
-    "programLink": "/Programs/77488/The-University-of-British-Columbia-Vancouver/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/77488/The-University-of-British-Columbia-Vancouver/Physics",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -23322,7 +23322,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Astrophysics",
-    "programLink": "/Programs/23159/Queen-s-University/Astrophysics",
+    "programLink": "https://www.studyincanada.com/Programs/23159/Queen-s-University/Astrophysics",
     "entranceGrade": "80 - 100",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -23331,7 +23331,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Chemistry/Physics (BSc)",
-    "programLink": "/Programs/68448/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Chemistry/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/68448/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Chemistry/Physics-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -23340,7 +23340,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Physics and Electrical Engineering",
-    "programLink": "/Programs/87305/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-and-Electrical-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/87305/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-and-Electrical-Engineering",
     "entranceGrade": "80 - 82",
     "tutionValue": "$52,707",
     "length": "5 Year(s)"
@@ -23349,7 +23349,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Physics (BSc)",
-    "programLink": "/Programs/25911/Acadia-University/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/25911/Acadia-University/Physics-(BSc)",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "5 Year(s)"
@@ -23358,7 +23358,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Physics",
-    "programLink": "/Programs/27172/University-of-Victoria/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/27172/University-of-Victoria/Physics",
     "entranceGrade": "80",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -23367,7 +23367,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Physics",
-    "programLink": "/Programs/8620/Langara-College/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/8620/Langara-College/Physics",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -23376,7 +23376,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Physics",
-    "programLink": "/Programs/1784/The-University-of-British-Columbia-Vancouver/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/1784/The-University-of-British-Columbia-Vancouver/Physics",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -23385,7 +23385,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Mathematics and Physics (HBSc)",
-    "programLink": "/Programs/8458/University-of-Toronto-St.-George/Mathematics-and-Physics-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8458/University-of-Toronto-St.-George/Mathematics-and-Physics-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -23394,7 +23394,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Physics - Mathematics",
-    "programLink": "/Programs/49738/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-Mathematics",
+    "programLink": "https://www.studyincanada.com/Programs/49738/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-Mathematics",
     "entranceGrade": "80 - 82",
     "tutionValue": "$48,353",
     "length": "4 Year(s)"
@@ -23403,7 +23403,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Physics and Computer Science",
-    "programLink": "/Programs/30672/University-of-Victoria/Physics-and-Computer-Science",
+    "programLink": "https://www.studyincanada.com/Programs/30672/University-of-Victoria/Physics-and-Computer-Science",
     "entranceGrade": "80 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -23412,7 +23412,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Physics -  Biological Physics",
-    "programLink": "/Programs/96568/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-Biological-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/96568/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-Biological-Physics",
     "entranceGrade": "80 - 82",
     "tutionValue": "$48,353",
     "length": "5 Year(s)"
@@ -23421,7 +23421,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Physics and Electrical Engineering",
-    "programLink": "/Programs/87306/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-and-Electrical-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/87306/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-and-Electrical-Engineering",
     "entranceGrade": "80 - 82",
     "tutionValue": "$52,707",
     "length": "6 Year(s)"
@@ -23430,7 +23430,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Physics",
-    "programLink": "/Programs/9897/St.-Francis-Xavier-University/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/9897/St.-Francis-Xavier-University/Physics",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -23439,7 +23439,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Physics",
-    "programLink": "/Programs/49718/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/49718/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics",
     "entranceGrade": "80 - 82",
     "tutionValue": "$48,353",
     "length": "4 Year(s)"
@@ -23448,7 +23448,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Science - Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Quantum Computing",
-    "programLink": "/Programs/113898/University-of-Calgary-Faculty-of-Science-Graduate-Studies/Quantum-Computing",
+    "programLink": "https://www.studyincanada.com/Programs/113898/University-of-Calgary-Faculty-of-Science-Graduate-Studies/Quantum-Computing",
     "entranceGrade": "83",
     "tutionValue": "$8,408",
     "length": "2 Year(s)"
@@ -23457,7 +23457,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Physics",
-    "programLink": "/Programs/81193/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/81193/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Physics",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -23466,7 +23466,7 @@ export default [
     "schoolName": "McMaster University - Faculty of Engineering",
     "location": "Canada, Ontario",
     "programName": "Engineering Physics and Biomedical Engineering",
-    "programLink": "/Programs/108572/McMaster-University-Faculty-of-Engineering/Engineering-Physics-and-Biomedical-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/108572/McMaster-University-Faculty-of-Engineering/Engineering-Physics-and-Biomedical-Engineering",
     "entranceGrade": "N/S",
     "tutionValue": "$63,397",
     "length": "5 Year(s)"
@@ -23475,7 +23475,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Chemical Physics (B.Sc.)",
-    "programLink": "/Programs/112/Trent-University/Chemical-Physics-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/112/Trent-University/Chemical-Physics-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -23484,7 +23484,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Atmospheric Science and Physics",
-    "programLink": "/Programs/39836/McGill-University/Atmospheric-Science-and-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/39836/McGill-University/Atmospheric-Science-and-Physics",
     "entranceGrade": "92",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -23493,7 +23493,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Physics and Chemistry",
-    "programLink": "/Programs/49511/McGill-University/Physics-and-Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/49511/McGill-University/Physics-and-Chemistry",
     "entranceGrade": "92",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -23502,7 +23502,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Liberal Program in Earth and Planetary Sciences",
-    "programLink": "/Programs/78200/McGill-University/Liberal-Program-in-Earth-and-Planetary-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/78200/McGill-University/Liberal-Program-in-Earth-and-Planetary-Sciences",
     "entranceGrade": "92",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -23511,7 +23511,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Physics (B.Sc.)",
-    "programLink": "/Programs/11552/University-of-Saskatchewan/Physics-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/11552/University-of-Saskatchewan/Physics-(B.Sc.)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -23520,7 +23520,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Geology - Physics",
-    "programLink": "/Programs/49683/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/49683/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology-Physics",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "5 Year(s)"
@@ -23529,7 +23529,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Integrated Science with Astrophysics",
-    "programLink": "/Programs/107577/Western-University/Integrated-Science-with-Astrophysics",
+    "programLink": "https://www.studyincanada.com/Programs/107577/Western-University/Integrated-Science-with-Astrophysics",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -23538,7 +23538,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Physics (M.Sc.)",
-    "programLink": "/Programs/29712/Lakehead-University-Faculty-of-Graduate-Studies/Physics-(M.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/29712/Lakehead-University-Faculty-of-Graduate-Studies/Physics-(M.Sc.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -23547,7 +23547,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Physics",
-    "programLink": "/Programs/27405/Brandon-University/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/27405/Brandon-University/Physics",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -23556,7 +23556,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Physics",
-    "programLink": "/Programs/77487/The-University-of-British-Columbia-Vancouver/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/77487/The-University-of-British-Columbia-Vancouver/Physics",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -23565,7 +23565,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Geophysics",
-    "programLink": "/Programs/1776/The-University-of-British-Columbia-Vancouver/Geophysics",
+    "programLink": "https://www.studyincanada.com/Programs/1776/The-University-of-British-Columbia-Vancouver/Geophysics",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -23574,7 +23574,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Liberal Program in Physics",
-    "programLink": "/Programs/65675/McGill-University/Liberal-Program-in-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/65675/McGill-University/Liberal-Program-in-Physics",
     "entranceGrade": "92",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -23583,7 +23583,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Geophysics",
-    "programLink": "/Programs/11487/University-of-Saskatchewan/Geophysics",
+    "programLink": "https://www.studyincanada.com/Programs/11487/University-of-Saskatchewan/Geophysics",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -23592,7 +23592,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Physics",
-    "programLink": "/Programs/39824/McGill-University/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/39824/McGill-University/Physics",
     "entranceGrade": "92",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -23601,7 +23601,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Physics",
-    "programLink": "/Programs/88615/The-University-of-British-Columbia-Okanagan/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/88615/The-University-of-British-Columbia-Okanagan/Physics",
     "entranceGrade": "70",
     "tutionValue": "$42,396",
     "length": "4 Year(s)"
@@ -23619,7 +23619,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Law/ Geology or Geophysics - MSc",
-    "programLink": "/Programs/107588/Western-University/Law/-Geology-or-Geophysics-MSc",
+    "programLink": "https://www.studyincanada.com/Programs/107588/Western-University/Law/-Geology-or-Geophysics-MSc",
     "entranceGrade": "N/S",
     "tutionValue": "$48,910",
     "length": "3 Year(s)"
@@ -23628,7 +23628,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Physics",
-    "programLink": "/Programs/2677/Lakehead-University-Thunder-Bay/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/2677/Lakehead-University-Thunder-Bay/Physics",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -23637,7 +23637,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Physics - Photonics",
-    "programLink": "/Programs/49719/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-Photonics",
+    "programLink": "https://www.studyincanada.com/Programs/49719/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics-Photonics",
     "entranceGrade": "80 - 82",
     "tutionValue": "$48,353",
     "length": "5 Year(s)"
@@ -23646,7 +23646,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Physics",
-    "programLink": "/Programs/2680/Lakehead-University-Thunder-Bay/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/2680/Lakehead-University-Thunder-Bay/Physics",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -23655,7 +23655,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Science",
     "location": "Canada, Alberta",
     "programName": "Geophysics",
-    "programLink": "/Programs/113863/University-of-Calgary-Faculty-of-Science/Geophysics",
+    "programLink": "https://www.studyincanada.com/Programs/113863/University-of-Calgary-Faculty-of-Science/Geophysics",
     "entranceGrade": "N/S",
     "tutionValue": "$28,257",
     "length": "4 Year(s)"
@@ -23664,7 +23664,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Physics (B.Sc.)",
-    "programLink": "/Programs/96715/University-of-Saskatchewan/Physics-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/96715/University-of-Saskatchewan/Physics-(B.Sc.)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -23673,7 +23673,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Physics",
-    "programLink": "/Programs/27081/Mount-Allison-University/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/27081/Mount-Allison-University/Physics",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -23682,7 +23682,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Physics",
-    "programLink": "/Programs/7527/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/7527/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Physics",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -23691,7 +23691,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Chemical Engineering",
-    "programLink": "/Programs/23090/University-of-New-Brunswick-Fredericton/Chemical-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/23090/University-of-New-Brunswick-Fredericton/Chemical-Engineering",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -23700,7 +23700,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Medical Biophysics (Physical Science Concentration)",
-    "programLink": "/Programs/107650/Western-University/Medical-Biophysics-(Physical-Science-Concentration)",
+    "programLink": "https://www.studyincanada.com/Programs/107650/Western-University/Medical-Biophysics-(Physical-Science-Concentration)",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -23709,7 +23709,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "General Science: Bachelor of Science Degree - Major",
-    "programLink": "/Programs/95453/Thompson-Rivers-University/General-Science-Bachelor-of-Science-Degree-Major",
+    "programLink": "https://www.studyincanada.com/Programs/95453/Thompson-Rivers-University/General-Science-Bachelor-of-Science-Degree-Major",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "N/S"
@@ -23718,7 +23718,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Physics",
-    "programLink": "/Programs/3766/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics",
+    "programLink": "https://www.studyincanada.com/Programs/3766/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Physics",
     "entranceGrade": "80 - 82",
     "tutionValue": "$48,353",
     "length": "5 Year(s)"
@@ -23727,7 +23727,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Computer Science/Physics (BSc)",
-    "programLink": "/Programs/68451/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Computer-Science/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/68451/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Computer-Science/Physics-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -23817,7 +23817,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Integrated Science (Environmental Sciences Concentration)",
-    "programLink": "/Programs/91522/McMaster-University/Integrated-Science-(Environmental-Sciences-Concentration)",
+    "programLink": "https://www.studyincanada.com/Programs/91522/McMaster-University/Integrated-Science-(Environmental-Sciences-Concentration)",
     "entranceGrade": "87 - 89",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -23826,7 +23826,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Environmental Science (HBSc)",
-    "programLink": "/Programs/101943/University-of-Toronto-Scarborough/Environmental-Science-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/101943/University-of-Toronto-Scarborough/Environmental-Science-(HBSc)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -23835,7 +23835,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/17123/Douglas-College/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/17123/Douglas-College/Environmental-Science",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -23844,7 +23844,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/55598/University-of-Northern-British-Columbia/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/55598/University-of-Northern-British-Columbia/Environmental-Science",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -23853,7 +23853,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science",
-    "programLink": "/Programs/60039/University-of-Manitoba/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/60039/University-of-Manitoba/Environmental-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$19,500",
     "length": "4 Year(s)"
@@ -23862,7 +23862,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Environmental Science",
-    "programLink": "/Programs/19812/Mount-Allison-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/19812/Mount-Allison-University/Environmental-Science",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -23871,7 +23871,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Earth & Environmental Sciences",
-    "programLink": "/Programs/4488/McMaster-University/Earth-&-Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/4488/McMaster-University/Earth-&-Environmental-Sciences",
     "entranceGrade": "80 - 86",
     "tutionValue": "$43,116",
     "length": "5 Year(s)"
@@ -23880,7 +23880,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/109096/Douglas-College/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/109096/Douglas-College/Environmental-Science",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -23889,7 +23889,7 @@ export default [
     "schoolName": "Lakeland College",
     "location": "Canada, Alberta",
     "programName": "Environmental Sciences General",
-    "programLink": "/Programs/109058/Lakeland-College/Environmental-Sciences-General",
+    "programLink": "https://www.studyincanada.com/Programs/109058/Lakeland-College/Environmental-Sciences-General",
     "entranceGrade": "N/S",
     "tutionValue": "$17,655",
     "length": "2 Year(s)"
@@ -23898,7 +23898,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science - Resource Management Stream",
-    "programLink": "/Programs/107372/Brandon-University/Environmental-Science-Resource-Management-Stream",
+    "programLink": "https://www.studyincanada.com/Programs/107372/Brandon-University/Environmental-Science-Resource-Management-Stream",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -23907,7 +23907,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science (General)",
-    "programLink": "/Programs/90520/University-of-Manitoba/Environmental-Science-(General)",
+    "programLink": "https://www.studyincanada.com/Programs/90520/University-of-Manitoba/Environmental-Science-(General)",
     "entranceGrade": "N/S",
     "tutionValue": "$19,500",
     "length": "3 Year(s)"
@@ -23916,7 +23916,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science - Physical Sciences Stream",
-    "programLink": "/Programs/107371/Brandon-University/Environmental-Science-Physical-Sciences-Stream",
+    "programLink": "https://www.studyincanada.com/Programs/107371/Brandon-University/Environmental-Science-Physical-Sciences-Stream",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -23925,7 +23925,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Earth and Environmental Sciences",
-    "programLink": "/Programs/29907/The-University-of-British-Columbia-Okanagan/Earth-and-Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/29907/The-University-of-British-Columbia-Okanagan/Earth-and-Environmental-Sciences",
     "entranceGrade": "67",
     "tutionValue": "$42,396",
     "length": "4 Year(s)"
@@ -23934,7 +23934,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Environmental Science (HBSc)",
-    "programLink": "/Programs/44621/University-of-Toronto-Scarborough/Environmental-Science-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/44621/University-of-Toronto-Scarborough/Environmental-Science-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -23943,7 +23943,7 @@ export default [
     "schoolName": "University of Alberta - Augustana Campus",
     "location": "Canada, Alberta",
     "programName": "Environmental Science (B.Sc.)",
-    "programLink": "/Programs/12017/University-of-Alberta-Augustana-Campus/Environmental-Science-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/12017/University-of-Alberta-Augustana-Campus/Environmental-Science-(B.Sc.)",
     "entranceGrade": "70 - 70",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -23952,7 +23952,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Science",
     "location": "Canada, Alberta",
     "programName": "Environmental Science",
-    "programLink": "/Programs/113866/University-of-Calgary-Faculty-of-Science/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/113866/University-of-Calgary-Faculty-of-Science/Environmental-Science",
     "entranceGrade": "77",
     "tutionValue": "$28,257",
     "length": "4 Year(s)"
@@ -23961,7 +23961,7 @@ export default [
     "schoolName": "University of Northern British Columbia",
     "location": "Canada, British Columbia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/10346/University-of-Northern-British-Columbia/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/10346/University-of-Northern-British-Columbia/Environmental-Science",
     "entranceGrade": "65",
     "tutionValue": "$26,750",
     "length": "4 Year(s)"
@@ -23970,7 +23970,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science - Biodiversity Stream",
-    "programLink": "/Programs/51135/Brandon-University/Environmental-Science-Biodiversity-Stream",
+    "programLink": "https://www.studyincanada.com/Programs/51135/Brandon-University/Environmental-Science-Biodiversity-Stream",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -23979,7 +23979,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Environmental Science - Conservation and Biodiversity",
-    "programLink": "/Programs/49672/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Conservation-and-Biodiversity",
+    "programLink": "https://www.studyincanada.com/Programs/49672/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Conservation-and-Biodiversity",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "4 Year(s)"
@@ -23988,7 +23988,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Earth and Environmental Sciences",
-    "programLink": "/Programs/29891/The-University-of-British-Columbia-Okanagan/Earth-and-Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/29891/The-University-of-British-Columbia-Okanagan/Earth-and-Environmental-Sciences",
     "entranceGrade": "75",
     "tutionValue": "$42,396",
     "length": "4 Year(s)"
@@ -23997,7 +23997,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Environmental Science - Global Change",
-    "programLink": "/Programs/105130/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Global-Change",
+    "programLink": "https://www.studyincanada.com/Programs/105130/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Global-Change",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "4 Year(s)"
@@ -24006,7 +24006,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science",
-    "programLink": "/Programs/60022/University-of-Manitoba/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/60022/University-of-Manitoba/Environmental-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$19,500",
     "length": "4 Year(s)"
@@ -24015,7 +24015,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/1262/Acadia-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/1262/Acadia-University/Environmental-Science",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "4 Year(s)"
@@ -24024,7 +24024,7 @@ export default [
     "schoolName": "Capilano University",
     "location": "Canada, British Columbia",
     "programName": "Bachelor of Environment and Society (Environmental Sciences)",
-    "programLink": "/Programs/116329/Capilano-University/Bachelor-of-Environment-and-Society-(Environmental-Sciences)",
+    "programLink": "https://www.studyincanada.com/Programs/116329/Capilano-University/Bachelor-of-Environment-and-Society-(Environmental-Sciences)",
     "entranceGrade": "N/S",
     "tutionValue": "$20,012",
     "length": "4 Year(s)"
@@ -24033,7 +24033,7 @@ export default [
     "schoolName": "Grenfell Campus, Memorial University",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Environmental Science (BSc)",
-    "programLink": "/Programs/33951/Grenfell-Campus,-Memorial-University/Environmental-Science-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/33951/Grenfell-Campus,-Memorial-University/Environmental-Science-(BSc)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$11,460",
     "length": "4 Year(s)"
@@ -24042,7 +24042,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science - Biodiversity Stream",
-    "programLink": "/Programs/107369/Brandon-University/Environmental-Science-Biodiversity-Stream",
+    "programLink": "https://www.studyincanada.com/Programs/107369/Brandon-University/Environmental-Science-Biodiversity-Stream",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -24051,7 +24051,7 @@ export default [
     "schoolName": "The University of British Columbia - Okanagan",
     "location": "Canada, British Columbia",
     "programName": "Earth and Environmental Sciences",
-    "programLink": "/Programs/88587/The-University-of-British-Columbia-Okanagan/Earth-and-Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/88587/The-University-of-British-Columbia-Okanagan/Earth-and-Environmental-Sciences",
     "entranceGrade": "70",
     "tutionValue": "$42,396",
     "length": "4 Year(s)"
@@ -24060,7 +24060,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "Environmental Science",
-    "programLink": "/Programs/64518/Redeemer-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/64518/Redeemer-University/Environmental-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "4 Year(s)"
@@ -24069,7 +24069,7 @@ export default [
     "schoolName": "Concordia University of Edmonton",
     "location": "Canada, Alberta",
     "programName": "Environmental Science (B.Sc. 3-year)",
-    "programLink": "/Programs/56870/Concordia-University-of-Edmonton/Environmental-Science-(B.Sc.-3-year)",
+    "programLink": "https://www.studyincanada.com/Programs/56870/Concordia-University-of-Edmonton/Environmental-Science-(B.Sc.-3-year)",
     "entranceGrade": "60",
     "tutionValue": "$25,414",
     "length": "3 Year(s)"
@@ -24078,7 +24078,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Environmental Sciences",
-    "programLink": "/Programs/81768/The-University-of-British-Columbia-Vancouver/Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/81768/The-University-of-British-Columbia-Vancouver/Environmental-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -24087,7 +24087,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Environmental Sciences",
-    "programLink": "/Programs/85117/The-University-of-Winnipeg/Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/85117/The-University-of-Winnipeg/Environmental-Sciences",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -24096,7 +24096,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Environmental Science",
-    "programLink": "/Programs/68969/Bishop-s-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/68969/Bishop-s-University/Environmental-Science",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -24105,7 +24105,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Applied Environmental Science",
-    "programLink": "/Programs/62880/The-University-of-Winnipeg/Applied-Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/62880/The-University-of-Winnipeg/Applied-Environmental-Science",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "5 Year(s)"
@@ -24123,7 +24123,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Agro-Environmental Sciences",
-    "programLink": "/Programs/49398/McGill-University/Agro-Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/49398/McGill-University/Agro-Environmental-Sciences",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -24132,7 +24132,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Environmental Science/Studies - Specialization in Climate Change...",
-    "programLink": "/Programs/105854/Trent-University/Environmental-Science/Studies-Specialization-in-Climate-Change...",
+    "programLink": "https://www.studyincanada.com/Programs/105854/Trent-University/Environmental-Science/Studies-Specialization-in-Climate-Change...",
     "entranceGrade": "75 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -24141,7 +24141,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/1263/Acadia-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/1263/Acadia-University/Environmental-Science",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "4 Year(s)"
@@ -24150,7 +24150,7 @@ export default [
     "schoolName": "Algoma University Brampton Campus",
     "location": "Canada, Ontario",
     "programName": "Environmental Science (Anticipated Fall 2023)",
-    "programLink": "/Programs/105319/Algoma-University-Brampton-Campus/Environmental-Science-(Anticipated-Fall-2023)",
+    "programLink": "https://www.studyincanada.com/Programs/105319/Algoma-University-Brampton-Campus/Environmental-Science-(Anticipated-Fall-2023)",
     "entranceGrade": "65",
     "tutionValue": "$20,438",
     "length": "4 Year(s)"
@@ -24159,7 +24159,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Integrated Science with Environmental Science",
-    "programLink": "/Programs/85062/Western-University/Integrated-Science-with-Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/85062/Western-University/Integrated-Science-with-Environmental-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -24168,7 +24168,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/33451/Saint-Mary-s-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/33451/Saint-Mary-s-University/Environmental-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$22,060",
     "length": "4 Year(s)"
@@ -24177,7 +24177,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Environmental Science - Global Change",
-    "programLink": "/Programs/105133/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Global-Change",
+    "programLink": "https://www.studyincanada.com/Programs/105133/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Global-Change",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "5 Year(s)"
@@ -24186,7 +24186,7 @@ export default [
     "schoolName": "Nipissing University - Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Environmental Science",
-    "programLink": "/Programs/107477/Nipissing-University-Graduate-Studies/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/107477/Nipissing-University-Graduate-Studies/Environmental-Science",
     "entranceGrade": "75 - 75",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -24195,7 +24195,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science",
-    "programLink": "/Programs/60038/University-of-Manitoba/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/60038/University-of-Manitoba/Environmental-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$19,500",
     "length": "4 Year(s)"
@@ -24204,7 +24204,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Environmental Science - Conservation and Biodiversity",
-    "programLink": "/Programs/3687/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Conservation-and-Biodiversity",
+    "programLink": "https://www.studyincanada.com/Programs/3687/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Conservation-and-Biodiversity",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "5 Year(s)"
@@ -24213,7 +24213,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/1260/Acadia-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/1260/Acadia-University/Environmental-Science",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "5 Year(s)"
@@ -24222,7 +24222,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Environmental Sciences",
-    "programLink": "/Programs/1772/The-University-of-British-Columbia-Vancouver/Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/1772/The-University-of-British-Columbia-Vancouver/Environmental-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -24231,7 +24231,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Environmental Science",
-    "programLink": "/Programs/32510/University-of-Windsor-Faculty-of-Graduate-Studies/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/32510/University-of-Windsor-Faculty-of-Graduate-Studies/Environmental-Science",
     "entranceGrade": "77 - 100",
     "tutionValue": "$8,863",
     "length": "3 Year(s)"
@@ -24240,7 +24240,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Environmental Sciences",
-    "programLink": "/Programs/8001/The-University-of-Winnipeg/Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/8001/The-University-of-Winnipeg/Environmental-Sciences",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -24249,7 +24249,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Environmental Science - Environmental Geochemistry and Ecotoxico...",
-    "programLink": "/Programs/105128/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Environmental-Geochemistry-and-Ecotoxico...",
+    "programLink": "https://www.studyincanada.com/Programs/105128/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Environmental-Geochemistry-and-Ecotoxico...",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "5 Year(s)"
@@ -24258,7 +24258,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/33450/Saint-Mary-s-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/33450/Saint-Mary-s-University/Environmental-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$22,060",
     "length": "4 Year(s)"
@@ -24267,7 +24267,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Agro-Environmental Sciences",
-    "programLink": "/Programs/78159/McGill-University/Agro-Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/78159/McGill-University/Agro-Environmental-Sciences",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -24276,7 +24276,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/9813/Saint-Mary-s-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/9813/Saint-Mary-s-University/Environmental-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$22,060",
     "length": "4 Year(s)"
@@ -24285,7 +24285,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Environmental Science",
-    "programLink": "/Programs/21731/University-of-Windsor-Faculty-of-Graduate-Studies/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/21731/University-of-Windsor-Faculty-of-Graduate-Studies/Environmental-Science",
     "entranceGrade": "77 - 100",
     "tutionValue": "$8,863",
     "length": "1 Year(s)"
@@ -24294,7 +24294,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Environmental Science",
-    "programLink": "/Programs/4659/University-of-Windsor/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/4659/University-of-Windsor/Environmental-Science",
     "entranceGrade": "70 - 100",
     "tutionValue": "$37,497",
     "length": "4 Year(s)"
@@ -24303,7 +24303,7 @@ export default [
     "schoolName": "Royal Roads University",
     "location": "Canada, British Columbia",
     "programName": "Environmental Science (BSc)",
-    "programLink": "/Programs/11828/Royal-Roads-University/Environmental-Science-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/11828/Royal-Roads-University/Environmental-Science-(BSc)",
     "entranceGrade": "73 - 100",
     "tutionValue": "$43,260",
     "length": "2 Year(s)"
@@ -24312,7 +24312,7 @@ export default [
     "schoolName": "College of the Rockies",
     "location": "Canada, British Columbia",
     "programName": "Associate of Science (ASC) - Environmental Sciences",
-    "programLink": "/Programs/15898/College-of-the-Rockies/Associate-of-Science-(ASC)-Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/15898/College-of-the-Rockies/Associate-of-Science-(ASC)-Environmental-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -24321,7 +24321,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science",
-    "programLink": "/Programs/90519/University-of-Manitoba/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/90519/University-of-Manitoba/Environmental-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$19,500",
     "length": "4 Year(s)"
@@ -24330,7 +24330,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Environmental Science/Studies (B.E.S.S.)",
-    "programLink": "/Programs/129/Trent-University/Environmental-Science/Studies-(B.E.S.S.)",
+    "programLink": "https://www.studyincanada.com/Programs/129/Trent-University/Environmental-Science/Studies-(B.E.S.S.)",
     "entranceGrade": "75 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -24339,7 +24339,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Earth & Environmental Sciences",
-    "programLink": "/Programs/81644/McMaster-University/Earth-&-Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/81644/McMaster-University/Earth-&-Environmental-Sciences",
     "entranceGrade": "80 - 86",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -24348,7 +24348,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/25908/Acadia-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/25908/Acadia-University/Environmental-Science",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "5 Year(s)"
@@ -24357,7 +24357,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Environmental Sciences",
-    "programLink": "/Programs/96618/Dalhousie-University/Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/96618/Dalhousie-University/Environmental-Sciences",
     "entranceGrade": "75",
     "tutionValue": "$28,473",
     "length": "4 Year(s)"
@@ -24366,7 +24366,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Environmental Science",
-    "programLink": "/Programs/68970/Bishop-s-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/68970/Bishop-s-University/Environmental-Science",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -24375,7 +24375,7 @@ export default [
     "schoolName": "Thompson Rivers University - Graduate Programs",
     "location": "Canada, British Columbia",
     "programName": "Environmental Science",
-    "programLink": "/Programs/45485/Thompson-Rivers-University-Graduate-Programs/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/45485/Thompson-Rivers-University-Graduate-Programs/Environmental-Science",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -24393,7 +24393,7 @@ export default [
     "schoolName": "Algoma University",
     "location": "Canada, Ontario",
     "programName": "Environmental Science",
-    "programLink": "/Programs/88510/Algoma-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/88510/Algoma-University/Environmental-Science",
     "entranceGrade": "65 - 65",
     "tutionValue": "$20,438",
     "length": "4 Year(s)"
@@ -24402,7 +24402,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Science | Environmental Science",
-    "programLink": "/Programs/109275/University-of-Lethbridge/Bachelor-of-Science-|-Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/109275/University-of-Lethbridge/Bachelor-of-Science-|-Environmental-Science",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -24411,7 +24411,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science - Resource Management Stream",
-    "programLink": "/Programs/51137/Brandon-University/Environmental-Science-Resource-Management-Stream",
+    "programLink": "https://www.studyincanada.com/Programs/51137/Brandon-University/Environmental-Science-Resource-Management-Stream",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -24420,7 +24420,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science - Land and Water Management Stream",
-    "programLink": "/Programs/51121/Brandon-University/Environmental-Science-Land-and-Water-Management-Stream",
+    "programLink": "https://www.studyincanada.com/Programs/51121/Brandon-University/Environmental-Science-Land-and-Water-Management-Stream",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "2 Year(s)"
@@ -24429,7 +24429,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Environmental Sciences",
-    "programLink": "/Programs/81769/The-University-of-British-Columbia-Vancouver/Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/81769/The-University-of-British-Columbia-Vancouver/Environmental-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -24438,7 +24438,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Environmental Science",
-    "programLink": "/Programs/81828/Mount-Allison-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/81828/Mount-Allison-University/Environmental-Science",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -24447,7 +24447,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Environmental Science - Environmental Geochemistry and Ecotoxico...",
-    "programLink": "/Programs/105132/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Environmental-Geochemistry-and-Ecotoxico...",
+    "programLink": "https://www.studyincanada.com/Programs/105132/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Environmental-Science-Environmental-Geochemistry-and-Ecotoxico...",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "4 Year(s)"
@@ -24456,7 +24456,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Environmental Science",
-    "programLink": "/Programs/99407/University-of-Calgary/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/99407/University-of-Calgary/Environmental-Science",
     "entranceGrade": "80 - 85",
     "tutionValue": "$20,172",
     "length": "4 Year(s)"
@@ -24474,7 +24474,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Environmental Science (B.S.A.)",
-    "programLink": "/Programs/58931/University-of-Saskatchewan/Environmental-Science-(B.S.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/58931/University-of-Saskatchewan/Environmental-Science-(B.S.A.)",
     "entranceGrade": "70",
     "tutionValue": "$18,391",
     "length": "4 Year(s)"
@@ -24483,7 +24483,7 @@ export default [
     "schoolName": "Concordia University of Edmonton",
     "location": "Canada, Alberta",
     "programName": "Environmental Science (B.Sc. 4-year)",
-    "programLink": "/Programs/56877/Concordia-University-of-Edmonton/Environmental-Science-(B.Sc.-4-year)",
+    "programLink": "https://www.studyincanada.com/Programs/56877/Concordia-University-of-Edmonton/Environmental-Science-(B.Sc.-4-year)",
     "entranceGrade": "60",
     "tutionValue": "$25,414",
     "length": "4 Year(s)"
@@ -24492,7 +24492,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Environmental Science",
-    "programLink": "/Programs/31867/Western-University/Environmental-Science",
+    "programLink": "https://www.studyincanada.com/Programs/31867/Western-University/Environmental-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "N/S"
@@ -24501,7 +24501,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Integrated Science (Earth and Environmental Sciences Concentrati...",
-    "programLink": "/Programs/91603/McMaster-University/Integrated-Science-(Earth-and-Environmental-Sciences-Concentrati...",
+    "programLink": "https://www.studyincanada.com/Programs/91603/McMaster-University/Integrated-Science-(Earth-and-Environmental-Sciences-Concentrati...",
     "entranceGrade": "87 - 89",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -24510,7 +24510,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Environmental Sciences",
-    "programLink": "/Programs/77611/The-University-of-British-Columbia-Vancouver/Environmental-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/77611/The-University-of-British-Columbia-Vancouver/Environmental-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -24519,7 +24519,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Environmental Science - Physical Sciences Stream",
-    "programLink": "/Programs/51114/Brandon-University/Environmental-Science-Physical-Sciences-Stream",
+    "programLink": "https://www.studyincanada.com/Programs/51114/Brandon-University/Environmental-Science-Physical-Sciences-Stream",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -24564,7 +24564,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Geological Engineering",
-    "programLink": "/Programs/15556/University-of-New-Brunswick-Saint-John/Geological-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/15556/University-of-New-Brunswick-Saint-John/Geological-Engineering",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -24573,7 +24573,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Geology",
-    "programLink": "/Programs/22938/University-of-New-Brunswick-Saint-John/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/22938/University-of-New-Brunswick-Saint-John/Geology",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -24582,7 +24582,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Geology",
-    "programLink": "/Programs/22920/University-of-New-Brunswick-Saint-John/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/22920/University-of-New-Brunswick-Saint-John/Geology",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -24591,7 +24591,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Geology",
-    "programLink": "/Programs/7217/McGill-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/7217/McGill-University/Geology",
     "entranceGrade": "92",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -24600,7 +24600,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Geographical Sciences",
-    "programLink": "/Programs/77480/The-University-of-British-Columbia-Vancouver/Geographical-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/77480/The-University-of-British-Columbia-Vancouver/Geographical-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -24609,7 +24609,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Geological Sciences",
-    "programLink": "/Programs/23153/Queen-s-University/Geological-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/23153/Queen-s-University/Geological-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -24618,7 +24618,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Geology",
-    "programLink": "/Programs/60028/University-of-Manitoba/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/60028/University-of-Manitoba/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "$19,500",
     "length": "4 Year(s)"
@@ -24627,7 +24627,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Geology (B.A. Three-year)",
-    "programLink": "/Programs/106170/University-of-Saskatchewan/Geology-(B.A.-Three-year)",
+    "programLink": "https://www.studyincanada.com/Programs/106170/University-of-Saskatchewan/Geology-(B.A.-Three-year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "3 Year(s)"
@@ -24636,7 +24636,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Geology",
-    "programLink": "/Programs/2586/Lakehead-University-Thunder-Bay/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/2586/Lakehead-University-Thunder-Bay/Geology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -24645,7 +24645,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Geological Resources",
-    "programLink": "/Programs/91914/Douglas-College/Geological-Resources",
+    "programLink": "https://www.studyincanada.com/Programs/91914/Douglas-College/Geological-Resources",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -24654,7 +24654,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Geology",
-    "programLink": "/Programs/77399/The-University-of-British-Columbia-Vancouver/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/77399/The-University-of-British-Columbia-Vancouver/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -24663,7 +24663,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Chemistry/Earth Sciences (BSc)",
-    "programLink": "/Programs/68444/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Chemistry/Earth-Sciences-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/68444/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Chemistry/Earth-Sciences-(BSc)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$20,790",
     "length": "4 Year(s)"
@@ -24672,7 +24672,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Geology (HBSc)",
-    "programLink": "/Programs/8389/University-of-Toronto-St.-George/Geology-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8389/University-of-Toronto-St.-George/Geology-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -24681,7 +24681,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Law/ Geology or Geophysics - MSc",
-    "programLink": "/Programs/107588/Western-University/Law/-Geology-or-Geophysics-MSc",
+    "programLink": "https://www.studyincanada.com/Programs/107588/Western-University/Law/-Geology-or-Geophysics-MSc",
     "entranceGrade": "N/S",
     "tutionValue": "$48,910",
     "length": "3 Year(s)"
@@ -24690,7 +24690,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Earth, Space, and Physical Science",
-    "programLink": "/Programs/33529/University-of-Lethbridge-School-of-Graduate-Studies/Earth,-Space,-and-Physical-Science",
+    "programLink": "https://www.studyincanada.com/Programs/33529/University-of-Lethbridge-School-of-Graduate-Studies/Earth,-Space,-and-Physical-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "48 Month(s)"
@@ -24699,7 +24699,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Geology",
-    "programLink": "/Programs/56814/University-of-Saskatchewan/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/56814/University-of-Saskatchewan/Geology",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -24708,7 +24708,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Geophysics (HBSc)",
-    "programLink": "/Programs/8392/University-of-Toronto-St.-George/Geophysics-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8392/University-of-Toronto-St.-George/Geophysics-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -24717,7 +24717,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Earth Science",
-    "programLink": "/Programs/99393/University-of-Calgary/Earth-Science",
+    "programLink": "https://www.studyincanada.com/Programs/99393/University-of-Calgary/Earth-Science",
     "entranceGrade": "80",
     "tutionValue": "$25,530",
     "length": "4 Year(s)"
@@ -24726,7 +24726,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Geology",
-    "programLink": "/Programs/77617/The-University-of-British-Columbia-Vancouver/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/77617/The-University-of-British-Columbia-Vancouver/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -24735,7 +24735,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Geology",
-    "programLink": "/Programs/33452/Saint-Mary-s-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/33452/Saint-Mary-s-University/Geology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$22,060",
     "length": "4 Year(s)"
@@ -24744,7 +24744,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Geology",
-    "programLink": "/Programs/49695/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/49695/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "4 Year(s)"
@@ -24753,7 +24753,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Geology",
-    "programLink": "/Programs/9816/Saint-Mary-s-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/9816/Saint-Mary-s-University/Geology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$22,060",
     "length": "4 Year(s)"
@@ -24762,7 +24762,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Geology",
-    "programLink": "/Programs/1282/Acadia-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/1282/Acadia-University/Geology",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "4 Year(s)"
@@ -24771,7 +24771,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Geology",
-    "programLink": "/Programs/81396/Selkirk-College/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/81396/Selkirk-College/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "$13,409",
     "length": "2 Year(s)"
@@ -24780,7 +24780,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Geology",
-    "programLink": "/Programs/7006/University-of-Regina/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/7006/University-of-Regina/Geology",
     "entranceGrade": "65 - 70",
     "tutionValue": "$12,049",
     "length": "4 Year(s)"
@@ -24789,7 +24789,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Geology",
-    "programLink": "/Programs/107377/Brandon-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/107377/Brandon-University/Geology",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -24798,7 +24798,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Geology and Biology",
-    "programLink": "/Programs/31876/Western-University/Geology-and-Biology",
+    "programLink": "https://www.studyincanada.com/Programs/31876/Western-University/Geology-and-Biology",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "N/S"
@@ -24807,7 +24807,7 @@ export default [
     "schoolName": "Algoma University",
     "location": "Canada, Ontario",
     "programName": "Geography, Geology and Land Stewardship",
-    "programLink": "/Programs/12402/Algoma-University/Geography,-Geology-and-Land-Stewardship",
+    "programLink": "https://www.studyincanada.com/Programs/12402/Algoma-University/Geography,-Geology-and-Land-Stewardship",
     "entranceGrade": "65 - 65",
     "tutionValue": "$20,438",
     "length": "4 Year(s)"
@@ -24816,7 +24816,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Earth Sciences",
-    "programLink": "/Programs/15426/University-of-New-Brunswick-Fredericton/Earth-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/15426/University-of-New-Brunswick-Fredericton/Earth-Sciences",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -24825,7 +24825,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Science",
     "location": "Canada, Alberta",
     "programName": "Geology",
-    "programLink": "/Programs/113861/University-of-Calgary-Faculty-of-Science/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/113861/University-of-Calgary-Faculty-of-Science/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "$28,257",
     "length": "4 Year(s)"
@@ -24834,7 +24834,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Geology",
-    "programLink": "/Programs/3696/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/3696/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "5 Year(s)"
@@ -24843,7 +24843,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Geology",
-    "programLink": "/Programs/49687/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/49687/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "4 Year(s)"
@@ -24852,7 +24852,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Geological Studies",
-    "programLink": "/Programs/106050/St.-Lawrence-College/Geological-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/106050/St.-Lawrence-College/Geological-Studies",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -24861,7 +24861,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Geology",
-    "programLink": "/Programs/77402/The-University-of-British-Columbia-Vancouver/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/77402/The-University-of-British-Columbia-Vancouver/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -24870,7 +24870,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Geology - For Professional Registration",
-    "programLink": "/Programs/31877/Western-University/Geology-For-Professional-Registration",
+    "programLink": "https://www.studyincanada.com/Programs/31877/Western-University/Geology-For-Professional-Registration",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -24879,7 +24879,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Geology",
-    "programLink": "/Programs/60027/University-of-Manitoba/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/60027/University-of-Manitoba/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "$19,500",
     "length": "4 Year(s)"
@@ -24888,7 +24888,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Geological Engineering",
-    "programLink": "/Programs/5900/Queen-s-University/Geological-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/5900/Queen-s-University/Geological-Engineering",
     "entranceGrade": "80 - 100",
     "tutionValue": "$61,487",
     "length": "4 Year(s)"
@@ -24897,7 +24897,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Earth Sciences",
-    "programLink": "/Programs/22983/University-of-New-Brunswick-Fredericton/Earth-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/22983/University-of-New-Brunswick-Fredericton/Earth-Sciences",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -24906,7 +24906,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Geology (3 Year)",
-    "programLink": "/Programs/107384/Brandon-University/Geology-(3-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/107384/Brandon-University/Geology-(3-Year)",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "3 Year(s)"
@@ -24915,7 +24915,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Geographical Sciences",
-    "programLink": "/Programs/67938/The-University-of-British-Columbia-Vancouver/Geographical-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/67938/The-University-of-British-Columbia-Vancouver/Geographical-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -24924,7 +24924,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Geology",
-    "programLink": "/Programs/109085/Douglas-College/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/109085/Douglas-College/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -24933,7 +24933,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Earth Sciences",
-    "programLink": "/Programs/9891/St.-Francis-Xavier-University/Earth-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/9891/St.-Francis-Xavier-University/Earth-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -24942,7 +24942,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Geology",
-    "programLink": "/Programs/1278/Acadia-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/1278/Acadia-University/Geology",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "5 Year(s)"
@@ -24951,7 +24951,7 @@ export default [
     "schoolName": "Saint Mary's University",
     "location": "Canada, Nova Scotia",
     "programName": "Geology",
-    "programLink": "/Programs/33453/Saint-Mary-s-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/33453/Saint-Mary-s-University/Geology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$22,060",
     "length": "3 Year(s)"
@@ -24960,7 +24960,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Geology",
-    "programLink": "/Programs/51110/Brandon-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/51110/Brandon-University/Geology",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -24969,7 +24969,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Geology",
-    "programLink": "/Programs/27404/Brandon-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/27404/Brandon-University/Geology",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -24978,7 +24978,7 @@ export default [
     "schoolName": "University of New Brunswick - Fredericton",
     "location": "Canada, New Brunswick",
     "programName": "Earth Sciences",
-    "programLink": "/Programs/23096/University-of-New-Brunswick-Fredericton/Earth-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/23096/University-of-New-Brunswick-Fredericton/Earth-Sciences",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -24987,7 +24987,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Geology",
-    "programLink": "/Programs/25131/Acadia-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/25131/Acadia-University/Geology",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "4 Year(s)"
@@ -24996,7 +24996,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Geology - Physics",
-    "programLink": "/Programs/49683/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/49683/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology-Physics",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "5 Year(s)"
@@ -25005,7 +25005,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Geology - Physics",
-    "programLink": "/Programs/49703/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology-Physics",
+    "programLink": "https://www.studyincanada.com/Programs/49703/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Geology-Physics",
     "entranceGrade": "80 - 82",
     "tutionValue": "$38,049",
     "length": "4 Year(s)"
@@ -25014,7 +25014,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Environmental Geoscience",
-    "programLink": "/Programs/84634/University-of-Regina/Environmental-Geoscience",
+    "programLink": "https://www.studyincanada.com/Programs/84634/University-of-Regina/Environmental-Geoscience",
     "entranceGrade": "65",
     "tutionValue": "$12,049",
     "length": "4 Year(s)"
@@ -25023,7 +25023,7 @@ export default [
     "schoolName": "Acadia University",
     "location": "Canada, Nova Scotia",
     "programName": "Geology",
-    "programLink": "/Programs/25909/Acadia-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/25909/Acadia-University/Geology",
     "entranceGrade": "70",
     "tutionValue": "$21,620",
     "length": "5 Year(s)"
@@ -25032,7 +25032,7 @@ export default [
     "schoolName": "Brandon University",
     "location": "Canada, Manitoba",
     "programName": "Geology",
-    "programLink": "/Programs/107385/Brandon-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/107385/Brandon-University/Geology",
     "entranceGrade": "60 - 100",
     "tutionValue": "$18,613",
     "length": "4 Year(s)"
@@ -25041,7 +25041,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Geoarchaeology",
-    "programLink": "/Programs/2569/Lakehead-University-Thunder-Bay/Geoarchaeology",
+    "programLink": "https://www.studyincanada.com/Programs/2569/Lakehead-University-Thunder-Bay/Geoarchaeology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -25050,7 +25050,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Geological Sciences",
-    "programLink": "/Programs/37415/University-of-Manitoba/Geological-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/37415/University-of-Manitoba/Geological-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$18,800",
     "length": "3 Year(s)"
@@ -25059,7 +25059,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Earth Science",
-    "programLink": "/Programs/106154/Vancouver-Island-University/Earth-Science",
+    "programLink": "https://www.studyincanada.com/Programs/106154/Vancouver-Island-University/Earth-Science",
     "entranceGrade": "60",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -25068,7 +25068,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Geology",
-    "programLink": "/Programs/78167/McGill-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/78167/McGill-University/Geology",
     "entranceGrade": "92",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -25077,7 +25077,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Geoarchaeology",
-    "programLink": "/Programs/2568/Lakehead-University-Thunder-Bay/Geoarchaeology",
+    "programLink": "https://www.studyincanada.com/Programs/2568/Lakehead-University-Thunder-Bay/Geoarchaeology",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "3 Year(s)"
@@ -25086,7 +25086,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Geological Engineering",
-    "programLink": "/Programs/56861/University-of-Saskatchewan/Geological-Engineering",
+    "programLink": "https://www.studyincanada.com/Programs/56861/University-of-Saskatchewan/Geological-Engineering",
     "entranceGrade": "75",
     "tutionValue": "$22,023",
     "length": "4 Year(s)"
@@ -25095,7 +25095,7 @@ export default [
     "schoolName": "University of Saskatchewan",
     "location": "Canada, Saskatchewan",
     "programName": "Geology (B.A. Four-year)",
-    "programLink": "/Programs/56809/University-of-Saskatchewan/Geology-(B.A.-Four-year)",
+    "programLink": "https://www.studyincanada.com/Programs/56809/University-of-Saskatchewan/Geology-(B.A.-Four-year)",
     "entranceGrade": "70",
     "tutionValue": "$18,040",
     "length": "4 Year(s)"
@@ -25104,7 +25104,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Geological Sciences",
-    "programLink": "/Programs/81414/Queen-s-University/Geological-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/81414/Queen-s-University/Geological-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$55,567",
     "length": "3 Year(s)"
@@ -25113,7 +25113,7 @@ export default [
     "schoolName": "University of Calgary - Faculty of Science",
     "location": "Canada, Alberta",
     "programName": "Geology - Petroleum Geology Concentration",
-    "programLink": "/Programs/113862/University-of-Calgary-Faculty-of-Science/Geology-Petroleum-Geology-Concentration",
+    "programLink": "https://www.studyincanada.com/Programs/113862/University-of-Calgary-Faculty-of-Science/Geology-Petroleum-Geology-Concentration",
     "entranceGrade": "N/S",
     "tutionValue": "$28,257",
     "length": "4 Year(s)"
@@ -25122,7 +25122,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Geology",
-    "programLink": "/Programs/77596/The-University-of-British-Columbia-Vancouver/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/77596/The-University-of-British-Columbia-Vancouver/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -25131,7 +25131,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Geology (M.Sc.)",
-    "programLink": "/Programs/2594/Lakehead-University-Faculty-of-Graduate-Studies/Geology-(M.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/2594/Lakehead-University-Faculty-of-Graduate-Studies/Geology-(M.Sc.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -25140,7 +25140,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Geology",
-    "programLink": "/Programs/31878/Western-University/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/31878/Western-University/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -25149,7 +25149,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Geology",
-    "programLink": "/Programs/91911/Douglas-College/Geology",
+    "programLink": "https://www.studyincanada.com/Programs/91911/Douglas-College/Geology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -25158,7 +25158,7 @@ export default [
     "schoolName": "St. Francis Xavier University",
     "location": "Canada, Nova Scotia",
     "programName": "Earth Sciences",
-    "programLink": "/Programs/9890/St.-Francis-Xavier-University/Earth-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/9890/St.-Francis-Xavier-University/Earth-Sciences",
     "entranceGrade": "N/S",
     "tutionValue": "$9,650",
     "length": "4 Year(s)"
@@ -25185,7 +25185,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Physics and Astronomy",
-    "programLink": "/Programs/13538/University-of-Manitoba-Faculty-of-Graduate-Studies/Physics-and-Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/13538/University-of-Manitoba-Faculty-of-Graduate-Studies/Physics-and-Astronomy",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -25194,7 +25194,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Planetary Science (HBSc)",
-    "programLink": "/Programs/8497/University-of-Toronto-St.-George/Planetary-Science-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8497/University-of-Toronto-St.-George/Planetary-Science-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -25203,7 +25203,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Astronomy & Astrophysics (HBSc)",
-    "programLink": "/Programs/81697/University-of-Toronto-Scarborough/Astronomy-&-Astrophysics-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/81697/University-of-Toronto-Scarborough/Astronomy-&-Astrophysics-(HBSc)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -25212,7 +25212,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Astronomy and Physics (HBSc)",
-    "programLink": "/Programs/8496/University-of-Toronto-St.-George/Astronomy-and-Physics-(HBSc)",
+    "programLink": "https://www.studyincanada.com/Programs/8496/University-of-Toronto-St.-George/Astronomy-and-Physics-(HBSc)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$57,020",
     "length": "4 Year(s)"
@@ -25221,7 +25221,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Physics (BSc)",
-    "programLink": "/Programs/109470/Queen-s-University/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/109470/Queen-s-University/Physics-(BSc)",
     "entranceGrade": "80",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -25230,7 +25230,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Astronomy",
-    "programLink": "/Programs/12232/University-of-Victoria/Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/12232/University-of-Victoria/Astronomy",
     "entranceGrade": "80 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -25239,7 +25239,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Physics (BSc)",
-    "programLink": "/Programs/5792/Queen-s-University/Physics-(BSc)",
+    "programLink": "https://www.studyincanada.com/Programs/5792/Queen-s-University/Physics-(BSc)",
     "entranceGrade": "80",
     "tutionValue": "$55,567",
     "length": "3 Year(s)"
@@ -25248,7 +25248,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Liberal Program in Earth and Planetary Sciences",
-    "programLink": "/Programs/78200/McGill-University/Liberal-Program-in-Earth-and-Planetary-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/78200/McGill-University/Liberal-Program-in-Earth-and-Planetary-Sciences",
     "entranceGrade": "92",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -25257,7 +25257,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Physics and Astronomy",
-    "programLink": "/Programs/13537/University-of-Manitoba-Faculty-of-Graduate-Studies/Physics-and-Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/13537/University-of-Manitoba-Faculty-of-Graduate-Studies/Physics-and-Astronomy",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -25266,7 +25266,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Physics and Astronomy (General Major)",
-    "programLink": "/Programs/37412/University-of-Manitoba/Physics-and-Astronomy-(General-Major)",
+    "programLink": "https://www.studyincanada.com/Programs/37412/University-of-Manitoba/Physics-and-Astronomy-(General-Major)",
     "entranceGrade": "85 - 85",
     "tutionValue": "$19,800",
     "length": "3 Year(s)"
@@ -25275,7 +25275,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Computer Science / Physics & Astronomy",
-    "programLink": "/Programs/60034/University-of-Manitoba/Computer-Science-/-Physics-&-Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/60034/University-of-Manitoba/Computer-Science-/-Physics-&-Astronomy",
     "entranceGrade": "N/S",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -25284,7 +25284,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Astronomy",
-    "programLink": "/Programs/30612/University-of-Victoria/Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/30612/University-of-Victoria/Astronomy",
     "entranceGrade": "80 - 85",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -25293,7 +25293,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Physics (B.Sc.)",
-    "programLink": "/Programs/156/Trent-University/Physics-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/156/Trent-University/Physics-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "3 Year(s)"
@@ -25302,7 +25302,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Astronomy",
-    "programLink": "/Programs/81829/The-University-of-British-Columbia-Vancouver/Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/81829/The-University-of-British-Columbia-Vancouver/Astronomy",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -25311,7 +25311,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Physics and Astronomy",
-    "programLink": "/Programs/37353/University-of-Manitoba/Physics-and-Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/37353/University-of-Manitoba/Physics-and-Astronomy",
     "entranceGrade": "85 - 85",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -25320,7 +25320,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Astronomy",
-    "programLink": "/Programs/1757/The-University-of-British-Columbia-Vancouver/Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/1757/The-University-of-British-Columbia-Vancouver/Astronomy",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -25329,7 +25329,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Physics and Mathematics",
-    "programLink": "/Programs/90542/University-of-Manitoba/Physics-and-Mathematics",
+    "programLink": "https://www.studyincanada.com/Programs/90542/University-of-Manitoba/Physics-and-Mathematics",
     "entranceGrade": "85 - 85",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -25338,7 +25338,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Physics (B.Sc.)",
-    "programLink": "/Programs/157/Trent-University/Physics-(B.Sc.)",
+    "programLink": "https://www.studyincanada.com/Programs/157/Trent-University/Physics-(B.Sc.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -25347,7 +25347,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Physics and Biochemistry",
-    "programLink": "/Programs/90543/University-of-Manitoba/Physics-and-Biochemistry",
+    "programLink": "https://www.studyincanada.com/Programs/90543/University-of-Manitoba/Physics-and-Biochemistry",
     "entranceGrade": "85 - 85",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -25356,7 +25356,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Astronomy",
-    "programLink": "/Programs/12235/University-of-Victoria/Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/12235/University-of-Victoria/Astronomy",
     "entranceGrade": "80 - 100",
     "tutionValue": "$27,949",
     "length": "4 Year(s)"
@@ -25365,7 +25365,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Astronomy",
-    "programLink": "/Programs/81830/The-University-of-British-Columbia-Vancouver/Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/81830/The-University-of-British-Columbia-Vancouver/Astronomy",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -25374,7 +25374,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Computer Science / Physics & Astronomy",
-    "programLink": "/Programs/60033/University-of-Manitoba/Computer-Science-/-Physics-&-Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/60033/University-of-Manitoba/Computer-Science-/-Physics-&-Astronomy",
     "entranceGrade": "N/S",
     "tutionValue": "$19,800",
     "length": "5 Year(s)"
@@ -25383,7 +25383,7 @@ export default [
     "schoolName": "University of Victoria",
     "location": "Canada, British Columbia",
     "programName": "Astronomy",
-    "programLink": "/Programs/27195/University-of-Victoria/Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/27195/University-of-Victoria/Astronomy",
     "entranceGrade": "80 - 85",
     "tutionValue": "$27,949",
     "length": "5 Year(s)"
@@ -25392,7 +25392,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Astronomy",
-    "programLink": "/Programs/77386/The-University-of-British-Columbia-Vancouver/Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/77386/The-University-of-British-Columbia-Vancouver/Astronomy",
     "entranceGrade": "N/S",
     "tutionValue": "$44,091",
     "length": "4 Year(s)"
@@ -25401,7 +25401,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Physics and Chemistry",
-    "programLink": "/Programs/90541/University-of-Manitoba/Physics-and-Chemistry",
+    "programLink": "https://www.studyincanada.com/Programs/90541/University-of-Manitoba/Physics-and-Chemistry",
     "entranceGrade": "85 - 85",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -25410,7 +25410,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Astrophysics",
-    "programLink": "/Programs/23159/Queen-s-University/Astrophysics",
+    "programLink": "https://www.studyincanada.com/Programs/23159/Queen-s-University/Astrophysics",
     "entranceGrade": "80 - 100",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -25419,7 +25419,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Physics and Astronomy",
-    "programLink": "/Programs/90553/University-of-Manitoba/Physics-and-Astronomy",
+    "programLink": "https://www.studyincanada.com/Programs/90553/University-of-Manitoba/Physics-and-Astronomy",
     "entranceGrade": "85 - 85",
     "tutionValue": "$19,800",
     "length": "4 Year(s)"
@@ -25428,7 +25428,7 @@ export default [
     "schoolName": "University of Lethbridge - School of Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Earth, Space, and Physical Science",
-    "programLink": "/Programs/33529/University-of-Lethbridge-School-of-Graduate-Studies/Earth,-Space,-and-Physical-Science",
+    "programLink": "https://www.studyincanada.com/Programs/33529/University-of-Lethbridge-School-of-Graduate-Studies/Earth,-Space,-and-Physical-Science",
     "entranceGrade": "N/S",
     "tutionValue": "$15,851",
     "length": "48 Month(s)"
@@ -25437,7 +25437,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Planetary Sciences",
-    "programLink": "/Programs/39818/McGill-University/Planetary-Sciences",
+    "programLink": "https://www.studyincanada.com/Programs/39818/McGill-University/Planetary-Sciences",
     "entranceGrade": "92",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -25482,7 +25482,7 @@ export default [
     "schoolName": "LaSalle College Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Graphic Design & Foundation for Design",
-    "programLink": "/Programs/52601/LaSalle-College-Vancouver/Graphic-Design-&-Foundation-for-Design",
+    "programLink": "https://www.studyincanada.com/Programs/52601/LaSalle-College-Vancouver/Graphic-Design-&-Foundation-for-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "18 Month(s)"
@@ -25491,7 +25491,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/8854/St.-Lawrence-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/8854/St.-Lawrence-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$18,929",
     "length": "3 Year(s)"
@@ -25500,7 +25500,7 @@ export default [
     "schoolName": "CDI College (Mississauga Campus)",
     "location": "Canada, Ontario",
     "programName": "Graphic Design Technology",
-    "programLink": "/Programs/99363/CDI-College-(Mississauga-Campus)/Graphic-Design-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/99363/CDI-College-(Mississauga-Campus)/Graphic-Design-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -25509,7 +25509,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/35999/Humber-College-Institute-of-Technology-&-Advanced-Learning/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/35999/Humber-College-Institute-of-Technology-&-Advanced-Learning/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$19,615",
     "length": "3 Year(s)"
@@ -25518,7 +25518,7 @@ export default [
     "schoolName": "Fanshawe College",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/3633/Fanshawe-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/3633/Fanshawe-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$16,753",
     "length": "3 Year(s)"
@@ -25527,7 +25527,7 @@ export default [
     "schoolName": "Vancouver Community College",
     "location": "Canada, British Columbia",
     "programName": "Graphic Design",
-    "programLink": "/Programs/97175/Vancouver-Community-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/97175/Vancouver-Community-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -25536,7 +25536,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Graphic Design",
-    "programLink": "/Programs/51367/Vancouver-Island-University/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/51367/Vancouver-Island-University/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$24,146",
     "length": "4 Year(s)"
@@ -25545,7 +25545,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Graphic Design",
-    "programLink": "/Programs/102051/University-of-Manitoba/Fine-Arts-Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/102051/University-of-Manitoba/Fine-Arts-Graphic-Design",
     "entranceGrade": "70 - 70",
     "tutionValue": "$22,500",
     "length": "4 Year(s)"
@@ -25554,7 +25554,7 @@ export default [
     "schoolName": "Red River College Polytechnic",
     "location": "Canada, Manitoba",
     "programName": "Graphic Design",
-    "programLink": "/Programs/25499/Red-River-College-Polytechnic/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/25499/Red-River-College-Polytechnic/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$17,312",
     "length": "2 Year(s)"
@@ -25563,7 +25563,7 @@ export default [
     "schoolName": "Cambrian College",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/27224/Cambrian-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/27224/Cambrian-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$17,776",
     "length": "3 Year(s)"
@@ -25572,7 +25572,7 @@ export default [
     "schoolName": "Herzing College - Toronto",
     "location": "Canada, Ontario",
     "programName": "Computer Graphic Design",
-    "programLink": "/Programs/16923/Herzing-College-Toronto/Computer-Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/16923/Herzing-College-Toronto/Computer-Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "900 Hour(s)"
@@ -25581,7 +25581,7 @@ export default [
     "schoolName": "Academy of Learning Career College - Toronto (Downtown)",
     "location": "Canada, Ontario",
     "programName": "Graphic Designer",
-    "programLink": "/Programs/100937/Academy-of-Learning-Career-College-Toronto-(Downtown)/Graphic-Designer",
+    "programLink": "https://www.studyincanada.com/Programs/100937/Academy-of-Learning-Career-College-Toronto-(Downtown)/Graphic-Designer",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "50 Week(s)"
@@ -25590,7 +25590,7 @@ export default [
     "schoolName": "Mohawk College",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/70780/Mohawk-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/70780/Mohawk-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$18,400",
     "length": "3 Year(s)"
@@ -25599,7 +25599,7 @@ export default [
     "schoolName": "Nova Scotia Community College",
     "location": "Canada, Nova Scotia",
     "programName": "Graphic Design",
-    "programLink": "/Programs/15205/Nova-Scotia-Community-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/15205/Nova-Scotia-Community-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$11,690",
     "length": "2 Year(s)"
@@ -25608,7 +25608,7 @@ export default [
     "schoolName": "George Brown College",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/1279/George-Brown-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/1279/George-Brown-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$15,190",
     "length": "3 Year(s)"
@@ -25617,7 +25617,7 @@ export default [
     "schoolName": "Herzing College - Montreal",
     "location": "Canada, Québec",
     "programName": "Graphic Design for the Web (NWE.1T)",
-    "programLink": "/Programs/6352/Herzing-College-Montreal/Graphic-Design-for-the-Web-(NWE.1T)",
+    "programLink": "https://www.studyincanada.com/Programs/6352/Herzing-College-Montreal/Graphic-Design-for-the-Web-(NWE.1T)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1000 Hour(s)"
@@ -25626,7 +25626,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Graphic Design Production",
-    "programLink": "/Programs/3455/Georgian-College/Graphic-Design-Production",
+    "programLink": "https://www.studyincanada.com/Programs/3455/Georgian-College/Graphic-Design-Production",
     "entranceGrade": "N/S",
     "tutionValue": "$14,003",
     "length": "2 Year(s)"
@@ -25635,7 +25635,7 @@ export default [
     "schoolName": "Seneca Polytechnic",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/5445/Seneca-Polytechnic/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/5445/Seneca-Polytechnic/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$17,739",
     "length": "3 Year(s)"
@@ -25644,7 +25644,7 @@ export default [
     "schoolName": "ITD Canada",
     "location": "Canada, British Columbia",
     "programName": "Graphic Design Diploma with Co-op",
-    "programLink": "/Programs/75998/ITD-Canada/Graphic-Design-Diploma-with-Co-op",
+    "programLink": "https://www.studyincanada.com/Programs/75998/ITD-Canada/Graphic-Design-Diploma-with-Co-op",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -25653,7 +25653,7 @@ export default [
     "schoolName": "Canadore College",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/7920/Canadore-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/7920/Canadore-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$17,590",
     "length": "3 Year(s)"
@@ -25662,7 +25662,7 @@ export default [
     "schoolName": "LaSalle College Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Graphic Design (BDes)",
-    "programLink": "/Programs/69727/LaSalle-College-Vancouver/Graphic-Design-(BDes)",
+    "programLink": "https://www.studyincanada.com/Programs/69727/LaSalle-College-Vancouver/Graphic-Design-(BDes)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "36 Month(s)"
@@ -25671,7 +25671,7 @@ export default [
     "schoolName": "St. Clair College",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/5375/St.-Clair-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/5375/St.-Clair-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$15,685",
     "length": "3 Year(s)"
@@ -25680,7 +25680,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/3453/Georgian-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/3453/Georgian-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$14,003",
     "length": "3 Year(s)"
@@ -25689,7 +25689,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Graphic Design for Marketing (BDes)",
-    "programLink": "/Programs/64415/Kwantlen-Polytechnic-University/Graphic-Design-for-Marketing-(BDes)",
+    "programLink": "https://www.studyincanada.com/Programs/64415/Kwantlen-Polytechnic-University/Graphic-Design-for-Marketing-(BDes)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -25698,7 +25698,7 @@ export default [
     "schoolName": "LaSalle College Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Graphic Design - Branding",
-    "programLink": "/Programs/101165/LaSalle-College-Vancouver/Graphic-Design-Branding",
+    "programLink": "https://www.studyincanada.com/Programs/101165/LaSalle-College-Vancouver/Graphic-Design-Branding",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "12 Month(s)"
@@ -25707,7 +25707,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Graphic Design",
-    "programLink": "/Programs/102045/University-of-Manitoba/Fine-Arts-Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/102045/University-of-Manitoba/Fine-Arts-Graphic-Design",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -25716,7 +25716,7 @@ export default [
     "schoolName": "Durham College",
     "location": "Canada, Ontario",
     "programName": "Graphic Design",
-    "programLink": "/Programs/5017/Durham-College/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/5017/Durham-College/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$16,746",
     "length": "3 Year(s)"
@@ -25725,7 +25725,7 @@ export default [
     "schoolName": "College of New Caledonia",
     "location": "Canada, British Columbia",
     "programName": "Web and Graphic Design",
-    "programLink": "/Programs/81467/College-of-New-Caledonia/Web-and-Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/81467/College-of-New-Caledonia/Web-and-Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -25734,7 +25734,7 @@ export default [
     "schoolName": "LaSalle College Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Graphic Design",
-    "programLink": "/Programs/16883/LaSalle-College-Vancouver/Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/16883/LaSalle-College-Vancouver/Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "14 Month(s)"
@@ -25743,7 +25743,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Advertising and Graphic Design",
-    "programLink": "/Programs/1297/Humber-College-Institute-of-Technology-&-Advanced-Learning/Advertising-and-Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/1297/Humber-College-Institute-of-Technology-&-Advanced-Learning/Advertising-and-Graphic-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$16,394",
     "length": "2 Year(s)"
@@ -25752,7 +25752,7 @@ export default [
     "schoolName": "Centre for Arts and Technology (Kelowna Campus)",
     "location": "Canada, British Columbia",
     "programName": "Graphic Design & Digital Art",
-    "programLink": "/Programs/32875/Centre-for-Arts-and-Technology-(Kelowna-Campus)/Graphic-Design-&-Digital-Art",
+    "programLink": "https://www.studyincanada.com/Programs/32875/Centre-for-Arts-and-Technology-(Kelowna-Campus)/Graphic-Design-&-Digital-Art",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -25761,7 +25761,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Graphic Design",
-    "programLink": "/Programs/102046/University-of-Manitoba/Fine-Arts-Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/102046/University-of-Manitoba/Fine-Arts-Graphic-Design",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "4 Year(s)"
@@ -25815,7 +25815,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Sculpture",
-    "programLink": "/Programs/102066/University-of-Manitoba/Fine-Arts-Sculpture",
+    "programLink": "https://www.studyincanada.com/Programs/102066/University-of-Manitoba/Fine-Arts-Sculpture",
     "entranceGrade": "70 - 70",
     "tutionValue": "$22,500",
     "length": "4 Year(s)"
@@ -25824,7 +25824,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Painting",
-    "programLink": "/Programs/102052/University-of-Manitoba/Fine-Arts-Painting",
+    "programLink": "https://www.studyincanada.com/Programs/102052/University-of-Manitoba/Fine-Arts-Painting",
     "entranceGrade": "70 - 70",
     "tutionValue": "$22,500",
     "length": "4 Year(s)"
@@ -25833,7 +25833,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Graphic Design",
-    "programLink": "/Programs/102046/University-of-Manitoba/Fine-Arts-Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/102046/University-of-Manitoba/Fine-Arts-Graphic-Design",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "4 Year(s)"
@@ -25842,7 +25842,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Painting",
-    "programLink": "/Programs/102059/University-of-Manitoba/Fine-Arts-Painting",
+    "programLink": "https://www.studyincanada.com/Programs/102059/University-of-Manitoba/Fine-Arts-Painting",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "4 Year(s)"
@@ -25851,7 +25851,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Photography",
-    "programLink": "/Programs/102048/University-of-Manitoba/Fine-Arts-Photography",
+    "programLink": "https://www.studyincanada.com/Programs/102048/University-of-Manitoba/Fine-Arts-Photography",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "4 Year(s)"
@@ -25860,7 +25860,7 @@ export default [
     "schoolName": "Emily Carr University - Graduate Programs",
     "location": "Canada, British Columbia",
     "programName": "Fine Arts (Low residency)",
-    "programLink": "/Programs/115593/Emily-Carr-University-Graduate-Programs/Fine-Arts-(Low-residency)",
+    "programLink": "https://www.studyincanada.com/Programs/115593/Emily-Carr-University-Graduate-Programs/Fine-Arts-(Low-residency)",
     "entranceGrade": "70",
     "tutionValue": "$23,846",
     "length": "2 Year(s)"
@@ -25869,7 +25869,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Fine Arts and Secondary Education",
-    "programLink": "/Programs/55688/Bishop-s-University/Fine-Arts-and-Secondary-Education",
+    "programLink": "https://www.studyincanada.com/Programs/55688/Bishop-s-University/Fine-Arts-and-Secondary-Education",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -25878,7 +25878,7 @@ export default [
     "schoolName": "Ottawa School of Art",
     "location": "Canada, Ontario",
     "programName": "Fine Arts",
-    "programLink": "/Programs/40551/Ottawa-School-of-Art/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/40551/Ottawa-School-of-Art/Fine-Arts",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -25887,7 +25887,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts",
-    "programLink": "/Programs/90557/University-of-Manitoba/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/90557/University-of-Manitoba/Fine-Arts",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "4 Year(s)"
@@ -25896,7 +25896,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Fine Arts",
-    "programLink": "/Programs/47013/St.-Lawrence-College/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/47013/St.-Lawrence-College/Fine-Arts",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -25914,7 +25914,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Drawing",
-    "programLink": "/Programs/102058/University-of-Manitoba/Fine-Arts-Drawing",
+    "programLink": "https://www.studyincanada.com/Programs/102058/University-of-Manitoba/Fine-Arts-Drawing",
     "entranceGrade": "70 - 70",
     "tutionValue": "$22,500",
     "length": "4 Year(s)"
@@ -25923,7 +25923,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Art History and Theory - Fine Arts",
-    "programLink": "/Programs/72932/Bishop-s-University/Art-History-and-Theory-Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/72932/Bishop-s-University/Art-History-and-Theory-Fine-Arts",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -25932,7 +25932,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Drawing",
-    "programLink": "/Programs/102043/University-of-Manitoba/Fine-Arts-Drawing",
+    "programLink": "https://www.studyincanada.com/Programs/102043/University-of-Manitoba/Fine-Arts-Drawing",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "4 Year(s)"
@@ -25941,7 +25941,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Print Media",
-    "programLink": "/Programs/102065/University-of-Manitoba/Fine-Arts-Print-Media",
+    "programLink": "https://www.studyincanada.com/Programs/102065/University-of-Manitoba/Fine-Arts-Print-Media",
     "entranceGrade": "70 - 70",
     "tutionValue": "$22,500",
     "length": "4 Year(s)"
@@ -25950,7 +25950,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Fine Arts",
-    "programLink": "/Programs/3445/Georgian-College/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/3445/Georgian-College/Fine-Arts",
     "entranceGrade": "N/S",
     "tutionValue": "$14,089",
     "length": "2 Year(s)"
@@ -25959,7 +25959,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Painting",
-    "programLink": "/Programs/102047/University-of-Manitoba/Fine-Arts-Painting",
+    "programLink": "https://www.studyincanada.com/Programs/102047/University-of-Manitoba/Fine-Arts-Painting",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -25968,7 +25968,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts | Art Studio",
-    "programLink": "/Programs/58593/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Art-Studio",
+    "programLink": "https://www.studyincanada.com/Programs/58593/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Art-Studio",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -25977,7 +25977,7 @@ export default [
     "schoolName": "Emily Carr University - Graduate Programs",
     "location": "Canada, British Columbia",
     "programName": "Fine Arts (Full residency)",
-    "programLink": "/Programs/51158/Emily-Carr-University-Graduate-Programs/Fine-Arts-(Full-residency)",
+    "programLink": "https://www.studyincanada.com/Programs/51158/Emily-Carr-University-Graduate-Programs/Fine-Arts-(Full-residency)",
     "entranceGrade": "70",
     "tutionValue": "$23,846",
     "length": "2 Year(s)"
@@ -25986,7 +25986,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Print Media",
-    "programLink": "/Programs/102050/University-of-Manitoba/Fine-Arts-Print-Media",
+    "programLink": "https://www.studyincanada.com/Programs/102050/University-of-Manitoba/Fine-Arts-Print-Media",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -25995,7 +25995,7 @@ export default [
     "schoolName": "North Island College (Comox Valley Campus)",
     "location": "Canada, British Columbia",
     "programName": "Fine Arts",
-    "programLink": "/Programs/69005/North-Island-College-(Comox-Valley-Campus)/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/69005/North-Island-College-(Comox-Valley-Campus)/Fine-Arts",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -26004,7 +26004,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Video",
-    "programLink": "/Programs/102064/University-of-Manitoba/Fine-Arts-Video",
+    "programLink": "https://www.studyincanada.com/Programs/102064/University-of-Manitoba/Fine-Arts-Video",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -26013,7 +26013,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Graphic Design",
-    "programLink": "/Programs/102051/University-of-Manitoba/Fine-Arts-Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/102051/University-of-Manitoba/Fine-Arts-Graphic-Design",
     "entranceGrade": "70 - 70",
     "tutionValue": "$22,500",
     "length": "4 Year(s)"
@@ -26022,7 +26022,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Performing and Fine Arts",
-    "programLink": "/Programs/91900/Douglas-College/Performing-and-Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/91900/Douglas-College/Performing-and-Fine-Arts",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -26031,7 +26031,7 @@ export default [
     "schoolName": "St. Lawrence College",
     "location": "Canada, Ontario",
     "programName": "Fine Arts - Visual & Creative Arts",
-    "programLink": "/Programs/59270/St.-Lawrence-College/Fine-Arts-Visual-&-Creative-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/59270/St.-Lawrence-College/Fine-Arts-Visual-&-Creative-Arts",
     "entranceGrade": "N/S",
     "tutionValue": "$17,092",
     "length": "2 Year(s)"
@@ -26040,7 +26040,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Fine Arts",
-    "programLink": "/Programs/11275/Kwantlen-Polytechnic-University/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/11275/Kwantlen-Polytechnic-University/Fine-Arts",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "2 Year(s)"
@@ -26049,7 +26049,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts | Art",
-    "programLink": "/Programs/2925/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Art",
+    "programLink": "https://www.studyincanada.com/Programs/2925/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Art",
     "entranceGrade": "N/S",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -26058,7 +26058,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts | New Media",
-    "programLink": "/Programs/33524/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-New-Media",
+    "programLink": "https://www.studyincanada.com/Programs/33524/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-New-Media",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -26067,7 +26067,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Photography",
-    "programLink": "/Programs/102053/University-of-Manitoba/Fine-Arts-Photography",
+    "programLink": "https://www.studyincanada.com/Programs/102053/University-of-Manitoba/Fine-Arts-Photography",
     "entranceGrade": "70 - 70",
     "tutionValue": "$22,500",
     "length": "4 Year(s)"
@@ -26076,7 +26076,7 @@ export default [
     "schoolName": "Tyndale University",
     "location": "Canada, Ontario",
     "programName": "Media Arts - Fine Arts",
-    "programLink": "/Programs/115976/Tyndale-University/Media-Arts-Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/115976/Tyndale-University/Media-Arts-Fine-Arts",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -26085,7 +26085,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts | Indigenous Art (Art History/Museum Studi...",
-    "programLink": "/Programs/82272/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Indigenous-Art-(Art-History/Museum-Studi...",
+    "programLink": "https://www.studyincanada.com/Programs/82272/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Indigenous-Art-(Art-History/Museum-Studi...",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -26094,7 +26094,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Visual Arts: Bachelor of Fine Arts Degree",
-    "programLink": "/Programs/63010/Thompson-Rivers-University/Visual-Arts-Bachelor-of-Fine-Arts-Degree",
+    "programLink": "https://www.studyincanada.com/Programs/63010/Thompson-Rivers-University/Visual-Arts-Bachelor-of-Fine-Arts-Degree",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "4 Year(s)"
@@ -26103,7 +26103,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Photography",
-    "programLink": "/Programs/102060/University-of-Manitoba/Fine-Arts-Photography",
+    "programLink": "https://www.studyincanada.com/Programs/102060/University-of-Manitoba/Fine-Arts-Photography",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -26112,7 +26112,7 @@ export default [
     "schoolName": "Tyndale University",
     "location": "Canada, Ontario",
     "programName": "Media Arts - Fine Arts",
-    "programLink": "/Programs/115975/Tyndale-University/Media-Arts-Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/115975/Tyndale-University/Media-Arts-Fine-Arts",
     "entranceGrade": "65 - 100",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -26121,7 +26121,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts | Multidisciplinary",
-    "programLink": "/Programs/109261/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Multidisciplinary",
+    "programLink": "https://www.studyincanada.com/Programs/109261/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Multidisciplinary",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -26130,7 +26130,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Fine Arts",
-    "programLink": "/Programs/4284/Bishop-s-University/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/4284/Bishop-s-University/Fine-Arts",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -26139,7 +26139,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Fine Arts",
-    "programLink": "/Programs/4282/Bishop-s-University/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/4282/Bishop-s-University/Fine-Arts",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -26148,7 +26148,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Ceramics",
-    "programLink": "/Programs/102057/University-of-Manitoba/Fine-Arts-Ceramics",
+    "programLink": "https://www.studyincanada.com/Programs/102057/University-of-Manitoba/Fine-Arts-Ceramics",
     "entranceGrade": "70 - 70",
     "tutionValue": "$22,500",
     "length": "4 Year(s)"
@@ -26157,7 +26157,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Video",
-    "programLink": "/Programs/102063/University-of-Manitoba/Fine-Arts-Video",
+    "programLink": "https://www.studyincanada.com/Programs/102063/University-of-Manitoba/Fine-Arts-Video",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "4 Year(s)"
@@ -26166,7 +26166,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Fine Arts (BFA)",
-    "programLink": "/Programs/64408/Kwantlen-Polytechnic-University/Fine-Arts-(BFA)",
+    "programLink": "https://www.studyincanada.com/Programs/64408/Kwantlen-Polytechnic-University/Fine-Arts-(BFA)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -26175,7 +26175,7 @@ export default [
     "schoolName": "University of Calgary - Department of Art and Art History",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts (BFA) in Visual Studies",
-    "programLink": "/Programs/108191/University-of-Calgary-Department-of-Art-and-Art-History/Bachelor-of-Fine-Arts-(BFA)-in-Visual-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/108191/University-of-Calgary-Department-of-Art-and-Art-History/Bachelor-of-Fine-Arts-(BFA)-in-Visual-Studies",
     "entranceGrade": "75",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -26184,7 +26184,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Certificate in Indian Fine Arts",
-    "programLink": "/Programs/90962/University-of-Regina/Certificate-in-Indian-Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/90962/University-of-Regina/Certificate-in-Indian-Fine-Arts",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -26193,7 +26193,7 @@ export default [
     "schoolName": "University of Calgary - Department of Art and Art History",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts in Visual Studies (BFA)",
-    "programLink": "/Programs/108281/University-of-Calgary-Department-of-Art-and-Art-History/Bachelor-of-Fine-Arts-in-Visual-Studies-(BFA)",
+    "programLink": "https://www.studyincanada.com/Programs/108281/University-of-Calgary-Department-of-Art-and-Art-History/Bachelor-of-Fine-Arts-in-Visual-Studies-(BFA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "5 Year(s)"
@@ -26202,7 +26202,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Fine Arts - Advanced",
-    "programLink": "/Programs/56380/Georgian-College/Fine-Arts-Advanced",
+    "programLink": "https://www.studyincanada.com/Programs/56380/Georgian-College/Fine-Arts-Advanced",
     "entranceGrade": "N/S",
     "tutionValue": "$14,089",
     "length": "3 Year(s)"
@@ -26211,7 +26211,7 @@ export default [
     "schoolName": "St. Thomas University",
     "location": "Canada, New Brunswick",
     "programName": "Fine Arts",
-    "programLink": "/Programs/84945/St.-Thomas-University/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/84945/St.-Thomas-University/Fine-Arts",
     "entranceGrade": "70",
     "tutionValue": "$17,208",
     "length": "3 Year(s)"
@@ -26220,7 +26220,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Ceramics",
-    "programLink": "/Programs/102068/University-of-Manitoba/Fine-Arts-Ceramics",
+    "programLink": "https://www.studyincanada.com/Programs/102068/University-of-Manitoba/Fine-Arts-Ceramics",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -26229,7 +26229,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts | Drama Technical/Design",
-    "programLink": "/Programs/109232/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Drama-Technical/Design",
+    "programLink": "https://www.studyincanada.com/Programs/109232/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Drama-Technical/Design",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -26238,7 +26238,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Graphic Design",
-    "programLink": "/Programs/102045/University-of-Manitoba/Fine-Arts-Graphic-Design",
+    "programLink": "https://www.studyincanada.com/Programs/102045/University-of-Manitoba/Fine-Arts-Graphic-Design",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -26247,7 +26247,7 @@ export default [
     "schoolName": "University of Calgary - School of Creative and Performing Arts - Graduate Programs",
     "location": "Canada, Alberta",
     "programName": "Master of Fine Arts in Drama - MFA",
-    "programLink": "/Programs/108874/University-of-Calgary-School-of-Creative-and-Performing-Arts-Graduate-Programs/Master-of-Fine-Arts-in-Drama-MFA",
+    "programLink": "https://www.studyincanada.com/Programs/108874/University-of-Calgary-School-of-Creative-and-Performing-Arts-Graduate-Programs/Master-of-Fine-Arts-in-Drama-MFA",
     "entranceGrade": "N/S",
     "tutionValue": "$5,990",
     "length": "2 Year(s)"
@@ -26256,7 +26256,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Fine Arts - Studio Art",
-    "programLink": "/Programs/1042/Graduate-Studies-at-University-of-Waterloo/Fine-Arts-Studio-Art",
+    "programLink": "https://www.studyincanada.com/Programs/1042/Graduate-Studies-at-University-of-Waterloo/Fine-Arts-Studio-Art",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -26265,7 +26265,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts | Indigenous Art (Art Studio)",
-    "programLink": "/Programs/109297/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Indigenous-Art-(Art-Studio)",
+    "programLink": "https://www.studyincanada.com/Programs/109297/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Indigenous-Art-(Art-Studio)",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -26274,7 +26274,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Drawing",
-    "programLink": "/Programs/102044/University-of-Manitoba/Fine-Arts-Drawing",
+    "programLink": "https://www.studyincanada.com/Programs/102044/University-of-Manitoba/Fine-Arts-Drawing",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -26283,7 +26283,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Ceramics",
-    "programLink": "/Programs/102056/University-of-Manitoba/Fine-Arts-Ceramics",
+    "programLink": "https://www.studyincanada.com/Programs/102056/University-of-Manitoba/Fine-Arts-Ceramics",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -26292,7 +26292,7 @@ export default [
     "schoolName": "University of Calgary - Department of Art and Art History - Graduate Studies",
     "location": "Canada, Alberta",
     "programName": "Master of Fine Arts (MFA)",
-    "programLink": "/Programs/108577/University-of-Calgary-Department-of-Art-and-Art-History-Graduate-Studies/Master-of-Fine-Arts-(MFA)",
+    "programLink": "https://www.studyincanada.com/Programs/108577/University-of-Calgary-Department-of-Art-and-Art-History-Graduate-Studies/Master-of-Fine-Arts-(MFA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -26301,7 +26301,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Print Media",
-    "programLink": "/Programs/102049/University-of-Manitoba/Fine-Arts-Print-Media",
+    "programLink": "https://www.studyincanada.com/Programs/102049/University-of-Manitoba/Fine-Arts-Print-Media",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "4 Year(s)"
@@ -26310,7 +26310,7 @@ export default [
     "schoolName": "Mount Allison University",
     "location": "Canada, New Brunswick",
     "programName": "Fine Arts",
-    "programLink": "/Programs/9627/Mount-Allison-University/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/9627/Mount-Allison-University/Fine-Arts",
     "entranceGrade": "65",
     "tutionValue": "$20,885",
     "length": "4 Year(s)"
@@ -26319,7 +26319,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Sculpture",
-    "programLink": "/Programs/102061/University-of-Manitoba/Fine-Arts-Sculpture",
+    "programLink": "https://www.studyincanada.com/Programs/102061/University-of-Manitoba/Fine-Arts-Sculpture",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -26328,7 +26328,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Sculpture",
-    "programLink": "/Programs/102062/University-of-Manitoba/Fine-Arts-Sculpture",
+    "programLink": "https://www.studyincanada.com/Programs/102062/University-of-Manitoba/Fine-Arts-Sculpture",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "4 Year(s)"
@@ -26337,7 +26337,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts - Video",
-    "programLink": "/Programs/102067/University-of-Manitoba/Fine-Arts-Video",
+    "programLink": "https://www.studyincanada.com/Programs/102067/University-of-Manitoba/Fine-Arts-Video",
     "entranceGrade": "70 - 70",
     "tutionValue": "$22,500",
     "length": "4 Year(s)"
@@ -26346,7 +26346,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts",
-    "programLink": "/Programs/59987/University-of-Manitoba/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/59987/University-of-Manitoba/Fine-Arts",
     "entranceGrade": "70 - 70",
     "tutionValue": "$22,500",
     "length": "4 Year(s)"
@@ -26355,7 +26355,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Indigenous Fine Arts",
-    "programLink": "/Programs/6985/University-of-Regina/Indigenous-Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/6985/University-of-Regina/Indigenous-Fine-Arts",
     "entranceGrade": "65",
     "tutionValue": "$11,397",
     "length": "4 Year(s)"
@@ -26364,7 +26364,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts | Drama Performance",
-    "programLink": "/Programs/109231/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Drama-Performance",
+    "programLink": "https://www.studyincanada.com/Programs/109231/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Drama-Performance",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -26373,7 +26373,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Fine Arts",
-    "programLink": "/Programs/37326/University-of-Manitoba/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/37326/University-of-Manitoba/Fine-Arts",
     "entranceGrade": "70 - 70",
     "tutionValue": "$24,400",
     "length": "3 Year(s)"
@@ -26382,7 +26382,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Bachelor of Fine Arts | Art History/Museum Studies",
-    "programLink": "/Programs/58608/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Art-History/Museum-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/58608/University-of-Lethbridge/Bachelor-of-Fine-Arts-|-Art-History/Museum-Studies",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "4 Year(s)"
@@ -26391,7 +26391,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Fine Arts",
-    "programLink": "/Programs/8621/Langara-College/Fine-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/8621/Langara-College/Fine-Arts",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -26598,7 +26598,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Landscape Architecture (MLArch)",
-    "programLink": "/Programs/13939/University-of-Manitoba-Faculty-of-Graduate-Studies/Landscape-Architecture-(MLArch)",
+    "programLink": "https://www.studyincanada.com/Programs/13939/University-of-Manitoba-Faculty-of-Graduate-Studies/Landscape-Architecture-(MLArch)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -26607,7 +26607,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver - Faculty of Graduate Studies",
     "location": "Canada, British Columbia",
     "programName": "Naval Architecture & Marine Engineering (MEL) - Master of Engine...",
-    "programLink": "/Programs/91639/The-University-of-British-Columbia-Vancouver-Faculty-of-Graduate-Studies/Naval-Architecture-&-Marine-Engineering-(MEL)-Master-of-Engine...",
+    "programLink": "https://www.studyincanada.com/Programs/91639/The-University-of-British-Columbia-Vancouver-Faculty-of-Graduate-Studies/Naval-Architecture-&-Marine-Engineering-(MEL)-Master-of-Engine...",
     "entranceGrade": "76",
     "tutionValue": "$58,803",
     "length": "12 Month(s)"
@@ -26616,7 +26616,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Architecture",
-    "programLink": "/Programs/88566/The-University-of-British-Columbia-Vancouver/Architecture",
+    "programLink": "https://www.studyincanada.com/Programs/88566/The-University-of-British-Columbia-Vancouver/Architecture",
     "entranceGrade": "75",
     "tutionValue": "$40,248",
     "length": "3 Year(s)"
@@ -26625,7 +26625,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Landscape Technician",
-    "programLink": "/Programs/1562/Humber-College-Institute-of-Technology-&-Advanced-Learning/Landscape-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/1562/Humber-College-Institute-of-Technology-&-Advanced-Learning/Landscape-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$16,394",
     "length": "2 Year(s)"
@@ -26634,7 +26634,7 @@ export default [
     "schoolName": "Pacific Design Academy",
     "location": "Canada, British Columbia",
     "programName": "Interior Architectural Design",
-    "programLink": "/Programs/47794/Pacific-Design-Academy/Interior-Architectural-Design",
+    "programLink": "https://www.studyincanada.com/Programs/47794/Pacific-Design-Academy/Interior-Architectural-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -26643,7 +26643,7 @@ export default [
     "schoolName": "Loyalist College",
     "location": "Canada, Ontario",
     "programName": "Architectural Technology",
-    "programLink": "/Programs/7849/Loyalist-College/Architectural-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/7849/Loyalist-College/Architectural-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "$16,468",
     "length": "3 Year(s)"
@@ -26652,7 +26652,7 @@ export default [
     "schoolName": "Centennial College - Graduate Programs",
     "location": "Canada, Ontario",
     "programName": "Architectural Technology (Fast Track)",
-    "programLink": "/Programs/109639/Centennial-College-Graduate-Programs/Architectural-Technology-(Fast-Track)",
+    "programLink": "https://www.studyincanada.com/Programs/109639/Centennial-College-Graduate-Programs/Architectural-Technology-(Fast-Track)",
     "entranceGrade": "N/S",
     "tutionValue": "$17,475",
     "length": "2 Year(s)"
@@ -26670,7 +26670,7 @@ export default [
     "schoolName": "SAIT",
     "location": "Canada, Alberta",
     "programName": "Architectural Technologies",
-    "programLink": "/Programs/30687/SAIT/Architectural-Technologies",
+    "programLink": "https://www.studyincanada.com/Programs/30687/SAIT/Architectural-Technologies",
     "entranceGrade": "50 - 50",
     "tutionValue": "$19,677",
     "length": "2 Year(s)"
@@ -26679,7 +26679,7 @@ export default [
     "schoolName": "Carleton University - Faculty of Graduate Studies and Research",
     "location": "Canada, Ontario",
     "programName": "Architecture (Two-Year) (MArch)",
-    "programLink": "/Programs/19071/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Architecture-(Two-Year)-(MArch)",
+    "programLink": "https://www.studyincanada.com/Programs/19071/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Architecture-(Two-Year)-(MArch)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -26688,7 +26688,7 @@ export default [
     "schoolName": "Laurentian University/Universite Laurentienne",
     "location": "Canada, Ontario",
     "programName": "Architectural Studies (BAS)",
-    "programLink": "/Programs/78346/Laurentian-University/Universite-Laurentienne/Architectural-Studies-(BAS)",
+    "programLink": "https://www.studyincanada.com/Programs/78346/Laurentian-University/Universite-Laurentienne/Architectural-Studies-(BAS)",
     "entranceGrade": "75",
     "tutionValue": "$32,668",
     "length": "4 Year(s)"
@@ -26697,7 +26697,7 @@ export default [
     "schoolName": "Mohawk College",
     "location": "Canada, Ontario",
     "programName": "Architectural Technician",
-    "programLink": "/Programs/12021/Mohawk-College/Architectural-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/12021/Mohawk-College/Architectural-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$17,335",
     "length": "2 Year(s)"
@@ -26706,7 +26706,7 @@ export default [
     "schoolName": "Athabasca University",
     "location": "Canada, Alberta",
     "programName": "Architecture",
-    "programLink": "/Programs/95426/Athabasca-University/Architecture",
+    "programLink": "https://www.studyincanada.com/Programs/95426/Athabasca-University/Architecture",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -26715,7 +26715,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "City Planning",
-    "programLink": "/Programs/13383/University-of-Manitoba-Faculty-of-Graduate-Studies/City-Planning",
+    "programLink": "https://www.studyincanada.com/Programs/13383/University-of-Manitoba-Faculty-of-Graduate-Studies/City-Planning",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -26724,7 +26724,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Architecture",
-    "programLink": "/Programs/7398/McGill-University/Architecture",
+    "programLink": "https://www.studyincanada.com/Programs/7398/McGill-University/Architecture",
     "entranceGrade": "90",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -26733,7 +26733,7 @@ export default [
     "schoolName": "Pacific Design Academy",
     "location": "Canada, British Columbia",
     "programName": "Building Technology",
-    "programLink": "/Programs/13205/Pacific-Design-Academy/Building-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/13205/Pacific-Design-Academy/Building-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -26742,7 +26742,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Architecture",
-    "programLink": "/Programs/13363/University-of-Manitoba-Faculty-of-Graduate-Studies/Architecture",
+    "programLink": "https://www.studyincanada.com/Programs/13363/University-of-Manitoba-Faculty-of-Graduate-Studies/Architecture",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -26751,7 +26751,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Architecture, Landscape Architecture, and Urbanism",
-    "programLink": "/Programs/104326/The-University-of-British-Columbia-Vancouver/Architecture,-Landscape-Architecture,-and-Urbanism",
+    "programLink": "https://www.studyincanada.com/Programs/104326/The-University-of-British-Columbia-Vancouver/Architecture,-Landscape-Architecture,-and-Urbanism",
     "entranceGrade": "N/S",
     "tutionValue": "$42,695",
     "length": "4 Year(s)"
@@ -26760,7 +26760,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver - Faculty of Graduate Studies",
     "location": "Canada, British Columbia",
     "programName": "Naval Architecture & Marine Engineering (MEng) - Master of Engin...",
-    "programLink": "/Programs/91630/The-University-of-British-Columbia-Vancouver-Faculty-of-Graduate-Studies/Naval-Architecture-&-Marine-Engineering-(MEng)-Master-of-Engin...",
+    "programLink": "https://www.studyincanada.com/Programs/91630/The-University-of-British-Columbia-Vancouver-Faculty-of-Graduate-Studies/Naval-Architecture-&-Marine-Engineering-(MEng)-Master-of-Engin...",
     "entranceGrade": "76",
     "tutionValue": "$52,156",
     "length": "1 Year(s)"
@@ -26769,7 +26769,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Architectural Technology",
-    "programLink": "/Programs/22138/Humber-College-Institute-of-Technology-&-Advanced-Learning/Architectural-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/22138/Humber-College-Institute-of-Technology-&-Advanced-Learning/Architectural-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "$19,615",
     "length": "3 Year(s)"
@@ -26778,7 +26778,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Environmental Design",
-    "programLink": "/Programs/13362/University-of-Manitoba/Environmental-Design",
+    "programLink": "https://www.studyincanada.com/Programs/13362/University-of-Manitoba/Environmental-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$20,400",
     "length": "4 Year(s)"
@@ -26787,7 +26787,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Art History and Visual Culture (HBA)",
-    "programLink": "/Programs/44495/University-of-Toronto-Scarborough/Art-History-and-Visual-Culture-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/44495/University-of-Toronto-Scarborough/Art-History-and-Visual-Culture-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -26796,7 +26796,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Architectural Technician",
-    "programLink": "/Programs/56389/Georgian-College/Architectural-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/56389/Georgian-College/Architectural-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$14,319",
     "length": "2 Year(s)"
@@ -26805,7 +26805,7 @@ export default [
     "schoolName": "Centennial College - Graduate Programs",
     "location": "Canada, Ontario",
     "programName": "Architectural Technology (Fast Track/Co-Op)",
-    "programLink": "/Programs/109638/Centennial-College-Graduate-Programs/Architectural-Technology-(Fast-Track/Co-Op)",
+    "programLink": "https://www.studyincanada.com/Programs/109638/Centennial-College-Graduate-Programs/Architectural-Technology-(Fast-Track/Co-Op)",
     "entranceGrade": "N/S",
     "tutionValue": "$17,475",
     "length": "2 Year(s)"
@@ -26814,7 +26814,7 @@ export default [
     "schoolName": "Loyalist College",
     "location": "Canada, Ontario",
     "programName": "Architectural Technician",
-    "programLink": "/Programs/26587/Loyalist-College/Architectural-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/26587/Loyalist-College/Architectural-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$16,468",
     "length": "2 Year(s)"
@@ -26823,7 +26823,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "City Studies (HBA)",
-    "programLink": "/Programs/101909/University-of-Toronto-Scarborough/City-Studies-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/101909/University-of-Toronto-Scarborough/City-Studies-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -26841,7 +26841,7 @@ export default [
     "schoolName": "NAIT",
     "location": "Canada, Alberta",
     "programName": "Architectural Technology",
-    "programLink": "/Programs/7700/NAIT/Architectural-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/7700/NAIT/Architectural-Technology",
     "entranceGrade": "65",
     "tutionValue": "$19,188",
     "length": "2 Year(s)"
@@ -26850,7 +26850,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Architectural Technology",
-    "programLink": "/Programs/56387/Georgian-College/Architectural-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/56387/Georgian-College/Architectural-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "$14,319",
     "length": "3 Year(s)"
@@ -26859,7 +26859,7 @@ export default [
     "schoolName": "Centennial College - Graduate Programs",
     "location": "Canada, Ontario",
     "programName": "Architectural Technology (Fast Track)",
-    "programLink": "/Programs/31554/Centennial-College-Graduate-Programs/Architectural-Technology-(Fast-Track)",
+    "programLink": "https://www.studyincanada.com/Programs/31554/Centennial-College-Graduate-Programs/Architectural-Technology-(Fast-Track)",
     "entranceGrade": "N/S",
     "tutionValue": "$18,026",
     "length": "2 Year(s)"
@@ -26868,7 +26868,7 @@ export default [
     "schoolName": "Centennial College - Graduate Programs",
     "location": "Canada, Ontario",
     "programName": "Architectural Technology (Fast Track/Co-Op)",
-    "programLink": "/Programs/31560/Centennial-College-Graduate-Programs/Architectural-Technology-(Fast-Track/Co-Op)",
+    "programLink": "https://www.studyincanada.com/Programs/31560/Centennial-College-Graduate-Programs/Architectural-Technology-(Fast-Track/Co-Op)",
     "entranceGrade": "N/S",
     "tutionValue": "$18,026",
     "length": "2 Year(s)"
@@ -26877,7 +26877,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "City Studies (HBA)",
-    "programLink": "/Programs/44564/University-of-Toronto-Scarborough/City-Studies-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/44564/University-of-Toronto-Scarborough/City-Studies-(HBA)",
     "entranceGrade": "80 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -26886,7 +26886,7 @@ export default [
     "schoolName": "Graduate Studies at University of Waterloo",
     "location": "Canada, Ontario",
     "programName": "Architecture",
-    "programLink": "/Programs/12447/Graduate-Studies-at-University-of-Waterloo/Architecture",
+    "programLink": "https://www.studyincanada.com/Programs/12447/Graduate-Studies-at-University-of-Waterloo/Architecture",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -26895,7 +26895,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Environmental Design Studies (BEDS)",
-    "programLink": "/Programs/56678/Dalhousie-University/Environmental-Design-Studies-(BEDS)",
+    "programLink": "https://www.studyincanada.com/Programs/56678/Dalhousie-University/Environmental-Design-Studies-(BEDS)",
     "entranceGrade": "N/S",
     "tutionValue": "$31,295",
     "length": "2 Year(s)"
@@ -26904,7 +26904,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Landscape Architecture (BTech)",
-    "programLink": "/Programs/80834/Dalhousie-University/Landscape-Architecture-(BTech)",
+    "programLink": "https://www.studyincanada.com/Programs/80834/Dalhousie-University/Landscape-Architecture-(BTech)",
     "entranceGrade": "70",
     "tutionValue": "$31,295",
     "length": "4 Year(s)"
@@ -26913,7 +26913,7 @@ export default [
     "schoolName": "Lethbridge College",
     "location": "Canada, Alberta",
     "programName": "Engineering Design Technology",
-    "programLink": "/Programs/2953/Lethbridge-College/Engineering-Design-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/2953/Lethbridge-College/Engineering-Design-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "$15,565",
     "length": "2 Year(s)"
@@ -26922,7 +26922,7 @@ export default [
     "schoolName": "Athabasca University",
     "location": "Canada, Alberta",
     "programName": "Architecture",
-    "programLink": "/Programs/95424/Athabasca-University/Architecture",
+    "programLink": "https://www.studyincanada.com/Programs/95424/Athabasca-University/Architecture",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -26931,7 +26931,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Community Design (BCD)",
-    "programLink": "/Programs/34087/Dalhousie-University/Community-Design-(BCD)",
+    "programLink": "https://www.studyincanada.com/Programs/34087/Dalhousie-University/Community-Design-(BCD)",
     "entranceGrade": "75",
     "tutionValue": "$28,933",
     "length": "3 Year(s)"
@@ -26940,7 +26940,7 @@ export default [
     "schoolName": "Mohawk College",
     "location": "Canada, Ontario",
     "programName": "Architectural Technology",
-    "programLink": "/Programs/90564/Mohawk-College/Architectural-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/90564/Mohawk-College/Architectural-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "$17,835",
     "length": "3 Year(s)"
@@ -26949,7 +26949,7 @@ export default [
     "schoolName": "University of Toronto - St. George",
     "location": "Canada, Ontario",
     "programName": "Architectural Studies (HBA)",
-    "programLink": "/Programs/8199/University-of-Toronto-St.-George/Architectural-Studies-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/8199/University-of-Toronto-St.-George/Architectural-Studies-(HBA)",
     "entranceGrade": "85 - 100",
     "tutionValue": "$59,300",
     "length": "4 Year(s)"
@@ -27003,7 +27003,7 @@ export default [
     "schoolName": "ITD Canada",
     "location": "Canada, British Columbia",
     "programName": "Interior Design Diploma with Co-op",
-    "programLink": "/Programs/75999/ITD-Canada/Interior-Design-Diploma-with-Co-op",
+    "programLink": "https://www.studyincanada.com/Programs/75999/ITD-Canada/Interior-Design-Diploma-with-Co-op",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -27012,7 +27012,7 @@ export default [
     "schoolName": "Fanshawe College",
     "location": "Canada, Ontario",
     "programName": "Interior Design",
-    "programLink": "/Programs/3759/Fanshawe-College/Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/3759/Fanshawe-College/Interior-Design",
     "entranceGrade": "65",
     "tutionValue": "$17,303",
     "length": "4 Year(s)"
@@ -27021,7 +27021,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Interior Design (Part-Time)",
-    "programLink": "/Programs/104762/British-Columbia-Institute-of-Technology/Interior-Design-(Part-Time)",
+    "programLink": "https://www.studyincanada.com/Programs/104762/British-Columbia-Institute-of-Technology/Interior-Design-(Part-Time)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "9 Month(s)"
@@ -27030,7 +27030,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Interior Design",
-    "programLink": "/Programs/51333/Vancouver-Island-University/Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/51333/Vancouver-Island-University/Interior-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$26,346",
     "length": "4 Year(s)"
@@ -27039,7 +27039,7 @@ export default [
     "schoolName": "Lethbridge College",
     "location": "Canada, Alberta",
     "programName": "Interior Design Technology",
-    "programLink": "/Programs/13069/Lethbridge-College/Interior-Design-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/13069/Lethbridge-College/Interior-Design-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "$12,445",
     "length": "2 Year(s)"
@@ -27048,7 +27048,7 @@ export default [
     "schoolName": "NAIT",
     "location": "Canada, Alberta",
     "programName": "Interior Design Technology",
-    "programLink": "/Programs/7708/NAIT/Interior-Design-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/7708/NAIT/Interior-Design-Technology",
     "entranceGrade": "60",
     "tutionValue": "$19,008",
     "length": "2 Year(s)"
@@ -27057,7 +27057,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Interior Design",
-    "programLink": "/Programs/15269/British-Columbia-Institute-of-Technology/Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/15269/British-Columbia-Institute-of-Technology/Interior-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "9 Month(s)"
@@ -27066,7 +27066,7 @@ export default [
     "schoolName": "Herzing College - Montreal",
     "location": "Canada, Québec",
     "programName": "Interior Design",
-    "programLink": "/Programs/17954/Herzing-College-Montreal/Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/17954/Herzing-College-Montreal/Interior-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1425 Hour(s)"
@@ -27075,7 +27075,7 @@ export default [
     "schoolName": "Sheridan College",
     "location": "Canada, Ontario",
     "programName": "Interior Design",
-    "programLink": "/Programs/22862/Sheridan-College/Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/22862/Sheridan-College/Interior-Design",
     "entranceGrade": "65",
     "tutionValue": "$23,526",
     "length": "4 Year(s)"
@@ -27084,7 +27084,7 @@ export default [
     "schoolName": "LaSalle College Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Interior Design",
-    "programLink": "/Programs/13213/LaSalle-College-Vancouver/Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/13213/LaSalle-College-Vancouver/Interior-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -27093,7 +27093,7 @@ export default [
     "schoolName": "Pacific Design Academy",
     "location": "Canada, British Columbia",
     "programName": "Interior Design",
-    "programLink": "/Programs/13202/Pacific-Design-Academy/Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/13202/Pacific-Design-Academy/Interior-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27102,7 +27102,7 @@ export default [
     "schoolName": "Georgian College",
     "location": "Canada, Ontario",
     "programName": "Honours Bachelor of Interior Design",
-    "programLink": "/Programs/90861/Georgian-College/Honours-Bachelor-of-Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/90861/Georgian-College/Honours-Bachelor-of-Interior-Design",
     "entranceGrade": "65 - 100",
     "tutionValue": "$16,853",
     "length": "4 Year(s)"
@@ -27111,7 +27111,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Interior Design (IDSN)",
-    "programLink": "/Programs/45542/Kwantlen-Polytechnic-University/Interior-Design-(IDSN)",
+    "programLink": "https://www.studyincanada.com/Programs/45542/Kwantlen-Polytechnic-University/Interior-Design-(IDSN)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -27120,7 +27120,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Interior Design Fundamentals",
-    "programLink": "/Programs/104763/British-Columbia-Institute-of-Technology/Interior-Design-Fundamentals",
+    "programLink": "https://www.studyincanada.com/Programs/104763/British-Columbia-Institute-of-Technology/Interior-Design-Fundamentals",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "9 Month(s)"
@@ -27129,7 +27129,7 @@ export default [
     "schoolName": "LaSalle College Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Interior Design",
-    "programLink": "/Programs/101162/LaSalle-College-Vancouver/Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/101162/LaSalle-College-Vancouver/Interior-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "16 Month(s)"
@@ -27138,7 +27138,7 @@ export default [
     "schoolName": "Centre for Arts and Technology (Kelowna Campus)",
     "location": "Canada, British Columbia",
     "programName": "Interior Design",
-    "programLink": "/Programs/46914/Centre-for-Arts-and-Technology-(Kelowna-Campus)/Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/46914/Centre-for-Arts-and-Technology-(Kelowna-Campus)/Interior-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27147,7 +27147,7 @@ export default [
     "schoolName": "Lakeland College",
     "location": "Canada, Alberta",
     "programName": "Interior Design Technology",
-    "programLink": "/Programs/17535/Lakeland-College/Interior-Design-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/17535/Lakeland-College/Interior-Design-Technology",
     "entranceGrade": "N/S",
     "tutionValue": "$17,655",
     "length": "2 Year(s)"
@@ -27156,7 +27156,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Interior Design (Pre-Master's)",
-    "programLink": "/Programs/111612/University-of-Manitoba-Faculty-of-Graduate-Studies/Interior-Design-(Pre-Master-s)",
+    "programLink": "https://www.studyincanada.com/Programs/111612/University-of-Manitoba-Faculty-of-Graduate-Studies/Interior-Design-(Pre-Master-s)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -27165,7 +27165,7 @@ export default [
     "schoolName": "University of Manitoba - Faculty of Graduate Studies",
     "location": "Canada, Manitoba",
     "programName": "Interior Design (MID)",
-    "programLink": "/Programs/13937/University-of-Manitoba-Faculty-of-Graduate-Studies/Interior-Design-(MID)",
+    "programLink": "https://www.studyincanada.com/Programs/13937/University-of-Manitoba-Faculty-of-Graduate-Studies/Interior-Design-(MID)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27174,7 +27174,7 @@ export default [
     "schoolName": "St. Clair College",
     "location": "Canada, Ontario",
     "programName": "Interior Design",
-    "programLink": "/Programs/6587/St.-Clair-College/Interior-Design",
+    "programLink": "https://www.studyincanada.com/Programs/6587/St.-Clair-College/Interior-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$15,685",
     "length": "3 Year(s)"
@@ -27183,7 +27183,7 @@ export default [
     "schoolName": "LaSalle College Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Interior Design (BAD)",
-    "programLink": "/Programs/69729/LaSalle-College-Vancouver/Interior-Design-(BAD)",
+    "programLink": "https://www.studyincanada.com/Programs/69729/LaSalle-College-Vancouver/Interior-Design-(BAD)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "36 Month(s)"
@@ -27192,7 +27192,7 @@ export default [
     "schoolName": "LaSalle College Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Fashion Design",
-    "programLink": "/Programs/17206/LaSalle-College-Vancouver/Fashion-Design",
+    "programLink": "https://www.studyincanada.com/Programs/17206/LaSalle-College-Vancouver/Fashion-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "18 Month(s)"
@@ -27201,7 +27201,7 @@ export default [
     "schoolName": "Pacific Design Academy",
     "location": "Canada, British Columbia",
     "programName": "Fashion Design",
-    "programLink": "/Programs/33230/Pacific-Design-Academy/Fashion-Design",
+    "programLink": "https://www.studyincanada.com/Programs/33230/Pacific-Design-Academy/Fashion-Design",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27210,7 +27210,7 @@ export default [
     "schoolName": "Fanshawe College",
     "location": "Canada, Ontario",
     "programName": "Fashion Design",
-    "programLink": "/Programs/3757/Fanshawe-College/Fashion-Design",
+    "programLink": "https://www.studyincanada.com/Programs/3757/Fanshawe-College/Fashion-Design",
     "entranceGrade": "N/S",
     "tutionValue": "$16,667",
     "length": "3 Year(s)"
@@ -27219,7 +27219,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Fashion Design & Technology",
-    "programLink": "/Programs/96457/Kwantlen-Polytechnic-University/Fashion-Design-&-Technology",
+    "programLink": "https://www.studyincanada.com/Programs/96457/Kwantlen-Polytechnic-University/Fashion-Design-&-Technology",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -27228,7 +27228,7 @@ export default [
     "schoolName": "St. Clair College",
     "location": "Canada, Ontario",
     "programName": "Fashion Design Technician",
-    "programLink": "/Programs/74634/St.-Clair-College/Fashion-Design-Technician",
+    "programLink": "https://www.studyincanada.com/Programs/74634/St.-Clair-College/Fashion-Design-Technician",
     "entranceGrade": "N/S",
     "tutionValue": "$16,344",
     "length": "2 Year(s)"
@@ -27345,7 +27345,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Management (MSc)",
-    "programLink": "/Programs/113191/Concordia-University-School-of-Graduate-Studies/Management-(MSc)",
+    "programLink": "https://www.studyincanada.com/Programs/113191/Concordia-University-School-of-Graduate-Studies/Management-(MSc)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27354,7 +27354,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Digital Innovation in Journalism Studies (MA)",
-    "programLink": "/Programs/90216/Concordia-University-School-of-Graduate-Studies/Digital-Innovation-in-Journalism-Studies-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/90216/Concordia-University-School-of-Graduate-Studies/Digital-Innovation-in-Journalism-Studies-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27363,7 +27363,7 @@ export default [
     "schoolName": "St. Clair College",
     "location": "Canada, Ontario",
     "programName": "Journalism",
-    "programLink": "/Programs/6584/St.-Clair-College/Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/6584/St.-Clair-College/Journalism",
     "entranceGrade": "N/S",
     "tutionValue": "$15,685",
     "length": "2 Year(s)"
@@ -27372,7 +27372,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Journalism and Creative Writing",
-    "programLink": "/Programs/109885/Trent-University/Journalism-and-Creative-Writing",
+    "programLink": "https://www.studyincanada.com/Programs/109885/Trent-University/Journalism-and-Creative-Writing",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "2 Year(s)"
@@ -27381,7 +27381,7 @@ export default [
     "schoolName": "Seneca Polytechnic",
     "location": "Canada, Ontario",
     "programName": "Journalism (Joint Seneca/York)",
-    "programLink": "/Programs/6532/Seneca-Polytechnic/Journalism-(Joint-Seneca/York)",
+    "programLink": "https://www.studyincanada.com/Programs/6532/Seneca-Polytechnic/Journalism-(Joint-Seneca/York)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27390,7 +27390,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Journalism (GrDip)",
-    "programLink": "/Programs/68883/Concordia-University-School-of-Graduate-Studies/Journalism-(GrDip)",
+    "programLink": "https://www.studyincanada.com/Programs/68883/Concordia-University-School-of-Graduate-Studies/Journalism-(GrDip)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -27399,7 +27399,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Journalism (BJourn)",
-    "programLink": "/Programs/64417/Kwantlen-Polytechnic-University/Journalism-(BJourn)",
+    "programLink": "https://www.studyincanada.com/Programs/64417/Kwantlen-Polytechnic-University/Journalism-(BJourn)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -27408,7 +27408,7 @@ export default [
     "schoolName": "University of Lethbridge",
     "location": "Canada, Alberta",
     "programName": "Pre-Professional Transfer | Journalism",
-    "programLink": "/Programs/33520/University-of-Lethbridge/Pre-Professional-Transfer-|-Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/33520/University-of-Lethbridge/Pre-Professional-Transfer-|-Journalism",
     "entranceGrade": "65 - 100",
     "tutionValue": "$20,784",
     "length": "2 Year(s)"
@@ -27417,7 +27417,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Journalism and Creative Writing (B.A.)",
-    "programLink": "/Programs/69853/Trent-University/Journalism-and-Creative-Writing-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/69853/Trent-University/Journalism-and-Creative-Writing-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -27426,7 +27426,7 @@ export default [
     "schoolName": "Loyalist College",
     "location": "Canada, Ontario",
     "programName": "Journalism",
-    "programLink": "/Programs/64259/Loyalist-College/Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/64259/Loyalist-College/Journalism",
     "entranceGrade": "70",
     "tutionValue": "$16,468",
     "length": "2 Year(s)"
@@ -27435,7 +27435,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Broadcast and Digital Journalism",
-    "programLink": "/Programs/104664/British-Columbia-Institute-of-Technology/Broadcast-and-Digital-Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/104664/British-Columbia-Institute-of-Technology/Broadcast-and-Digital-Journalism",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -27444,7 +27444,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Communication: Bachelor of Arts Degree - Major",
-    "programLink": "/Programs/107891/Thompson-Rivers-University/Communication-Bachelor-of-Arts-Degree-Major",
+    "programLink": "https://www.studyincanada.com/Programs/107891/Thompson-Rivers-University/Communication-Bachelor-of-Arts-Degree-Major",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "4 Year(s)"
@@ -27453,7 +27453,7 @@ export default [
     "schoolName": "SAIT",
     "location": "Canada, Alberta",
     "programName": "Journalism",
-    "programLink": "/Programs/13005/SAIT/Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/13005/SAIT/Journalism",
     "entranceGrade": "60 - 60",
     "tutionValue": "$22,390",
     "length": "2 Year(s)"
@@ -27462,7 +27462,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Journalism (BJourn)",
-    "programLink": "/Programs/45515/Kwantlen-Polytechnic-University/Journalism-(BJourn)",
+    "programLink": "https://www.studyincanada.com/Programs/45515/Kwantlen-Polytechnic-University/Journalism-(BJourn)",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "4 Year(s)"
@@ -27471,7 +27471,7 @@ export default [
     "schoolName": "Seneca Polytechnic",
     "location": "Canada, Ontario",
     "programName": "Journalism",
-    "programLink": "/Programs/6531/Seneca-Polytechnic/Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/6531/Seneca-Polytechnic/Journalism",
     "entranceGrade": "N/S",
     "tutionValue": "$16,667",
     "length": "2 Year(s)"
@@ -27480,7 +27480,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Développement économique communautaire (dipl. 2e c.)",
-    "programLink": "/Programs/113183/Concordia-University-School-of-Graduate-Studies/D%c3%a9veloppement-%c3%a9conomique-communautaire-(dipl.-2e-c.)",
+    "programLink": "https://www.studyincanada.com/Programs/113183/Concordia-University-School-of-Graduate-Studies/D%c3%a9veloppement-%c3%a9conomique-communautaire-(dipl.-2e-c.)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -27489,7 +27489,7 @@ export default [
     "schoolName": "Loyalist College",
     "location": "Canada, Ontario",
     "programName": "Photojournalism",
-    "programLink": "/Programs/7889/Loyalist-College/Photojournalism",
+    "programLink": "https://www.studyincanada.com/Programs/7889/Loyalist-College/Photojournalism",
     "entranceGrade": "N/S",
     "tutionValue": "$16,468",
     "length": "2 Year(s)"
@@ -27498,7 +27498,7 @@ export default [
     "schoolName": "Mohawk College",
     "location": "Canada, Ontario",
     "programName": "Journalism",
-    "programLink": "/Programs/87318/Mohawk-College/Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/87318/Mohawk-College/Journalism",
     "entranceGrade": "N/S",
     "tutionValue": "$17,335",
     "length": "3 Year(s)"
@@ -27507,7 +27507,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Media, Journalism & Digital Cultures (HBA)",
-    "programLink": "/Programs/96713/University-of-Toronto-Scarborough/Media,-Journalism-&-Digital-Cultures-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/96713/University-of-Toronto-Scarborough/Media,-Journalism-&-Digital-Cultures-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -27516,7 +27516,7 @@ export default [
     "schoolName": "Trent University - Durham Greater Toronto Area",
     "location": "Canada, Ontario",
     "programName": "Journalism and Creative Writing",
-    "programLink": "/Programs/105223/Trent-University-Durham-Greater-Toronto-Area/Journalism-and-Creative-Writing",
+    "programLink": "https://www.studyincanada.com/Programs/105223/Trent-University-Durham-Greater-Toronto-Area/Journalism-and-Creative-Writing",
     "entranceGrade": "70",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -27525,7 +27525,7 @@ export default [
     "schoolName": "Durham College",
     "location": "Canada, Ontario",
     "programName": "Journalism and Creative Writing",
-    "programLink": "/Programs/104873/Durham-College/Journalism-and-Creative-Writing",
+    "programLink": "https://www.studyincanada.com/Programs/104873/Durham-College/Journalism-and-Creative-Writing",
     "entranceGrade": "70",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -27534,7 +27534,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Journalism (Pre-Journalism)",
-    "programLink": "/Programs/84650/University-of-Regina/Journalism-(Pre-Journalism)",
+    "programLink": "https://www.studyincanada.com/Programs/84650/University-of-Regina/Journalism-(Pre-Journalism)",
     "entranceGrade": "65",
     "tutionValue": "$11,397",
     "length": "4 Year(s)"
@@ -27543,7 +27543,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Digital Journalism",
-    "programLink": "/Programs/81522/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Digital-Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/81522/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Digital-Journalism",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -27552,7 +27552,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "Journalism (Joint Centennial) (HBA)",
-    "programLink": "/Programs/44577/University-of-Toronto-Scarborough/Journalism-(Joint-Centennial)-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/44577/University-of-Toronto-Scarborough/Journalism-(Joint-Centennial)-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -27561,7 +27561,7 @@ export default [
     "schoolName": "Okanagan College",
     "location": "Canada, British Columbia",
     "programName": "Diploma in Communications, Culture, and Journalism Studies",
-    "programLink": "/Programs/81141/Okanagan-College/Diploma-in-Communications,-Culture,-and-Journalism-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/81141/Okanagan-College/Diploma-in-Communications,-Culture,-and-Journalism-Studies",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27570,7 +27570,7 @@ export default [
     "schoolName": "Sheridan College",
     "location": "Canada, Ontario",
     "programName": "Journalism",
-    "programLink": "/Programs/31189/Sheridan-College/Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/31189/Sheridan-College/Journalism",
     "entranceGrade": "65",
     "tutionValue": "$22,479",
     "length": "2 Year(s)"
@@ -27579,7 +27579,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Broadcast and Online Journalism",
-    "programLink": "/Programs/14486/British-Columbia-Institute-of-Technology/Broadcast-and-Online-Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/14486/British-Columbia-Institute-of-Technology/Broadcast-and-Online-Journalism",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27588,7 +27588,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Journalism",
-    "programLink": "/Programs/88554/The-University-of-British-Columbia-Vancouver/Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/88554/The-University-of-British-Columbia-Vancouver/Journalism",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "20 Month(s)"
@@ -27597,7 +27597,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Marketing (MSc)",
-    "programLink": "/Programs/113192/Concordia-University-School-of-Graduate-Studies/Marketing-(MSc)",
+    "programLink": "https://www.studyincanada.com/Programs/113192/Concordia-University-School-of-Graduate-Studies/Marketing-(MSc)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27606,7 +27606,7 @@ export default [
     "schoolName": "Durham College",
     "location": "Canada, Ontario",
     "programName": "Journalism - Mass Media",
-    "programLink": "/Programs/76675/Durham-College/Journalism-Mass-Media",
+    "programLink": "https://www.studyincanada.com/Programs/76675/Durham-College/Journalism-Mass-Media",
     "entranceGrade": "N/S",
     "tutionValue": "$16,334",
     "length": "3 Year(s)"
@@ -27615,7 +27615,7 @@ export default [
     "schoolName": "Royal Roads University",
     "location": "Canada, British Columbia",
     "programName": "Professional Communication (BA)",
-    "programLink": "/Programs/22748/Royal-Roads-University/Professional-Communication-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/22748/Royal-Roads-University/Professional-Communication-(BA)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$43,260",
     "length": "2 Year(s)"
@@ -27624,7 +27624,7 @@ export default [
     "schoolName": "Fanshawe College",
     "location": "Canada, Ontario",
     "programName": "Journalism - Broadcast",
-    "programLink": "/Programs/3854/Fanshawe-College/Journalism-Broadcast",
+    "programLink": "https://www.studyincanada.com/Programs/3854/Fanshawe-College/Journalism-Broadcast",
     "entranceGrade": "N/S",
     "tutionValue": "$17,404",
     "length": "2 Year(s)"
@@ -27633,7 +27633,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Journalism",
-    "programLink": "/Programs/1559/Humber-College-Institute-of-Technology-&-Advanced-Learning/Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/1559/Humber-College-Institute-of-Technology-&-Advanced-Learning/Journalism",
     "entranceGrade": "N/S",
     "tutionValue": "$16,394",
     "length": "3 Year(s)"
@@ -27642,7 +27642,7 @@ export default [
     "schoolName": "Douglas College",
     "location": "Canada, British Columbia",
     "programName": "Professional Communication (Post-Degree Diploma)",
-    "programLink": "/Programs/85044/Douglas-College/Professional-Communication-(Post-Degree-Diploma)",
+    "programLink": "https://www.studyincanada.com/Programs/85044/Douglas-College/Professional-Communication-(Post-Degree-Diploma)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -27651,7 +27651,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Visual Journalism (GrDip)",
-    "programLink": "/Programs/80959/Concordia-University-School-of-Graduate-Studies/Visual-Journalism-(GrDip)",
+    "programLink": "https://www.studyincanada.com/Programs/80959/Concordia-University-School-of-Graduate-Studies/Visual-Journalism-(GrDip)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -27660,7 +27660,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Creative Writing and Journalism",
-    "programLink": "/Programs/14364/Vancouver-Island-University/Creative-Writing-and-Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/14364/Vancouver-Island-University/Creative-Writing-and-Journalism",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -27669,7 +27669,7 @@ export default [
     "schoolName": "St. Thomas University",
     "location": "Canada, New Brunswick",
     "programName": "Journalism",
-    "programLink": "/Programs/101973/St.-Thomas-University/Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/101973/St.-Thomas-University/Journalism",
     "entranceGrade": "70",
     "tutionValue": "$17,208",
     "length": "3 Year(s)"
@@ -27678,7 +27678,7 @@ export default [
     "schoolName": "Carleton University - Faculty of Graduate Studies and Research",
     "location": "Canada, Ontario",
     "programName": "Journalism (MJ)",
-    "programLink": "/Programs/6693/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Journalism-(MJ)",
+    "programLink": "https://www.studyincanada.com/Programs/6693/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Journalism-(MJ)",
     "entranceGrade": "70",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -27687,7 +27687,7 @@ export default [
     "schoolName": "Medicine Hat College",
     "location": "Canada, Alberta",
     "programName": "Journalism",
-    "programLink": "/Programs/6126/Medicine-Hat-College/Journalism",
+    "programLink": "https://www.studyincanada.com/Programs/6126/Medicine-Hat-College/Journalism",
     "entranceGrade": "60",
     "tutionValue": "$14,131",
     "length": "4 Year(s)"
@@ -27696,7 +27696,7 @@ export default [
     "schoolName": "Centennial College - Graduate Programs",
     "location": "Canada, Ontario",
     "programName": "Journalism (Fast Track Option)",
-    "programLink": "/Programs/13830/Centennial-College-Graduate-Programs/Journalism-(Fast-Track-Option)",
+    "programLink": "https://www.studyincanada.com/Programs/13830/Centennial-College-Graduate-Programs/Journalism-(Fast-Track-Option)",
     "entranceGrade": "N/S",
     "tutionValue": "$14,278",
     "length": "2 Year(s)"
@@ -27768,7 +27768,7 @@ export default [
     "schoolName": "Trent University - Durham Greater Toronto Area",
     "location": "Canada, Ontario",
     "programName": "Media Studies",
-    "programLink": "/Programs/95588/Trent-University-Durham-Greater-Toronto-Area/Media-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/95588/Trent-University-Durham-Greater-Toronto-Area/Media-Studies",
     "entranceGrade": "70",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -27777,7 +27777,7 @@ export default [
     "schoolName": "University of Toronto - Scarborough",
     "location": "Canada, Ontario",
     "programName": "New Media Studies (Joint Centennial) (HBA)",
-    "programLink": "/Programs/55829/University-of-Toronto-Scarborough/New-Media-Studies-(Joint-Centennial)-(HBA)",
+    "programLink": "https://www.studyincanada.com/Programs/55829/University-of-Toronto-Scarborough/New-Media-Studies-(Joint-Centennial)-(HBA)",
     "entranceGrade": "74 - 100",
     "tutionValue": "$58,160",
     "length": "4 Year(s)"
@@ -27786,7 +27786,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Media Studies (MA)",
-    "programLink": "/Programs/39615/Concordia-University-School-of-Graduate-Studies/Media-Studies-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/39615/Concordia-University-School-of-Graduate-Studies/Media-Studies-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -27795,7 +27795,7 @@ export default [
     "schoolName": "Vancouver Island University",
     "location": "Canada, British Columbia",
     "programName": "Digital Media Studies",
-    "programLink": "/Programs/106145/Vancouver-Island-University/Digital-Media-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/106145/Vancouver-Island-University/Digital-Media-Studies",
     "entranceGrade": "N/S",
     "tutionValue": "$24,646",
     "length": "4 Year(s)"
@@ -27804,7 +27804,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Media Studies (B.A.)",
-    "programLink": "/Programs/69859/Trent-University/Media-Studies-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/69859/Trent-University/Media-Studies-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -27813,7 +27813,7 @@ export default [
     "schoolName": "Dalhousie University",
     "location": "Canada, Nova Scotia",
     "programName": "Cinema and Media Studies (BA)",
-    "programLink": "/Programs/96626/Dalhousie-University/Cinema-and-Media-Studies-(BA)",
+    "programLink": "https://www.studyincanada.com/Programs/96626/Dalhousie-University/Cinema-and-Media-Studies-(BA)",
     "entranceGrade": "70",
     "tutionValue": "$27,351",
     "length": "4 Year(s)"
@@ -27822,7 +27822,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Media Studies",
-    "programLink": "/Programs/76875/The-University-of-British-Columbia-Vancouver/Media-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/76875/The-University-of-British-Columbia-Vancouver/Media-Studies",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -27831,7 +27831,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "English - Film and Media Studies",
-    "programLink": "/Programs/90896/Bishop-s-University/English-Film-and-Media-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/90896/Bishop-s-University/English-Film-and-Media-Studies",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -27840,7 +27840,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Media Studies",
-    "programLink": "/Programs/81811/The-University-of-British-Columbia-Vancouver/Media-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/81811/The-University-of-British-Columbia-Vancouver/Media-Studies",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -27849,7 +27849,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "English - Film and Media Studies",
-    "programLink": "/Programs/55717/Bishop-s-University/English-Film-and-Media-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/55717/Bishop-s-University/English-Film-and-Media-Studies",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -27993,7 +27993,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Film Production",
-    "programLink": "/Programs/77553/The-University-of-British-Columbia-Vancouver/Film-Production",
+    "programLink": "https://www.studyincanada.com/Programs/77553/The-University-of-British-Columbia-Vancouver/Film-Production",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -28002,7 +28002,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "English - Film and Media Studies",
-    "programLink": "/Programs/90896/Bishop-s-University/English-Film-and-Media-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/90896/Bishop-s-University/English-Film-and-Media-Studies",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -28011,7 +28011,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Film and Media",
-    "programLink": "/Programs/81425/Queen-s-University/Film-and-Media",
+    "programLink": "https://www.studyincanada.com/Programs/81425/Queen-s-University/Film-and-Media",
     "entranceGrade": "80",
     "tutionValue": "$55,567",
     "length": "3 Year(s)"
@@ -28020,7 +28020,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Film Studies",
-    "programLink": "/Programs/21211/University-of-Regina/Film-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/21211/University-of-Regina/Film-Studies",
     "entranceGrade": "65 - 65",
     "tutionValue": "$11,397",
     "length": "4 Year(s)"
@@ -28029,7 +28029,7 @@ export default [
     "schoolName": "Toronto Film School",
     "location": "Canada, Ontario",
     "programName": "Film Production",
-    "programLink": "/Programs/13571/Toronto-Film-School/Film-Production",
+    "programLink": "https://www.studyincanada.com/Programs/13571/Toronto-Film-School/Film-Production",
     "entranceGrade": "N/S",
     "tutionValue": "$58,060",
     "length": "18 Month(s)"
@@ -28038,7 +28038,7 @@ export default [
     "schoolName": "Lakehead University - Orillia",
     "location": "Canada, Ontario",
     "programName": "Media, Film and Communications",
-    "programLink": "/Programs/74747/Lakehead-University-Orillia/Media,-Film-and-Communications",
+    "programLink": "https://www.studyincanada.com/Programs/74747/Lakehead-University-Orillia/Media,-Film-and-Communications",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,590",
     "length": "4 Year(s)"
@@ -28047,7 +28047,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Cultural Studies - Specialization in Film & Media (B.A.)",
-    "programLink": "/Programs/105847/Trent-University/Cultural-Studies-Specialization-in-Film-&-Media-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/105847/Trent-University/Cultural-Studies-Specialization-in-Film-&-Media-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -28056,7 +28056,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Bachelor of Film and Media Production",
-    "programLink": "/Programs/56757/Humber-College-Institute-of-Technology-&-Advanced-Learning/Bachelor-of-Film-and-Media-Production",
+    "programLink": "https://www.studyincanada.com/Programs/56757/Humber-College-Institute-of-Technology-&-Advanced-Learning/Bachelor-of-Film-and-Media-Production",
     "entranceGrade": "70",
     "tutionValue": "$20,567",
     "length": "4 Year(s)"
@@ -28065,7 +28065,7 @@ export default [
     "schoolName": "ITD Canada",
     "location": "Canada, British Columbia",
     "programName": "Digital Film Production Diploma with Co-op\t",
-    "programLink": "/Programs/76006/ITD-Canada/Digital-Film-Production-Diploma-with-Co-op",
+    "programLink": "https://www.studyincanada.com/Programs/76006/ITD-Canada/Digital-Film-Production-Diploma-with-Co-op",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -28074,7 +28074,7 @@ export default [
     "schoolName": "Trebas Institute Quebec Inc.",
     "location": "Canada, Québec",
     "programName": "Production cinématographique et télévisuelle - Film and Televisi...",
-    "programLink": "/Programs/2345/Trebas-Institute-Quebec-Inc./Production-cin%c3%a9matographique-et-t%c3%a9l%c3%a9visuelle-Film-and-Televisi...",
+    "programLink": "https://www.studyincanada.com/Programs/2345/Trebas-Institute-Quebec-Inc./Production-cin%c3%a9matographique-et-t%c3%a9l%c3%a9visuelle-Film-and-Televisi...",
     "entranceGrade": "N/S",
     "tutionValue": "$14,630",
     "length": "12 Month(s)"
@@ -28083,7 +28083,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Film and Moving Image Studies (PhD)",
-    "programLink": "/Programs/67153/Concordia-University-School-of-Graduate-Studies/Film-and-Moving-Image-Studies-(PhD)",
+    "programLink": "https://www.studyincanada.com/Programs/67153/Concordia-University-School-of-Graduate-Studies/Film-and-Moving-Image-Studies-(PhD)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -28092,7 +28092,7 @@ export default [
     "schoolName": "Carleton University - Faculty of Graduate Studies and Research",
     "location": "Canada, Ontario",
     "programName": "Film Studies (MA)",
-    "programLink": "/Programs/6661/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Film-Studies-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/6661/Carleton-University-Faculty-of-Graduate-Studies-and-Research/Film-Studies-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -28101,7 +28101,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Film Studies (General Major)",
-    "programLink": "/Programs/37422/University-of-Manitoba/Film-Studies-(General-Major)",
+    "programLink": "https://www.studyincanada.com/Programs/37422/University-of-Manitoba/Film-Studies-(General-Major)",
     "entranceGrade": "N/S",
     "tutionValue": "$16,600",
     "length": "3 Year(s)"
@@ -28110,7 +28110,7 @@ export default [
     "schoolName": "Sheridan College",
     "location": "Canada, Ontario",
     "programName": "Film and Television",
-    "programLink": "/Programs/77716/Sheridan-College/Film-and-Television",
+    "programLink": "https://www.studyincanada.com/Programs/77716/Sheridan-College/Film-and-Television",
     "entranceGrade": "65",
     "tutionValue": "$28,158",
     "length": "4 Year(s)"
@@ -28119,7 +28119,7 @@ export default [
     "schoolName": "Trent University",
     "location": "Canada, Ontario",
     "programName": "Cultural Studies - Specialization in Film & Media (B.A.)",
-    "programLink": "/Programs/85225/Trent-University/Cultural-Studies-Specialization-in-Film-&-Media-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/85225/Trent-University/Cultural-Studies-Specialization-in-Film-&-Media-(B.A.)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$28,285",
     "length": "4 Year(s)"
@@ -28128,7 +28128,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Film Production",
-    "programLink": "/Programs/84656/University-of-Regina/Film-Production",
+    "programLink": "https://www.studyincanada.com/Programs/84656/University-of-Regina/Film-Production",
     "entranceGrade": "65",
     "tutionValue": "$11,397",
     "length": "4 Year(s)"
@@ -28137,7 +28137,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Communication, Media & Film (BA)/Concurrent Education (BEd)",
-    "programLink": "/Programs/114214/University-of-Windsor/Communication,-Media-&-Film-(BA)/Concurrent-Education-(BEd)",
+    "programLink": "https://www.studyincanada.com/Programs/114214/University-of-Windsor/Communication,-Media-&-Film-(BA)/Concurrent-Education-(BEd)",
     "entranceGrade": "75 - 100",
     "tutionValue": "$34,617",
     "length": "5 Year(s)"
@@ -28146,7 +28146,7 @@ export default [
     "schoolName": "SAIT",
     "location": "Canada, Alberta",
     "programName": "Film and Video Production",
-    "programLink": "/Programs/37552/SAIT/Film-and-Video-Production",
+    "programLink": "https://www.studyincanada.com/Programs/37552/SAIT/Film-and-Video-Production",
     "entranceGrade": "60",
     "tutionValue": "$19,128",
     "length": "2 Year(s)"
@@ -28155,7 +28155,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Film and Television Production",
-    "programLink": "/Programs/1482/Humber-College-Institute-of-Technology-&-Advanced-Learning/Film-and-Television-Production",
+    "programLink": "https://www.studyincanada.com/Programs/1482/Humber-College-Institute-of-Technology-&-Advanced-Learning/Film-and-Television-Production",
     "entranceGrade": "N/S",
     "tutionValue": "$19,615",
     "length": "3 Year(s)"
@@ -28164,7 +28164,7 @@ export default [
     "schoolName": "The University of British Columbia - Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Film Production",
-    "programLink": "/Programs/16778/The-University-of-British-Columbia-Vancouver/Film-Production",
+    "programLink": "https://www.studyincanada.com/Programs/16778/The-University-of-British-Columbia-Vancouver/Film-Production",
     "entranceGrade": "N/S",
     "tutionValue": "$42,803",
     "length": "4 Year(s)"
@@ -28173,7 +28173,7 @@ export default [
     "schoolName": "University of Manitoba",
     "location": "Canada, Manitoba",
     "programName": "Film Studies (Advanced Major)",
-    "programLink": "/Programs/59970/University-of-Manitoba/Film-Studies-(Advanced-Major)",
+    "programLink": "https://www.studyincanada.com/Programs/59970/University-of-Manitoba/Film-Studies-(Advanced-Major)",
     "entranceGrade": "N/S",
     "tutionValue": "$16,600",
     "length": "4 Year(s)"
@@ -28182,7 +28182,7 @@ export default [
     "schoolName": "Durham College",
     "location": "Canada, Ontario",
     "programName": "Film and Motion Design -- Media Fundamentals",
-    "programLink": "/Programs/115895/Durham-College/Film-and-Motion-Design-Media-Fundamentals",
+    "programLink": "https://www.studyincanada.com/Programs/115895/Durham-College/Film-and-Motion-Design-Media-Fundamentals",
     "entranceGrade": "N/S",
     "tutionValue": "$14,884",
     "length": "2 Year(s)"
@@ -28191,7 +28191,7 @@ export default [
     "schoolName": "University of Windsor",
     "location": "Canada, Ontario",
     "programName": "Film Production",
-    "programLink": "/Programs/114202/University-of-Windsor/Film-Production",
+    "programLink": "https://www.studyincanada.com/Programs/114202/University-of-Windsor/Film-Production",
     "entranceGrade": "70 - 100",
     "tutionValue": "$34,641",
     "length": "4 Year(s)"
@@ -28200,7 +28200,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "English - Film and Media Studies",
-    "programLink": "/Programs/55717/Bishop-s-University/English-Film-and-Media-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/55717/Bishop-s-University/English-Film-and-Media-Studies",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -28209,7 +28209,7 @@ export default [
     "schoolName": "Bow Valley College",
     "location": "Canada, Alberta",
     "programName": "Advanced Film Production Diploma",
-    "programLink": "/Programs/112195/Bow-Valley-College/Advanced-Film-Production-Diploma",
+    "programLink": "https://www.studyincanada.com/Programs/112195/Bow-Valley-College/Advanced-Film-Production-Diploma",
     "entranceGrade": "N/S",
     "tutionValue": "$67",
     "length": "24 Month(s)"
@@ -28218,7 +28218,7 @@ export default [
     "schoolName": "LaSalle College Vancouver",
     "location": "Canada, British Columbia",
     "programName": "VFX for Film & Television",
-    "programLink": "/Programs/69862/LaSalle-College-Vancouver/VFX-for-Film-&-Television",
+    "programLink": "https://www.studyincanada.com/Programs/69862/LaSalle-College-Vancouver/VFX-for-Film-&-Television",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "78 Week(s)"
@@ -28227,7 +28227,7 @@ export default [
     "schoolName": "Queen's University",
     "location": "Canada, Ontario",
     "programName": "Film and Media",
-    "programLink": "/Programs/5756/Queen-s-University/Film-and-Media",
+    "programLink": "https://www.studyincanada.com/Programs/5756/Queen-s-University/Film-and-Media",
     "entranceGrade": "80 - 100",
     "tutionValue": "$55,567",
     "length": "4 Year(s)"
@@ -28236,7 +28236,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Theatre and Film Studies and Another Subject (BA) (Combined Hono...",
-    "programLink": "/Programs/91540/McMaster-University/Theatre-and-Film-Studies-and-Another-Subject-(BA)-(Combined-Hono...",
+    "programLink": "https://www.studyincanada.com/Programs/91540/McMaster-University/Theatre-and-Film-Studies-and-Another-Subject-(BA)-(Combined-Hono...",
     "entranceGrade": "77 - 79",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -28245,7 +28245,7 @@ export default [
     "schoolName": "Western University",
     "location": "Canada, Ontario",
     "programName": "Film Studies",
-    "programLink": "/Programs/3819/Western-University/Film-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/3819/Western-University/Film-Studies",
     "entranceGrade": "N/S",
     "tutionValue": "$45,000",
     "length": "4 Year(s)"
@@ -28254,7 +28254,7 @@ export default [
     "schoolName": "Toronto Academy of Acting for Film and Television",
     "location": "Canada, Ontario",
     "programName": "Film making & Television Production Full Time Diploma Program",
-    "programLink": "/Programs/71821/Toronto-Academy-of-Acting-for-Film-and-Television/Film-making-&-Television-Production-Full-Time-Diploma-Program",
+    "programLink": "https://www.studyincanada.com/Programs/71821/Toronto-Academy-of-Acting-for-Film-and-Television/Film-making-&-Television-Production-Full-Time-Diploma-Program",
     "entranceGrade": "60 - 100",
     "tutionValue": "$15,000",
     "length": "500 Hour(s)"
@@ -28263,7 +28263,7 @@ export default [
     "schoolName": "Red Deer Polytechnic",
     "location": "Canada, Alberta",
     "programName": "Applied Arts in Film Production",
-    "programLink": "/Programs/103563/Red-Deer-Polytechnic/Applied-Arts-in-Film-Production",
+    "programLink": "https://www.studyincanada.com/Programs/103563/Red-Deer-Polytechnic/Applied-Arts-in-Film-Production",
     "entranceGrade": "N/S",
     "tutionValue": "$23,500",
     "length": "4 Year(s)"
@@ -28272,7 +28272,7 @@ export default [
     "schoolName": "Fanshawe College",
     "location": "Canada, Ontario",
     "programName": "Broadcasting - Television and Film Production",
-    "programLink": "/Programs/3654/Fanshawe-College/Broadcasting-Television-and-Film-Production",
+    "programLink": "https://www.studyincanada.com/Programs/3654/Fanshawe-College/Broadcasting-Television-and-Film-Production",
     "entranceGrade": "N/S",
     "tutionValue": "$17,018",
     "length": "60 Week(s)"
@@ -28281,7 +28281,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Diploma in Film Production",
-    "programLink": "/Programs/103786/University-of-Regina/Diploma-in-Film-Production",
+    "programLink": "https://www.studyincanada.com/Programs/103786/University-of-Regina/Diploma-in-Film-Production",
     "entranceGrade": "65",
     "tutionValue": "$11,397",
     "length": "1 Year(s)"
@@ -28290,7 +28290,7 @@ export default [
     "schoolName": "LaSalle College Vancouver",
     "location": "Canada, British Columbia",
     "programName": "Digital Film and Video",
-    "programLink": "/Programs/86091/LaSalle-College-Vancouver/Digital-Film-and-Video",
+    "programLink": "https://www.studyincanada.com/Programs/86091/LaSalle-College-Vancouver/Digital-Film-and-Video",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "67 Week(s)"
@@ -28299,7 +28299,7 @@ export default [
     "schoolName": "University of Windsor - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Film and Media Arts (MFA)",
-    "programLink": "/Programs/92301/University-of-Windsor-Faculty-of-Graduate-Studies/Film-and-Media-Arts-(MFA)",
+    "programLink": "https://www.studyincanada.com/Programs/92301/University-of-Windsor-Faculty-of-Graduate-Studies/Film-and-Media-Arts-(MFA)",
     "entranceGrade": "70 - 100",
     "tutionValue": "$8,863",
     "length": "N/S"
@@ -28308,7 +28308,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Theatre and Film Studies",
-    "programLink": "/Programs/26459/McMaster-University/Theatre-and-Film-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/26459/McMaster-University/Theatre-and-Film-Studies",
     "entranceGrade": "77 - 79",
     "tutionValue": "$43,116",
     "length": "4 Year(s)"
@@ -28317,7 +28317,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Film Studies (B.A.)",
-    "programLink": "/Programs/99409/University-of-Calgary/Film-Studies-(B.A.)",
+    "programLink": "https://www.studyincanada.com/Programs/99409/University-of-Calgary/Film-Studies-(B.A.)",
     "entranceGrade": "75",
     "tutionValue": "$20,172",
     "length": "4 Year(s)"
@@ -28326,7 +28326,7 @@ export default [
     "schoolName": "Capilano University",
     "location": "Canada, British Columbia",
     "programName": "3D Animation for Film and Games",
-    "programLink": "/Programs/14193/Capilano-University/3D-Animation-for-Film-and-Games",
+    "programLink": "https://www.studyincanada.com/Programs/14193/Capilano-University/3D-Animation-for-Film-and-Games",
     "entranceGrade": "N/S",
     "tutionValue": "$38,439",
     "length": "2 Year(s)"
@@ -28335,7 +28335,7 @@ export default [
     "schoolName": "Emily Carr University of Art + Design",
     "location": "Canada, British Columbia",
     "programName": "Film + Screen Arts",
-    "programLink": "/Programs/14701/Emily-Carr-University-of-Art-+-Design/Film-+-Screen-Arts",
+    "programLink": "https://www.studyincanada.com/Programs/14701/Emily-Carr-University-of-Art-+-Design/Film-+-Screen-Arts",
     "entranceGrade": "N/S",
     "tutionValue": "$25,156",
     "length": "4 Year(s)"
@@ -28344,7 +28344,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Acting for Film and Television",
-    "programLink": "/Programs/1288/Humber-College-Institute-of-Technology-&-Advanced-Learning/Acting-for-Film-and-Television",
+    "programLink": "https://www.studyincanada.com/Programs/1288/Humber-College-Institute-of-Technology-&-Advanced-Learning/Acting-for-Film-and-Television",
     "entranceGrade": "N/S",
     "tutionValue": "$16,394",
     "length": "2 Year(s)"
@@ -28353,7 +28353,7 @@ export default [
     "schoolName": "Concordia University - School of Graduate Studies",
     "location": "Canada, Québec",
     "programName": "Film and Moving Image Studies (MA)",
-    "programLink": "/Programs/39574/Concordia-University-School-of-Graduate-Studies/Film-and-Moving-Image-Studies-(MA)",
+    "programLink": "https://www.studyincanada.com/Programs/39574/Concordia-University-School-of-Graduate-Studies/Film-and-Moving-Image-Studies-(MA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -28362,7 +28362,7 @@ export default [
     "schoolName": "Trebas Institute - Toronto",
     "location": "Canada, Ontario",
     "programName": "Film and Television Production and Post-Production",
-    "programLink": "/Programs/2281/Trebas-Institute-Toronto/Film-and-Television-Production-and-Post-Production",
+    "programLink": "https://www.studyincanada.com/Programs/2281/Trebas-Institute-Toronto/Film-and-Television-Production-and-Post-Production",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "48 Week(s)"
@@ -28371,7 +28371,7 @@ export default [
     "schoolName": "University of Calgary",
     "location": "Canada, Alberta",
     "programName": "Film Studies (B.F.S.)",
-    "programLink": "/Programs/99410/University-of-Calgary/Film-Studies-(B.F.S.)",
+    "programLink": "https://www.studyincanada.com/Programs/99410/University-of-Calgary/Film-Studies-(B.F.S.)",
     "entranceGrade": "75",
     "tutionValue": "$20,172",
     "length": "4 Year(s)"
@@ -28380,7 +28380,7 @@ export default [
     "schoolName": "Confederation College",
     "location": "Canada, Ontario",
     "programName": "Film Production",
-    "programLink": "/Programs/221/Confederation-College/Film-Production",
+    "programLink": "https://www.studyincanada.com/Programs/221/Confederation-College/Film-Production",
     "entranceGrade": "N/S",
     "tutionValue": "$31,330",
     "length": "2 Year(s)"
@@ -28452,7 +28452,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Public Relations",
-    "programLink": "/Programs/1595/Humber-College-Institute-of-Technology-&-Advanced-Learning/Public-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/1595/Humber-College-Institute-of-Technology-&-Advanced-Learning/Public-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "$16,394",
     "length": "3 Year(s)"
@@ -28461,7 +28461,7 @@ export default [
     "schoolName": "Kwantlen Polytechnic University",
     "location": "Canada, British Columbia",
     "programName": "Public Relations",
-    "programLink": "/Programs/11269/Kwantlen-Polytechnic-University/Public-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/11269/Kwantlen-Polytechnic-University/Public-Relations",
     "entranceGrade": "70",
     "tutionValue": "$22,754",
     "length": "2 Year(s)"
@@ -28470,7 +28470,7 @@ export default [
     "schoolName": "Canadore College",
     "location": "Canada, Ontario",
     "programName": "Public Relations",
-    "programLink": "/Programs/103761/Canadore-College/Public-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/103761/Canadore-College/Public-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "$16,807",
     "length": "2 Year(s)"
@@ -28479,7 +28479,7 @@ export default [
     "schoolName": "British Columbia Institute of Technology",
     "location": "Canada, British Columbia",
     "programName": "Marketing Management - Public Relations",
-    "programLink": "/Programs/28016/British-Columbia-Institute-of-Technology/Marketing-Management-Public-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/28016/British-Columbia-Institute-of-Technology/Marketing-Management-Public-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "N/S"
@@ -28488,7 +28488,7 @@ export default [
     "schoolName": "Nova Scotia Community College",
     "location": "Canada, Nova Scotia",
     "programName": "Public Relations",
-    "programLink": "/Programs/15236/Nova-Scotia-Community-College/Public-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/15236/Nova-Scotia-Community-College/Public-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "$11,690",
     "length": "1 Year(s)"
@@ -28497,7 +28497,7 @@ export default [
     "schoolName": "University of Ottawa/Université d'Ottawa",
     "location": "Canada, Ontario",
     "programName": "Public Relations",
-    "programLink": "/Programs/66075/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Public-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/66075/University-of-Ottawa/Universit%c3%a9-d-Ottawa/Public-Relations",
     "entranceGrade": "73 - 76",
     "tutionValue": "$36,161",
     "length": "4 Year(s)"
@@ -28506,7 +28506,7 @@ export default [
     "schoolName": "St. Clair College",
     "location": "Canada, Ontario",
     "programName": "Public Relations",
-    "programLink": "/Programs/70681/St.-Clair-College/Public-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/70681/St.-Clair-College/Public-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "$15,685",
     "length": "2 Year(s)"
@@ -28515,7 +28515,7 @@ export default [
     "schoolName": "MacEwan University",
     "location": "Canada, Alberta",
     "programName": "Public Relations",
-    "programLink": "/Programs/6275/MacEwan-University/Public-Relations",
+    "programLink": "https://www.studyincanada.com/Programs/6275/MacEwan-University/Public-Relations",
     "entranceGrade": "N/S",
     "tutionValue": "$28,715",
     "length": "10 Month(s)"
@@ -28551,7 +28551,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Elementary Education",
-    "programLink": "/Programs/10863/Selkirk-College/Elementary-Education",
+    "programLink": "https://www.studyincanada.com/Programs/10863/Selkirk-College/Elementary-Education",
     "entranceGrade": "N/S",
     "tutionValue": "$13,409",
     "length": "2 Year(s)"
@@ -28560,7 +28560,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Kindergarten and Elementary Education (Jewish Studies)",
-    "programLink": "/Programs/105284/McGill-University/Kindergarten-and-Elementary-Education-(Jewish-Studies)",
+    "programLink": "https://www.studyincanada.com/Programs/105284/McGill-University/Kindergarten-and-Elementary-Education-(Jewish-Studies)",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -28569,7 +28569,7 @@ export default [
     "schoolName": "McGill University",
     "location": "Canada, Québec",
     "programName": "Kindergarten and Elementary Education (First Nations and Inuit S...",
-    "programLink": "/Programs/105288/McGill-University/Kindergarten-and-Elementary-Education-(First-Nations-and-Inuit-S...",
+    "programLink": "https://www.studyincanada.com/Programs/105288/McGill-University/Kindergarten-and-Elementary-Education-(First-Nations-and-Inuit-S...",
     "entranceGrade": "80",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -28785,7 +28785,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Adult Learning and Post-Secondary Education",
-    "programLink": "/Programs/106429/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Adult-Learning-and-Post-Secondary-Education",
+    "programLink": "https://www.studyincanada.com/Programs/106429/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Adult-Learning-and-Post-Secondary-Education",
     "entranceGrade": "65",
     "tutionValue": "$20,790",
     "length": "1 Year(s)"
@@ -28794,7 +28794,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Fine Arts and Secondary Education",
-    "programLink": "/Programs/55688/Bishop-s-University/Fine-Arts-and-Secondary-Education",
+    "programLink": "https://www.studyincanada.com/Programs/55688/Bishop-s-University/Fine-Arts-and-Secondary-Education",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -28803,7 +28803,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Music and Secondary Education",
-    "programLink": "/Programs/55656/Bishop-s-University/Music-and-Secondary-Education",
+    "programLink": "https://www.studyincanada.com/Programs/55656/Bishop-s-University/Music-and-Secondary-Education",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -28812,7 +28812,7 @@ export default [
     "schoolName": "Bishop's University",
     "location": "Canada, Québec",
     "programName": "Drama and Secondary Education",
-    "programLink": "/Programs/55715/Bishop-s-University/Drama-and-Secondary-Education",
+    "programLink": "https://www.studyincanada.com/Programs/55715/Bishop-s-University/Drama-and-Secondary-Education",
     "entranceGrade": "80",
     "tutionValue": "$28,771",
     "length": "4 Year(s)"
@@ -28821,7 +28821,7 @@ export default [
     "schoolName": "Institute for Human Services Education",
     "location": "Canada, Nova Scotia",
     "programName": "Special Education",
-    "programLink": "/Programs/16925/Institute-for-Human-Services-Education/Special-Education",
+    "programLink": "https://www.studyincanada.com/Programs/16925/Institute-for-Human-Services-Education/Special-Education",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -28830,7 +28830,7 @@ export default [
     "schoolName": "Selkirk College",
     "location": "Canada, British Columbia",
     "programName": "Adult Special Education",
-    "programLink": "/Programs/10902/Selkirk-College/Adult-Special-Education",
+    "programLink": "https://www.studyincanada.com/Programs/10902/Selkirk-College/Adult-Special-Education",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -28839,7 +28839,7 @@ export default [
     "schoolName": "Memorial University – St. John’s Campus",
     "location": "Canada, Newfoundland and Labrador",
     "programName": "Special Education",
-    "programLink": "/Programs/58347/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Special-Education",
+    "programLink": "https://www.studyincanada.com/Programs/58347/Memorial-University-%e2%80%93-St.-John%e2%80%99s-Campus/Special-Education",
     "entranceGrade": "65",
     "tutionValue": "$20,790",
     "length": "1 Year(s)"
@@ -28866,7 +28866,7 @@ export default [
     "schoolName": "University of New Brunswick - Saint John",
     "location": "Canada, New Brunswick",
     "programName": "Criminal Justice Studies",
-    "programLink": "/Programs/90990/University-of-New-Brunswick-Saint-John/Criminal-Justice-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/90990/University-of-New-Brunswick-Saint-John/Criminal-Justice-Studies",
     "entranceGrade": "65",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -28875,7 +28875,7 @@ export default [
     "schoolName": "Columbia College (Closed)",
     "location": "Canada, Alberta",
     "programName": "Criminal Justice Professional",
-    "programLink": "/Programs/34465/Columbia-College-(Closed)/Criminal-Justice-Professional",
+    "programLink": "https://www.studyincanada.com/Programs/34465/Columbia-College-(Closed)/Criminal-Justice-Professional",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -28884,7 +28884,7 @@ export default [
     "schoolName": "Camosun College",
     "location": "Canada, British Columbia",
     "programName": "Criminal Justice (Internship Designation)",
-    "programLink": "/Programs/72764/Camosun-College/Criminal-Justice-(Internship-Designation)",
+    "programLink": "https://www.studyincanada.com/Programs/72764/Camosun-College/Criminal-Justice-(Internship-Designation)",
     "entranceGrade": "N/S",
     "tutionValue": "$31,950",
     "length": "2 Year(s)"
@@ -28920,7 +28920,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Criminal Justice Studies (Three-Year)",
-    "programLink": "/Programs/8010/The-University-of-Winnipeg/Criminal-Justice-Studies-(Three-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/8010/The-University-of-Winnipeg/Criminal-Justice-Studies-(Three-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "3 Year(s)"
@@ -28929,7 +28929,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Criminal Justice",
-    "programLink": "/Programs/8611/Langara-College/Criminal-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/8611/Langara-College/Criminal-Justice",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -28938,7 +28938,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Criminal Justice (Corrections)",
-    "programLink": "/Programs/62811/Nipissing-University/Criminal-Justice-(Corrections)",
+    "programLink": "https://www.studyincanada.com/Programs/62811/Nipissing-University/Criminal-Justice-(Corrections)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -28965,7 +28965,7 @@ export default [
     "schoolName": "Camosun College",
     "location": "Canada, British Columbia",
     "programName": "Criminal Justice",
-    "programLink": "/Programs/53482/Camosun-College/Criminal-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/53482/Camosun-College/Criminal-Justice",
     "entranceGrade": "N/S",
     "tutionValue": "$31,950",
     "length": "2 Year(s)"
@@ -28974,7 +28974,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Criminal Justice (Policing)",
-    "programLink": "/Programs/62815/Nipissing-University/Criminal-Justice-(Policing)",
+    "programLink": "https://www.studyincanada.com/Programs/62815/Nipissing-University/Criminal-Justice-(Policing)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -28983,7 +28983,7 @@ export default [
     "schoolName": "Medicine Hat College",
     "location": "Canada, Alberta",
     "programName": "Criminal Justice",
-    "programLink": "/Programs/45914/Medicine-Hat-College/Criminal-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/45914/Medicine-Hat-College/Criminal-Justice",
     "entranceGrade": "N/S",
     "tutionValue": "$14,481",
     "length": "4 Year(s)"
@@ -28992,7 +28992,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Criminal Justice Studies",
-    "programLink": "/Programs/62862/The-University-of-Winnipeg/Criminal-Justice-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/62862/The-University-of-Winnipeg/Criminal-Justice-Studies",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "4 Year(s)"
@@ -29001,7 +29001,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Criminal Justice (Criminology)",
-    "programLink": "/Programs/62817/Nipissing-University/Criminal-Justice-(Criminology)",
+    "programLink": "https://www.studyincanada.com/Programs/62817/Nipissing-University/Criminal-Justice-(Criminology)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -29010,7 +29010,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "Criminal Justice",
-    "programLink": "/Programs/86267/Redeemer-University/Criminal-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/86267/Redeemer-University/Criminal-Justice",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "4 Year(s)"
@@ -29019,7 +29019,7 @@ export default [
     "schoolName": "Medicine Hat College",
     "location": "Canada, Alberta",
     "programName": "Criminal Justice",
-    "programLink": "/Programs/6136/Medicine-Hat-College/Criminal-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/6136/Medicine-Hat-College/Criminal-Justice",
     "entranceGrade": "60",
     "tutionValue": "$14,481",
     "length": "2 Year(s)"
@@ -29028,7 +29028,7 @@ export default [
     "schoolName": "Nipissing University",
     "location": "Canada, Ontario",
     "programName": "Criminal Justice (Criminal Justice Studies)",
-    "programLink": "/Programs/90352/Nipissing-University/Criminal-Justice-(Criminal-Justice-Studies)",
+    "programLink": "https://www.studyincanada.com/Programs/90352/Nipissing-University/Criminal-Justice-(Criminal-Justice-Studies)",
     "entranceGrade": "70 - 70",
     "tutionValue": "$23,000",
     "length": "4 Year(s)"
@@ -29037,7 +29037,7 @@ export default [
     "schoolName": "Humber College Institute of Technology & Advanced Learning",
     "location": "Canada, Ontario",
     "programName": "Bachelor of Social Science - Criminal Justice",
-    "programLink": "/Programs/56758/Humber-College-Institute-of-Technology-&-Advanced-Learning/Bachelor-of-Social-Science-Criminal-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/56758/Humber-College-Institute-of-Technology-&-Advanced-Learning/Bachelor-of-Social-Science-Criminal-Justice",
     "entranceGrade": "65",
     "tutionValue": "$19,387",
     "length": "4 Year(s)"
@@ -29046,7 +29046,7 @@ export default [
     "schoolName": "Lethbridge College",
     "location": "Canada, Alberta",
     "programName": "Criminal Justice – Policing",
-    "programLink": "/Programs/24982/Lethbridge-College/Criminal-Justice-%e2%80%93-Policing",
+    "programLink": "https://www.studyincanada.com/Programs/24982/Lethbridge-College/Criminal-Justice-%e2%80%93-Policing",
     "entranceGrade": "N/S",
     "tutionValue": "$15,649",
     "length": "2 Year(s)"
@@ -29055,7 +29055,7 @@ export default [
     "schoolName": "Athabasca University",
     "location": "Canada, Alberta",
     "programName": "Criminal Justice",
-    "programLink": "/Programs/9029/Athabasca-University/Criminal-Justice",
+    "programLink": "https://www.studyincanada.com/Programs/9029/Athabasca-University/Criminal-Justice",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "2 Year(s)"
@@ -29064,7 +29064,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Criminal Justice Studies (Four-Year)",
-    "programLink": "/Programs/85143/The-University-of-Winnipeg/Criminal-Justice-Studies-(Four-Year)",
+    "programLink": "https://www.studyincanada.com/Programs/85143/The-University-of-Winnipeg/Criminal-Justice-Studies-(Four-Year)",
     "entranceGrade": "65",
     "tutionValue": "$15,810",
     "length": "3 Year(s)"
@@ -29073,7 +29073,7 @@ export default [
     "schoolName": "The University of Winnipeg",
     "location": "Canada, Manitoba",
     "programName": "Pre-Law",
-    "programLink": "/Programs/68606/The-University-of-Winnipeg/Pre-Law",
+    "programLink": "https://www.studyincanada.com/Programs/68606/The-University-of-Winnipeg/Pre-Law",
     "entranceGrade": "N/S",
     "tutionValue": "$15,810",
     "length": "2 Year(s)"
@@ -29082,7 +29082,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Diploma in Justice Studies",
-    "programLink": "/Programs/90941/University-of-Regina/Diploma-in-Justice-Studies",
+    "programLink": "https://www.studyincanada.com/Programs/90941/University-of-Regina/Diploma-in-Justice-Studies",
     "entranceGrade": "65 - 100",
     "tutionValue": "$11,397",
     "length": "2 Year(s)"
@@ -29091,7 +29091,7 @@ export default [
     "schoolName": "McMaster University",
     "location": "Canada, Ontario",
     "programName": "Justice, Political Philosophy & Law",
-    "programLink": "/Programs/79425/McMaster-University/Justice,-Political-Philosophy-&-Law",
+    "programLink": "https://www.studyincanada.com/Programs/79425/McMaster-University/Justice,-Political-Philosophy-&-Law",
     "entranceGrade": "77 - 79",
     "tutionValue": "$40,960",
     "length": "4 Year(s)"
@@ -29100,7 +29100,7 @@ export default [
     "schoolName": "Redeemer University",
     "location": "Canada, Ontario",
     "programName": "Pre-Law",
-    "programLink": "/Programs/116328/Redeemer-University/Pre-Law",
+    "programLink": "https://www.studyincanada.com/Programs/116328/Redeemer-University/Pre-Law",
     "entranceGrade": "N/S",
     "tutionValue": "$19,494",
     "length": "1 Year(s)"
@@ -29109,7 +29109,7 @@ export default [
     "schoolName": "Lakehead University - Thunder Bay",
     "location": "Canada, Ontario",
     "programName": "Law",
-    "programLink": "/Programs/78100/Lakehead-University-Thunder-Bay/Law",
+    "programLink": "https://www.studyincanada.com/Programs/78100/Lakehead-University-Thunder-Bay/Law",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "3 Year(s)"
@@ -29118,7 +29118,7 @@ export default [
     "schoolName": "University of Regina",
     "location": "Canada, Saskatchewan",
     "programName": "Pre-Law",
-    "programLink": "/Programs/71833/University-of-Regina/Pre-Law",
+    "programLink": "https://www.studyincanada.com/Programs/71833/University-of-Regina/Pre-Law",
     "entranceGrade": "65 - 70",
     "tutionValue": "$12,049",
     "length": "N/S"
