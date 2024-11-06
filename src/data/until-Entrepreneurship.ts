@@ -822,7 +822,7 @@ export default [
     "schoolName": "Okanagan College",
     "location": "Canada, British Columbia",
     "programName": "Bachelor of Business Administration - Tourism and Hospitality Ma...",
-    "programLink": "/Programs/96512/Okanagan-College/Bachelor-of-Business-Administration-Tourism-and-Hospitality-Ma...",
+    "programLink": "https://www.studyincanada.com/Programs/96512/Okanagan-College/Bachelor-of-Business-Administration-Tourism-and-Hospitality-Ma...",
     "entranceGrade": "60 - 85",
     "tutionValue": "$13,750",
     "length": "4 Year(s)"
@@ -831,7 +831,7 @@ export default [
     "schoolName": "George Brown College",
     "location": "Canada, Ontario",
     "programName": "Business Administration - Accounting",
-    "programLink": "/Programs/1031/George-Brown-College/Business-Administration-Accounting",
+    "programLink": "https://www.studyincanada.com/Programs/1031/George-Brown-College/Business-Administration-Accounting",
     "entranceGrade": "N/S",
     "tutionValue": "$15,190",
     "length": "3 Year(s)"
@@ -840,7 +840,7 @@ export default [
     "schoolName": "Lakehead University - Faculty of Graduate Studies",
     "location": "Canada, Ontario",
     "programName": "Business Administration (MBA)",
-    "programLink": "/Programs/68793/Lakehead-University-Faculty-of-Graduate-Studies/Business-Administration-(MBA)",
+    "programLink": "https://www.studyincanada.com/Programs/68793/Lakehead-University-Faculty-of-Graduate-Studies/Business-Administration-(MBA)",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "1 Year(s)"
@@ -849,7 +849,7 @@ export default [
     "schoolName": "Langara College",
     "location": "Canada, British Columbia",
     "programName": "Business Administration - Accounting",
-    "programLink": "/Programs/76791/Langara-College/Business-Administration-Accounting",
+    "programLink": "https://www.studyincanada.com/Programs/76791/Langara-College/Business-Administration-Accounting",
     "entranceGrade": "N/S",
     "tutionValue": "N/S",
     "length": "4 Year(s)"
@@ -858,7 +858,7 @@ export default [
     "schoolName": "Thompson Rivers University",
     "location": "Canada, British Columbia",
     "programName": "Business Administration: Bachelor Degree",
-    "programLink": "/Programs/62985/Thompson-Rivers-University/Business-Administration-Bachelor-Degree",
+    "programLink": "https://www.studyincanada.com/Programs/62985/Thompson-Rivers-University/Business-Administration-Bachelor-Degree",
     "entranceGrade": "N/S",
     "tutionValue": "$18,355",
     "length": "4 Year(s)"
