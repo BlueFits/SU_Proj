@@ -9,6 +9,7 @@ export type program = {
   entranceGrade: string,
   tutionValue: string,
   length: string,
+  location: string;
 };
 
 export interface CounterState {
