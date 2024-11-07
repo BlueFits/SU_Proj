@@ -13,23 +13,25 @@ export type program = {
 
 export interface CounterState {
   list: Array<program>;
+  category: string;
 }
 
 const initialState: CounterState = {
   list: data,
+  category: "Any",
 }
 
 export const programsSlice = createSlice({
   name: 'program',
   initialState,
   reducers: {
-    increment: (state) => {
-      //   state.programs
-    },
+    setCategory: (state, action: PayloadAction<string>) => {
+      state.category = action.payload;
+    }
   },
 })
 
 // Action creators are generated for each case reducer function
-export const { increment } = programsSlice.actions;
+export const { setCategory } = programsSlice.actions;
 
 export default programsSlice.reducer

@@ -67,7 +67,8 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                         <animated.ul style={fadeAndSlideSpring}>
                             {programs && programs.list.map((program, i) => {
                                 const grade = Number(program.entranceGrade[0] + program.entranceGrade[1]);
-                                if (grade <= Number(userInputAvg)) return <ProgramList key={`tempIDForList:${i}`} program={program} />
+                                if (grade <= Number(userInputAvg) && programs.category !== "Any" && program.programName.includes(programs.category)) return <ProgramList key={`tempIDForList:${i}`} program={program} />
+                                if (grade <= Number(userInputAvg) && programs.category === "Any") return <ProgramList key={`tempIDForList:${i}`} program={program} />
                             })}
                         </animated.ul>
                     </div>

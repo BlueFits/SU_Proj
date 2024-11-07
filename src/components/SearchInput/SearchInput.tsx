@@ -6,6 +6,9 @@ import { navigate } from "gatsby"
 import { Typography } from '@mui/material';
 import TextField from '@mui/material/TextField';
 import categories from '../../data/categories';
+import { useDispatch, useSelector } from 'react-redux';
+import { RootState } from '../../services/store';
+import { setCategory } from '../../services/modules/programs/programs.slice';
 
 
 interface ISearchInput {
@@ -32,9 +35,11 @@ const SearchInput: React.FC<ISearchInput> = ({
     disableAnim,
     enableText,
 } = defaultPropVal) => {
+    const dispatch = useDispatch();
     const [search, setSearch] = useState<string>("");
-    const [category, setCategory] = useState("Any");
     const nagivationRef = useRef<string | null>(null);
+    const programSlice = useSelector((state: RootState) => state.programsReducer);
+
 
     const [props, api] = useSpring(() => ({
         from: {
@@ -112,8 +117,8 @@ const SearchInput: React.FC<ISearchInput> = ({
                             color: "grey"
                         },
                     }}
-                    value={category}
-                    onChange={(e) => setCategory(e.target.value)}
+                    value={programSlice.category}
+                    onChange={(e) => dispatch(setCategory(e.target.value))}
                     select
                     label="Category"
                     defaultValue="Any"
