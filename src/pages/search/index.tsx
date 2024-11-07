@@ -8,9 +8,9 @@ import { useSelector } from "react-redux";
 import { RootState } from "../../services/store";
 import { fade, fadeAndSlide } from "../../anims/CustomAnims";
 import Button from '@mui/material/Button';
-import FilterListIcon from '@mui/icons-material/FilterList';
-import BasicModal from "../../components/Modal/Modal";
-import { useState } from "react";
+import { useRef, useState } from "react";
+import FilterModal from "../../components/FilterModal/FilterModal";
+import EditLocationIcon from '@mui/icons-material/EditLocation';
 
 const LabelList: React.FC<{ title: string }> = ({ title }) => (
     <span className={`p-5 w-[300px]`}><Typography>{title}</Typography></span>
@@ -23,6 +23,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
     const params = new URLSearchParams(location.search);
     const userInputAvg = params.get("avg");
     const [isPopOverOpen, setIsPopOverOpen] = useState(false);
+    const buttonRef = useRef(null);
 
     const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
         setIsPopOverOpen(true);
@@ -74,15 +75,16 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                             <Typography variant="h5">Programs For You</Typography>
                             <div>
                                 <Button
+                                    ref={buttonRef}
                                     variant="outlined"
                                     color="inherit"
                                     sx={{ backgroundColor: "#F3F5F7", borderRadius: 15, border: "none", padding: "10px 20px" }}
-                                    startIcon={<FilterListIcon />}
+                                    startIcon={<EditLocationIcon />}
                                     onClick={handleClick}
                                 >
-                                    Filter
+                                    Location
                                 </Button>
-                                <BasicModal
+                                <FilterModal
                                     open={isPopOverOpen}
                                     handleClose={() => setIsPopOverOpen(false)}
                                 />
@@ -94,12 +96,18 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                                 <LabelList title="School" />
                                 <LabelList title="Length" />
                                 <LabelList title="Tuition" />
+                                <LabelList title="Location" />
                                 <LabelList title="Grade" />
                             </div>
                             {programs && programs.list.map((program, i) => {
                                 const grade = Number(program.entranceGrade[0] + program.entranceGrade[1]);
-                                if (grade <= Number(userInputAvg) && programs.category !== "Any" && program.programName.includes(programs.category)) return <ProgramList key={`tempIDForList:${i}`} program={program} />
-                                if (grade <= Number(userInputAvg) && programs.category === "Any") return <ProgramList key={`tempIDForList:${i}`} program={program} />
+                                if (programs.selectedLocation === "All") {
+                                    if (grade <= Number(userInputAvg) && programs.category !== "Any" && program.programName.includes(programs.category)) return <ProgramList key={`tempIDForList:${i}`} program={program} />
+                                    if (grade <= Number(userInputAvg) && programs.category === "Any") return <ProgramList key={`tempIDForList:${i}`} program={program} />
+                                } else if (program.location.includes(programs.selectedLocation)) {
+                                    if (grade <= Number(userInputAvg) && programs.category !== "Any" && program.programName.includes(programs.category)) return <ProgramList key={`tempIDForList:${i}`} program={program} />
+                                    if (grade <= Number(userInputAvg) && programs.category === "Any") return <ProgramList key={`tempIDForList:${i}`} program={program} />
+                                }
                             })}
                         </animated.ul>
                     </div>

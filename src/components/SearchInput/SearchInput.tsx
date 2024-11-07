@@ -65,7 +65,7 @@ const SearchInput: React.FC<ISearchInput> = ({
         }
     }
 
-    const handleNavigation = () => navigate(`/search?avg=${nagivationRef.current}`);
+    const handleNavigation = () => navigate(`/search?avg=${Number(nagivationRef.current) > 100 ? "100" : nagivationRef.current}`);
 
     return (
         <div className='w-full justify-center flex items-center flex-col'>
@@ -86,7 +86,6 @@ const SearchInput: React.FC<ISearchInput> = ({
                     className='w-full flex justify-center items-center'
                     onSubmit={async (e) => {
                         e.preventDefault();
-                        console.log("submitting");
                         submit();
                     }}
                 >
@@ -96,16 +95,13 @@ const SearchInput: React.FC<ISearchInput> = ({
                     <input
                         onChange={(e) => {
                             const newValue = e.target.value;
-                            // Allow only digits by filtering the input
-                            if (/^\d*$/.test(newValue)) {
-                                setSearch(newValue);
-                            }
+                            if (/^\d*$/.test(newValue)) setSearch(newValue);
                         }}
                         value={search}
                         name='avg'
                         className='bg-transparent outline-none border-none w-full'
                         type="text"
-                        placeholder='Enter your average'
+                        placeholder='Average'
                     />
                 </form>
                 <TextField

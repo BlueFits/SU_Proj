@@ -42,6 +42,7 @@ const ProgramList: React.FC<IProgramList> = ({ program }) => {
                 <DesktopList value={program.schoolName} />
                 <DesktopList value={program.length} />
                 <DesktopList value={program.tutionValue} />
+                <DesktopList value={program.location} />
                 <DesktopList value={program.entranceGrade} />
             </a>
         </li>

@@ -15,11 +15,13 @@ export type program = {
 export interface CounterState {
   list: Array<program>;
   category: string;
+  selectedLocation: string;
 }
 
 const initialState: CounterState = {
   list: data,
   category: "Any",
+  selectedLocation: "All"
 }
 
 export const programsSlice = createSlice({
@@ -28,11 +30,14 @@ export const programsSlice = createSlice({
   reducers: {
     setCategory: (state, action: PayloadAction<string>) => {
       state.category = action.payload;
+    },
+    setLocation: (state, action: PayloadAction<string>) => {
+      state.selectedLocation = action.payload;
     }
   },
 })
 
 // Action creators are generated for each case reducer function
-export const { setCategory } = programsSlice.actions;
+export const { setCategory, setLocation } = programsSlice.actions;
 
 export default programsSlice.reducer
