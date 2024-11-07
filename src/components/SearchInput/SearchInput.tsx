@@ -4,6 +4,9 @@ import IconButton from '@mui/material/IconButton';
 import { animated, useSpring } from '@react-spring/web'
 import { navigate } from "gatsby"
 import { Typography } from '@mui/material';
+import TextField from '@mui/material/TextField';
+import categories from '../../data/categories';
+
 
 interface ISearchInput {
     disableAnim?: boolean;
@@ -99,6 +102,30 @@ const SearchInput: React.FC<ISearchInput> = ({
                         placeholder='Enter your average'
                     />
                 </form>
+                <TextField
+                    sx={{
+                        '& .MuiOutlinedInput-root': {
+                            '& fieldset': {
+                                borderColor: 'grey', // Default border color
+                            },
+                            color: "grey"
+                        },
+                    }}
+                    select
+                    label="Category"
+                    defaultValue="Any"
+                    slotProps={{
+                        select: {
+                            native: true,
+                        },
+                    }}
+                >
+                    {["Any", ...categories].map((option) => (
+                        <option key={option} value={option}>
+                            {option}
+                        </option>
+                    ))}
+                </TextField>
                 <div className="h-[10px]" />
             </animated.div>
             {enableText &&
