@@ -33,6 +33,7 @@ const SearchInput: React.FC<ISearchInput> = ({
     enableText,
 } = defaultPropVal) => {
     const [search, setSearch] = useState<string>("");
+    const [category, setCategory] = useState("Any");
     const nagivationRef = useRef<string | null>(null);
 
     const [props, api] = useSpring(() => ({
@@ -111,6 +112,8 @@ const SearchInput: React.FC<ISearchInput> = ({
                             color: "grey"
                         },
                     }}
+                    value={category}
+                    onChange={(e) => setCategory(e.target.value)}
                     select
                     label="Category"
                     defaultValue="Any"
