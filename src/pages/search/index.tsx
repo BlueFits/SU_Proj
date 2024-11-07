@@ -2,11 +2,15 @@ import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
 import { useSpring, animated } from '@react-spring/web';
 import SearchInput from "../../components/SearchInput/SearchInput";
-import { Typography } from "@mui/material";
+import { Modal, Typography } from "@mui/material";
 import ProgramList from "./components/ProgramList";
 import { useSelector } from "react-redux";
 import { RootState } from "../../services/store";
 import { fade, fadeAndSlide } from "../../anims/CustomAnims";
+import Button from '@mui/material/Button';
+import FilterListIcon from '@mui/icons-material/FilterList';
+import BasicModal from "../../components/Modal/Modal";
+import { useState } from "react";
 
 const LabelList: React.FC<{ title: string }> = ({ title }) => (
     <span className={`p-5 w-[300px]`}><Typography>{title}</Typography></span>
@@ -18,11 +22,11 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
     const fadeAndSlideSpring = useSpring(fadeAndSlide);
     const params = new URLSearchParams(location.search);
     const userInputAvg = params.get("avg");
+    const [isPopOverOpen, setIsPopOverOpen] = useState(false);
 
-
-    React.useEffect(() => {
-        console.log(programs.list.length);
-    });
+    const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
+        setIsPopOverOpen(true);
+    };
 
     return (
         <div className="flex items-center flex-col px-10 py-10">
@@ -66,8 +70,23 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                 {Number(userInputAvg) < 50 ?
                     <Typography>There are currently no avaialble programs for you that we could find...</Typography> :
                     <div className="w-full">
-                        <animated.span style={fadeSpring}>
-                            <Typography sx={{ marginBottom: "2rem" }} variant="h5">Programs For You</Typography>
+                        <animated.span style={fadeSpring} className={"flex justify-between items-center mb-5"}>
+                            <Typography variant="h5">Programs For You</Typography>
+                            <div>
+                                <Button
+                                    variant="outlined"
+                                    color="inherit"
+                                    sx={{ backgroundColor: "#F3F5F7", borderRadius: 15, border: "none", padding: "10px 20px" }}
+                                    startIcon={<FilterListIcon />}
+                                    onClick={handleClick}
+                                >
+                                    Filter
+                                </Button>
+                                <BasicModal
+                                    open={isPopOverOpen}
+                                    handleClose={() => setIsPopOverOpen(false)}
+                                />
+                            </div>
                         </animated.span>
                         <animated.ul style={fadeAndSlideSpring}>
                             <div className="hidden md:flex justify-between mb-4">
