@@ -9,6 +9,7 @@ import categories from '../../data/categories';
 import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from '../../services/store';
 import { setCategory } from '../../services/modules/programs/programs.slice';
+import { simGetReq } from '../../services/modules/uiStates/uiStates.slice';
 
 
 interface ISearchInput {
@@ -65,7 +66,10 @@ const SearchInput: React.FC<ISearchInput> = ({
         }
     }
 
-    const handleNavigation = () => navigate(`/search?avg=${Number(nagivationRef.current) > 100 ? "100" : nagivationRef.current}`);
+    const handleNavigation = () => {
+        dispatch(simGetReq());
+        navigate(`/search?avg=${Number(nagivationRef.current) > 100 ? "100" : nagivationRef.current}`);
+    }
 
     return (
         <div className='w-full justify-center flex items-center flex-col'>
@@ -114,7 +118,10 @@ const SearchInput: React.FC<ISearchInput> = ({
                         },
                     }}
                     value={programSlice.category}
-                    onChange={(e) => dispatch(setCategory(e.target.value))}
+                    onChange={(e) => {
+                        dispatch(simGetReq());
+                        dispatch(setCategory(e.target.value))
+                    }}
                     select
                     label="Category"
                     defaultValue="Any"
