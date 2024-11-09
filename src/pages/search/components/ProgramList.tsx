@@ -27,7 +27,16 @@ const ProgramList: React.FC<IProgramList> = ({ program }) => {
             }}
             className="md:min-h-[100px] md:hover:scale-105 md:hover:bg-[#303BB7] md:hover:text-[white] transition-all last:mb-0 mb-4 border-[1px] border-[solid] border-[#E7E7E7] rounded-[15px] p-5 md:p-0 flex justify-center items-center"
         >
-            <a className="md:hidden w-full flex justify-center items-center" href={program.programLink} target="_blank">
+            <a
+                onClick={() => {
+                    window.gtag("event", "m:program block click", {
+                        page_path: window.location.pathname,
+                    })
+                }}
+                className="md:hidden w-full flex justify-center items-center"
+                href={program.programLink}
+                target="_blank"
+            >
                 <div className="flex-[3]">
                     <Typography className="mb-1" variant="body1">{program.programName}</Typography>
                     <Typography variant="caption">{program.schoolName}</Typography>
@@ -37,7 +46,17 @@ const ProgramList: React.FC<IProgramList> = ({ program }) => {
                     <Typography className={!textWhite ? `text-[#0D47A1]` : 'text-white'} variant="body1">{program.entranceGrade}</Typography>
                 </div>
             </a>
-            <a className="hidden w-full md:flex justify-between items-center" href={program.programLink} target="_blank">
+            <a
+                onClick={() => {
+                    window.gtag("event", "d:program block click", {
+                        page_path: window.location.pathname,
+                        program: program.programName,
+                    })
+                }}
+                className="hidden w-full md:flex justify-between items-center"
+                href={program.programLink}
+                target="_blank"
+            >
                 <DesktopList value={program.programName} />
                 <DesktopList value={program.schoolName} />
                 <DesktopList value={program.length} />

@@ -40,6 +40,7 @@ const SearchInput: React.FC<ISearchInput> = ({
     const [search, setSearch] = useState<string>("");
     const nagivationRef = useRef<string | null>(null);
     const programSlice = useSelector((state: RootState) => state.programsReducer);
+    const programs = useSelector((state: RootState) => state.programsReducer);
 
 
     const [props, api] = useSpring(() => ({
@@ -69,6 +70,8 @@ const SearchInput: React.FC<ISearchInput> = ({
     const handleNavigation = () => {
         window.gtag("event", "search click", {
             page_path: window.location.pathname,
+            input_value: nagivationRef.current,
+            category_type: programs.category,
         })
         dispatch(simGetReq());
         navigate(`/search?avg=${Number(nagivationRef.current) > 100 ? "100" : nagivationRef.current}`);
@@ -100,11 +103,6 @@ const SearchInput: React.FC<ISearchInput> = ({
                         <SearchRoundedIcon />
                     </IconButton>
                     <input
-                        onClick={() => {
-                            window.gtag("event", "search inout click", {
-                                page_path: window.location.pathname,
-                            })
-                        }}
                         onChange={(e) => {
                             const newValue = e.target.value;
                             if (/^\d*$/.test(newValue)) setSearch(newValue);
