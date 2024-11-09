@@ -67,6 +67,9 @@ const SearchInput: React.FC<ISearchInput> = ({
     }
 
     const handleNavigation = () => {
+        window.gtag("event", "search click", {
+            page_path: window.location.pathname,
+        })
         dispatch(simGetReq());
         navigate(`/search?avg=${Number(nagivationRef.current) > 100 ? "100" : nagivationRef.current}`);
     }
@@ -97,6 +100,11 @@ const SearchInput: React.FC<ISearchInput> = ({
                         <SearchRoundedIcon />
                     </IconButton>
                     <input
+                        onClick={() => {
+                            window.gtag("event", "search inout click", {
+                                page_path: window.location.pathname,
+                            })
+                        }}
                         onChange={(e) => {
                             const newValue = e.target.value;
                             if (/^\d*$/.test(newValue)) setSearch(newValue);
