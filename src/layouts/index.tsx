@@ -8,7 +8,7 @@ const Layout = ({ location, children }: any) => {
       {children}
 
       <footer className="flex justify-center items-center p-5">
-        <Typography marginTop={2} color="textDisabled" variant="caption">SU v{packageJSON.version}</Typography>
+        <Typography marginTop={2} color="textDisabled" variant="caption">{packageJSON.version}  © SelectU 2024</Typography>
       </footer>
     </div>
   );

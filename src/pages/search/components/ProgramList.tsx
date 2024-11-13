@@ -29,10 +29,13 @@ const ProgramList: React.FC<IProgramList> = ({ program }) => {
         >
             <a
                 onClick={() => {
-                    window.gtag("event", "m:program block click", {
-                        page_path: window.location.pathname,
-                    })
-                }}
+                    if (window && window.gtag) {
+                        window.gtag("event", "m:program block click", {
+                            page_path: window.location.pathname,
+                        })
+                    }
+                }
+                }
                 className="md:hidden w-full flex justify-center items-center"
                 href={program.programLink}
                 target="_blank"
@@ -48,10 +51,12 @@ const ProgramList: React.FC<IProgramList> = ({ program }) => {
             </a>
             <a
                 onClick={() => {
-                    window.gtag("event", "d:program block click", {
-                        page_path: window.location.pathname,
-                        program: program.programName,
-                    })
+                    if (window && window.gtag) {
+                        window.gtag("event", "d:program block click", {
+                            page_path: window.location.pathname,
+                            program: program.programName,
+                        })
+                    }
                 }}
                 className="hidden w-full md:flex justify-between items-center"
                 href={program.programLink}

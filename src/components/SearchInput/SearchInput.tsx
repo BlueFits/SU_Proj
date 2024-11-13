@@ -68,17 +68,25 @@ const SearchInput: React.FC<ISearchInput> = ({
     }
 
     const handleNavigation = () => {
-        window.gtag("event", "search click", {
-            page_path: window.location.pathname,
-            input_value: nagivationRef.current,
-            category_type: programs.category,
-        })
+        if (window && window.gtag) {
+            window.gtag("event", "search click", {
+                page_path: window.location.pathname,
+                input_value: nagivationRef.current,
+                category_type: programs.category,
+            })
+        }
         dispatch(simGetReq());
         navigate(`/search?avg=${Number(nagivationRef.current) > 100 ? "100" : nagivationRef.current}`);
     }
 
     return (
         <div className='w-full justify-center flex items-center flex-col'>
+            {enableText &&
+                <animated.div style={props}>
+                    <Typography variant="h3">SelectU</Typography>
+                    <Typography margin={"10px 0 50px 0"} className="text-[grey]" variant="body1">Find university and college programs based on your grades</Typography>
+                </animated.div>
+            }
             <animated.div style={props} className={`
                 p-[10px] 
                 rounded-[15px] 
@@ -145,14 +153,14 @@ const SearchInput: React.FC<ISearchInput> = ({
                 </TextField>
                 <div className="h-[10px]" />
             </animated.div>
-            {enableText &&
+            {/* {enableText &&
                 <animated.div style={props}>
                     <div className='h-[15px]' />
                     <Typography variant="caption" className="text-[grey]">
-                        Don’t let your grades define your future—let them guide you to the right program
+                        Find the Right Program for Your Grades!
                     </Typography>
                 </animated.div>
-            }
+            } */}
         </div >
     );
 };
