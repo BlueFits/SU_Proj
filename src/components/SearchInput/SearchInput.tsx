@@ -10,6 +10,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from '../../services/store';
 import { setCategory } from '../../services/modules/programs/programs.slice';
 import { simGetReq } from '../../services/modules/uiStates/uiStates.slice';
+import FilterSubMenu from './components/FitlerSubMenu';
 
 
 interface ISearchInput {
@@ -119,40 +120,49 @@ const SearchInput: React.FC<ISearchInput> = ({
                         name='avg'
                         className='bg-transparent outline-none border-none w-full'
                         type="text"
-                        placeholder='Average'
+                        placeholder='Enter your average'
                     />
                 </form>
-                <TextField
-                    sx={{
-                        '& .MuiOutlinedInput-root': {
-                            '& fieldset': {
-                                borderColor: 'grey', // Default border color
+                <div className='hidden md:block'>
+                    <TextField
+                        sx={{
+                            '& .MuiOutlinedInput-root': {
+                                '& fieldset': {
+                                    borderColor: 'grey', // Default border color
+                                },
+                                color: "grey"
                             },
-                            color: "grey"
-                        },
-                    }}
-                    value={programSlice.category}
-                    onChange={(e) => {
-                        dispatch(simGetReq());
-                        dispatch(setCategory(e.target.value))
-                    }}
-                    select
-                    label="Category"
-                    defaultValue="Any"
-                    slotProps={{
-                        select: {
-                            native: true,
-                        },
-                    }}
-                >
-                    {["Any", ...categories].map((option) => (
-                        <option key={option} value={option}>
-                            {option}
-                        </option>
-                    ))}
-                </TextField>
+                        }}
+                        value={programSlice.category}
+                        onChange={(e) => {
+                            dispatch(simGetReq());
+                            dispatch(setCategory(e.target.value))
+                        }}
+                        select
+                        label="Category"
+                        defaultValue="Any"
+                        slotProps={{
+                            select: {
+                                native: true,
+                            },
+                        }}
+                    >
+                        {["Any", ...categories].map((option) => (
+                            <option key={option} value={option}>
+                                {option}
+                            </option>
+                        ))}
+                    </TextField>
+                </div>
+
+                {/* For mobile */}
+                <div className='md:hidden'>
+                    <FilterSubMenu />
+                </div>
                 <div className="h-[10px]" />
             </animated.div>
+
+            {/* removed */}
             {/* {enableText &&
                 <animated.div style={props}>
                     <div className='h-[15px]' />
