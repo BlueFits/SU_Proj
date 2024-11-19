@@ -11,7 +11,6 @@ const config: GatsbyConfig = {
   // Learn more at: https://gatsby.dev/graphql-typegen
   graphqlTypegen: true,
   plugins: [
-    `gatsby-plugin-react-helmet`,
     "gatsby-plugin-postcss",
     // "gatsby-plugin-google-gtag",
     "gatsby-plugin-image",
