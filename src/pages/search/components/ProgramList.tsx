@@ -22,13 +22,17 @@ const ProgramList: React.FC<IProgramList> = ({ program, inputValue }) => {
     const [textWhite, setTextWhite] = useState(false);
 
 
-    const clickPageProp = {
-        page_path: window.location.pathname,
-        program: program && program.programName,
-        searchValue: inputValue,
-        category: programs.category,
-        location: programs.selectedLocation,
-    };
+    const gtagExec = (type: "mobile" | "desktop") => {
+        if (window && window.gtag) {
+            window.gtag("event", `${type === "mobile" ? "m" : "d"}:program block click`, {
+                page_path: window.location.pathname,
+                program: program && program.programName,
+                searchValue: inputValue,
+                category: programs.category,
+                location: programs.selectedLocation,
+            })
+        }
+    }
 
     return program ? (
         <li
@@ -41,12 +45,7 @@ const ProgramList: React.FC<IProgramList> = ({ program, inputValue }) => {
             className="md:min-h-[100px] md:hover:scale-105 md:hover:bg-[#303BB7] md:hover:text-[white] transition-all last:mb-0 mb-4 border-[1px] border-[solid] border-[#E7E7E7] rounded-[15px] p-5 md:p-0 flex justify-center items-center"
         >
             <a
-                onClick={() => {
-                    if (window && window.gtag) {
-                        window.gtag("event", "m:program block click", clickPageProp)
-                    }
-                }
-                }
+                onClick={() => gtagExec("mobile")}
                 className="md:hidden w-full flex justify-center items-center"
                 href={program.programLink}
                 target="_blank"
@@ -61,11 +60,7 @@ const ProgramList: React.FC<IProgramList> = ({ program, inputValue }) => {
                 </div>
             </a>
             <a
-                onClick={() => {
-                    if (window && window.gtag) {
-                        window.gtag("event", "d:program block click", clickPageProp)
-                    }
-                }}
+                onClick={() => gtagExec("desktop")}
                 className="hidden w-full md:flex justify-between items-center"
                 href={program.programLink}
                 target="_blank"
