@@ -28,7 +28,7 @@ const canadianProvinces: string[] = [
     "Nova Scotia",
     "Ontario",
     "Prince Edward Island",
-    // "Quebec",
+    "Québec",
     "Saskatchewan"
 ];
 
