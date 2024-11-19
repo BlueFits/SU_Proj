@@ -2,7 +2,7 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `SelectU`,
+    title: `SelectU Home- Search for a program based on your grades`,
     description: `Find an undergrad program based on your average`,
     siteUrl: `https://www.selectu.org`,
   },
@@ -11,6 +11,7 @@ const config: GatsbyConfig = {
   // Learn more at: https://gatsby.dev/graphql-typegen
   graphqlTypegen: true,
   plugins: [
+    `gatsby-plugin-react-helmet`,
     "gatsby-plugin-postcss",
     // "gatsby-plugin-google-gtag",
     "gatsby-plugin-image",

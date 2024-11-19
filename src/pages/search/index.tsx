@@ -13,6 +13,7 @@ import FilterModal from "../../components/FilterModal/FilterModal";
 import EditLocationIcon from '@mui/icons-material/EditLocation';
 import CircularProgress from '@mui/material/CircularProgress';
 import { EmptyComponent } from "../../components/EmptyData/EmptyData";
+import { SEO } from "../../components/seo";
 
 
 const LabelList: React.FC<{ title: string }> = ({ title }) => (
@@ -126,4 +127,6 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
 
 export default IndexPage
 
-export const Head: HeadFC = () => <title>Programs based on your grade | SelectU</title>
+export const Head = () => (
+    <SEO title="Programs based on your grade | SelectU" />
+)
