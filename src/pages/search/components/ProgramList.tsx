@@ -32,6 +32,7 @@ const ProgramList: React.FC<IProgramList> = ({ program }) => {
                     if (window && window.gtag) {
                         window.gtag("event", "m:program block click", {
                             page_path: window.location.pathname,
+                            program: program.programName,
                         })
                     }
                 }
