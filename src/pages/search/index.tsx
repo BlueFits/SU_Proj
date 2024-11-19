@@ -44,7 +44,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
             if (grade <= Number(userInputAvg) && programs.category !== "Any" && program.programName.includes(programs.category)) return program
             if (grade <= Number(userInputAvg) && programs.category === "Any") return program;
         }
-    }).map((program, i) => <ProgramList key={`tempIDForList:${i}`} program={program} />);
+    }).map((program, i) => <ProgramList key={`tempIDForList:${i}`} program={program} inputValue={userInputAvg || "n/a"} />);
 
     return (
         <div className="flex items-center flex-col px-10 py-10">
