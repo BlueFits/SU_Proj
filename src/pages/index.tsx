@@ -11,7 +11,7 @@ const IndexPage: React.FC<PageProps> = () => {
         <div className="w-4/5 md:flex md:justify-center md:items-center flex-col text-center">
           <SearchInput enableText />
         </div>
-      </section>s
+      </section>
     </main>
   )
 }
