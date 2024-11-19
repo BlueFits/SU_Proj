@@ -126,4 +126,4 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
 
 export default IndexPage
 
-export const Head: HeadFC = () => <title>Search Page</title>
+export const Head: HeadFC = () => <title>Programs based on your grade | SelectU</title>
