@@ -2,7 +2,7 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `SelectU Home- Search for a program based on your grades`,
+    title: `SelectU Home - Search for a program based on your grades`,
     description: `Find an undergrad program based on your average`,
     siteUrl: `https://www.selectu.org`,
   },
