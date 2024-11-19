@@ -77,6 +77,7 @@ const SearchInput: React.FC<ISearchInput> = ({
             })
         }
         dispatch(simGetReq());
+        //@ts-expect-error
         navigate(`/search?avg=${Number(nagivationRef.current) > 100 ? "100" : nagivationRef.current}`);
     }
 

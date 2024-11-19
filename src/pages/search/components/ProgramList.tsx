@@ -1,10 +1,13 @@
 import React, { useState } from "react";
 import Typography from "@mui/material/Typography/Typography";
 import { program } from "../../../services/modules/programs/programs.slice";
+import { useSelector } from "react-redux";
+import { RootState } from "../../../services/store";
 
 
 interface IProgramList {
     program: program | null;
+    inputValue: string;
 }
 
 const DesktopList: React.FC<{ value: string }> = ({ value }) => (
@@ -13,9 +16,19 @@ const DesktopList: React.FC<{ value: string }> = ({ value }) => (
     </div>
 );
 
-const ProgramList: React.FC<IProgramList> = ({ program }) => {
+const ProgramList: React.FC<IProgramList> = ({ program, inputValue }) => {
+    const programs = useSelector((state: RootState) => state.programsReducer);
 
     const [textWhite, setTextWhite] = useState(false);
+
+
+    const clickPageProp = {
+        page_path: window.location.pathname,
+        program: program && program.programName,
+        searchValue: inputValue,
+        category: programs.category,
+        location: programs.selectedLocation,
+    };
 
     return program ? (
         <li
@@ -30,10 +43,7 @@ const ProgramList: React.FC<IProgramList> = ({ program }) => {
             <a
                 onClick={() => {
                     if (window && window.gtag) {
-                        window.gtag("event", "m:program block click", {
-                            page_path: window.location.pathname,
-                            program: program.programName,
-                        })
+                        window.gtag("event", "m:program block click", clickPageProp)
                     }
                 }
                 }
@@ -53,10 +63,7 @@ const ProgramList: React.FC<IProgramList> = ({ program }) => {
             <a
                 onClick={() => {
                     if (window && window.gtag) {
-                        window.gtag("event", "d:program block click", {
-                            page_path: window.location.pathname,
-                            program: program.programName,
-                        })
+                        window.gtag("event", "d:program block click", clickPageProp)
                     }
                 }}
                 className="hidden w-full md:flex justify-between items-center"

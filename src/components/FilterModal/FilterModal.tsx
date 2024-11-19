@@ -56,6 +56,12 @@ const FilterModal: React.FC<{ handleClose: () => void, open: boolean }> = ({ han
                         }}
                         value={programs.selectedLocation}
                         onChange={(e) => {
+                            if (window && window.gtag) {
+                                window.gtag("event", "location filter click", {
+                                    page_path: window.location.pathname,
+                                    location_value: e.target.value,
+                                })
+                            }
                             dispatch(setLocation(e.target.value));
                             handleClose();
                         }}
