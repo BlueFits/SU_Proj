@@ -140,7 +140,6 @@ const SearchInput: React.FC<ISearchInput> = ({
                         }}
                         select
                         label="Category"
-                        defaultValue="Any"
                         slotProps={{
                             select: {
                                 native: true,
