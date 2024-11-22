@@ -97,7 +97,7 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
             <TableBody>
               {isFetching ?
                 <TableRow sx={{ border: "none" }}>
-                  <TableCell sx={{ height: minHeightTable }} colSpan={5}>
+                  <TableCell sx={{ height: minHeightTable, border: "none" }} colSpan={6}>
                     <div className={`flex justify-center items-center`}>
                       <CircularProgress />
                     </div>
