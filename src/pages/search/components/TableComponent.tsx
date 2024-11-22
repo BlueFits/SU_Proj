@@ -21,7 +21,7 @@ interface Column {
 const columns: readonly Column[] = [
   {
     id: 'programName',
-    label: 'name',
+    label: 'Name',
     minWidth: 100
   },
   {
@@ -108,7 +108,14 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
                   .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
                   .map((row, index) => {
                     return (
-                      <TableRow hover role="checkbox" tabIndex={-1} key={`KeyForRow:${index}`}>
+                      <TableRow
+                        onClick={() => window.open(row.programLink, '_blank')}
+                        hover
+                        className='cursor-pointer'
+                        role="link"
+                        tabIndex={-1}
+                        key={`KeyForRow:${index}`}
+                      >
                         {columns.map((column, index) => {
                           return (
                             <TableCell key={column.id} align={column.align}>

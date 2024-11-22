@@ -11,6 +11,10 @@ import { extendTheme, styled } from '@mui/material/styles';
 import { DashboardLayout } from '@toolpad/core/DashboardLayout';
 import { PageContainer } from '@toolpad/core/PageContainer';
 import useMediaQuery from '@mui/material/useMediaQuery';
+import SearchIcon from '@mui/icons-material/Search';
+import GradeIcon from '@mui/icons-material/Grade';
+import InfoIcon from '@mui/icons-material/Info';
+import QuizIcon from '@mui/icons-material/Quiz';
 
 
 const NAVIGATION: Navigation = [
@@ -19,44 +23,50 @@ const NAVIGATION: Navigation = [
 		title: 'Main items',
 	},
 	{
-		segment: 'dashboard',
-		title: 'Dashboard',
-		icon: <DashboardIcon />,
+		segment: 'search/',
+		title: 'Search',
+		icon: <SearchIcon />,
 	},
 	{
-		segment: 'orders',
-		title: 'Orders',
-		icon: <ShoppingCartIcon />,
+		segment: 'not_available',
+		title: 'Saved Programs',
+		icon: <GradeIcon />,
 	},
 	{
 		kind: 'divider',
 	},
 	{
 		kind: 'header',
-		title: 'Analytics',
+		title: 'More Info',
 	},
 	{
-		segment: 'reports',
-		title: 'Reports',
-		icon: <BarChartIcon />,
+		segment: 'not_available',
+		title: 'About us',
+		icon: <InfoIcon />,
 		children: [
 			{
-				segment: 'sales',
-				title: 'Sales',
-				icon: <DescriptionIcon />,
-			},
-			{
-				segment: 'traffic',
-				title: 'Traffic',
-				icon: <DescriptionIcon />,
+				title: 'Faq',
+				icon: <QuizIcon />,
 			},
 		],
 	},
-	{
-		segment: 'integrations',
-		title: 'Integrations',
-		icon: <LayersIcon />,
-	},
+	// {
+	// 	segment: 'reports',
+	// 	title: 'Reports',
+	// 	icon: <BarChartIcon />,
+	// 	children: [
+	// 		{
+	// 			segment: 'sales',
+	// 			title: 'Sales',
+	// 			icon: <DescriptionIcon />,
+	// 		},
+	// 		{
+	// 			segment: 'traffic',
+	// 			title: 'Traffic',
+	// 			icon: <DescriptionIcon />,
+	// 		},
+	// 	],
+	// },
 ];
 
 const demoTheme = extendTheme({
@@ -79,7 +89,7 @@ const Layout = ({ location, children }: any) => {
 	return (
 		<AppProvider
 
-			branding={{ title: "SelectU" }}
+			branding={{ title: "SelectU", logo: false }}
 			navigation={NAVIGATION}
 			// router={router}
 			theme={demoTheme}
@@ -95,7 +105,7 @@ const Layout = ({ location, children }: any) => {
 			{/* <footer className="flex justify-center items-center p-5 border-[1px]">
 				<Typography marginTop={2} color="textDisabled" variant="caption">{packageJSON.version}  © SelectU 2024</Typography>
 			</footer> */}
-		</AppProvider >
+		</AppProvider>
 	);
 };
 

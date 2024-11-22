@@ -23,7 +23,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
     const params = new URLSearchParams(location.search);
     const userInputAvg = params.get("avg");
     const [isPopOverOpen, setIsPopOverOpen] = useState(false);
-    const [isFilterOpen, setIsFilterOpen] = useState(true);
+    const [isFilterOpen, setIsFilterOpen] = useState(false);
     const buttonRef = useRef(null);
 
     const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
@@ -33,17 +33,6 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
     const filterButtonHandler = () => {
         setIsFilterOpen(true);
     };
-
-    // const data = programs.list.filter((program) => {
-    //     const grade = Number(program.entranceGrade[0] + program.entranceGrade[1]);
-    //     if (programs.selectedLocation.length === 0) {
-    //         if (grade <= Number(userInputAvg) && (programs.category.length > 0) && programs.category.find(str => str.includes(program.programName))) return program
-    //         if (grade <= Number(userInputAvg) && programs.category.length === 0) return program;
-    //     } else if (programs.selectedLocation.some(location => program.location.includes(location))) {
-    //         if (grade <= Number(userInputAvg) && (programs.category.length > 0) && programs.category.find(str => str.includes(program.programName))) return program
-    //         if (grade <= Number(userInputAvg) && programs.category.length === 0) return program;
-    //     }
-    // });
 
     const data = programs.list.filter((program) => {
         const grade = Number(program.entranceGrade[0] + program.entranceGrade[1]);
@@ -62,8 +51,6 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
         return isLocationMatch && isCategoryMatch;
     });
 
-    // React.useEffect(() => { console.log(data); }, [data]);
-
     return (
         <FilterDrawer
             open={isFilterOpen}
@@ -74,14 +61,14 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                 <div className="w-full flex flex-col h-full">
                     <animated.div style={fadeSpring} className="w-full flex-[0]">
                         <div className={`flex justify-start items-end h-[100px]`}>
-                            <div className="flex justify-center items-center">
+                            <div className="flex justify-start items-center w-full">
                                 {!isFilterOpen &&
                                     <IconButton onClick={filterButtonHandler}>
                                         <FilterAltIcon />
                                     </IconButton>
                                 }
 
-                                <div className="flex justify-center">
+                                <div className="ml-3 flex justify-center w-full md:w-[50%]">
                                     <SearchInput disableAnim />
                                 </div>
                             </div>
@@ -104,11 +91,11 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                     </animated.div>
 
                     {Number(userInputAvg) < 50 ?
-                        <Typography>There are currently no avaialble programs for you that we could find...</Typography> :
+                        <Typography>There are currently no avaialble programs for you that we could find please try again...</Typography> :
                         <div className={`w-full flex flex-col h-full`}>
                             <animated.div style={fadeSpring} className={"flex justify-between items-center mb-5"}>
                                 <Typography variant="h5">Programs For You</Typography>
-                                <div>
+                                {/* <div>
                                     <Button
                                         ref={buttonRef}
                                         variant="outlined"
@@ -123,7 +110,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                                         open={isPopOverOpen}
                                         handleClose={() => setIsPopOverOpen(false)}
                                     />
-                                </div>
+                                </div> */}
                             </animated.div>
                             {/* <animated.ul className={'w-full'} style={fadeAndSlideSpring}> */}
                             <div className={`w-full h-full border-[1px]`}>
