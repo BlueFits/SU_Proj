@@ -7,7 +7,6 @@ import { Typography } from '@mui/material';
 import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from '../../services/store';
 import { simGetReq } from '../../services/modules/uiStates/uiStates.slice';
-import FilterSubMenu from './components/FitlerSubMenu';
 import { useTheme } from '@mui/material/styles';
 
 

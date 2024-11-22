@@ -104,7 +104,7 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
                   </TableCell>
                 </TableRow>
                 :
-                programs.length > 0 ? programs && programs.length > 0 && programs
+                programs && programs.length > 0 ? programs && programs.length > 0 && programs
                   .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
                   .map((row, index) => {
                     return (
@@ -149,7 +149,7 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
         }}
         rowsPerPageOptions={rowsPerPageOption}
         component="div"
-        count={programs.length}
+        count={(programs && programs.length) || 0}
         rowsPerPage={rowsPerPage}
         page={page}
         onPageChange={handleChangePage}

@@ -8,7 +8,6 @@ import { RootState } from "../../services/store";
 import { fade, fadeAndSlide } from "../../anims/CustomAnims";
 import Button from '@mui/material/Button';
 import { useRef, useState } from "react";
-import FilterModal from "../../components/FilterModal/FilterModal";
 import EditLocationIcon from '@mui/icons-material/EditLocation';
 import { SEO } from "../../components/seo";
 import FilterDrawer from "./components/FilterDrawer/FilterDrawer";
