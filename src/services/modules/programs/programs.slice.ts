@@ -12,13 +12,13 @@ export type program = {
   location: string;
 };
 
-export interface CounterState {
+export interface programSliceState {
   list: Array<program>;
   category: string;
   selectedLocation: string;
 }
 
-const initialState: CounterState = {
+const initialState: programSliceState = {
   list: data,
   category: "Any",
   selectedLocation: "All"

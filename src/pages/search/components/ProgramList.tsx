@@ -11,7 +11,7 @@ interface IProgramList {
 }
 
 const DesktopList: React.FC<{ value: string }> = ({ value }) => (
-    <div className={`w-[300px] p-5`}>
+    <div className={`p-5`}>
         <Typography sx={{ wordBreak: "break-word" }} className="mb-1" variant="body1">{value}</Typography>
     </div>
 );
@@ -42,7 +42,7 @@ const ProgramList: React.FC<IProgramList> = ({ program, inputValue }) => {
             onMouseOut={() => {
                 setTextWhite(false);
             }}
-            className="md:min-h-[100px] md:hover:scale-105 md:hover:bg-[#303BB7] md:hover:text-[white] transition-all last:mb-0 mb-4 border-[1px] border-[solid] border-[#E7E7E7] rounded-[15px] p-5 md:p-0 flex justify-center items-center"
+            className="w-fit md:min-h-[100px] md:hover:scale-105 md:hover:bg-[#303BB7] md:hover:text-[white] transition-all last:mb-0 mb-4 border-[1px] border-[solid] border-[#E7E7E7] rounded-[15px] p-5 md:p-0 flex justify-center items-center"
         >
             <a
                 onClick={() => gtagExec("mobile")}
