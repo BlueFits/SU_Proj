@@ -1,6 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit'
 import type { PayloadAction } from '@reduxjs/toolkit'
 import data from "../../../data/index";
+import provinces from '../../../data/provinces';
 
 export type program = {
   schoolName: string;
@@ -14,24 +15,24 @@ export type program = {
 
 export interface programSliceState {
   list: Array<program>;
-  category: string;
-  selectedLocation: string;
+  category: Array<string>;
+  selectedLocation: Array<string>;
 }
 
 const initialState: programSliceState = {
   list: data,
-  category: "Any",
-  selectedLocation: "All"
+  category: [],
+  selectedLocation: [],
 }
 
 export const programsSlice = createSlice({
   name: 'program',
   initialState,
   reducers: {
-    setCategory: (state, action: PayloadAction<string>) => {
+    setCategory: (state, action: PayloadAction<Array<string>>) => {
       state.category = action.payload;
     },
-    setLocation: (state, action: PayloadAction<string>) => {
+    setLocation: (state, action: PayloadAction<Array<string>>) => {
       state.selectedLocation = action.payload;
     }
   },

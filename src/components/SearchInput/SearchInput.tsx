@@ -125,7 +125,7 @@ const SearchInput: React.FC<ISearchInput> = ({
                     />
                 </form>
                 <div className='hidden md:block'>
-                    <TextField
+                    {/* <TextField
                         sx={{
                             '& .MuiOutlinedInput-root': {
                                 '& fieldset': {
@@ -152,7 +152,7 @@ const SearchInput: React.FC<ISearchInput> = ({
                                 {option}
                             </option>
                         ))}
-                    </TextField>
+                    </TextField> */}
                 </div>
 
                 {/* For mobile */}

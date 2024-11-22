@@ -52,7 +52,7 @@ const columns: readonly Column[] = [
   },
 ];
 
-const rowsPerPageOption = [10, 25, 50, 100];
+const rowsPerPageOption = [20, 50, 100];
 
 const minHeightTable = 600;
 
@@ -121,7 +121,7 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
                   })
                   :
                   <TableRow sx={{ border: "none" }}>
-                    <TableCell sx={{ height: minHeightTable }} colSpan={5}>
+                    <TableCell sx={{ height: minHeightTable, border: "none" }} colSpan={6}>
                       <div className="flex justify-center items-center py-10">
                         <EmptyComponent />
                       </div>

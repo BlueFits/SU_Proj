@@ -3,7 +3,7 @@ import type { PageProps } from "gatsby"
 import { useSpring, animated } from '@react-spring/web';
 import SearchInput from "../../components/SearchInput/SearchInput";
 import { Typography } from "@mui/material";
-import { useDispatch, useSelector } from "react-redux";
+import { useSelector } from "react-redux";
 import { RootState } from "../../services/store";
 import { fade, fadeAndSlide } from "../../anims/CustomAnims";
 import Button from '@mui/material/Button';
@@ -11,21 +11,19 @@ import { useRef, useState } from "react";
 import FilterModal from "../../components/FilterModal/FilterModal";
 import EditLocationIcon from '@mui/icons-material/EditLocation';
 import { SEO } from "../../components/seo";
-import FilterDrawer from "./components/FilterDrawer";
+import FilterDrawer from "./components/FilterDrawer/FilterDrawer";
 import IconButton from '@mui/material/IconButton';
 import FilterAltIcon from '@mui/icons-material/FilterAlt';
 import TableComponent from "./components/TableComponent";
 
 const IndexPage: React.FC<PageProps> = ({ location }) => {
-    const dispatch = useDispatch();
     const programs = useSelector((state: RootState) => state.programsReducer)
     const uiStates = useSelector((state: RootState) => state.uiStatesReducer);
     const fadeSpring = useSpring(fade);
-    const fadeAndSlideSpring = useSpring(fadeAndSlide);
     const params = new URLSearchParams(location.search);
     const userInputAvg = params.get("avg");
     const [isPopOverOpen, setIsPopOverOpen] = useState(false);
-    const [isFilterOpen, setIsFilterOpen] = useState(false);
+    const [isFilterOpen, setIsFilterOpen] = useState(true);
     const buttonRef = useRef(null);
 
     const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
@@ -36,15 +34,32 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
         setIsFilterOpen(true);
     };
 
+    // const data = programs.list.filter((program) => {
+    //     const grade = Number(program.entranceGrade[0] + program.entranceGrade[1]);
+    //     if (programs.selectedLocation.length === 0) {
+    //         if (grade <= Number(userInputAvg) && (programs.category.length > 0) && programs.category.find(str => str.includes(program.programName))) return program
+    //         if (grade <= Number(userInputAvg) && programs.category.length === 0) return program;
+    //     } else if (programs.selectedLocation.some(location => program.location.includes(location))) {
+    //         if (grade <= Number(userInputAvg) && (programs.category.length > 0) && programs.category.find(str => str.includes(program.programName))) return program
+    //         if (grade <= Number(userInputAvg) && programs.category.length === 0) return program;
+    //     }
+    // });
+
     const data = programs.list.filter((program) => {
         const grade = Number(program.entranceGrade[0] + program.entranceGrade[1]);
-        if (programs.selectedLocation === "All") {
-            if (grade <= Number(userInputAvg) && programs.category !== "Any" && program.programName.includes(programs.category)) return program
-            if (grade <= Number(userInputAvg) && programs.category === "Any") return program;
-        } else if (program.location.includes(programs.selectedLocation)) {
-            if (grade <= Number(userInputAvg) && programs.category !== "Any" && program.programName.includes(programs.category)) return program
-            if (grade <= Number(userInputAvg) && programs.category === "Any") return program;
-        }
+        const userAvg = Number(userInputAvg);
+
+        if (grade > userAvg || !grade) return false;
+
+        const isCategoryMatch =
+            programs.category.length === 0 ||
+            programs.category.some(str => program.programName.includes(str));
+
+        const isLocationMatch =
+            programs.selectedLocation.length === 0 ||
+            programs.selectedLocation.some(location => program.location.includes(location));
+
+        return isLocationMatch && isCategoryMatch;
     });
 
     // React.useEffect(() => { console.log(data); }, [data]);
@@ -58,7 +73,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                 {/* <div className="w-full max-w-[1400px]"> */}
                 <div className="w-full flex flex-col h-full">
                     <animated.div style={fadeSpring} className="w-full flex-[0]">
-                        <div className="flex justify-start items-end h-[100px]">
+                        <div className={`flex justify-start items-end h-[100px]`}>
                             <div className="flex justify-center items-center">
                                 {!isFilterOpen &&
                                     <IconButton onClick={filterButtonHandler}>

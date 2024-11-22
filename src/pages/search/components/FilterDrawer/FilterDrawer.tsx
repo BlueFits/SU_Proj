@@ -1,21 +1,20 @@
 import * as React from 'react';
-import { styled, useTheme } from '@mui/material/styles';
+import { styled } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 import Drawer from '@mui/material/Drawer';
 import CssBaseline from '@mui/material/CssBaseline';
 import List from '@mui/material/List';
 import Divider from '@mui/material/Divider';
-import IconButton from '@mui/material/IconButton';
-import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
-import ChevronRightIcon from '@mui/icons-material/ChevronRight';
-import ListItem from '@mui/material/ListItem';
-import ListItemButton from '@mui/material/ListItemButton';
-import ListItemIcon from '@mui/material/ListItemIcon';
-import ListItemText from '@mui/material/ListItemText';
-import MailIcon from '@mui/icons-material/Mail';
 import FilterAltIcon from '@mui/icons-material/FilterAlt';
 import Button from '@mui/material/Button';
-import { useRef } from 'react';
+import { useRef, useState } from 'react';
+import ListFilterDropdown from './components/ListFilterDropdown';
+import ProgramsDropdown from './components/ProgramsDropdown';
+import { useDispatch } from 'react-redux';
+import { setCategory, setLocation } from '../../../../services/modules/programs/programs.slice';
+import { simGetReq } from '../../../../services/modules/uiStates/uiStates.slice';
+import LocationDropdown from './components/LocationDropdown';
+
 
 const drawerWidth = 240;
 
@@ -47,10 +46,7 @@ const Main = styled('main', { shouldForwardProp: (prop) => prop !== 'open' })<{
 const DrawerHeader = styled('div')(({ theme }) => ({
     display: 'flex',
     alignItems: 'end',
-    // padding: theme.spacing(0, 1),
-    // this height is taken from the calculated height of the search input container div
     height: "100px",
-    // necessary for content to be below app bar
     ...theme.mixins.toolbar,
     justifyContent: 'flex-start',
 }));
@@ -62,9 +58,27 @@ interface IFilterDrawer {
 }
 
 const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, children }) => {
-    const anchorRef = useRef(null); // Reference to the div
-    const theme = useTheme();
-    // const [open, setOpen] = React.useState(true);
+    const dispatch = useDispatch();
+    const anchorRef = useRef(null);
+
+    const [isProgramFilterOpen, setIsProgramFilterOpen] = useState(false);
+    const [isLocationFilterOpen, setIsLocationFilterOpen] = useState(false);
+
+    const programFilterChangeHandler = () => {
+        if (isProgramFilterOpen) {
+            dispatch(simGetReq());
+            dispatch(setCategory([]));
+        }
+        setIsProgramFilterOpen(!isProgramFilterOpen);
+    }
+
+    const locationFilerChangeHandler = () => {
+        if (isProgramFilterOpen) {
+            dispatch(simGetReq());
+            dispatch(setLocation([]));
+        }
+        setIsLocationFilterOpen(!isLocationFilterOpen);
+    }
 
     return (
         <Box
@@ -91,9 +105,8 @@ const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, childr
                 open={open}
                 container={anchorRef.current} // Pass the div reference
             >
-                {/* <div className='pl-5'> */}
                 <DrawerHeader>
-                    <div className='w-full h-[76px] flex justify-start items-center px-[8px]'>
+                    <div className={`w-full h-[76px] flex justify-start items-center`}>
                         <Button
                             sx={{ textTransform: "none" }}
                             variant="text"
@@ -106,21 +119,20 @@ const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, childr
                     </div>
                 </DrawerHeader>
                 <Divider />
-                <List>
-                    <ListItem disablePadding>
-                        <ListItemButton>
-                            <ListItemIcon>
-                                <MailIcon />
-                            </ListItemIcon>
-                            <ListItemText primary={"asd"} />
-                        </ListItemButton>
-                    </ListItem>
+                <List disablePadding>
+                    <ListFilterDropdown
+                        title='Programs'
+                    >
+                        <ProgramsDropdown />
+                    </ListFilterDropdown>
+                    <ListFilterDropdown
+                        title='Location'
+                    >
+                        <LocationDropdown />
+                    </ListFilterDropdown>
                 </List>
-                {/* <Divider /> */}
-                {/* </div> */}
             </Drawer>
             <Main open={open}>
-                {/* <DrawerHeader /> */}
                 {children}
             </Main>
         </Box>
