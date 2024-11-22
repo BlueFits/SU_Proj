@@ -68,6 +68,7 @@ const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, childr
 
     return (
         <Box
+            height="100vh"
             ref={anchorRef}
             sx={{ display: 'flex', position: "relative" }}
         >

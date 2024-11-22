@@ -52,7 +52,7 @@ const columns: readonly Column[] = [
   },
 ];
 
-const rowsPerPageOption = [15, 25, 50, 100];
+const rowsPerPageOption = [10, 25, 50, 100];
 
 const minHeightTable = 600;
 
@@ -71,60 +71,75 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
 
   return (
     // <Paper sx={{ width: '100%', overflow: 'hidden' }}>
-    <div className='border-[1px]'>
-      <TableContainer sx={{ minHeight: minHeightTable }}>
-        <Table stickyHeader aria-label="sticky table">
-          <TableHead>
-            <TableRow>
-              {columns.map((column) => (
-                <TableCell
-                  key={column.id}
-                  align={column.align}
-                  style={{ minWidth: column.minWidth }}
-                >
-                  {column.label}
-                </TableCell>
-              ))}
-            </TableRow>
-          </TableHead>
-          <TableBody>
-            {isFetching ?
-              <TableRow sx={{ border: "none" }}>
-                <TableCell sx={{ height: minHeightTable }} colSpan={5}>
-                  <div className={`flex justify-center items-center`}>
-                    <CircularProgress />
-                  </div>
-                </TableCell>
+    <div className='h-full w-full relative flex flex-col justify-between'>
+      <div className='relative w-full h-full'>
+        <TableContainer
+          sx={{
+            // flex: 1,
+            // overflow: 'auto',
+            height: "100%",
+            position: "absolute",
+          }}>
+          <Table stickyHeader aria-label="sticky table">
+            <TableHead>
+              <TableRow>
+                {columns.map((column) => (
+                  <TableCell
+                    key={column.id}
+                    align={column.align}
+                    style={{ minWidth: column.minWidth }}
+                  >
+                    {column.label}
+                  </TableCell>
+                ))}
               </TableRow>
-              :
-              programs.length > 0 ? programs && programs.length > 0 && programs
-                .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
-                .map((row, index) => {
-                  return (
-                    <TableRow hover role="checkbox" tabIndex={-1} key={`KeyForRow:${index}`}>
-                      {columns.map((column, index) => {
-                        return (
-                          <TableCell key={column.id} align={column.align}>
-                            {row[column.id]}
-                          </TableCell>
-                        );
-                      })}
-                    </TableRow>
-                  );
-                })
-                :
+            </TableHead>
+            <TableBody>
+              {isFetching ?
                 <TableRow sx={{ border: "none" }}>
                   <TableCell sx={{ height: minHeightTable }} colSpan={5}>
-                    <div className="flex justify-center items-center py-10">
-                      <EmptyComponent />
+                    <div className={`flex justify-center items-center`}>
+                      <CircularProgress />
                     </div>
                   </TableCell>
                 </TableRow>
-            }
-          </TableBody>
-        </Table>
-      </TableContainer>
+                :
+                programs.length > 0 ? programs && programs.length > 0 && programs
+                  .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
+                  .map((row, index) => {
+                    return (
+                      <TableRow hover role="checkbox" tabIndex={-1} key={`KeyForRow:${index}`}>
+                        {columns.map((column, index) => {
+                          return (
+                            <TableCell key={column.id} align={column.align}>
+                              {row[column.id]}
+                            </TableCell>
+                          );
+                        })}
+                      </TableRow>
+                    );
+                  })
+                  :
+                  <TableRow sx={{ border: "none" }}>
+                    <TableCell sx={{ height: minHeightTable }} colSpan={5}>
+                      <div className="flex justify-center items-center py-10">
+                        <EmptyComponent />
+                      </div>
+                    </TableCell>
+                  </TableRow>
+              }
+            </TableBody>
+          </Table>
+        </TableContainer>
+      </div>
       <TablePagination
+        sx={{
+          // flex: 1,
+          // width: "100%",
+          margin: 0, // Remove unwanted margin
+          padding: 0, // Remove unwanted padding
+          overflow: 'hidden', // Contain it within the boundaries
+        }}
         rowsPerPageOptions={rowsPerPageOption}
         component="div"
         count={programs.length}

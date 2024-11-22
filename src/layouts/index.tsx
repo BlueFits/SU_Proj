@@ -88,7 +88,7 @@ const Layout = ({ location, children }: any) => {
 			<DashboardLayout
 				defaultSidebarCollapsed
 			>
-				<PageContainer maxWidth={matches ? "xs" : false}>
+				<PageContainer maxWidth={false}>
 					{children}
 				</PageContainer>
 			</DashboardLayout>

@@ -54,10 +54,10 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
             open={isFilterOpen}
             handleDrawerClose={() => setIsFilterOpen(false)}
         >
-            <div className="flex items-start flex-col px-5 pb-10">
+            <div className="flex items-start flex-col px-5 pb-10 h-full">
                 {/* <div className="w-full max-w-[1400px]"> */}
-                <div className="w-full">
-                    <animated.div style={fadeSpring} className="w-full">
+                <div className="w-full flex flex-col h-full">
+                    <animated.div style={fadeSpring} className="w-full flex-[0]">
                         <div className="flex justify-start items-end h-[100px]">
                             <div className="flex justify-center items-center">
                                 {!isFilterOpen &&
@@ -90,7 +90,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
 
                     {Number(userInputAvg) < 50 ?
                         <Typography>There are currently no avaialble programs for you that we could find...</Typography> :
-                        <div className={`w-full`}>
+                        <div className={`w-full flex flex-col h-full`}>
                             <animated.div style={fadeSpring} className={"flex justify-between items-center mb-5"}>
                                 <Typography variant="h5">Programs For You</Typography>
                                 <div>
@@ -111,7 +111,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                                 </div>
                             </animated.div>
                             {/* <animated.ul className={'w-full'} style={fadeAndSlideSpring}> */}
-                            <div className={`transition-all`}>
+                            <div className={`w-full h-full border-[1px]`}>
                                 <TableComponent programs={data} isFetching={uiStates.isResultsLoading} />
                             </div>
                             {/* </animated.ul> */}
