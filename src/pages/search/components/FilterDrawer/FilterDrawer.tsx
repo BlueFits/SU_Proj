@@ -120,14 +120,10 @@ const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, childr
                 </DrawerHeader>
                 <Divider />
                 <List disablePadding>
-                    <ListFilterDropdown
-                        title='Programs'
-                    >
+                    <ListFilterDropdown title='Programs'>
                         <ProgramsDropdown />
                     </ListFilterDropdown>
-                    <ListFilterDropdown
-                        title='Location'
-                    >
+                    <ListFilterDropdown title='Location'>
                         <LocationDropdown />
                     </ListFilterDropdown>
                 </List>
