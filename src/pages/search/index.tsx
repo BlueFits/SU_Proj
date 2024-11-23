@@ -112,7 +112,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                                 </div> */}
                             </animated.div>
                             {/* <animated.ul className={'w-full'} style={fadeAndSlideSpring}> */}
-                            <div className={`w-full h-full border-[1px]`}>
+                            <div className={`w-full h-[90vh] border-[1px] mb-5`}>
                                 <TableComponent programs={data} isFetching={uiStates.isResultsLoading} />
                             </div>
                             {/* </animated.ul> */}
