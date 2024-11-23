@@ -30,6 +30,12 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
     };
 
     const filterButtonHandler = () => {
+        if (window && window.gtag) {
+            window.gtag("event", "search click", {
+                grade: userInputAvg,
+                category_type: programs.category,
+            })
+        }
         setIsFilterOpen(true);
     };
 
@@ -55,7 +61,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
             open={isFilterOpen}
             handleDrawerClose={() => setIsFilterOpen(false)}
         >
-            <div className="flex items-start flex-col px-5 pb-10 h-full">
+            <div className="flex items-start flex-col md:px-5 pb-10 h-full">
                 {/* <div className="w-full max-w-[1400px]"> */}
                 <div className="w-full flex flex-col h-full">
                     <animated.div style={fadeSpring} className="w-full flex-[0]">
@@ -73,7 +79,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                             </div>
                         </div>
 
-                        <div className="w-full my-12">
+                        {/* <div className="hidden md:block w-full my-12">
                             {!userInputAvg ?
                                 <span>
                                     <Typography variant="body1">Here are some programs for you to explore</Typography>
@@ -86,36 +92,34 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                                     </div>
                                 </span>
                             }
-                        </div>
+                        </div> */}
                     </animated.div>
 
                     {Number(userInputAvg) < 50 ?
                         <Typography>There are currently no avaialble programs for you that we could find please try again...</Typography> :
                         <div className={`w-full flex flex-col h-full`}>
-                            <animated.div style={fadeSpring} className={"flex justify-between items-center mb-5"}>
-                                <Typography variant="h5">Programs For You</Typography>
-                                {/* <div>
-                                    <Button
-                                        ref={buttonRef}
-                                        variant="outlined"
-                                        color="inherit"
-                                        sx={{ backgroundColor: "#F3F5F7", borderRadius: 15, border: "none", padding: "10px 20px" }}
-                                        startIcon={<EditLocationIcon />}
-                                        onClick={handleClick}
-                                    >
-                                        Location
-                                    </Button>
-                                    <FilterModal
-                                        open={isPopOverOpen}
-                                        handleClose={() => setIsPopOverOpen(false)}
-                                    />
+                            <animated.div style={fadeSpring} className={"flex justify-between items-center mb-5 md:mt-12 md:mb-7"}>
+                                {/* <div className="md:hidden flex justify-center items-end">
+                                    <Typography variant="h6">Programs for</Typography>
+                                    <div className={`transition-all ${uiStates.isResultsLoading && "opacity-0"}`}>
+                                        <Typography variant="h5" marginLeft={1}>{userInputAvg}%</Typography>
+                                    </div>
                                 </div> */}
+                                <div className="hidden md:block">
+                                    <Typography variant="h5">Available Programs</Typography>
+                                </div>
                             </animated.div>
-                            {/* <animated.ul className={'w-full'} style={fadeAndSlideSpring}> */}
                             <div className={`w-full h-[90vh] border-[1px] mb-5`}>
-                                <TableComponent programs={data} isFetching={uiStates.isResultsLoading} />
+                                <TableComponent
+                                    userInfo={{
+                                        grade: userInputAvg || "",
+                                        category: programs.category.join(","),
+                                        location: programs.selectedLocation.join(","),
+                                    }}
+                                    programs={data}
+                                    isFetching={uiStates.isResultsLoading}
+                                />
                             </div>
-                            {/* </animated.ul> */}
                         </div>
                     }
                 </div>

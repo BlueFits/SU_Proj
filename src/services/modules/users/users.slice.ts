@@ -2,24 +2,24 @@ import { createSlice } from '@reduxjs/toolkit'
 import type { PayloadAction } from '@reduxjs/toolkit'
 
 export interface CounterState {
-  value: number
+  grade: number | null;
 }
 
 const initialState: CounterState = {
-  value: 0,
+  grade: null,
 }
 
 export const usersSlice = createSlice({
   name: 'user',
   initialState,
   reducers: {
-    increment: (state) => {
-      state.value += 1
+    setGrade: (state, action: PayloadAction<number>) => {
+      state.grade = action.payload;
     },
   },
 })
 
 // Action creators are generated for each case reducer function
-export const { increment } = usersSlice.actions;
+export const { setGrade } = usersSlice.actions;
 
 export default usersSlice.reducer

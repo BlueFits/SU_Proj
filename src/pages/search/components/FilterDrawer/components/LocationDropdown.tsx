@@ -30,8 +30,8 @@ const LocationDropdown = () => {
     return (
         <div className="px-[8px] py-[6px] w-full">
             <FormGroup>
-                {provinces.map((value) => {
-                    return <Item value={value} />
+                {provinces.map((value, index) => {
+                    return <Item key={`KeyForItem:${index}`} value={value} />
                 })}
             </FormGroup>
         </div>

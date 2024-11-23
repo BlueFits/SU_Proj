@@ -7,7 +7,8 @@ import Divider from '@mui/material/Divider';
 import Checkbox from '@mui/material/Checkbox';
 import FormGroup from '@mui/material/FormGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
+import { RootState } from "../../../../../services/store";
 
 interface ListFilerDropDown {
     title: string;
@@ -15,10 +16,22 @@ interface ListFilerDropDown {
 }
 
 const ListFilterDropdown: React.FC<ListFilerDropDown> = ({ title, children }) => {
-    const [isOpen, setIsOpen] = useState(false);
+    const [isOpen, setIsOpen] = useState(true);
+
+    const user = useSelector((state: RootState) => state.userReducer);
+    const programs = useSelector((state: RootState) => state.programsReducer);
+
+    const filterInteraction = () => {
+        if (window && window.gtag) {
+            window.gtag("event", `filter interact ${title}`, {
+                grade: user.grade,
+                program_category: programs.category,
+            })
+        }
+    }
 
     return (
-        <div className="pt-[10px]">
+        <div onClick={filterInteraction} className="pt-[10px]">
             <ListItem disablePadding>
                 <div className="w-full">
                     <div className="px-[8px] py-[6px] ">

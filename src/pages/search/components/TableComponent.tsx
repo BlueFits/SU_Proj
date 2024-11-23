@@ -56,7 +56,15 @@ const rowsPerPageOption = [20, 50, 100];
 
 const minHeightTable = 600;
 
-const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = ({ programs, isFetching }) => {
+const TableComponent: React.FC<{
+  programs: program[],
+  isFetching: boolean,
+  userInfo: {
+    grade: string,
+    category: string,
+    location: string,
+  }
+}> = ({ programs, isFetching, userInfo }) => {
   const [page, setPage] = React.useState(0);
   const [rowsPerPage, setRowsPerPage] = React.useState(rowsPerPageOption[0]);
 
@@ -68,6 +76,16 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
     setRowsPerPage(+event.target.value);
     setPage(0);
   };
+
+  const rowClickHandler = () => {
+    if (window && window.gtag) {
+      window.gtag("event", "program_block_click", {
+        grade: userInfo.grade,
+        program_category: userInfo.category,
+        location: userInfo.location,
+      })
+    }
+  }
 
   return (
     // <Paper sx={{ width: '100%', overflow: 'hidden' }}>
@@ -87,7 +105,9 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
                   <TableCell
                     key={column.id}
                     align={column.align}
-                    style={{ minWidth: column.minWidth }}
+                    sx={{
+                      minWidth: column.minWidth,
+                    }}
                   >
                     {column.label}
                   </TableCell>
@@ -109,7 +129,7 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
                   .map((row, index) => {
                     return (
                       <TableRow
-                        onClick={() => window.open(row.programLink, '_blank')}
+                        onClick={rowClickHandler}
                         hover
                         className='cursor-pointer'
                         role="link"
@@ -118,7 +138,14 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
                       >
                         {columns.map((column, index) => {
                           return (
-                            <TableCell key={column.id} align={column.align}>
+                            <TableCell
+                              sx={{
+                                minWidth: column.minWidth,
+                                maxWidth: 130,
+                              }}
+                              key={column.id}
+                              align={column.align}
+                            >
                               {row[column.id]}
                             </TableCell>
                           );
@@ -145,7 +172,8 @@ const TableComponent: React.FC<{ programs: program[], isFetching: boolean }> = (
           // width: "100%",
           margin: 0, // Remove unwanted margin
           padding: 0, // Remove unwanted padding
-          overflow: 'hidden', // Contain it within the boundaries
+          overflowX: 'auto', // Contain it within the boundaries
+          overflowY: "hidden",
         }}
         rowsPerPageOptions={rowsPerPageOption}
         component="div"

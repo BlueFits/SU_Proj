@@ -8,7 +8,8 @@ import { useDispatch, useSelector } from 'react-redux';
 import { RootState } from '../../services/store';
 import { simGetReq } from '../../services/modules/uiStates/uiStates.slice';
 import { useTheme } from '@mui/material/styles';
-
+import useMediaQuery from '@mui/material/useMediaQuery';
+import { setGrade } from '../../services/modules/users/users.slice';
 
 
 interface ISearchInput {
@@ -28,8 +29,11 @@ const SearchInput: React.FC<ISearchInput> = ({
     const dispatch = useDispatch();
     const [search, setSearch] = useState<string>("");
     const nagivationRef = useRef<string | null>(null);
+    const params = new URLSearchParams(location.search);
+    const userInputAvg = params.get("avg");
     const programs = useSelector((state: RootState) => state.programsReducer);
     const theme = useTheme();
+    const matches = useMediaQuery('(min-width:600px)');
 
     const isDarkMode = theme.palette.mode === 'dark';
 
@@ -66,6 +70,7 @@ const SearchInput: React.FC<ISearchInput> = ({
                 category_type: programs.category,
             })
         }
+        setSearch("");
         dispatch(simGetReq());
         //@ts-expect-error
         navigate(`/search?avg=${Number(nagivationRef.current) > 100 ? "100" : nagivationRef.current}`);
@@ -106,6 +111,7 @@ const SearchInput: React.FC<ISearchInput> = ({
                     method='get'
                     className='w-full flex justify-center items-center'
                     onSubmit={async (e) => {
+                        dispatch(setGrade(Number(search)));
                         e.preventDefault();
                         submit();
                     }}
@@ -122,7 +128,7 @@ const SearchInput: React.FC<ISearchInput> = ({
                         name='avg'
                         className='bg-transparent outline-none border-none w-full'
                         type="text"
-                        placeholder='Enter your average'
+                        placeholder={`${userInputAvg ? `With an average of ${userInputAvg}%` : `Enter your average`}`}
                     />
                 </form>
                 <div className='hidden md:block'>

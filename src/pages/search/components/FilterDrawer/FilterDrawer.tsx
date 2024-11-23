@@ -89,6 +89,7 @@ const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, childr
             <CssBaseline />
             <Drawer
                 sx={{
+                    marginRight: open ? 3 : 0,
                     width: drawerWidth,
                     flexShrink: 0,
                     '& .MuiDrawer-paper': {
