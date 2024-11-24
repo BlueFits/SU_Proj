@@ -33,8 +33,7 @@ const SearchInput: React.FC<ISearchInput> = ({
     const dispatch = useDispatch();
     const [search, setSearch] = useState<string>("");
     const nagivationRef = useRef<string | null>(null);
-    const params = new URLSearchParams(location.search);
-    const userInputAvg = params.get("avg");
+    const userInputAvg = location ? new URLSearchParams(location.search).get("avg") : null;
     const programs = useSelector((state: RootState) => state.programsReducer);
     const theme = useTheme();
     const matches = useMediaQuery('(min-width:600px)');
