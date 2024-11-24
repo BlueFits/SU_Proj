@@ -16,7 +16,7 @@ interface ISearchInput {
     disableAnim?: boolean;
     enableText?: boolean;
     //This is window location
-    location: any;
+    location?: any;
 }
 
 const defaultPropVal: ISearchInput = {
