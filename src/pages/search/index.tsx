@@ -5,10 +5,8 @@ import SearchInput from "../../components/SearchInput/SearchInput";
 import { Typography } from "@mui/material";
 import { useSelector } from "react-redux";
 import { RootState } from "../../services/store";
-import { fade, fadeAndSlide } from "../../anims/CustomAnims";
-import Button from '@mui/material/Button';
+import { fade } from "../../anims/CustomAnims";
 import { useRef, useState } from "react";
-import EditLocationIcon from '@mui/icons-material/EditLocation';
 import { SEO } from "../../components/seo";
 import FilterDrawer from "./components/FilterDrawer/FilterDrawer";
 import IconButton from '@mui/material/IconButton';
@@ -74,7 +72,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                                 }
 
                                 <div className="ml-3 flex justify-center w-full md:w-[50%]">
-                                    <SearchInput disableAnim />
+                                    <SearchInput location={location} disableAnim />
                                 </div>
                             </div>
                         </div>
@@ -96,7 +94,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                     </animated.div>
 
                     {Number(userInputAvg) < 50 ?
-                        <Typography>There are currently no avaialble programs for you that we could find please try again...</Typography> :
+                        <Typography marginTop={5}>There are currently no avaialble programs for you that we could find please try again...</Typography> :
                         <div className={`w-full flex flex-col h-full`}>
                             <animated.div style={fadeSpring} className={"flex justify-between items-center mb-5 md:mt-12 md:mb-7"}>
                                 {/* <div className="md:hidden flex justify-center items-end">

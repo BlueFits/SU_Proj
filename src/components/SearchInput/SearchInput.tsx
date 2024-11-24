@@ -15,16 +15,20 @@ import { setGrade } from '../../services/modules/users/users.slice';
 interface ISearchInput {
     disableAnim?: boolean;
     enableText?: boolean;
+    //This is window location
+    location: any;
 }
 
 const defaultPropVal: ISearchInput = {
     disableAnim: false,
     enableText: true,
+    location: null,
 };
 
 const SearchInput: React.FC<ISearchInput> = ({
     disableAnim,
     enableText,
+    location,
 } = defaultPropVal) => {
     const dispatch = useDispatch();
     const [search, setSearch] = useState<string>("");
