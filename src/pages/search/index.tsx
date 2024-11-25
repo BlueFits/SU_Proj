@@ -94,7 +94,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                     </animated.div>
 
                     {Number(userInputAvg) < 50 ?
-                        <Typography marginTop={5}>There are currently no avaialble programs for you that we could find please try again...</Typography> :
+                        <Typography marginTop={5}>There are currently no available programs for you that we could find please try again...</Typography> :
                         <div className={`w-full flex flex-col h-full`}>
                             <animated.div style={fadeSpring} className={"flex justify-between items-center mb-5 md:mt-12 md:mb-7"}>
                                 {/* <div className="md:hidden flex justify-center items-end">
