@@ -9,6 +9,8 @@ import TableRow from '@mui/material/TableRow';
 import { program } from '../../../services/modules/programs/programs.slice';
 import { CircularProgress } from '@mui/material';
 import { EmptyComponent } from '../../../components/EmptyData/EmptyData';
+import { useDispatch } from 'react-redux';
+import { simGetReq } from '../../../services/modules/uiStates/uiStates.slice';
 
 interface Column {
   id: 'programName' | 'schoolName' | 'location' | 'length' | 'tutionValue' | 'entranceGrade';
@@ -67,8 +69,10 @@ const TableComponent: React.FC<{
 }> = ({ programs, isFetching, userInfo }) => {
   const [page, setPage] = React.useState(0);
   const [rowsPerPage, setRowsPerPage] = React.useState(rowsPerPageOption[0]);
+  const dispatch = useDispatch();
 
   const handleChangePage = (event: unknown, newPage: number) => {
+    dispatch(simGetReq());
     setPage(newPage);
   };
 
@@ -168,8 +172,6 @@ const TableComponent: React.FC<{
       </div>
       <TablePagination
         sx={{
-          // flex: 1,
-          // width: "100%",
           margin: 0, // Remove unwanted margin
           padding: 0, // Remove unwanted padding
           overflowX: 'auto', // Contain it within the boundaries

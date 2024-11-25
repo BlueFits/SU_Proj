@@ -107,7 +107,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
                                     <Typography variant="h5">Available Programs</Typography>
                                 </div>
                             </animated.div>
-                            <div className={`w-full h-[90vh] border-[1px] mb-5`}>
+                            <div className={`w-full h-[90vh] border-[1px] mb-5 rounded-[20px] overflow-hidden`}>
                                 <TableComponent
                                     userInfo={{
                                         grade: userInputAvg || "",
