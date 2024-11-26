@@ -2,7 +2,6 @@ import * as React from 'react';
 import { styled } from '@mui/material/styles';
 import Box from '@mui/material/Box';
 import Grid from '@mui/material/Grid';
-import Typography from '@mui/material/Typography';
 import Slider from '@mui/material/Slider';
 import MuiInput from '@mui/material/Input';
 import { useDispatch, useSelector } from 'react-redux';
@@ -35,7 +34,7 @@ export default function GradeSlider() {
 
     const changeGrade = (avg?: string) => {
         if (window && window.gtag) {
-            window.gtag("event", "search click", {
+            window.gtag("event", "slider grade change", {
                 input_value: user.grade,
                 category_type: programs.category,
             })
@@ -105,6 +104,12 @@ export default function GradeSlider() {
                     name="radio-buttons-group"
                     value={programs.gradeSort}
                     onChange={(e) => {
+                        if (window && window.gtag) {
+                            window.gtag("event", "slider grad sort", {
+                                input_value: user.grade,
+                                category_type: programs.category,
+                            })
+                        }
                         dispatch(simGetReq());
                         dispatch(setGradeSort((e.target as HTMLInputElement).value as gradeSort))
                     }}

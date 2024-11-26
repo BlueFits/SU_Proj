@@ -21,13 +21,7 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
     const fadeSpring = useSpring(fade);
     const params = new URLSearchParams(location.search);
     const userInputAvg = params.get("avg");
-    const [isPopOverOpen, setIsPopOverOpen] = useState(false);
     const [isFilterOpen, setIsFilterOpen] = useState(matches ? true : false);
-    const buttonRef = useRef(null);
-
-    const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
-        setIsPopOverOpen(true);
-    };
 
     const filterButtonHandler = () => {
         if (window && window.gtag) {
