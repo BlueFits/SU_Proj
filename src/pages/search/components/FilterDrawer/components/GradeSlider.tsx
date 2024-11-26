@@ -15,6 +15,7 @@ import FormControlLabel from '@mui/material/FormControlLabel';
 import FormControl from '@mui/material/FormControl';
 import FormLabel from '@mui/material/FormLabel';
 import { setGrade } from '../../../../../services/modules/users/users.slice';
+import { gradeSort, setGradeSort } from '../../../../../services/modules/programs/programs.slice';
 
 const Input = styled(MuiInput)`
   width: 42px;
@@ -25,6 +26,7 @@ export default function GradeSlider() {
     const programs = useSelector((state: RootState) => state.programsReducer);
     const user = useSelector((state: RootState) => state.userReducer);
     // const [value, setValue] = React.useState(Number(user.grade));
+
 
     React.useEffect(() => {
         const userInputAvg = location ? new URLSearchParams(location.search).get("avg") : null;
@@ -96,14 +98,19 @@ export default function GradeSlider() {
                 </Grid>
             </Grid>
             <FormControl sx={{ marginTop: 2 }}>
-                <FormLabel sx={{ marginBottom: 1 }} id="demo-radio-buttons-group-label">Sort by</FormLabel>
+                <FormLabel sx={{ marginBottom: 1 }} id="demo-radio-buttons-group-label">Sort grades by</FormLabel>
                 <RadioGroup
                     aria-labelledby="demo-radio-buttons-group-label"
                     defaultValue="female"
                     name="radio-buttons-group"
+                    value={programs.gradeSort}
+                    onChange={(e) => {
+                        dispatch(simGetReq());
+                        dispatch(setGradeSort((e.target as HTMLInputElement).value as gradeSort))
+                    }}
                 >
-                    <FormControlLabel value="female" control={<Radio />} label="Ascending" />
-                    <FormControlLabel value="male" control={<Radio />} label="Descending" />
+                    <FormControlLabel value="asc" control={<Radio />} label="Ascending" />
+                    <FormControlLabel value="desc" control={<Radio />} label="Descending" />
                 </RadioGroup>
             </FormControl>
         </Box>
