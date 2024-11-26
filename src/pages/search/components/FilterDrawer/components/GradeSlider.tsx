@@ -9,6 +9,12 @@ import { useDispatch, useSelector } from 'react-redux';
 import { simGetReq } from '../../../../../services/modules/uiStates/uiStates.slice';
 import { navigate } from "gatsby"
 import { RootState } from '../../../../../services/store';
+import Radio from '@mui/material/Radio';
+import RadioGroup from '@mui/material/RadioGroup';
+import FormControlLabel from '@mui/material/FormControlLabel';
+import FormControl from '@mui/material/FormControl';
+import FormLabel from '@mui/material/FormLabel';
+import { setGrade } from '../../../../../services/modules/users/users.slice';
 
 const Input = styled(MuiInput)`
   width: 42px;
@@ -17,42 +23,46 @@ const Input = styled(MuiInput)`
 export default function GradeSlider() {
     const dispatch = useDispatch();
     const programs = useSelector((state: RootState) => state.programsReducer);
-    const [value, setValue] = React.useState(50);
+    const user = useSelector((state: RootState) => state.userReducer);
+    // const [value, setValue] = React.useState(Number(user.grade));
+
+    React.useEffect(() => {
+        const userInputAvg = location ? new URLSearchParams(location.search).get("avg") : null;
+        dispatch(setGrade(Number(userInputAvg)));
+    }, []);
 
     const changeGrade = (avg?: string) => {
         if (window && window.gtag) {
             window.gtag("event", "search click", {
-                input_value: value,
+                input_value: user.grade,
                 category_type: programs.category,
             })
         }
         dispatch(simGetReq());
-        //@ts-expect-error
-        navigate(`/search?avg=${avg || value}`);
+        //@ts-ignore
+        navigate(`/search?avg=${avg || user.grade}`);
     }
 
     const handleMouseUp = (event: React.SyntheticEvent | Event | React.SyntheticEvent<Element, Event>, value: number | number[]) => {
-        console.log('Slider value committed:', value);
         changeGrade();
     };
 
     const handleSliderChange = (event: Event, newValue: number | number[]) => {
-        setValue(newValue as number);
+        dispatch(setGrade(newValue as number));
     };
 
     const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-        setValue(event.target.value === '' ? 50 : Number(event.target.value));
+        dispatch(setGrade(event.target.value === '' ? 50 : Number(event.target.value)));
         if (Number(event.target.value) >= 50) {
-            console.log(event.target.value);
             changeGrade(event.target.value);
         }
     };
 
     const handleBlur = () => {
-        if (value < 50) {
-            setValue(50);
-        } else if (value > 100) {
-            setValue(100);
+        if ((user.grade || 0) <= 50) {
+            dispatch(setGrade(50));
+        } else if ((user.grade || 0) > 100) {
+            dispatch(setGrade(100));
         }
     };
 
@@ -63,7 +73,7 @@ export default function GradeSlider() {
                     <Slider
                         min={50}
                         max={100}
-                        value={typeof value === 'number' ? value : 0}
+                        value={user.grade || 50}
                         onChange={handleSliderChange}
                         onChangeCommitted={handleMouseUp}
                         aria-labelledby="input-slider"
@@ -71,7 +81,7 @@ export default function GradeSlider() {
                 </Grid>
                 <Grid item>
                     <Input
-                        value={value}
+                        value={user.grade}
                         size="small"
                         onChange={handleInputChange}
                         onBlur={handleBlur}
@@ -85,6 +95,17 @@ export default function GradeSlider() {
                     />
                 </Grid>
             </Grid>
+            <FormControl sx={{ marginTop: 2 }}>
+                <FormLabel sx={{ marginBottom: 1 }} id="demo-radio-buttons-group-label">Sort by</FormLabel>
+                <RadioGroup
+                    aria-labelledby="demo-radio-buttons-group-label"
+                    defaultValue="female"
+                    name="radio-buttons-group"
+                >
+                    <FormControlLabel value="female" control={<Radio />} label="Ascending" />
+                    <FormControlLabel value="male" control={<Radio />} label="Descending" />
+                </RadioGroup>
+            </FormControl>
         </Box>
     );
 }
