@@ -81,7 +81,7 @@ const TableComponent: React.FC<{
     setPage(0);
   };
 
-  const rowClickHandler = () => {
+  const rowClickHandler = (link: string) => {
     if (window && window.gtag) {
       window.gtag("event", "program_block_click", {
         grade: userInfo.grade,
@@ -89,6 +89,7 @@ const TableComponent: React.FC<{
         location: userInfo.location,
       })
     }
+    window.open(link, "_black");
   }
 
   return (
@@ -133,7 +134,7 @@ const TableComponent: React.FC<{
                   .map((row, index) => {
                     return (
                       <TableRow
-                        onClick={rowClickHandler}
+                        onClick={rowClickHandler.bind(this, row.programLink)}
                         hover
                         className='cursor-pointer'
                         role="link"

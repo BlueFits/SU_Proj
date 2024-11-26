@@ -14,6 +14,7 @@ import { useDispatch } from 'react-redux';
 import { setCategory, setLocation } from '../../../../services/modules/programs/programs.slice';
 import { simGetReq } from '../../../../services/modules/uiStates/uiStates.slice';
 import LocationDropdown from './components/LocationDropdown';
+import GradeSlider from './components/GradeSlider';
 
 
 const drawerWidth = 240;
@@ -121,6 +122,9 @@ const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, childr
                 </DrawerHeader>
                 <Divider />
                 <List disablePadding>
+                    <ListFilterDropdown title='Minimum grade'>
+                        <GradeSlider />
+                    </ListFilterDropdown>
                     <ListFilterDropdown title='Programs'>
                         <ProgramsDropdown />
                     </ListFilterDropdown>
