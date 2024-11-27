@@ -15,6 +15,7 @@ import { setCategory, setLocation } from '../../../../services/modules/programs/
 import { simGetReq } from '../../../../services/modules/uiStates/uiStates.slice';
 import LocationDropdown from './components/LocationDropdown';
 import GradeSlider from './components/GradeSlider';
+import SchoolFilter from './components/SchoolFilter';
 
 
 const drawerWidth = 240;
@@ -127,6 +128,9 @@ const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, childr
                     </ListFilterDropdown>
                     <ListFilterDropdown title='Programs'>
                         <ProgramsDropdown />
+                    </ListFilterDropdown>
+                    <ListFilterDropdown title='Schools'>
+                        <SchoolFilter />
                     </ListFilterDropdown>
                     <ListFilterDropdown title='Location'>
                         <LocationDropdown />

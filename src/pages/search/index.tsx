@@ -13,6 +13,7 @@ import IconButton from '@mui/material/IconButton';
 import FilterAltIcon from '@mui/icons-material/FilterAlt';
 import TableComponent from "./components/TableComponent";
 import useMediaQuery from '@mui/material/useMediaQuery';
+import { bestOverallUniversities } from "../../data/schools";
 
 const IndexPage: React.FC<PageProps> = ({ location }) => {
     const matches = useMediaQuery('(min-width:600px)');
@@ -52,6 +53,14 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
         const grade1 = Number(program.entranceGrade[0] + program.entranceGrade[1]);
         const gradeb = Number(programB.entranceGrade[0] + programB.entranceGrade[1]);
 
+        if (programs.overallRankingSort) {
+            const aIndex = bestOverallUniversities.findIndex(part => program.schoolName.includes(part))
+            const bIndex = bestOverallUniversities.findIndex(part => programB.schoolName.includes(part))
+            if (aIndex === -1) return 1;
+            if (bIndex === -1) return -1;
+            return aIndex - bIndex;
+        }
+
         switch (programs.gradeSort) {
             case "asc":
                 return grade1 - gradeb;
@@ -60,7 +69,6 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
             default:
                 return 0;
         }
-
     });
 
     return (

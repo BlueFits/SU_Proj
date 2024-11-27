@@ -20,6 +20,7 @@ export interface programSliceState {
   category: Array<string>;
   selectedLocation: Array<string>;
   gradeSort: gradeSort;
+  overallRankingSort: boolean;
 }
 
 const initialState: programSliceState = {
@@ -27,6 +28,7 @@ const initialState: programSliceState = {
   category: [],
   selectedLocation: [],
   gradeSort: null,
+  overallRankingSort: false,
 }
 
 export const programsSlice = createSlice({
@@ -40,12 +42,17 @@ export const programsSlice = createSlice({
       state.selectedLocation = action.payload;
     },
     setGradeSort: (state, action: PayloadAction<gradeSort>) => {
+      state.overallRankingSort = false;
       state.gradeSort = action.payload;
     },
+    setOverallRankingSort(state, action: PayloadAction<boolean>) {
+      state.gradeSort = null;
+      state.overallRankingSort = action.payload;
+    }
   },
 })
 
 // Action creators are generated for each case reducer function
-export const { setCategory, setLocation, setGradeSort } = programsSlice.actions;
+export const { setCategory, setLocation, setGradeSort, setOverallRankingSort } = programsSlice.actions;
 
 export default programsSlice.reducer
