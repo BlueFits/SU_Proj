@@ -144,7 +144,18 @@ const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, childr
                     <ListFilterDropdown title='Programs'>
                         <ProgramsDropdown />
                     </ListFilterDropdown>
-                    <ListFilterDropdown title='Schools'>
+                    <ListFilterDropdown title='Schools'
+                        toolTip={
+                            <React.Fragment>
+                                <Typography variant='caption'>
+                                    These rankings are derived from sources such as Times Higher Education, U.S. News
+                                    & World Report, and Maclean's. It's important to note that perceptions of prestige
+                                    can vary based on individual priorities, such as specific programs, faculty expertise,
+                                    and campus culture.
+                                </Typography>
+                            </React.Fragment>
+                        }
+                    >
                         <SchoolFilter />
                     </ListFilterDropdown>
                     <ListFilterDropdown title='Location'>
