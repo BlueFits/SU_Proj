@@ -28,7 +28,7 @@ const NAVIGATION: Navigation = [
 		icon: <SearchIcon />,
 	},
 	{
-		segment: 'not_available',
+		segment: 'saved',
 		title: 'Saved Programs',
 		icon: <GradeIcon />,
 	},
@@ -40,11 +40,12 @@ const NAVIGATION: Navigation = [
 		title: 'More Info',
 	},
 	{
-		segment: 'not_available',
+		segment: 'about',
 		title: 'About us',
 		icon: <InfoIcon />,
 		children: [
 			{
+				segment: 'faq',
 				title: 'Faq',
 				icon: <QuizIcon />,
 			},
