@@ -148,8 +148,8 @@ const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, childr
                         toolTip={
                             <React.Fragment>
                                 <Typography variant='caption'>
-                                    These rankings are derived from sources such as Times Higher Education, U.S. News
-                                    & World Report, and Maclean's. It's important to note that perceptions of prestige
+                                    Our rankings are derived from sources such as Times Higher Education, U.S. News
+                                    & World Report, and Maclean's. It's important to note that prestige
                                     can vary based on individual priorities, such as specific programs, faculty expertise,
                                     and campus culture.
                                 </Typography>

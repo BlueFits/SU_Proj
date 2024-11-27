@@ -12,6 +12,7 @@ import { RootState } from "../../../../services/store";
 import Tooltip from '@mui/material/Tooltip';
 import IconButton from '@mui/material/IconButton';
 import InfoIcon from '@mui/icons-material/Info';
+import useMediaQuery from '@mui/material/useMediaQuery';
 
 
 interface ListFilerDropDown {
@@ -22,9 +23,19 @@ interface ListFilerDropDown {
 
 const ListFilterDropdown: React.FC<ListFilerDropDown> = ({ title, children, toolTip }) => {
     const [isOpen, setIsOpen] = useState(true);
+    const [isToolTipOpen, setIsToolTipOpen] = useState(false);
+    const matches = useMediaQuery('(min-width:600px)');
 
     const user = useSelector((state: RootState) => state.userReducer);
     const programs = useSelector((state: RootState) => state.programsReducer);
+
+    const handleClose = () => {
+        setIsToolTipOpen(false);
+    };
+
+    const handleOpen = () => {
+        setIsToolTipOpen(!isToolTipOpen);
+    };
 
     const filterInteraction = () => {
         if (window && window.gtag) {
@@ -58,8 +69,17 @@ const ListFilterDropdown: React.FC<ListFilerDropDown> = ({ title, children, tool
                         </Button>
 
                         {toolTip &&
-                            <Tooltip title={toolTip} placement="right">
-                                <IconButton color="info" aria-label="delete">
+                            <Tooltip
+                                open={isToolTipOpen}
+                                title={toolTip}
+                                placement={matches ? "right" : "bottom"}
+                            >
+                                <IconButton
+                                    onClick={handleOpen}
+                                    onBlur={handleClose}
+                                    color="info"
+                                    aria-label="delete"
+                                >
                                     <InfoIcon />
                                 </IconButton>
                             </Tooltip>
