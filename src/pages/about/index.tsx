@@ -1,8 +1,9 @@
 import * as React from "react"
-import { Link, HeadFC, PageProps } from "gatsby"
+import { HeadFC, PageProps } from "gatsby"
 import { Container, Typography } from "@mui/material"
 import { useSpring, animated } from "@react-spring/web"
-import { fade, fadeAndSlide } from "../../anims/CustomAnims"
+import { fade } from "../../anims/CustomAnims"
+import Link from '@mui/material/Link';
 
 // const pageStyles = {
 //     padding: "96px",
@@ -14,17 +15,31 @@ const headingStyles = {
 }
 
 const NotFoundPage: React.FC<PageProps> = () => {
-    const fadeAndSlideSpring = useSpring(fadeAndSlide);
     const fadeSpring = useSpring(fade);
+    const [firstAnimationDone, setFirstAnimationDone] = React.useState(false);
+
+
+
+    const firstAnimation = useSpring({
+        from: { opacity: 0, transform: 'translateY(100px)' }, // Start hidden & below the viewport
+        to: { opacity: 1, transform: 'translateX(0)' },
+        onRest: () => setFirstAnimationDone(true), // Trigger second animation
+    });
+
+
+    const secondAnimation = useSpring({
+        from: { opacity: 0, transform: "translateX(50px)" },
+        to: { opacity: firstAnimationDone ? 1 : 0, transform: firstAnimationDone ? "translateY(0px)" : "translateX(-100px)" },
+    });
 
 
     return (
         <Container>
             <main>
-                <animated.section style={fadeSpring}>
+                <animated.section style={firstAnimation}>
                     <Typography variant="h1" style={headingStyles}>About Us</Typography>
                 </animated.section>
-                <animated.section style={fadeAndSlideSpring}>
+                <animated.section style={firstAnimation}>
                     <Typography>
                         At SelectU, we understand that choosing the right educational program can be overwhelming.
                         With so many online resources available, it’s easy to feel lost in a sea of cluttered information.
@@ -56,6 +71,14 @@ const NotFoundPage: React.FC<PageProps> = () => {
                         – SelectU Team
                     </Typography>
                 </animated.section>
+
+                <animated.div style={secondAnimation} className={"mt-5"}>
+                    <Typography>
+                        For any inqueries feel free to reach us at: <Link href="mailto:contact@selectu.org">
+                            contact@selectu.org
+                        </Link>
+                    </Typography>
+                </animated.div>
             </main>
         </Container>
     )
