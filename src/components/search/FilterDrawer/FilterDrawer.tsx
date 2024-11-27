@@ -16,6 +16,7 @@ import { simGetReq } from '../../../services/modules/uiStates/uiStates.slice';
 import LocationDropdown from './components/LocationDropdown';
 import GradeSlider from './components/GradeSlider';
 import SchoolFilter from './components/SchoolFilter';
+import { Typography } from '@mui/material';
 
 
 const drawerWidth = 240;
@@ -123,7 +124,21 @@ const FilterDrawer: React.FC<IFilterDrawer> = ({ open, handleDrawerClose, childr
                 </DrawerHeader>
                 <Divider />
                 <List disablePadding>
-                    <ListFilterDropdown title='Minimum grade'>
+                    <ListFilterDropdown
+                        title='Minimum grade'
+                        toolTip={
+                            <React.Fragment>
+                                <Typography variant='caption'>
+                                    Grade for Entrance Previous Year (%)
+                                </Typography>
+                                <br />
+                                <Typography variant='caption'>
+                                    This is a guideline to help you explore potential programs.
+                                    Please review the specific course requirements for the program you're interested in.
+                                </Typography>
+                            </React.Fragment>
+                        }
+                    >
                         <GradeSlider />
                     </ListFilterDropdown>
                     <ListFilterDropdown title='Programs'>

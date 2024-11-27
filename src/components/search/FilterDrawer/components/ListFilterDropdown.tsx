@@ -9,13 +9,18 @@ import FormGroup from '@mui/material/FormGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import { useDispatch, useSelector } from "react-redux";
 import { RootState } from "../../../../services/store";
+import Tooltip from '@mui/material/Tooltip';
+import IconButton from '@mui/material/IconButton';
+import InfoIcon from '@mui/icons-material/Info';
+
 
 interface ListFilerDropDown {
     title: string;
     children: ReactNode;
+    toolTip?: ReactNode | null;
 }
 
-const ListFilterDropdown: React.FC<ListFilerDropDown> = ({ title, children }) => {
+const ListFilterDropdown: React.FC<ListFilerDropDown> = ({ title, children, toolTip }) => {
     const [isOpen, setIsOpen] = useState(true);
 
     const user = useSelector((state: RootState) => state.userReducer);
@@ -34,18 +39,7 @@ const ListFilterDropdown: React.FC<ListFilerDropDown> = ({ title, children }) =>
         <div onClick={filterInteraction} className="pt-[10px]">
             <ListItem disablePadding>
                 <div className="w-full">
-                    <div className="px-[8px] py-[6px] ">
-                        {/* <FormGroup>
-                            <FormControlLabel
-                                control={
-                                    <Checkbox
-                                        size="small"
-                                        checked={isOpen}
-                                        onChange={onChangeCheckHandler} />
-                                }
-                                label={title}
-                            />
-                        </FormGroup> */}
+                    <div className="px-[8px] py-[6px] flex justify-between items-center">
                         <Button
                             onClick={() => setIsOpen(!isOpen)}
                             sx={{
@@ -62,6 +56,14 @@ const ListFilterDropdown: React.FC<ListFilerDropDown> = ({ title, children }) =>
                         >
                             {title}
                         </Button>
+
+                        {toolTip &&
+                            <Tooltip title={toolTip} placement="right">
+                                <IconButton color="info" aria-label="delete">
+                                    <InfoIcon />
+                                </IconButton>
+                            </Tooltip>
+                        }
                     </div>
                     {isOpen &&
                         <div className="px-[8px] py-[6px] w-full">
