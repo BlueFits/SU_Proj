@@ -1,6 +1,8 @@
 import * as React from "react"
 import { Link, HeadFC, PageProps } from "gatsby"
 import { Container, Typography } from "@mui/material"
+import { useSpring, animated } from "@react-spring/web"
+import { fade, fadeAndSlide } from "../../anims/CustomAnims"
 
 // const pageStyles = {
 //     padding: "96px",
@@ -12,13 +14,17 @@ const headingStyles = {
 }
 
 const NotFoundPage: React.FC<PageProps> = () => {
+    const fadeAndSlideSpring = useSpring(fadeAndSlide);
+    const fadeSpring = useSpring(fade);
+
+
     return (
         <Container>
             <main>
-                <section>
+                <animated.section style={fadeSpring}>
                     <Typography variant="h1" style={headingStyles}>About Us</Typography>
-                </section>
-                <section>
+                </animated.section>
+                <animated.section style={fadeAndSlideSpring}>
                     <Typography>
                         At SelectU, we understand that choosing the right educational program can be overwhelming.
                         With so many online resources available, it’s easy to feel lost in a sea of cluttered information.
@@ -49,7 +55,7 @@ const NotFoundPage: React.FC<PageProps> = () => {
                     <Typography marginTop={8}>
                         – SelectU Team
                     </Typography>
-                </section>
+                </animated.section>
             </main>
         </Container>
     )
