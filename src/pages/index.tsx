@@ -1,6 +1,6 @@
 import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
-import SearchInput from "../components/SearchInput/SearchInput";
+import SearchInput from "../components/shared/SearchInput/SearchInput";
 import { SEO } from "../components/seo";
 
 

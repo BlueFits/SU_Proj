@@ -2,14 +2,14 @@ import * as React from 'react';
 import FormGroup from '@mui/material/FormGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import Checkbox from '@mui/material/Checkbox';
-import provinces from '../../../../../data/provinces';
+import provinces from '../../../../data/provinces';
 import { useDispatch, useSelector } from 'react-redux';
-import { RootState } from '../../../../../services/store';
-import { setCategory, setLocation, setOverallRankingSort } from '../../../../../services/modules/programs/programs.slice';
-import { simGetReq } from '../../../../../services/modules/uiStates/uiStates.slice';
+import { RootState } from '../../../../services/store';
+import { setCategory, setLocation, setOverallRankingSort } from '../../../../services/modules/programs/programs.slice';
+import { simGetReq } from '../../../../services/modules/uiStates/uiStates.slice';
 import FormLabel from '@mui/material/FormLabel';
 import Select, { MultiValue } from 'react-select';
-import categories from "../../../../../data/categories";
+import categories from "../../../../data/categories";
 import { useTheme } from '@mui/material/styles';
 
 

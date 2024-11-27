@@ -5,16 +5,16 @@ import Grid from '@mui/material/Grid';
 import Slider from '@mui/material/Slider';
 import MuiInput from '@mui/material/Input';
 import { useDispatch, useSelector } from 'react-redux';
-import { simGetReq } from '../../../../../services/modules/uiStates/uiStates.slice';
+import { simGetReq } from '../../../../services/modules/uiStates/uiStates.slice';
 import { navigate } from "gatsby"
-import { RootState } from '../../../../../services/store';
+import { RootState } from '../../../../services/store';
 import Radio from '@mui/material/Radio';
 import RadioGroup from '@mui/material/RadioGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import FormControl from '@mui/material/FormControl';
 import FormLabel from '@mui/material/FormLabel';
-import { setGrade } from '../../../../../services/modules/users/users.slice';
-import { gradeSort, setGradeSort } from '../../../../../services/modules/programs/programs.slice';
+import { setGrade } from '../../../../services/modules/users/users.slice';
+import { gradeSort, setGradeSort } from '../../../../services/modules/programs/programs.slice';
 
 const Input = styled(MuiInput)`
   width: 42px;

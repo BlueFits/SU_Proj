@@ -6,11 +6,11 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
-import { program } from '../../../services/modules/programs/programs.slice';
+import { program } from '../../services/modules/programs/programs.slice';
 import { CircularProgress } from '@mui/material';
-import { EmptyComponent } from '../../../components/EmptyData/EmptyData';
+import { EmptyComponent } from '../shared/EmptyData/EmptyData';
 import { useDispatch } from 'react-redux';
-import { simGetReq } from '../../../services/modules/uiStates/uiStates.slice';
+import { simGetReq } from '../../services/modules/uiStates/uiStates.slice';
 
 interface Column {
   id: 'programName' | 'schoolName' | 'location' | 'length' | 'tutionValue' | 'entranceGrade';

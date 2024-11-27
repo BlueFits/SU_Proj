@@ -43,13 +43,13 @@ const NAVIGATION: Navigation = [
 		segment: 'about',
 		title: 'About us',
 		icon: <InfoIcon />,
-		children: [
-			{
-				segment: 'faq',
-				title: 'Faq',
-				icon: <QuizIcon />,
-			},
-		],
+		// children: [
+		// 	{
+		// 		segment: 'faq',
+		// 		title: 'Faq',
+		// 		icon: <QuizIcon />,
+		// 	},
+		// ],
 	},
 	// {
 	// 	segment: 'reports',
@@ -103,9 +103,9 @@ const Layout = ({ location, children }: any) => {
 					{children}
 				</PageContainer>
 			</DashboardLayout>
-			{/* <footer className="flex justify-center items-center p-5 border-[1px]">
-				<Typography marginTop={2} color="textDisabled" variant="caption">{packageJSON.version}  © SelectU 2024</Typography>
-			</footer> */}
+			<footer className="flex justify-center items-center p-5">
+				<Typography marginTop={2} marginBottom={2} color="textDisabled" variant="caption">{packageJSON.version}  © SelectU 2024</Typography>
+			</footer>
 		</AppProvider>
 	);
 };

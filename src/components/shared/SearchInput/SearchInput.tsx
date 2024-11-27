@@ -5,11 +5,11 @@ import { animated, useSpring } from '@react-spring/web'
 import { navigate } from "gatsby"
 import { Typography } from '@mui/material';
 import { useDispatch, useSelector } from 'react-redux';
-import { RootState } from '../../services/store';
-import { simGetReq } from '../../services/modules/uiStates/uiStates.slice';
+import { RootState } from '../../../services/store';
+import { simGetReq } from '../../../services/modules/uiStates/uiStates.slice';
 import { useTheme } from '@mui/material/styles';
 import useMediaQuery from '@mui/material/useMediaQuery';
-import { setGrade } from '../../services/modules/users/users.slice';
+import { setGrade } from '../../../services/modules/users/users.slice';
 
 
 interface ISearchInput {

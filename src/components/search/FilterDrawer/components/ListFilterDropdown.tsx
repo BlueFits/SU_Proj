@@ -8,7 +8,7 @@ import Checkbox from '@mui/material/Checkbox';
 import FormGroup from '@mui/material/FormGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import { useDispatch, useSelector } from "react-redux";
-import { RootState } from "../../../../../services/store";
+import { RootState } from "../../../../services/store";
 
 interface ListFilerDropDown {
     title: string;

@@ -1,19 +1,19 @@
 import * as React from "react"
 import type { PageProps } from "gatsby"
 import { useSpring, animated } from '@react-spring/web';
-import SearchInput from "../../components/SearchInput/SearchInput";
+import SearchInput from "../components/shared/SearchInput/SearchInput";
 import { Typography } from "@mui/material";
 import { useSelector } from "react-redux";
-import { RootState } from "../../services/store";
-import { fade } from "../../anims/CustomAnims";
-import { useRef, useState } from "react";
-import { SEO } from "../../components/seo";
-import FilterDrawer from "./components/FilterDrawer/FilterDrawer";
+import { RootState } from "../services/store";
+import { fade } from "../anims/CustomAnims";
+import { useState } from "react";
+import { SEO } from "../components/seo";
+import FilterDrawer from "../components/search/FilterDrawer/FilterDrawer";
 import IconButton from '@mui/material/IconButton';
 import FilterAltIcon from '@mui/icons-material/FilterAlt';
-import TableComponent from "./components/TableComponent";
+import TableComponent from "../components/search/TableComponent";
 import useMediaQuery from '@mui/material/useMediaQuery';
-import { bestOverallUniversities } from "../../data/schools";
+import { bestOverallUniversities } from "../data/schools";
 
 const IndexPage: React.FC<PageProps> = ({ location }) => {
     const matches = useMediaQuery('(min-width:600px)');
@@ -124,5 +124,5 @@ const IndexPage: React.FC<PageProps> = ({ location }) => {
 export default IndexPage
 
 export const Head = () => (
-    <SEO title="Programs based on your grade | SelectU" />
+    <SEO title="Programs based on your grade | SelectU.org" />
 )
