@@ -57,8 +57,8 @@ const NotFoundPage: React.FC<PageProps> = () => {
                     </Typography>
 
                     <Typography marginTop={5}>
-                        Our mission is simple: <strong>to empower students to make informed decisions about their future.</strong>
-                        We do this by offering insights and services built on integrity, and we are committed to continuously
+                        Our mission is simple: <strong>to empower students to make informed decisions about their future.</strong> We do this by offering insights
+                        and services built on integrity, and we are committed to continuously
                         improving our platform to meet the changing needs of students. At SelectU, we’re here to help students
                         discover their path—easily and confidently.
                     </Typography>
@@ -72,9 +72,9 @@ const NotFoundPage: React.FC<PageProps> = () => {
                     </Typography>
                 </animated.section>
 
-                <animated.div style={secondAnimation} className={"mt-5"}>
+                <animated.div style={secondAnimation} className={"mt-[100px]"}>
                     <Typography>
-                        For any inqueries feel free to reach us at: <Link href="mailto:contact@selectu.org">
+                        For any inquiry feel free to reach us at: <Link href="mailto:contact@selectu.org">
                             contact@selectu.org
                         </Link>
                     </Typography>

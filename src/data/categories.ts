@@ -38,4 +38,5 @@ export default [
     "Fashion Design", "Journalism", "Media Studies", "Film & Television Production",
     "Public Relations", "Elementary Education", "Secondary Education",
     "Special Education", "Criminal Justice", "Pre-Law",
+    "Mathematics", "Life Sciences"
 ].sort();
