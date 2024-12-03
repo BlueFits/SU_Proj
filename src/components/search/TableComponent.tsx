@@ -89,7 +89,7 @@ const TableComponent: React.FC<{
         location: userInfo.location,
       })
     }
-    window.open(link, "_black");
+    window.open(link, "_blank");
   }
 
   return (
