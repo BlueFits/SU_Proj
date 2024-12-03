@@ -83,11 +83,14 @@ const TableComponent: React.FC<{
 
   const rowClickHandler = (link: string) => {
     if (window && window.gtag) {
-      window.gtag("event", "program_block_click", {
+      console.log("sending gtag");
+      window.gtag("event", "program_click", {
         grade: userInfo.grade,
         program_category: userInfo.category,
         location: userInfo.location,
       })
+    } else {
+      console.log("no gtag");
     }
     window.open(link, "_blank");
   }
@@ -134,7 +137,7 @@ const TableComponent: React.FC<{
                   .map((row, index) => {
                     return (
                       <TableRow
-                        onClick={rowClickHandler.bind(this, row.programLink)}
+                        onClick={() => rowClickHandler(row.programLink)}
                         hover
                         className='cursor-pointer'
                         role="link"
@@ -144,6 +147,7 @@ const TableComponent: React.FC<{
                         {columns.map((column, index) => {
                           return (
                             <TableCell
+                              onClick={() => rowClickHandler(row.programLink)}
                               sx={{
                                 minWidth: column.minWidth,
                                 maxWidth: 130,
