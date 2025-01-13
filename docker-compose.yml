@@ -1,0 +1,6 @@
+services:
+  selectu:
+    build: ./
+    image: "selectu"
+    ports:
+      - "80:80"
